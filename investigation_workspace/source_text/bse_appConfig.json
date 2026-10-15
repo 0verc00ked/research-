@@ -1,0 +1,25 @@
+{
+  "production": true,
+  "environment": "prod",
+  "BSE_Domain": "https://api.bseindia.com",
+  "BSE_Domain_APIUrl": "https://api.bseindia.com/BseIndiaAPI/api",
+  "BSE_Domain_RealtimeUrl": "https://api.bseindia.com/RealTimeBseIndiaAPI/api",
+  "BSE_SocketURL": "https://bnotification.bseindia.com",
+  "BSE_India": "https://www.bseindia.com",
+  "BSE_Data": "https://www.bseindia.com/BSEDATA",
+  "BSE_Orgin": "https://beta.bseindia.com",
+  "languages": [
+    { "label": "English", "value": "" },
+    { "label": "हिन्दी (Hindi)", "value": "hindi" },
+    { "label": "मराठी (Marathi)", "value": "marathi" },
+    { "label": "ગુજરાતી (Gujarati)", "value": "gujarati" },
+    { "label": "தமிழ் (Tamil)", "value": "tamil" }
+  ],
+  "featureFlags": {
+    "chatbot": false,
+    "homeRedesign": false,
+    "newGraphs": false,
+    "enableMoxvedaSites": false,
+    "marketTurnoverDerivativeTimeShow": false
+  }
+}

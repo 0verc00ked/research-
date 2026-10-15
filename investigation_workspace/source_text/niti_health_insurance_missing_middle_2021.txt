@@ -1,0 +1,4115 @@
+Health Insurance
+for India’s
+Missing Middle
+
+October 2021
+
+Health Insurance
+for India’s
+Missing Middle
+
+October 2021
+
+Health Insurance for India’s Missing Middle
+
+Health Insurance for India’s
+Missing Middle
+Publishing Agency: NITI Aayog
+Year of Publication: 2021
+Book, English
+ISBN : 978-81-949510-2-5
+DOI: DOI: 10.31219/osf.io/s2x8r
+Suggested Citation: Kumar Anurag, and
+Sarwal Rakesh. 2021. “Health Insurance
+for India’s Missing Middle”
+ii
+
+﻿
+
+iii
+
+Acknowledgement
+
+Acknowledgement
+We are very grateful to the following for their invaluable contributions to this
+report.
+1.
+
+Dr K Madan Gopal, Senior Consultant, NITI Aayog
+
+2.
+
+Dr Nishant Jain, GIZ
+
+We also thank the working group members, and others who have been associated
+with this report for their insights and support.
+Working group members
+1.
+
+Ms Meena Kalara, Chief Manager, Oriental Insurance company ltd.
+
+2.
+
+Dr Viniti Rana, Assistant Manager, Oriental Insurance company ltd
+
+3.
+
+Mr Mayank Mishra, Head Govt Business, Bajaj Allianz insurance company ltd.
+
+4.
+
+Ms Renuka Kanvinde, Vice President, HDFCERGO Insurance company ltd
+
+5.
+
+Mr J Sengupta, DGM, National insurance company Ltd
+
+6.
+
+Mr Nikhil Apte, Chief Product Officer, Royal Sundaram Insurance company ltd.
+
+7.
+
+Mr Chandrakant Mishra, Religare Health insurance company ltd.
+
+8.
+
+Mr Angad Arun Karande, Program Coordinator, GIZ
+
+vii
+
+Health Insurance for India’s Missing Middle
+
+Others
+1.
+
+Shri Alok Kumar, Former Adviser (Health) NITI Aayog
+
+2.
+
+Col (Dr) K Venkatnarayana, OSD NITI Aayog.
+
+3.
+
+Dr S Rajesh, Former Director (Health) NITI Aayog
+
+4.
+
+Mr R Shrinadh, Former RA NITI Aayog
+
+5.
+
+Mr Sudesh Kumar, VP IFFCO Tokio
+
+6.
+
+Mr Sumit Gupta, AVP Govt and Rural Business ICICI Lombard ltd
+
+7.
+
+Mr CS Attal, Chief Manger NIICL
+
+8.
+
+Mr Angrup Sonam, DGM UIICL
+
+9.
+
+Mr Traun Taneja, SVP Max Bhupa
+
+10. Mr PC Tripathy, Sr VP Star Health
+11. Mr Gourhari Jena, Reliance
+12. Mr KU Bhaskar, AVP Chola
+13. Mr Narendra Bhatia, VP Cigna
+14. Dr Renuka Kanvinde, VP HDFC Ergo
+15. Mr Sajal Kumar Singh, Sr VP FGIL
+16. Mr Joydeep Sengupta NICL
+17. Mr Vivek Dhruga Area Manager Reliance GIL
+18. Mr Saket Pandit, Sr Regional Manger BhartiAxa
+19. Ms Geetika Kaushal, Sr Manager TATA AIG
+20. Mr Gaurav Tripathi, Joint VP Aditya Birla
+21. Dr Ashwani Aggarwal, Associate Director PwC India
+22. Dr. Shalabh Singhal, Associate Director PwC India
+23. Ms. Kanika Gupta, Intern, NITI Aayog
+24. Mr. Vedant Sinha, Intern, NITI Aayog
+
+viii
+
+Abbreviations
+
+Abbreviations
+AB-PMJAY
+
+Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana
+
+BSF
+
+Border Security Forces
+
+CGHS
+
+Central Government Health Scheme
+
+CHE
+
+Current Health Expenditure
+
+CSMBS
+
+Civil Servant Medical Benefit Scheme
+
+ESIC
+
+Employee State Insurance Corporation
+
+ESIS
+
+Employee State Insurance Scheme
+
+GoI
+
+Government of India
+
+ICU
+
+Intensive Care Unit
+
+IEC
+
+Information, Education, and Communication
+
+IHDS
+
+India Human Development Survey
+
+IPD
+
+In-Patient Department
+
+IRDAI
+
+Insurance Regulatory Development Authority of India
+
+ITBP
+
+Indo Tibetan Border Police
+
+ix
+
+Health Insurance for India’s Missing Middle
+
+x
+
+MoLE
+
+Ministry of Labour and Employment
+
+NLEM
+
+National List of Essential Medicines
+
+NFSA
+
+National Food Security Act
+
+NIPFP
+
+National Institute for Public Finance and Policy
+
+NRCMS
+
+New Rural Cooperative Medical Scheme
+
+NSSO
+
+National Sample Survey Organization
+
+OOPE
+
+Out-of-Pocket Expenditure
+
+OPD
+
+Out-Patient Department
+
+PLFS
+
+Periodic Labour Force Survey
+
+PM-KISAN
+
+Pradhan Mantri Kisan Samman Nidhi
+
+PVHI
+
+Private Voluntary Health Insurance
+
+RSBY
+
+Rashtriya Swasthya Bima Yojana
+
+SECC
+
+Socio-Economic and Caste Census
+
+SHG
+
+Self-Help Group
+
+SSS
+
+Social Security Scheme
+
+TPA
+
+Third Party Administrator
+
+UCS
+
+Universal Coverage Scheme
+
+UEMBI
+
+Urban Employment-Based Medical Insurance
+
+UHC
+
+Universal Health Coverage
+
+URBMI
+
+Urban Resident Basic Medical Insurance
+
+USBMI
+
+Uniform Social Basic Medical Insurance
+
+UT
+
+Union Territory
+
+Contents
+1.
+
+Executive Summary.............................................................................................1
+
+2.
+
+Background and Context.....................................................................................4
+
+3.
+
+India’s Health Insurance Landscape.....................................................................7
+
+4.
+
+Missing MiddlePopulation Characteristics.........................................................11
+
+5.
+
+International Experience and Models................................................................15
+
+6.
+
+7.
+
+I.
+
+Thailand
+
+16
+
+II.
+
+China
+
+16
+
+III.
+
+Latin america
+
+17
+
+The Framework for a Contributory Product......................................................19
+I.
+
+Standardization and Simplicity
+
+19
+
+II.
+
+Basic Structure
+
+22
+
+III.
+
+Pricing
+
+25
+
+Key Challenges..................................................................................................27
+I.
+
+Awareness
+
+27
+
+II.
+
+Identification and Outreach
+
+28
+
+III.
+
+Adverse Selection and Preferred Selection
+
+29
+
+IV.
+
+Affordability
+
+30
+
+8.
+
+Implementation Pathway and The Role of Government. ..................................32
+
+9.
+
+Appendix: Review of State Health Insurance Schemes....................................................36
+
+References................................................................................................................48
+
+1
+
+Executive Summary
+
+Executive
+Summary
+HEALTH INSURANCE / ASSURANCE IN INDIA: NEED AND
+LANDSCAPE
+Expansion of health insurance / assurance coverage is a necessary step, and a pathway
+in India’s effort to achieve Universal Health Coverage (UHC). Low Government expenditure
+on health has constrained the capacity and quality of healthcare services in the public sector.
+It diverts majority of individuals – about two-thirds – to seek treatment in the costlier private
+sector. However, low financial protection leads to high out-of-pocket expenditure (OOPE).
+India’s population is vulnerable to catastrophic spending, and impoverishment from expensive
+trips to hospitals and other health facilities (Figure 2). The catastrophic effect of healthcare
+spending is not limited to the poor – it impacts all segments of the population (Figure 3).
+Pre-payment through health insurance emerges as an important tool for risk-pooling and
+safeguarding against catastrophic (and often impoverishing) expenditure from health shocks.
+Finally, pre-paid pooled funds can also improve the efficiency of healthcare provision.
+At least 30% of the population, or 40 crore individuals – called the missing middle in this
+report – are devoid of any financial protection for health (Table 1) (Figure 4). The Ayushman
+Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) launched in September 2018, and
+State Government extension schemes, provide comprehensive hospitalization cover to the
+bottom 50% of the population – around 70 crore individuals. Around 20% of the population
+– 25 crore individuals – are covered through social health insurance, and private voluntary
+health insurance. The remaining 30% of the population is devoid of health insurance; the
+
+1
+
+Health Insurance for India’s Missing Middle
+
+actual uncovered population is higher due to existing coverage gaps in PMJAY and overlap
+between schemes. This uncovered population is termed as the missing middle. The missing
+middle is not a monolith – it contains multiple groups across all expenditure quintiles. The
+missing middle is spread across all expenditure quintiles, in both urban and rural areas,
+though they are concentrated in the top two quintiles of rural areas, and top three quintiles
+of urban areas. The missing middle predominantly constitutes the self-employed (agriculture
+and non-agriculture) informal sector in rural areas, and a broad array of occupations – informal,
+semi-formal, and formal – in urban areas (Figure 6, 7).
+
+DESIGNING A LOW-COST COMPREHENSIVE HEALTH INSURANCE
+PRODUCT FOR THE MISSING MIDDLE
+In the absence of a low-cost health insurance product, the missing middle remains
+uncovered despite the ability to pay nominal premiums. A comprehensive product
+designed for this segment – improving upon the existing Arogya Sanjeevani plan and
+offering out-patient cover – can expand health insurance coverage. Most health insurance
+schemes and products in the Indian market are not designed for the missing middle. Private
+voluntary health insurance is designed for high-income groups – it costs at least two to three
+times the affordable level for the missing middle. Affordable contributory products such as
+ESIC, and Government subsidized insurance including PMJAY are closed products. They are
+not available to the general population due to the risk of adverse selection. A modified,
+standardized product which builds on the Aarogya Sanjeevani hospitalization insurance
+product – launched by IRDAI in April 2020 – can be appealing to the missing middle. Arogya
+Sanjeevani has laid the foundation for a standardized health insurance product; it offers a basic
+benefits package which is common across insurers. However, it has limited uptake due to high
+premiums, and a two-to-four-year delay in covering several diseases / treatments. The modified
+product should firstly, have lower delays (and cover all diseases / treatments at the earliest)
+to increase its attractiveness. Second, it should offer out-patient benefits to demonstrate
+greater value to customers and help in delivering better outcomes. An indicative product is
+outlined in Table 3 for hospitalization insurance, and Table 4 for out-patient products. Finally,
+the proposed product must be offered at a third to half the cost of Arogya Sanjeevani – Rs.
+12,000 for a family of four (Figure 8). Pricing plays an important role in the uptake of voluntary
+contributory health insurance. Most segments of the missing middle can afford to pay Rs.
+4,000 to Rs. 6,000 per family per year for hospitalization insurance – the price indicated
+through industry consultations – and Rs. 5,000 for covering out-patient benefits through a
+subscription model (Table 5).
+
+RECOMMENDATIONS AND PATHWAYS TO INCREASING HEALTH
+INSURANCE COVERAGE
+1.
+
+2
+
+The success of a private voluntary contributory health insurance product requires
+the creation of a large and diversified risk pool. There are multiple challenges
+which need to be solved to do so. First, low consumer awareness of the benefits of
+health insurance (and insurance more generally), and of health insurance products,
+limit its uptake. Second, the high cost or difficulty of identification, and outreach to
+customers is the primary hurdle on the supply-side to expanding private voluntary
+
+Executive Summary
+
+insurance coverage. Third, there is a risk of adverse selection and cream-skimming as
+a response – as with all insurance programs – in the absence of large and diversified
+enrolment base. Finally, the cost of health insurance i.e., the premium needs to
+come down, in line with the affordability of the missing middle. The creation of a
+large and diversified risk pool requires a focus on group enrolment, and reduction
+in distributional and operational costs of insurers to bring the premiums close to the
+actuarially determined prices.
+2.
+
+The Government can play several different roles – which facilitates and
+complements the expansion of the private voluntary market – to increase the
+uptake of health insurance and address some of the outlined challenges. First,
+and perhaps most importantly, the Government should build consumer awareness
+of health insurance through IEC campaigns. It should also improve consumer
+trust and confidence in health insurance through stronger regulatory mechanisms.
+Second, it can provide Government data and infrastructure as a public good to
+reduce operational and distribution costs of insurers. For example, it can share
+Government data (after taking consent) which aids identification and outreach to
+customers. It can also offer PMJAY’s IT platform and network to reduce operational
+costs. Finally, and most directly, the Government can partially finance or provide
+health insurance. It can expand PMJAY coverage to the poorest segments of the
+missing middle population, and/or leverage NHA’s PMJAY infrastructure to offer a
+voluntary contributory enrolment.
+
+3.
+
+A combination of implementation pathways – starting with commercial insurers
+and progressing to leveraging Government risk-pooling schemes for voluntary
+insurance – phased in at different times, will ensure coverage for the missing
+middle population (Figure 10). This report recommends the following. The initial
+thrust and focus should be on expanding private voluntary contributory insurance
+through commercial insurers. The indicative product outlined in this report, can be
+scaled – through greater consumer awareness and focus on group enrolments – to
+build a large and diversified risk pool at low premiums. In the medium-term, once
+the supply-side and utilization of PMJAY and ESIC is strengthened, their infrastructure
+can be leveraged to allow voluntary contributions to a PMJAY-plus product offered
+by NHA, or to ESIC’s existing medical benefits (in line with the proposed product
+in this report). The participation of NHA and ESIC will increase competition in the
+contributory voluntary insurance market, reducing premiums, and improving quality
+of care provided. In the long-term, once the low-cost, voluntary contributory health
+insurance market is developed, expansion of PMJAY to the remaining uncovered,
+poorer segments of the missing middle can be considered.
+
+The primary purpose of this report is to recognize the policy issue of low financial protection
+for health in the missing middle segment. The report highlights health insurance as a potential
+pathway in addressing that, and in improving the efficiency and quality of healthcare delivered.
+In doing so, the report offers a starting point for broader discussions on solutions, and specific
+products, to improve insurance coverage for the missing middle. This report envisages wider
+industry and Government stakeholder consultations, and discussion with consumer groups to
+delve deeper into specific components of the problem, and potential solutions.
+
+3
+
+Health Insurance for India’s Missing Middle
+
+2
+
+Background
+and Context
+Expansion of health insurance coverage is a vital step, and a pathway in India’s effort
+to achieve Universal Health Coverage (UHC). The increasing cost of quality healthcare
+combined with greater need and demand for health with increasing incomes, higher life
+expectancy, and epidemiological transition towards non-communicable diseases have made
+health coverage imperative. It is an important mechanism for individuals to safeguard against
+catastrophic, unpredictable health expenditures, which can push households into poverty.
+Health insurance can also improve efficiency and quality of healthcare provision. Insurers with
+pooled funds have more bargaining power and information against providers, as compared
+to individual customers.
+India’s health sector is characterized by low Government expenditure on health, high outof-pocket expenditure (OOPE), and low financial protection for adverse health events.
+India’s Government spending on health at 1.5% of GDP is among the lowest in the world1.
+Persistently low Government spending on health has constrained the capacity and quality of
+healthcare services offered in the public system. Overburdened public hospitals often divert
+individuals to seek treatment in the costlier private sector. Almost 60% of all hospitalizations,
+and 70% of out-patient services are delivered by the private sector (NSSO’s 75th Round survey
+on Social Consumption of Health, 2017-18)2.
+1 2020-21 estimates based on National Health Accounts, 2016-17, Union Budget, and RBI: State Finances: A Study of
+Budgets of 2020-21
+2 IPD and OPD services exclude ante-natal care and deliveries which are predominantly provided by the public sector.
+
+4
+
+Background and Context
+
+The private sector is characterized by high OOPE, leading to low financial protection.
+Relatively low health insurance coverage, and costlier provision of health services in the private
+sector drive India’s high out-of-pocket expenditure (OOPE). Despite the decline in the past
+few years, India’s OOPE as percent of current health spending is 63%, significantly above the
+average for lower-middle income countries, and amongst the highest in the world (Figure 1).
+High OOPE poses financial risk to individuals.
+They are vulnerable to impoverishment from expensive trips to the hospital and other
+health facilities. Analysis from Brookings India based on NSSO surveys shows that over 7%
+of India’s population is pushed into poverty every year due to healthcare costs (Figure 2).
+The impoverishing impact of health expenditure is similar in both rural and urban areas.
+Further, incidence of catastrophic health spending – health expenditure exceeding a certain
+threshold share of consumption expenditure – has increased. At the 10% threshold level,
+24% of households incurred catastrophic health expenditure in 2014, up from 21% in 2004
+(Figure 2). Analysis from the National Institute of Public Finance and Policy (NIPFP) shows
+that incidence of catastrophic health expenditure at the 10% threshold is 58% for households
+that accessed any healthcare (2014) – over half the households who accessed any healthcare
+incurred catastrophic expenditure (Figure 3). The incidence of catastrophic expenditure – in
+the entire population and those accessing healthcare – is similar across expenditure quintiles,
+indicating the need for financial protection at all income levels.
+Why expand health insurance in India?
+Health insurance is a mechanism of pooling the high level of OOPE in India to provide
+greater financial protection against health shocks, improve efficiency in the organization
+and delivery of healthcare for better health outcomes. Increased health insurance coverage
+will reduce catastrophic and impoverishing health expenditure by imposing a ceiling on
+the maximum health expenditure incurred by an individual or household.
+
+71
+
+69
+
+47
+
+46
+
+45
+
+46
+
+59
+
+45
+
+59
+
+45
+
+58
+
+43
+
+42
+
+57
+
+56
+
+56
+
+40
+
+39
+
+19
+
+56
+
+65
+
+63
+
+62
+
+63
+
+55
+
+56
+
+56
+
+56
+
+56
+
+54
+
+54
+
+38
+
+38
+
+37
+
+37
+
+36
+
+36
+
+37
+
+36
+
+37
+
+18
+
+18
+
+19
+
+19
+
+19
+
+19
+
+18
+
+18
+
+18
+
+18
+
+18
+
+50
+
+59
+
+67
+
+17
+
+60
+
+60
+
+69
+63
+
+62
+
+16
+
+59
+
+60
+
+65
+
+15
+
+60
+
+67
+
+14
+
+72
+
+70
+
+13
+
+73
+
+72
+
+12
+
+73
+
+11
+
+73
+
+10
+
+74
+
+72
+
+9
+
+80
+
+40
+30
+19
+
+20
+
+19
+
+19
+
+19
+
+19
+
+18
+
+19
+
+19
+
+10
+
+Lower Middle Income
+
+Middle Income
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+0
+20
+
+7
+
+8
+0
+20
+
+6
+
+0
+20
+
+0
+20
+
+5
+0
+
+4
+
+India
+
+20
+
+3
+0
+
+2
+0
+
+0
+20
+
+20
+
+0
+
+1
+
+20
+
+0
+20
+
+20
+
+0
+
+0
+
+World
+
+Figure 1: OOPE as percentage of current health expenditure, India, and select country
+aggregates, 2000-2018
+Source: World Bank Open Data (accessed March 2021)
+
+5
+
+Health Insurance for India’s Missing Middle
+
+30%
+24.0%
+
+25%
+20.7%
+20%
+15%
+
+11.3%
+
+13.0%
+
+10%
+
+7.0%
+
+8.5%
+
+7.4%
+
+7.5%
+
+5%
+0%
+
+CHE at 10% threshold
+
+CHE at 25% threshold
+2004
+
+CHE at 40% threshold
+2014
+
+Impoverishing health
+expenditure
+
+Figure 2: Incidence of Catastrophic and Impoverishing Health Expenditure, 2004 and 2014
+Source: Ravi, S. et al. Health and Morbidity in India (2004-2014). Brookings India.
+Note: The thresholds indicate the level of consumer expenditure spent on health beyond which it is considered
+catastrophic; Impoverishing health expenditure is calculated on state-specific poverty lines based on temporally
+adjusted Tendulkar committee poverty lines
+
+70
+60
+50
+40
+30
+20
+10
+0
+
+Poorest
+20%
+
+20-40%
+
+40-60%
+All
+
+60-80%
+
+80-100%
+
+All Class
+
+Effected
+
+Figure 3: Incidence of catastrophic health expenditure (at 10% level) among total and affected
+households, by household expenditure quintile, 2014
+Source: Choudhury, M., et al., 2019. Analyzing Household Expenditure on Health from the 71st Round of Survey by
+the National Sample Survey Organization in India (Report Submitted to the World Health Organization).
+Note: Affected household refers to those that accessed any healthcare in the survey year
+
+6
+
+3
+
+India’s Health Insurance Landscape
+
+India’s Health
+Insurance
+Landscape
+The existing health insurance schemes can potentially cover 70% of the population –
+nearly 95 crores individuals, though actual coverage is lower (Table 1) (Figure 4). The
+potential coverage through India’s existing health insurance schemes – government subsidized
+schemes, social health insurance schemes, and private voluntary schemes – is around 70%
+of India’s population. Nearly 95 crore individuals or 21.5 crore families are eligible for or
+covered by health insurance. The actual current coverage is lower since not all households
+eligible for Government subsidized insurance are currently covered, and due to the overlaps
+between different health insurance schemes. However, since Government subsidized schemes
+are expected to eventually cover the eligible population, India has a potential health insurance
+coverage of 70% based on the existing landscape.
+India has multiple types of health insurance schemes. They can broadly be bucketed
+into three categories based on financing source (Government tax revenue or contribution
+based), target group (e.g., formal sector workers), and compulsory versus voluntary nature of
+the scheme. The following paragraphs briefly detail India’s health insurance landscape.
+1.
+
+Government Subsidized health insurance schemes: Government subsidized health
+insurance schemes provide fully or partially subsidized insurance coverage to specific
+targeted segments of the population. These schemes predominantly target the poor
+and the informal sector. Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (ABPMJAY) launched in September 2018 is the single largest health insurance schemes.
+It builds on the erstwhile Rashtriya Swasthya
+
+7
+
+Health Insurance for India’s Missing Middle
+
+Bima Yojana (RSBY). AB-PMJAY provides a fully subsidized comprehensive secondary
+and tertiary healthcare packages with an annual coverage of Rs. 5 lakhs per family
+on a floater basis. It entitles 10.9 crore families, or 49 crore individuals – identified
+as deprived in the Socio-Economic Caste Census (SECC) 2011 – for fully subsidized
+health insurance cover (Table 1). The scheme is operational in 33 States and UTs.
+Further, AB-PMJAY hasa national portability feature which allows beneficiaries to avail
+benefits anywhere in India.
+In addition to the Centrally Sponsored AB-PMJAY scheme, States have their own
+health insurance schemes – also known as extension schemes. Around 20 crore
+individuals are eligible under State extension schemes (Table 1). State extension
+schemes expand the population covered by health insurance beyond those covered
+by the CSS of AB-PMJAY. For example, State extension schemes may include groups
+such as the disabled, or individuals earning below State-specific income thresholds.
+Some State extension schemes also provide a broader or deeper benefits package.
+Most of these schemes were in place prior to the introduction of AB PM-JAY; they
+are aligning with PMJAY while extending coverage to additional groups. The focus
+of most State schemes is on the poor, though some schemes include the non-poor
+unorganized sector employees. Most of them are fully subsidized though some
+such as the ‘Arogya Karnataka Scheme’ are partially subsidized (annex: Review of
+State Health Insurance Schemes). The annex has further details on these schemes,
+including the target population and coverage.
+160
+140
+120
+
+Missing Middle
+
+40.5
+
+Private Voluntary Health
+Insurance (PVHI)
+
+100
+80
+
+11.5
+0.4
+13.6
+
+Social Health
+Insurance
+
+60
+40
+20
+0
+
+20
+
+Central Government Health
+Scheme
+Employees' State Insurance
+Scheme (ESIS)
+AB-PMJAY State Extension
+Schemes
+
+Eligible for
+Government
+subsdized
+insurance
+
+49
+
+AB-PMJAY (w/o State
+Extension Schemes)
+
+Eligible Individuals
+
+Figure 4: Number of individuals eligible or covered, by health insurance scheme type
+Source: See Table 1 for sources and notes
+
+2.
+
+8
+
+Social Health Insurance (SHI) Schemes: These are compulsory, contributory
+health insurance schemes for organized sector employees. Both employees and
+employer (the Government or privateenterprises) pay premiums towards Government
+mandated health insurance coverage. The Employee State Insurance Scheme (ESIS)
+run by Employee State Insurance Corporation (ESIC) in the Ministry of Labour and
+
+India’s Health Insurance Landscape
+
+Employment is the largest such scheme with 13.6 crore members (2019) (Table 1). ESIS
+provides comprehensive coverage – including in-patient and out-patient benefits –
+to private establishment workers and their families. It covers workers earning less
+than Rs. 21,000 per month in most industries with 10 or more employees. Another
+social health insurance scheme is the Central Government Health Scheme (CGHS) run
+by the Union Government for its employees with an enrolment of around 40 lakhs in
+2021 (Table 1). Further, some Government departments have separate schemes for
+their employees. These are generally not insurance schemes. They directly provide
+healthcare services through self-owned and operated dispensaries and hospitals.
+For example, Central departments such as Railways and Defence have separate
+schemes for their employees, veterans and pensioners covering both inpatient and
+outpatient services. The Paramilitary under the Home Ministry has large hospitals in
+border areas under the operational control of Border Security Forces (BSF) / Indo
+Tibetan Border Police (ITBP).
+3.
+
+Private voluntary health insurance (PVHI) schemes: PVHI are contributory and
+voluntary schemes. These are retail insurance products with a coverage of nearly 11.5
+crore persons (Table 1). PVHI are broadly of two types — individual / family or group
+business (excluding Government). The former is targeted by individuals and families,
+as the name suggests, and covers 4.2 crore persons. The latter is targeted towards
+private enterprises for their employees; these cover 7.3 crore persons. Group insurance
+schemes target corporates and private enterprises where employee compensation
+is higher than the Rs, 21,000 ceiling under the ESIC. Though the PVHI market has
+nearly doubled from 6.1 crore in 2013-14 to 11.5 crore in 2018-19, it only covers 9%
+of the total population. Health insurance is a growing segment of India’s economy.
+The total health insurance market – as measured by premium collected – more than
+doubled from Rs. 20,000 crores in 2014-15 to nearly Rs. 45,000 crores in 2018-19 as
+per IRDAI’s latest annual report.
+However, a substantial share of the population remains uncovered under
+existing health insurance schemes. Further, the above overview of existing health
+insurance schemesshows that coverage extends to deprived and poorer segments of
+the population, and the relatively better off in the organized sector of the economy.
+AB-PMJAY and State extension schemes cover the poor and deprived sections.
+Schemes like the CGHS provide coverage to public sector employees besides the
+schemes of individual central departments and State Governments. ESIS provides
+coverage to most private establishment workers earning less than Rs. 21,000 per
+month, and their families. Other private sector employees can opt for Private
+Voluntary Health Insurance (PVHI) through their employers or commercial insurers.
+At least 30% of the population, or 40 crore individuals are devoid of any
+health protection through insurance (Table 1) (Figure 4). They are not eligible under
+Government subsidized health insurance schemes (PMJAY and State extension),
+covered by social health insurance schemes (ESIS, etc.), and have not paid for PVHI.
+They are referred to as ‘the missing middle’. Estimates based on NSSO’s 75th round
+survey indicate this section may be larger than 30% of the population. Even after
+adjusting for PMJAY (since the survey was done prior to PMJAY), estimates based
+on the survey suggest that nearly 50% of the population does not have health
+
+9
+
+Health Insurance for India’s Missing Middle
+
+insurance3. Part of this may be due to coverage overlap between different schemes.
+For example, ESIS members taking PVHI or being covered under PMJAY. However,
+the difference also indicates lack of awareness about health insurance entitlements,
+and coverage quality issues under the schemes.
+Despite differences in health insurance coverage estimates, there is clearly a large
+‘missing middle’ population devoid of financial protection despite the ability to pay.
+This document discusses the challenges in expanding insurance coverage through
+a contributory product, and potential solutions.
+Table 1: Number of individuals and families eligible or covered, by health insurance
+scheme type
+Individuals
+Eligible or
+Covered (cr.)
+
+Percentage
+of Population
+Eligible
+
+Families Eligible
+or Covered
+(cr.)
+
+Government Subsidized Schemes
+
+69
+
+51%
+
+15.3
+
+AB-PMJAY (w/o State Extension Schemes)
+
+49
+
+36%
+
+10.9
+
+AB-PMJAY State Extension Schemes
+
+20
+
+15%
+
+4.4
+
+Social Health Insurance Schemes
+
+14
+
+10%
+
+3.6
+
+Employees’ State Insurance Scheme (ESIS)
+
+13.6
+
+10%
+
+3.5
+
+Central Government Health Scheme
+
+0.4
+
+0.3%
+
+0.13
+
+Private Voluntary Health Insurance (PVHI)
+
+11.5
+
+9%
+
+2.6
+
+Total Eligible or Covered
+(assuming no overlap)
+
+94.5
+
+70%
+
+21.5
+
+Total Population / Families
+
+135
+
+Uncovered Population / Families
+
+40.5
+
+Insurance Scheme
+
+30
+30%
+
+8.5
+
+Sources:
+1.
+AB-PMJAY and State extension scheme coverage numbers from National Health Authority document on
+‘PMJAY states at a glance’; SECC data taken for States which have not introduced AB-PMJAY. An average
+family size of 4.5 as per Census 2011 assumed to arrive at the eligible individuals.
+2.
+ESIS data from 2018-19 annual report; reflects March 2019 enrolment.
+3.
+CGHS data from CGHS dashboard on MoHFW (March 2021); number of cardholders taken as families
+covered
+4. PVHI data from 2018 IRDAI annual report; assuming average family size of 4.5 to arrive at families
+covered.
+Notes:
+
+3
+
+10
+
+1.
+
+The numbers for AB-PMJAY and State extension schemes indicate eligible beneficiaries under the ABPMJAY and State extension schemes. Actual coverage is lower as per the National Health Authority.
+Of the 49 crore individuals eligible for AB-PMJAY, 10.35 crores have been issued e-cards. Under State
+extensions schemes, out of the 20 crore individuals eligible for AB-PMJAY, 5.85 crore state e-cards
+have been issued.
+
+2.
+
+The numbers for ESIS, CGHS, and PVHI indicate individuals or families actually covered by health
+insurance.
+
+The estimate assumes the bottom two quintiles are nearly fully covered under PMJAY (launched after the NSSO survey
+period of 2017-18) i.e., the 36% of the total population eligible for AB-PMJAY is in the bottom two quintiles. It adds
+the health insurance coverage in the top three expenditure quintiles as per the NSSO 2017-18 survey – which is
+around 20% in the top 3 quintiles, or ~12% of total population. After adjusting for growth in ESIC and PVHI, the total
+estimated health insurance coverage is ~50%.
+
+4
+
+Missing Middle Population Characteristics
+
+Missing Middle
+Population
+Characteristics
+The ‘missing middle’ is a broad category which lacks health insurance, positioned between
+the deprived poorer sections, and the relatively well-off organized sector. The deprived
+and poor sections receive Government subsidized health insurance, while the relatively well-off
+in the organized sector of the economy are covered under social health insurance, or private
+voluntary insurance. The missing middle refers to the non-poor segments of the population
+who remain prone to catastrophic, and even impoverishing health expenditure, despite the
+financial capacity to pay for contributory health insurance. It is generally visualized as the
+left panel of Figure 5.
+The missing middle is not a monolith – it contains multiple groups across all expenditure
+quintiles (right panel of figure 5). The actual composition of the missing middle is more
+nuanced. Though there is paucity of information on this group, analysis based on the NSSO’s
+75th Round (2017-18) can be used to infer some information on their consumption, health
+expenditure, and demographics. The missing middle is spread across all expenditure quintiles,
+in both urban and rural areas, though there is a higher concentration among the top two to
+three quintiles4. Majority of the bottom two expenditure quintiles are entitled for coverage
+through Government subsidized health insurance schemes, though some gaps will remain
+due to identification challenges and exclusion errors (right panel of figure 5). Urban areas,
+and the top expenditure quintile have relatively better insurance coverage through PVHI and
+social insurance schemes.
+4 In urban areas, there is a higher concentration in the top three quintiles while in rural areas, there is a higher
+concentration in the top two expenditure quintiles
+
+11
+
+Missing Middle between the
+poor and the relatively rich
+
+30%
+
+Poor covered by Government
+subsidized health insurance
+schemes (PMJAY + State
+schemes)
+
+50%
+
+(30%)
+
+20%
+
+Missing
+Middle
+
+Relatively rich and organized sector
+covered by PVHI and SHI programs
+
+Expenditure Percentile
+
+Health Insurance for India’s Missing Middle
+
+Relatively rich
+and organized
+sector (20%)
+
+Poor and
+deprived
+covered by
+Government
+(50%)
+
+Figure 5: Schematic for Missing Middle population segment uncovered by health insurance
+
+Methodology for estimating occupation, and sources of income of the Missing
+Middle
+The occupations, or sources of income of the ‘missing middle’ can be inferred using
+the NSSO’s 75th Round (2017-18) health survey. The NSSO social consumption of health
+survey asks for the household’s principal occupation as per the National Classification
+of Occupations (NCO), 2004 codes. It also has the health insurance coverage status for
+all surveyed individuals. However, since the survey was conducted prior to the launch of
+AB-PMJAY, those entitled, or potentially covered by the scheme must be accounted for.
+Two methodologies are used to the estimate the occupations of the Missing Middle.
+1. Based on PMJAY eligibility and existing coverage status: In this methodology,
+the primary occupation of those households who are neither eligible for PMJAY nor
+covered by health insurance, as per the NSSO survey is taken for estimating the
+Missing Middle occupations. The PMJAY eligibility is based on the SECC criteria.
+In rural areas, there are seven deprivation categories as per the SECC, of which
+six categories (D1 to D5, and D7) are entitled for PMJAY coverage. The total
+rural coverage is approximately 8.3 crore households. The two largest deprivation
+categories are ‘D5: SC/ST Households’, and ‘D7: Landless households deriving a
+major part of their income from manual casual labour’, comprising 3.9 crore and
+5.4 crore households respectively. A household can belong to more than one
+deprivation category, and these two categories cumulatively comprise majority of
+the PMJAY eligible households. Those households classified as casual labour as
+per the NSSO survey (about the same proportion as D7 of total rural households in
+the SECC of 2011) or belonging to SC/ST category are categorized as eligible for
+PMJAY. In urban areas, 11 deprived categories, based on primary source of income
+as per the SECC, are eligible under PMJAY. The urban SECC occupation categories
+are mapped to the NSSO 2017-18 survey’s NCO categories for identifying PMJAY
+eligible households in urban areas. One drawback of this methodology is that the
+proportion of PMJAY eligible households as per the SECC do not always align
+with the proportion of PMJAY households as per the NSSO survey using the above
+methods.
+
+12
+
+Missing Middle Population Characteristics
+
+2. Based on expenditure quintile and existing coverage status: In this methodology,
+the primary occupation of those households who are in the upper expenditure
+quintiles, and, not covered by health insurance as per the NSSO survey is taken
+for estimating the Missing Middle occupations. The assumption here is that the
+bottom three expenditure quintiles in rural areas, and bottom two quintiles in
+urban areas will be fully saturated with Government subsidized health insurance
+schemes. The drawback of this methodology is that inclusion and targeting errors
+may imply that some of the bottom expenditure quintiles are not fully saturated
+by health insurance.
+The missing middle constitutes the self-employed (agriculture and non-agriculture) in rural
+areas, and a broad array of occupations – informal, semi-formal, and formal – in urban
+areas. The occupations, or sources of income of the ‘missing middle’ can be inferred using
+the NSSO’s 75th Round (2017-18) health survey. Two methods are used (see box) for arriving
+at estimates of the occupations, and sources of income of this segment. Self-employed in
+agriculture constitutes the largest segment of the rural ‘missing middle’ with approximately
+40% to 60% of the households (Figure 6). They are followed by the self- employed in nonagriculture, constituting around 20% of all households. In urban areas, approximately 45% to
+70% of households are engaged in managerial, professional, or technical occupations (Figure
+7). The category of ‘managers, senior officials, and legislators’ constitutes the largest urban
+missing middle occupation segment with 25% to 45% of all households. Under the second
+methodology, over 50% of the urban missing middle households are engaged as service or
+shop sales workers, craft & related trades workers (e.g., painters, welders), plant machinery
+operators & assemblers (e.g., glass or paper-making plant operators), and other elementary
+occupations (e.g., manufacturing labour, domestic workers) (Figure 7).
+100%
+
+5%
+
+90%
+80%
+70%
+
+22%
+11%
+
+4%
+18%
+
+other
+
+12%
+
+self-employed in nonagriculture
+regular wage/salary earning
+in non-agriculture
+
+60%
+50%
+41%
+
+40%
+30%
+
+self-employed in agriculture
+60%
+
+20%
+
+12%
+
+10%
+0%
+
+wage/salary earning in
+agriculture-
+
+casual labour in nonagriculture
+casual labour in agriculture
+
+12%
+Rural MM HHs (1)
+
+Rural MM HHs (2)
+
+Figure 6: Primary occupation composition of rural ‘missing middle’ households
+Note: There are an estimated 7.7 crore missing middle households (or ~35 crore individuals) using the first methodology
+while there are an estimated 5.8 crore households (or ~27 crore individuals) using the second.
+Source: Analysis using NSSO’s 75th Round Health survey and SECC 20211 (see box for details on methodology)
+
+13
+
+Health Insurance for India’s Missing Middle
+
+100%
+90%
+
+3%
+6%
+
+16%
+
+Service workers and shop and
+market sales workers
+
+80%
+
+8%
+
+5%
+
+Clerks
+
+9%
+
+14%
+
+Craft and related trades
+workers
+
+10%
+
+Plant and machinery operators
+and assemblers
+Elementary occupations
+
+40%
+
+8%
+3%
+7%
+
+30%
+
+10%
+
+70%
+60%
+50%
+
+20%
+
+11%
+14%
+
+44%
+27%
+
+10%
+0%
+
+Skilled agricultural and fishery
+workers
+Technicians & associate
+professionals
+Professionals
+Legislators, senior officials and
+managers
+
+Urban MM HHs (1)
+
+Urban MM HHs (2)
+
+Figure 7: Primary occupation composition of urban ‘missing middle’ households
+Note: There are an estimated 2.6 crore missing middle households (or ~11 crore individuals) using the first methodology
+while there are an estimated 2.9 crore households (or ~13 crore individuals) using the second.
+Source: Analysis using NSSO’s 75th Round Health survey and SECC 20211 (see box for details on methodology)
+
+The missing middle in rural areas, and some segments of urban areas are characterized
+by informal or unorganized work (Figure 6 and Figure 7). The occupations and nature of
+employment of this segment of the missing middle have a bearing on their access to affordable
+healthcare, and ultimately health outcomes. Their employment is precarious, incomes are
+unstable, and most work without any formal contract. Further, they lack any representation
+through unions or associations. Consequently, they lack bargaining power to negotiate safer
+working conditions and basic social security benefits. They remain vulnerable to health shocks
+which can lead to catastrophic health spending. Absence of any financial protection against
+health shocks can push members of the missing middle into a vicious cycle of indebtedness,
+poverty, and poor health. Health insurance coverage can break this cycle which hinders India’s
+progress towards poverty alleviation and Universal Health Coverage.
+However, a substantial part of the urban missing middle is also engaged in formal or
+semi-formal, managerial, professional, or technical work. Their employment is likely more
+stable, and incomes less precarious than the above-described segment. However, the lack of
+health insurance also keeps them vulnerable to catastrophic health expenditure from health
+shocks, though likely to a lesser extent than the rural and urban informal missing middle.
+This report discusses the contours of a product – including existing ones – tailored to the
+needs of the missing middle. One step and pathway towards UHC is increasing the penetration
+of contributory health insurance. Section 6 discusses the framework for such a product directed
+towards the missing middle. However, before delving into the framework of the product, this
+report reviews relevant schemes, and the health insurance landscape in select countries.
+
+14
+
+5
+
+International Experience and Models
+
+International
+Experience and
+Models
+This section reviews the experience of three developing countries / regions — Thailand,
+China, and Latin America. Each country / region has adopted a different model to increase
+health insurance coverage. Some have increased insurance coverage though expansion of
+Government subsidized schemes while others have focused on developing robust voluntary
+coverage programs. Given the diversity in contexts, the intent is not to replicate these models,
+but to develop a deeper understanding of what has worked internationally, and whether they
+offer learnings for India.
+The experience of Thailand, China, and Latin American countries offers two lessons.
+First, they demonstrate the difficulty of increasing coverage in the informal / unorganised
+sector. Thailand achieved UHC by fully subsidizing the informal sector while China has partially
+subsidized that segment. However, China’s experience indicates the possibility of sustained
+coverage through a contributory and voluntary scheme. Second, the examples from Latin
+America highlight that adverse selection and inadequate risk-pooling is a pressing challenge
+for voluntary contributory schemes targeted towards the informal sector.
+
+15
+
+Health Insurance for India’s Missing Middle
+
+I.
+
+THAILAND
+Thailand has three major health insurance schemes – government subsidized and
+compulsory contributory – which cumulatively cover its entire population. The Civil
+Servant Medical Benefit Scheme (CSMBS) covers civil servants (all public sector employees),
+their spouses, and immediate relatives. The Social Security Scheme (SSS) covers formal
+sector employees in the private sector. The largest of the three schemes is the Universal
+Coverage Scheme (UCS); it covers those excluded by CSMBS or SSS. The UCS covers
+almost 48 million people, or approximately 75% of the Thailand’s population. Most of the
+rural population, and the urban informal sector falls under this scheme. By design, the
+poor also fall under the UCS.
+The scheme offers a comprehensive set of services including inpatient and outpatient care,
+and medicines in the National List of Essential Medicines (NLEM). It also lays emphasis on
+health promotion and disease prevention. Healthcare services are offered by contracting
+public and private sector providers, including the district health system of health centres
+and a district hospital. The UCS has enabled a purchaser-provider divide in the public
+sector, and strengthened strategic purchasing. A mixed provider payment mechanism
+is used:
+
+
+Age-adjusted capitation for the district health systems based on registered
+members
+
+
+
+DRG paid out of the national global budget for hospitals
+
+
+
+Certain high-cost interventions such as dialysis, chemotherapy, etc. paid on a
+fee schedule.
+
+
+
+Health promotion and prevention mostly paid on a capitation basis with some
+combination of fee schedules.
+
+The screening of eligible candidates for UCS is done using a national electronic database
+with citizen’s ID base. The UCS has more effective purchasing compared to CSMBS solely
+because it focuses more on health promotion and disease prevention. It is also a much
+cheaper scheme as compared to the other available alternatives. However, the scheme
+still suffers from a serious challenge. UCS relies on annual government budget allocation
+and runs the risk of lower budgets during “lean years” of economic downturn with fiscal
+constraints.
+
+II. CHINA
+There are three main health insurance schemes in China. They cumulatively cover
+nearly the entire population of the country:
+
+16
+
+a.
+
+Urban employment-based medical insurance (UEMBI)
+
+b.
+
+Urban resident basic medical insurance (URBMI)
+
+c.
+
+The new rural cooperative medical scheme (NRCMS)
+
+International Experience and Models
+
+In addition to these, there are private medical insurance schemes which act as top-ups for
+those wanting additional benefits beyond those offered by the above schemes.
+The UEMBI is a compulsory contributory scheme for the urban formally employed
+population, and their families. It covers nearly 20% of China’s population.
+The URBMI is a government-run voluntary scheme at the city level i.e., for urban residents
+who are not formally employed. It covers around 23% of China’s population including the
+unemployed, students, elderly people without previous employment, etc. URBMI covers
+inpatient and outpatient services along with critical illnesses. The scheme is financed by
+individual contributions and government subsidies shared between the central and lowerlevel governments. The central government contributed nearly a third of the total funds for
+this scheme. Local governments including provincial, prefectural, and county governments
+are responsible for administering the scheme, in addition to providing subsidies.
+The NRCMS is a voluntary partially subsidized scheme, similar to the URBMI, but for rural
+areas. It provides health insurance cover to rural households. In 2016, the process of
+merging URBMI and NRCMS into the Urban and Rural Resident Basic Medical Insurance
+(URRBMI) began since they are broadly similar. The integration was a response to difference
+in benefit packages. First, there were differences in the benefits between both schemes
+— URBMI and NRCMS. Second, there were also differences in the benefits package by
+geography within each of the two schemes since the design and risk-pools were at the
+local – county or prefecture / municipality – level. In effect, there were thousands of
+different risk-pools and sub-schemes within the umbrella of URBMI and NRCMS. This
+led to inequities in utilization of services, and in some cases regressive contributions.
+The integrated URRBMI also faces several challenges. First, there is a need to increase
+the scale of financing available for URRBMI to address the rapidly rising demands for
+healthcare. The scale of financing will determine the benefit package. Second, the role
+of the central and the local governments in financing URRBMI needs to be stated clearly
+to establish a sustainable financing mechanism. Third, the voluntary contributions are
+currently flat rates. Adjusting them based on ability to pay can improve progressivity of
+the scheme. At a later stage, China’s URRBMI can evolve into a compulsory rather than
+voluntary contributory scheme. There have also been pilots to merge the UEBMI, URBMI,
+and NRCMS into one uniform scheme called Uniform Social Basic Medical Insurance
+(USBMI). This model was adopted by several high-income cities.
+
+III. LATIN AMERICA
+Several Latin American countries have expanded health insurance coverage to
+those outside the organised sector to move towards UHC. Bolivia, Colombia, Costa
+Rica, Dominican Republic, Mexico, Peru, and Uruguay have introduced health insurance
+schemes covering additional groups beyond the poor. They have done this through
+partially subsidised, contributory health insurance schemes for the non-poor, predominantly
+engaged in the informal sector. Additionally, there are also schemes to cover vulnerable
+groups including the disabled, pregnant women, the elderly, and indigenous people.
+
+17
+
+Health Insurance for India’s Missing Middle
+
+Aside of Bolivia and Uruguay, other above-mentioned Latin American countries classify their
+population based on income to determine eligibility. The households are targeted either
+through direct targeting, involving the use of surveys to determine eligibility, or through
+indirect targeting, which identifies and includes beneficiaries of other social assistance
+programs. Similarly, the enrolment process can take two forms:
+1.
+
+Active enrolment: The beneficiary needs to fill out an identification questionnaire,
+or provide proof of vulnerability status (e.g., being listed on census lists). Mexico,
+Uruguay, Peru, Dominican Republic, Colombia, and Bolivia use active enrolment.
+
+2.
+
+Automatic enrolment: Beneficiaries are automatically enrolled after data
+collected from direct and indirect targeting measures is validated. Costa Rica
+uses automatic enrolment.
+
+Based on the described identification mechanism, the poor and medically vulnerable
+groups are fully subsidised. They do not have co-payments to utilize healthcare, and do
+not make any contributions for health insurance coverage. However, workers in the informal
+sector, and independent (self-employed) workers are only partially subsidised. Three of
+the eight countries discussed – Costa Rica, Uruguay, and Chile – integrate the risk pool
+for the contributory and the non-contributory groups at the national level. This form of
+risk pooling allows them to cross-subsidise the non-contributory group from the payments
+of the contributory group. There has been a gradual expansion of benefit packages. For
+example, since 2012, Chile, Mexico, and Colombia have offered a relatively comprehensive
+benefits package including in-patient, out-patient, and specialized care, as well as drugs.
+However, there are several challenges in the above discussed models. For example, there
+is adverse selection in Chile. Younger, healthier, and high-income people opt-out from
+the public health insurance scheme reducing cross-subsidization. Peru and the Dominican
+Republic suffer from high exclusion errors in their targeting and inequal coverage. Since,
+they do not have an integrated risk-pool enabling cross-subsidisation, the fully subsidised
+have access to smaller benefit packages relative to contributory members. Further, there
+are high exclusion errors i.e., eligible people are excluded from the scheme due to
+targeting and identification problems. Other Latin American countries, with multiple health
+insurance schemes for different socio-economic groups, also suffer from high premiums,
+and inequality in access to healthcare due to fragmented risk pools.
+
+18
+
+6
+
+The Framework for a Contributory Product
+
+The
+Framework for
+a Contributory
+Product
+Most health insurance schemes and products in the Indian market are not designed for
+the missing middle. Private voluntary health insurance is designed for high-income groups.
+It is unaffordable to large sections of the missing middle. Affordable contributory products
+such as ESIC are not available for the general population, including the missing middle due
+to the risk of adverse selection.
+The design of a contributory product for the missing middle must ensure that it is
+appealing, accessible, and affordable for this segment. This section discusses the framework
+of such a product including broad features, specifications, and pricing. These are indicative
+– further discussions with stakeholders, and greater understanding of consumer preferences
+will refine the product.
+
+I.
+
+STANDARDIZATION AND SIMPLICITY
+
+Standardization and simplicity emerged as important design features based on
+international experience with similar policies, as well as consultations with stakeholder
+in the Indian health insurance market. Insurance in general, and health insurance in particular,
+is a complex product. Features such as exclusions, waiting periods, deductibles, co-payment,
+and sub-limits are difficult to understand. Though some are necessary by design to avoid
+adverse selection and moral hazard, the complexity associated with standard health insurance
+products can be minimized — for example, by reducing exclusion restrictions. This makes them
+
+19
+
+Health Insurance for India’s Missing Middle
+
+easier to understand, which in turn increases the product’s acceptance. The proposition to
+minimise complexity is guided by the motive to reduce frictions in the entire health insurance
+purchase life cycle — from product selection, to enrolment, to effective benefit utilisation.
+Standardization helps in simplifying the product. In the case of benefits package,
+standardizing helps ensure a basic minimum level of services to all consumers. The Aarogya
+Sanjeevani insurance policy, launched by IRDAI in April 2020, is a first attempt to create
+such a health insurance product (see box). The policy standardizes the benefit package across
+insurance companies. The basic benefits package is common, but the consumer can decide
+the sum insured amount (and consequently the premium), and their insurer. However, there are
+three key challenges with Aarogya Sanjeevani which need to be addressed if it is to target
+the missing middle segment.
+
+
+High premium which limits its affordability for the missing middle segment;
+
+
+
+Long waiting period of two to four years for certain diseases / treatments; and
+
+
+
+Age restrictions with those aged over 65 not allowed to enroll in scheme (but can
+continue their enrolment if they are already enrolled prior to turning 65)
+
+In addition, introducing simplicity in benefit utilization – for e.g., from cashless and paperless
+coverage – is an important aspect in increasing the attractiveness of health insurance.
+
+Aarogya Sanjeevani Health Insurance Plan
+What is Arogya Sanjeevani, and what are its benefits?
+The Insurance Regulatory Development Authority of India (IRDAI) launched a standardized
+health insurance product – Arogya Sanjeevani – in April 2020. The Arogya Sanjeevani
+has the same set of standardized benefits across all health insurers. All health insurers
+are mandated to offer those benefits though the sum insured, family composition, and
+consequently premiums may vary. Health insurance is a complex product. Individuals and
+families buying health insurance can be confused between the various products available
+in the market since their benefits and features vary. The Arogya Sanjeevani product aims
+to solve that problem by offering a common policy across health insurers where they can
+compete on the premiums, service quality, and provider network. Additionally, it will also
+facilitate seamless portability between insurers.
+
+What does Arogya Sanjeevani cover?
+The Arogya Sanjeevani is an indemnity health insurance plan covering hospitalizations,
+including pre and post hospitalization expenses. The sum insured is flexible – varying
+between Rs. 50,000 to Rs. 10 lakhs – based on the needs of the individual, or the family.
+Table 2 has the key features of Arogya Sanjeevani including the limits for room rent,
+overview of procedures covered, waiting periods, etc.
+
+20
+
+The Framework for a Contributory Product
+
+Who can be covered under Arogya Sanjeevani?
+Anyone aged below 65 years can enroll for health insurance under Arogya Sanjeevani
+with any of the health insurance companies. It is available on an individual, family floater,
+and group insurance basis. Health insurance companies are free to decide the family
+configurations they want to offer. For example, some companies do not offer a plan which
+includes a dependent parent. Individuals greater than 65 cannot enroll into the plan but
+can continue the plan if they enrolled prior to turning 65.
+
+What is the premium?
+The premium for Arogya Sanjeevani is not fixed for a given sum insured and family
+configuration. It varies between insurers. Figure 8 benchmarks the premium for a sum
+insured of 5 lakhs for two different family configurations. The average annual premium
+for a family of 4 (2 adults and 2 children), and family of 5 with one additional dependent
+parent are ~Rs. 12,000 (or ~Rs. 8 per day per person), and ~Rs. 26,000 (or ~Rs. 14 per
+day per person) respectively.
+Table 2: Key Features of ‘Arogya Sanjeevani’ Health Insurance Plan
+Product Feature
+
+Details
+
+Sum Insured (SI)
+
+Rs. 50 K – 10 lakhs
+
+Waiting Period
+
+ 24–48 months based on disease / treatment
+ (22 diseases / treatments specified)
+
+Room Rent
+
+2% of SI up to Rs. 5,000 per day for hospitalization; and
+5% of SI up to Rs. 10,000 per day for ICU
+
+Maternity
+
+Not covered
+
+Day-care Procedures
+
+Covered
+
+Disease wise sub-limits
+
+Hospitalization expenses in addition to room rent covered except
+ Dental treatment or plastic surgery unless necessitated due to
+disease or injury
+ Cataract treatment at 25% of SI or Rs.40, 000, whichever is lower
+
+Co-payment
+
+5% of claims amount admissible
+
+Alternative Medicines
+
+Yes, AYUSH expenses covered
+
+Pre-hospitalization expenses
+
+Up to 30 days
+
+Post-hospitalization
+expenses
+
+Up to 60 days
+
+Ambulance cover
+
+Up to Rs. 2,000 per hospitalization
+
+Tenure
+
+1 year subject to lifelong renewal
+
+21
+
+Health Insurance for India’s Missing Middle
+
+30000
+
+27270
+25245
+
+25000
+20000
+12858
+
+12829
+
+12278
+
+11930
+
+15000
+
+2A+2C
+2A + 2 C + 1P
+
+10000
+5000
+0
+
+Star Health &
+Allied
+
+HDFC Ergo
+
+ICICI Lombard
+
+SBI General
+
+Figure 8: Annual Premium for a family of 4 (2 adults + 2 children) or 5 (family of 4 + 1 parent),
+for Rs. 5 lakhs sum insured, select insurance companies, in Rs.
+Source: HDFC Ergo, Star Health & Allied, SBI, and Arogya Sanjeevani brochures and websites
+Note:
+
+1. The age of the two adult members are 40 and 37, children are 5 and 9, and dependent parent is 62.
+
+		2. Annual premium does not include 18% GST, or any discounts offered.
+
+		3. HDFC Ergo and ICIC Lombard do not offer any product for the above family of 5 configuration.
+
+II. BASIC STRUCTURE
+Based of the above outlined principle of simplicity and standardization, and discussions with
+stakeholders in the domestic health insurance market, Table 3 outlines the basic features of
+a contributory retail insurance hospitalization product for the missing middle. The outlined
+product is a slightly modified Arogya Sanjeevani product with two specific changes:
+
+
+Lower waiting period of one to two years for certain diseases / treatments with the
+potential of further reductions as overall demand increases; and
+
+
+
+Package rates for procedures to reduce costs, and consequently lower premiums
+
+The features outlined below are indicative. Discussions with stakeholders, and greater
+understanding of consumer preferences can help further modify the product.
+Table 3: Key Features of hospitalization insurance product for the missing middle
+Product Feature
+
+Benefit / Details
+
+Sum Insured
+
+Rs. 5 – 10 lakhs per family per year
+
+Definition of Family
+
+Self + Spouse + Dependent Children / Dependent Parent
+
+Waiting Period
+
+12 – 24 months (can be further reduced if volumes increase)
+
+Room Rent
+
+ 2% of SI up to Rs. 5,000 per day for hospitalization; and
+ 5% of SI up to Rs. 10,000 per day for ICU
+
+22
+
+The Framework for a Contributory Product
+
+Product Feature
+
+Benefit / Details
+
+Maternity
+
+Not Covered
+
+Day Care Procedures
+
+Covered
+
+Disease wise sub-limits
+
+Hospitalization expenses in addition to room rent covered based on
+defined package rates for procedures; minimal exclusions
+
+Alternative Medicines
+
+Up to Rs. 50,000
+
+Pre-hospitalization Expenses
+
+Up to 30 days
+
+Post-Hospitalization Expenses
+
+Up to 60 days
+
+Ambulance Cover
+
+Up to Rs. 2,000 per hospitalization
+
+Tenure
+
+1, 2, 3-year renewable. All enrolled members allowed to be
+renewed.
+
+In addition to hospitalization cover, a product for the missing middle should also include outpatient benefits. An indicative product is outlined in Table 4.
+
+Rationale for inclusion of out-patient benefits in the proposed
+product
+A comprehensive health insurance product for the missing middle should include outpatient (OPD) benefits. The product outlined in Table 3 only covers in-patient care expenses.
+Indeed, most insurance products in the PVHI market, including the recently announced Aarogya
+Sanjeevani policy do not include outpatient benefits. This exclusion remains a large gap. There
+are two key reasons to include OPD in the missing middle product:
+1.
+
+Inclusion of out-patient benefits will curtail catastrophic health spending — the
+key objective of a health insurance product for the missing middle.
+
+2.
+
+An integrated product including OPD benefits can lower overall costs and
+improve health outcomes – critical goals from a health systems and policy
+standpoint.
+
+Inclusion of OPD benefits in a product for the missing middle will lower incidence of
+catastrophic health expenditure. The term catastrophic health expenditure indicates an
+exorbitant cost of healthcare, above a certain threshold of total household expenditure. High
+catastrophic spending can constrain other important consumption expenditure, and push
+household into poverty, especially lower-middle-class families. Section 2 shows that 24% of all
+households, and 58% of households accessing any healthcare are catastrophically affected at
+the 10% level i.e., spend more than 10% of total consumption expenditure on health (Figure 2)
+(Figure 3). A larger share of households are catastrophically impacted by out-patient expenses
+relative to in-patient expenses. 80% to 85% of catastrophically affected households incur OPD
+expenses compared to 45% to 50% for IPD — a difference of 35 percentage points (Figure
+9). Similar findings on the larger impact of OPD expenses on catastrophic and impoverishing
+health spending bear out from other analyses. A study by NIPFP study on the 71st Round NSSO
+survey shows a higher incidence of catastrophic payments for outpatient care as compared
+to inpatient care. The Indian Human Development Survey (IHDS-II) highlights a more specific
+finding — it shows impoverishment effects of health expenditure are predominantly driven by
+outpatient spending, particularly for informal sector households. This finding is confirmed by a
+
+23
+
+Health Insurance for India’s Missing Middle
+
+previous World Bank report (on government-sponsored health insurance) using the NSSO’s 60th
+Round survey. It shows OOPE on inpatient care is not a significant source of impoverishment
+compared to outpatient care and drugs. More broadly, the NSSO’s 75th Round survey on
+social consumption of health shows that over two-third of total OOPE are on out-patient care,
+and most OPD – over 70% – is sought in the private sector. Consequently, the product should
+cover some OPD expenses to improve financial protection against adverse health events.
+90
+80
+
+85.7%
+
+84.2%
+
+81.2%
+
+70
+60
+50
+
+45.1%
+
+48.8%
+
+50.2%
+
+25% Threshold
+
+40% Threshold
+
+40
+30
+20
+10
+0
+
+10% Threshold
+
+In-patient expenditure
+
+Out-patient expenditure
+
+Source: Brooking Institution India Center (2016)
+
+Figure 9: Percentage of catastrophically affected households, reporting in-patient and outpatient expenditure, by threshold levels
+Source: Ravi, S. et al. Health and Morbidity in India (2004-2014). Brookings India.
+
+A combined product with both in-patient and out-patient benefits can lower overall
+costs and improve health outcomes. A combined product can facilitate the development
+of a coordinated or integrated care model by aligning providers at different tiers, to ensure
+patients can seamlessly transition across different levels of care. The insurer can contract with
+providers at all levels and develop an incentive structure to facilitate linkages between them.
+This model will help improve efficiency by reducing redundancy (e.g., repeated tests), and
+nudging patients to seek timely care at the right level. It can also improve outcomes through
+greater use of primary care which helps screen and manage chronic conditions early, and
+greater sharing of information between providers.
+An out-patient product will also demonstrate additional value to customers – since most
+individuals use out-patient services every year but only a small fraction is hospitalized (~3%
+annually in 2017-18; NSSO 75th Round) – and increase the product’s appeal. Table 4 outlines
+the broad features of an indicative out-patient insurance product.
+
+24
+
+The Framework for a Contributory Product
+
+Table 4: Key Features of outpatient product for missing middle
+Product Feature
+
+Benefit / Details
+
+Sum Insured / Maximum Cap
+
+Rs. 5,000 per family per year
+
+Benefits package
+
+Doctor consultation, medicines, and diagnostic tests
+
+Healthcare service providers
+
+Empaneled hospitals / General Practitioners / clinics
+
+Definition of Family
+
+Self + Spouse + Dependent + Children/Dependent Parent (max 5)
+
+Claims Process
+
+100 % cashless and paperless
+
+Pre-existing diseases
+
+Covered
+
+Alternative Medicines
+
+up to Rs. 1,000
+
+Exclusions
+
+Minimal exclusions
+
+Waiting period
+
+No waiting periods applicable
+
+Tenure
+
+1, 2, 3-year renewable. All enrolled members allowed to be
+renewed.
+
+III. PRICING
+The demand for health insurance will be very sensitive to its price for the missing
+middle. Current PVHI are very highly priced for the missing middle. The average price of
+Arogya Sanjeevani is Rs. 12,000 for a family of 4 per year (two adults and two children), and
+Rs. 26,000 for a family of 5 (family of 4 and dependent parent) (Figure 8).
+Stakeholder discussions indicated a premium of Rs. 4,000 to 6,000 per family per year is
+commercially viable for hospitalization insurance. Discussions with stakeholders, including
+health insurers, indicated that a hospitalization cover for a sum insured of Rs. 5 lakhs for a
+family of 5 would cost between Rs. 4,000 to Rs. 6,000. The premium will depend on the size
+of the risk pool. For example, the average premium per family would be a little under Rs.
+5,000 if 5 crore families were to enroll. However, it would increase to nearly Rs. 6,000 if fewer
+than 1 crore families enrolled.
+The out-patient product will follow a subscription model instead of a premium model.
+The OPD benefits, capped at Rs. 5,000 (Table 4), are likely to be utilized by most households.
+Hence, the premium will be equal to, or near the cost of total sum insured for OPD care,
+effectively making it a pre-paid subscription model. The advantage of providing OPD benefits,
+alongside IPD care will be to increase the efficiency and value of the healthcare provided (as
+outlined in the previous sub-section) through integration of fragmented services which allow
+for protocol-based, timely care.
+The current OOPE of the missing middle population can provide an upper-bound estimate
+of the segment’s ability to pay the premium. The average person or family has some
+incentive to pool relatively small amounts of money to protect against future catastrophic
+health expenditure and receive higher value from healthcare. Actual willingness to pay will be
+lower since the benefit package may not cover all ailments, and due to adverse selection. The
+OOPE of 4th and 5th quintile of rural areas, and the 3rd to 5th quintiles of urban areas – where
+the missing middle is concentrated (Figure 5) – provides the upper-bounds estimate of their
+ability to pay.
+
+25
+
+Health Insurance for India’s Missing Middle
+
+
+
+In-patient expenditure: The average annual per capita in-patient expenditure is
+approximately Rs. 500 and Rs. 950 for the 4th and 5th quintile in rural areas. In urban
+areas, the corresponding amount is around Rs. 850 for the 3rd and 4th quintile,
+and Rs. 1300 for the 5th quintile. For a family of 5, this amounts to an upper-bound
+premium in the range of Rs. 2,500 to Rs. 6,500, depending on the expenditure
+quintile and geographical location (Table 5). Aside of families in the 4th quintile of
+rural areas, all other missing middle segments – i.e., the top quintile of rural areas,
+and the top three quintiles of urban areas – can afford the proposed premium of
+Rs. 4,000 to Rs. 6,000 per family per year for in-patient coverage.
+
+
+
+Out-patient expenditure: Average annual out-patient expenditure for a family of 5 is
+much higher – between Rs. 5000 to Rs. 12,000 – compared to in-patient expenditure
+(Table 5). The existing OOPE on out-patient care indicates the ability to pay a for
+an out-patient, pre-paid, subscription product. As mentioned above, the out-patient
+product will likely be priced around the sum insured amount of Rs. 5,000 per family
+per year but will provide greater value for money than spending that money through
+OOPE.
+
+The above analysis indicates the proposed price is in line with ability to pay though
+some subsidy maybe required for the lower end of the missing middle. Hence, given
+the right health insurance product, majority of the missing middle segment – except the 4th
+quintile of rural areas – should be willing to pay. The price of the product will ultimately be
+controlled by market mechanisms, including the composition, and the size of the risk pool.
+Table 5: Average OOPE per capita and for family of 5, on in-patient and outpatient care, by consumption expenditure quintile
+In-patient (exc. childbirth)
+
+Expenditure
+Quintile
+
+Avg. OOPE per
+capita
+Rural
+
+3rd quintile
+
+Urban
+
+Out-patient
+
+Upper premium
+limit
+Avg. OOPE for
+family of 5
+
+Rural
+
+831
+
+Urban
+
+Avg. OOPE per
+capita
+Rural
+
+4156
+
+Rural
+
+1669
+
+Urban
+8347
+
+4th quintile
+
+487
+
+876
+
+2435
+
+4381
+
+1044
+
+1833
+
+5220
+
+9165
+
+5th quintile
+
+931
+
+1311
+
+4654
+
+6554
+
+1839
+
+2301
+
+9194
+
+11503
+
+Source: Analysis based on NSSO’s 75th Round Social Consumption of Health survey
+
+26
+
+Urban
+
+Upper limit
+
+Avg. OOPE for
+family of 5
+
+7
+
+Key Challenges
+
+Key
+Challenges
+There are four key challenges in increasing the coverage of health insurance through
+voluntary contributions. The ability to pay for health insurance does not automatically translate
+into a willingness to pay, and the existence of a supply-side – providers and insurers – to
+match that demand. This section discussed those challenges.
+
+I.
+
+AWARENESS
+
+Low awareness and the difficulty in understanding a complex product like health insurance
+limit its uptake. There is limited awareness of insurance, including health insurance products,
+even amongst the middle class which hinder its uptake. Further, those who are aware of
+health insurance, may not see the need to purchase it. The concept of paying for a product
+which one does not hope to use is not intuitive. Though catastrophic health expenditure,
+and its impact on savings and standard of living is experienced by a substantial share of the
+population, almost 1/4th at the 10% threshold level (Figure 2), connecting it to the purchase of
+health insurance as an investment for health security is not intuitive ex-ante. In other words,
+paying for financial protection against some (uncertain) risk of future adverse health events
+at the cost of present consumption is a complicated decision.
+Consumer education of health insurance, especially amongst the missing middle, is
+important to increase its uptake. A comprehensive awareness campaign which intricately
+explains the importance and benefits of health insurance can help increase its acceptance
+
+27
+
+Health Insurance for India’s Missing Middle
+
+and uptake. The awareness campaign can specifically focus on the standardized product
+outlined in Table 3 and Table 4. One key element of this awareness strategy is promotions
+at government hospitals and other hospitals, for example those empaneled under PMJAY.
+A study by Kansra and Gill (2017) on health insurance buying behaviour of informal sector
+workers in India shows that linking health insurance schemes with government hospitals –
+such as through awareness campaigns – increases the probability of enrolment in insurance
+scheme. Additional channels including Government health facilities, Anganwadi centers, and
+ASHA workers can also be leveraged to build consumer awareness. The second element
+of the awareness strategy centered around hospitals – public and private – comes from
+prospect utility theory. The basic idea that losses loom larger than gains – also called loss
+aversion – can have significant implications for the economic choices of the missing middle. As
+elaborated in Section 6, OOPE on out-patient care accounts for a larger share of catastrophic
+health expenditure compared to in-patient care. It causes great financial pain to those whose
+income is already low and unstable. Promoting the scheme in terms of loss aversion to those
+making frequent and costly visits to OPDs can potentially increase the insurance product’s
+uptake. However, awareness will only be successful if the benefits offered under the scheme
+are attractive enough compared to those already available for free or highly subsidized rates
+in public sector facilities.
+
+II. IDENTIFICATION AND OUTREACH
+Identification of, and outreach to customers is the primary hurdle on the supply-side.
+From the standpoint of insurance companies, it is difficult to economically reach out to the
+missing middle segment to build awareness of health insurance and their products. A large
+share of the missing middle is employed in the informal sector – constituting 80% to 90%
+of India’s labour force (PLFS 2018-19 and Report on Employment in Informal Sector and
+Conditions of Informal Employment, MoLE, GoI, 2013-14) – where there is a lack of a robust
+employee database or other sources for identification and outreach. Consequently, it is difficult
+for insurance providers to reach out to potential customers. Insurance companies have either
+failed to, or find it uneconomical, to identify and target this segment of the population. As a
+result, health insurance coverage remains largely inaccessible to the missing middle.
+Targeting the missing middle segment will require a different outreach strategy which
+distinctly focuses on this population, and their sub-segments. The voluntary contributory
+health insurance product will only be successful if there is a large and diversified risk pool.
+Ensuring scale enrolment requires a substantial push on outreach to potential customers – in
+addition to greater health insurance awareness – for demand-generation. First, insurers and
+third-party administrators (TPAs) should experiment with incentive structures which can drive
+enrolment volumes. For example, incentive clauses can be incorporated in contracts which
+reward reaching a critical mass of customers within a particular period. Second, Government
+databases such as National Food Security Act (NFSA), Pradhan Mantri Suraksha Bima Yojana,
+or the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) for agricultural households can be
+shared with private insurers after taking consent from these households. Such databases will
+help ease the identification of, and outreach to potential customers by insurers.
+
+28
+
+Key Challenges
+
+III. ADVERSE SELECTION AND PREFERRED SELECTION
+Adverse selection is a common market failure in health insurance markets. It arises out of
+asymmetric information — where one party knows something relevant to the transaction
+that the other does not. In the context of health insurance, it occurs when the insured does
+not disclose information about underlying health conditions to the insurer. These conditions
+make the insured more likely to require frequent and expensive healthcare interventions. For
+the insurance company, this implies a greater cash outflow and higher frequency of claims
+from its policyholders than anticipated by the insurer. If the undisclosed health conditions
+are considered, the premium amount paid by the insured would be inadequate to cover the
+claims sanctioned against it. Consequently, adverse selection can lead to large financial losses
+for insurers. As a mitigation measure, the insurer increases its premium to cut loses and cover
+the costs of increased amount and frequency of claims from adversely selected policyholders.
+As more and more sick people are adversely selected into the risk pool, healthy people are
+priced out of the insurance market. This leads to a vicious cycle which results in low-risk
+pooling, and high premiums.
+Implementing measures to avoid adverse selection are likely to lead to preferred selection
+or cream-skimming. Private insurers may test eligibility of potential insurance buyers through
+medical history assessment, diagnostic screenings, etc. to avoid adverse selection. Insurers
+can choose to avoid individuals at a greater risk of developing health problems. However, not
+all insurers exclude high-risk individuals. Instead of trying to actively avoid adverse selection,
+they try to minimise the losses incurred from it, and cover the additional costs of having more
+sick individuals in their risk pool. Those more likely to get sick are charged higher premiums and
+recommended more expensive packages with generous coverage limits as compared to those
+who are healthy. Even though high-risk individuals are priced accordingly, the high premium
+amount can exclude them from accessing affordable healthcare.
+The proneness to cream-skimming, resulting from attempts to avoid adverse selection
+has also been present in government-sponsored health insurance schemes. Insurance
+companies, hired by the government often carry out cream-skimming in the enrolment
+process. It is infeasible and undesirable for insurance companies and their TPAs to use
+cream-skimming measures to actively avoid adverse selection while catering to the missing
+middle. There are three reasons:
+a.
+
+It is uneconomical and administratively challenging to run a rigorous screening
+process on the scale required for the missing middle.
+
+b.
+
+The friction created by the screening process can reduce the uptake of the scheme
+and the overall coverage of the risk pool. Inadequate risk pooling of this sort –
+induced by preferred selection – can lead to financial losses for insurers.
+
+c.
+
+From a broader societal and Governmental perspective, cream skimming is inherently
+incompatible with India’s goal of achieving Universal Health Coverage.
+
+The focus should be minimizing adverse selection through a large and diversified risk
+pool, instead of cream-skimming. While imposing a limit on claim amounts does help to
+cut losses from adversely selected cases, increasing the number of participants in the risk
+pool is a much more effective approach. It reduces adverse selection and provides greater
+
+29
+
+Health Insurance for India’s Missing Middle
+
+predictability to insurers. The below box contains the statistical underpinnings of the principle
+behind increasing the size of the risk pool called the law of large numbers. It helps ensure
+that actual claims or payout by the insurers do not substantially deviate from the actuarially
+calculated expected claims.
+
+Underlying principle for increasing the size of the risk pool:
+The standard deviation from the average proportion of claims (which typically result in
+losses for the insurer on that policy) can be calculated per the below formula:
+
+p (1 – p) / n
+In the above formula:
+
+
+‘n’ refers to the number of policyholders i.e., number of people in a risk pool.
+
+
+
+‘p’ refers to the independent probability of each policy resulting in a claim.
+
+Under the above assumption, the fraction of policies resulting in claims follows a binomial
+distribution. The formula above gives the standard deviation of the averageproportion of
+claims resulting in losses. As ‘n’ increases, the standard deviation approaches zero.
+As a result, the fraction of claims gets closer to a stable, predictable, average number with
+minimum deviations from it. The insurance company can set premiums considering the
+stable average of claims. The large n allows it to minimize unanticipated financial risk
+from outliers that have large deviations from the expected average.
+Group enrolment is the most effective way to increase the number of policyholders in the
+risk pool. It also has the advantage of providing greater bargaining power to individuals
+aggregated through groups against insurers. Greater bargaining power can help address
+grievances and improve efficiency of health insurers. Standalone health insurers have a low
+claims ratio of 64% indicating either high premiums, poor network, or denial of benefits. Large
+groups can put pressure on insurers to either reduce premiums or ensure that eligible benefits
+are timely provided. Targeting families, and other formal and informal groups will help build
+a large and diversified risk pool.
+
+
+Targeting informal and formal groups including associations, unions, societies, and
+self-help groups (SHAs) – they reduce the cost of identification and outreach while
+providing a diversified risk-pool.
+
+
+
+Enrolling families in group – diversifies age-related risks.
+
+IV. AFFORDABILITY
+The missing middle population is highly price sensitive. Lowering the costs of the product,
+where feasible, will be important to ensure affordable prices and high demand. The
+private health insurance market has a low claims ratio – 64% for standalone health insurers
+and 72.5% for health insurance segment of general private insurers (IRDAI, 2020) – indicating
+high distribution, and / or administrative costs. There are two focus areas for reducing the cost
+of the product by reducing the add-on charges i.e., costs above the actuarially fair premium.
+
+30
+
+Key Challenges
+
+a.
+
+Distribution Costs: The high sales / distribution cost of health insurance substantially
+increases the product’s price. Industry consultations highlighted that the existing
+distribution strategies, and the retail nature of the product must be changed to
+reduce the cost of customer acquisition. IRDAI allows for a commission of up to 15%
+to agencies and brokers, which increases the premium. Standalone health insurers
+incur commission expenses of 12.5% while the health insurance segment of private
+insurers incurs 8.5% commission as percentage of premium collected. Driving down
+these costs can substantially reduce premiums. First, the distribution strategy of the
+product should target groups – including organizations, teacher associations, and
+trade unions – to advocate health products. Group targeting reduces the average
+distribution cost per policy as compared to individual targeting. Second, greater
+focus on digital channels for health insurance sales will bring down commission
+costs. For example, the JAM trinity (Jan Dhan accounts, Aadhar, and mobile) can
+be leveraged to reduce sales costs. Third, Government assets including post offices,
+and regional rural banks can be leveraged as distribution channels to increase the
+reach of insurance without incurring high costs.
+
+b.
+
+Operational Costs: The total health insurance costs are further increased from
+actuarially determined prices (based on estimates claims costs) due to high
+operational / administrative costs. The operational expenses for standalone health
+insurers are around 25% of the total premium collected driven by a high claims
+processing cost. Insurers will have to improve their operational efficiency to drive
+down premiums. Greater use of analytics, standardized formats for easier data flows,
+and other digital tool to drive efficiency, and achieving economies of scale through
+higher volumes can reduce operational costs.
+
+The increase in the affordability of health insurance will be driven by higher volumes and
+greater use of digital technologies. As elaborated in the above sub-section, not only will
+higher enrolments mitigate adverse selection through risk-pooling; they will also lower costs
+by improving operational efficiency of insurance schemes.
+
+31
+
+Health Insurance for India’s Missing Middle
+
+8
+
+Implementation
+Pathway and
+The Role of
+Government
+The Government has several policy levers, and potential roles in shaping the health insurance
+ecosystem, and increasing uptake of health insurance amongst the missing middle. The
+Government will play some, or all these roles depending on the implementation pathway
+for increasing health insurance coverage. This section first discusses the different roles of the
+Government and concludes by outlining an implementation pathway.
+
+THE ROLE OF THE GOVERNMENT
+The Government has five potential roles in increasing the uptake of health insurance amongst
+the missing middle. These roles span different functions – regulation, behaviour change,
+sharing Government infrastructure as a public good, provision and financing.
+
+32
+
+1.
+
+Increasing consumer awareness of health insurance: First, the Government has a
+key role to play in increasing consumer awareness and building consumer confidence
+in health insurance through information, education, and communication (IEC)
+campaigns, especially in hospitals. The Government’s promotion of health insurance
+will establish greater acceptance and faith in the product. It can use several channels
+to build consumer awareness of health insurance, and of specific products, including
+in hospitals, health facilities, Anganwadi centers, and through ASHA workers.
+
+2.
+
+Developing a modified, standardized health insurance product: Second, the
+Government has a role to play in ensuring standardization and improving simplicity
+
+Implementation Pathway and The Role of Government
+
+of the product, to ensure consumer protection through a guaranteed basic minimum
+package of services. A slightly modified version of the standardized Aarogya
+Sanjeevani insurance product, as indicated in Table 3 and Table 4, will help increase
+the update amongst the missing middle. The modified product should have lower
+waiting periods. It should also include out-patient benefits through a subscription
+model to increase the value of healthcare provide.
+3.
+
+Sharing Government data and infrastructure as a public good to reduce operational
+and distribution costs: Third, the Government can help improve the product’s
+uptake by lowering the distribution and operational costs. The Government can
+offer its data and infrastructure as public goods to build distribution and operational
+efficiencies in private health insurers. First, it can offer PMJAY’s platform and network,
+especially its IT capabilities, to private insurance companies for covering the missing
+middle. Leveraging PMJAY’s platform as a public good will reduce operational costs,
+making it easier to scale, especially in underserved markets. Second, the Government
+can also share databases such as the NFSA, PM-KISAN, and Pradhan Mantri Suraksha
+Bima Yojana with private insurers after taking the family’s consent. This will reduce
+the distribution costs by aiding outreach of insurers to potential customers. Finally,
+Government assets including post offices, and regional rural banks can be leveraged
+as distribution channels to increase the reach of insurance at low costs.
+
+4.
+
+Building consumer confidence by ensuring quality of services: Fourth, the
+Government should build consumer confidence through swift grievance redressal
+mechanisms, and robust auditing procedures. Ensuring quality of health services will
+improve patient satisfaction and build confidence in health insurance as product.
+Such mechanisms ensure that the intended benefits of health insurance – reduction
+in catastrophic spending and improved access to quality health – are achieved.
+They can lead to a virtuous cycle of trust where satisfied health insurance customers
+recommend it to other, thereby increasing the size of the risk pool.
+
+5.
+
+Partial financing or provision of health insurance: Finally, the Government can
+directly increase enrolment or reduce costs by subsidizing the poorest sections of the
+missing middle population, and/or using the PMJAY infrastructure to offer a voluntary
+contributory enrolment. The first option entails expanding PMJAY cover to the
+poorer segment of the missing middle – who may not be able to afford voluntary
+health insurance – on a full or partial subsidy basis. However, that should only be
+considered if there is low uptake among the poorer sections of the missing middle –
+and after ensuring full coverage of existing eligible beneficiaries under PMJAY – since
+it has fiscal implications. The second option is to offer the product outlined in this
+report on a voluntary and contributory basis through the National Health Authority
+(NHA). The Government can leverage PMJAY’s scale including its network, systems,
+and infrastructure to ensure that premiums remain low.
+
+IMPLEMENTATION PATHWAY
+There are broadly three different models of increasing health insurance coverage. Each
+of these models will be suitable to certain segment of the missing model and will have a
+different set of roles for the Government. The three models are outlined below:
+
+33
+
+Health Insurance for India’s Missing Middle
+
+1.
+
+Expanding private voluntary insurance through commercial insurers: The first
+model, which has been the focus of this report, is expansion of private insurance
+financed by private contributions through commercial insurers. Under this model,
+a modified standardized health insurance product developed for the missing
+middle (indicatively outlined in this report) will increase uptake of health insurance.
+Government IEC efforts will increase the awareness of health insurance. The
+anticipated large and diversified risk-pool through enrolment in groups will minimize
+adverse selection. It will also keep premiums at affordable levels, in line with the
+missing middle’s ability to pay. The key challenge of this model is the level to which
+it is can contain adverse selection and enroll the informal sector.
+
+2.
+
+Allowing voluntary contribution using NHA-PMJAY infrastructure or ESIC
+scheme: The second model, leverages NHA’s infrastructure for PMJAY, or the ESIC
+scheme for voluntary contributory insurance to the missing middle. The NHA can
+offer a PMJAY plus product indicatively outlined in this report, while the ESIC can
+offer its existing set of benefits to those beyond its current mandate. The scale
+and network of PMJAY and ESIC can keep premiums lower than commercial health
+insurers (in model 1). However, there are two potential drawbacks of this model. The
+first is the same as for model 1 – the level to which a voluntary contributory scheme
+can manage adverse selection is unclear. The second is the potential overburdening
+of PMJAY and ESIC infrastructure and schemes through an additional mandate. Both
+schemes already face significant supply-side challenges leading to low utilization
+of services. In the short-run, adding a voluntary contributory scheme to PMJAY or
+ESIC, may detract them from their core mandate or serving existing beneficiaries.
+
+3.
+
+Expansion of coverage under the PMJAY scheme: The third model expands
+government subsidized health insurance through the PMJAY scheme to a wider
+set of beneficiaries. This model can be utilized for segments of the missing middle
+which remain uncovered, due to limited ability to pay for the voluntary contributory
+models outlined above. This is the only model out of three proposed which has
+fiscal implications for the Government. Though this model assures coverage of the
+poorer segments on the missing middle population, premature expansion of PMJAY
+can overburden the scheme (as also outlined above).
+
+A combination of the three models, phased in at different times, can ensure coverage
+for the missing middle population (Figure 10). In the short-term, the focus should be on
+expanding private voluntary insurance through commercial insurers. In the medium-term,
+once the supply-side and utilization of PMJAY and ESIC is strengthened, their infrastructure
+can be leveraged to allow voluntary contributions to a PMJAY plus product, or to ESIC’s
+existing medical benefits. In the long-term, once the low-cost voluntary contributory health
+insurance market is developed, expansion of PMJAY to the uncovered poorer segments of
+the missing middle should be considered.
+
+34
+
+Implementation Pathway and The Role of Government
+
+Short-term
+Expanding private
+voluntary insurance
+through commercial
+insurers
+(1-2 years)
+
+Medium-Term
+Allowing voluntary
+contribution using
+NHA-PMJAY
+infrastructure or ESIC
+scheme
+(2-5 years)
+
+Long-Term
+Expansion of
+coverage under the
+PMJAY for specific
+uncovered groups
+(5+ years)
+
+1. Modified ‘Arogya
+Sanjeevani’ product
+launched with lower
+waiting periods and
+out-patient benefits.
+
+1. Allowing voluntary
+contribution using
+PMJAY’s
+infrastructure and the
+ESIC scheme, if, and
+when the supply-side
+and utilization of
+schemes for existing
+beneficiaries
+improves.
+
+1. Review insurance
+coverage after
+5-years of facilitating
+development of
+low-cost health
+insurance products
+through private
+insurance markets
+and Government
+purchasing agencies.
+
+2. Will improve
+competition, further
+increase risk-pooling,
+and potentially lower
+prices.
+
+2. Expand fully
+subsidized coverage
+through PMJAY to
+specific uncovered
+segments of the
+missing middle based
+on socio-economic
+criteria.
+
+2. Focusing on
+consumer awareness
+and group enrolments
+builds a large and
+diversified risk pool
+with low premiums.
+Requires further
+discussions with insurers
+& IRDAI
+
+Figure 10: Implementation pathway for expansion of health insurance coverage to the missing
+middle
+
+35
+
+Health Insurance for India’s Missing Middle
+
+9
+
+Appendix:
+Review of State
+Health Insurance
+Schemes
+The below table outlines State Health Insurance schemes with particular focus on those
+covering the non-poor population. Please note that some of these scheme may have been
+recently modified, or merged with other health insurance schemes.
+
+36
+
+Scheme
+
+Arogya
+ååKarnataka
+Scheme
+
+Aarogya
+Raksha
+Scheme
+
+Chief
+Minister’s
+Comprehensive Health
+Insurance
+Scheme
+
+State
+
+Karnataka
+
+Andhra
+Pradesh
+
+Tamil Nadu
+
+However, it has not
+been comprehensive
+enough to cover the
+missing middle.
+
+Introduced in 2009 to
+provide free treatment at
+empaneled government
+and private hospitals to
+the poorest of the poor/
+low income/ unorganized
+groups.
+
+Extends the ambit of the
+previously implemented
+Dr YSR Arogyashree
+scheme beyond the BPL
+category to cover the
+APL category.
+
+Packages all the existing
+risk pools like Vajpayee
+Arogyashree, Yeshaswini
+Scheme, Rajiv Arogya
+Bhagya Scheme,
+Rashtriya Swasthya Bima
+Yojana (RSBY) into one
+
+Overview
+
+Annual incomes are less than
+Rs. 72,000/ annum
+
+To cover those who not
+covered by an existing
+scheme providing health
+insurance to BPL families,
+State government
+employees, and working
+journalists. Broadly, it targets
+those in the APL category.
+
+b. Non-PDS cardholders in
+APL category
+
+a. BPL category and PDS
+cardholders according
+to the National Food
+Security Act 2013
+
+Target population
+
+Basic premium amount is Rs.
+1200/person.
+
+c.
+
+Covers 1016 procedures (23
+diagnostic procedures & 113
+follow up packages)
+
+b. Coverage of up to Rs.
+5,00,000/ family/year, on a
+floater basis
+
+a. Cashless hospitalization facility
+for certain specified ailments
+
+c.
+
+b. New plans introduced as of
+May 2020 with a sum insured
+ranging from Rs. 1 lakh to Rs.
+10 lakhs.
+
+a. Rs. 2 lakhs/annum/ individual
+for all members of the APL
+family for 1044 procedures
+
+a. Coverage on co-payment
+basis, 30% cost borne by the
+state government
+
+APL Category:
+
+a. Free treatment at hospitals
+tied to the scheme For
+specified treatments,
+financial assistance up to Rs.
+30,000/ year for a family of 5
+members
+
+BPL Category:
+
+Coverage
+
+Most of the missing middle is
+excluded from the scheme that
+only covers those earning Rs.
+72,000 or less
+
+Average annual income of those
+engaged in the Urban Informal
+sector is approximately Rs.
+75,555 (ILO 2018, 45)
+
+No specific mention of any
+plans that cover the missing
+middle
+
+No explicit mention of
+the missing middle, it has
+successfully expanded
+insurance coverage beyond
+the vulnerable sections of
+society and the organized
+sector employees.
+
+Noteworthy success in
+reducing OOP. However, the
+missing middle is subsumed
+into the APL category and
+receives inadequate coverage
+relative to BPL category
+patients.
+
+Comments
+
+Appendix: Review of State Health Insurance Schemes
+
+37
+
+38
+
+Biju Swasthya
+Kalyan Yojana
+
+Deen Dayal
+Swasthya Seva
+Yojana
+
+Mahatma
+Jyotiba Phule
+Jan Arogya
+Yojana
+
+Goa
+
+Maharashtra
+
+Scheme
+
+Odisha
+
+State
+
+Target population
+
+Improve access of BPL
+and APL families to
+medical care involving
+hospitalization, and
+consultations through a
+network of empaneled
+hospitals
+
+b. Aims to provide
+health insurance
+coverage for the
+entire resident
+population of Goa
+
+a. Financed through
+the state budget
+
+BKKY Cardholder families,
+BPL & AAY Cardholders’
+families & families with
+income lower than
+Rs.60,000 in Urban area
+
+Farmers from 14
+agriculturally distressed
+districts
+
+Includes 971 procedures, 121
+follow up packages and also
+exceptional cases where the
+Rs. 1,50,000 limits can be
+increased
+
+c.
+
+c.
+
+sum insured is relatively low.
+Stringent criteria for eligible
+cardholders exclude a portion of
+the population needing a safety
+net regardless of the few assets
+they possess.
+
+b. Covers all expenses incurred
+during procedure and
+hospitalization for 10 days,
+including complications
+
+b. Saffron Ration Card
+Holders
+
+The scheme does cover the
+income bracket (ILO 2019,
+45) of Maharashtra’s missing
+middlHowever, the
+
+is no differentiation in its
+insurance product. It is using
+the ‘one size fits all’ formula
+without realising the special
+needs of different section of
+the population without health
+insurance.
+
+Could use a more specific
+focus on the missing middlThe
+scheme covers a good chunk of
+the population but there
+
+A comprehensive health
+insurance scheme with
+extensive coverage that also
+covers the missing middle
+
+Comments
+
+a. All expenses relating to
+hospitalization up to Rs. 1,
+50,000/ family/year on a floater
+basis
+
+b. Up to Rs. 4 Lakhs for a family
+of four and more members
+
+a. Rs. 2.5 lakhs/annum for a
+family of three or fewer
+members
+
+b. Annual Cashless Health
+Coverage of Rs.5 Lakh/family
+and Rs.10 Lakh for Women
+members of the family/annum
+
+population at all Public Health
+Institutions up to MCH level
+
+a. Most health services are free
+of cost for the general
+
+Coverage
+
+a. BPL families holding a
+yellow ration card/AAY
+card/Annapurna Card
+
+Any person residing in the
+State of Goa for five years or
+more
+
+c.
+
+Aims to provide universal a. Entire population of
+health
+coverage
+by
+Odisha
+expanding eligibility of b. Special focus on
+the scheme beyond the
+economically vulnerable
+vulnerable BPL section
+families
+
+Overview
+
+Health Insurance for India’s Missing Middle
+
+Mukhya Mantri
+Chikitsa
+Sahayata Kosh
+
+Mukhya Mantri
+Muft Ilaaj
+Yojana
+
+Mukhya Mantri
+Amrutum
+Yojana
+
+Haryana
+
+Gujarat
+
+Scheme
+
+Bihar
+
+State
+
+modified include lowermiddle-class families
+
+Originally launched to
+cater to BPL people, it
+has recently been
+
+scheme to provide free
+treatment to all citizens
+
+Aims to be a
+comprehensive
+
+Subsidized healthcare for
+treating serious illnesses
+requiring hospitalization
+
+Overview
+
+Coverage
+
+4,00,000 lakh per annum
+
+b. MA-Vaatsalya Yojana
+extended the scheme to
+families having annual
+income up to Rs.
+
+a. BPL families
+
+All citizens
+
+Free investigations / diagnostic
+services including X-Ray,
+Ultrasound and ECG
+
+b. 1763 procedures including
+those covered under PMJAY
+
+a. Sum assured is up to Rs.
+5,00,000/ family/annum
+
+d. Free dental treatment
+
+c.
+
+b. Free supply of essential
+medicines
+
+a. Free surgeries up to secondary
+level and subsidized at the
+tertiary level under Surgery
+Package Programme to all
+residents of Haryana
+
+Residents of Bihar whose Benefit amount granted according
+income is less than Rs. 1 Lakh to the designated treatment
+packages
+
+Target population
+
+The scheme’s extension under
+MA-Vaatsalya is inclusive of the
+bracket in which the missing
+middle in Gujarat earns in
+terms of annual incomThe
+sum assured is also high and
+the benefits packages are also
+comprehensive
+
+No explicit mention on
+covering the missing middle
+
+Though the scheme covers
+the missing middle concerning
+its
+approximate
+average
+annual income in Bihar, it has
+relatively low coverage with
+only limited benefit packages.
+The percentage of the state
+government’s budget allocated
+for the scheme is also low
+compared to other states.
+
+Comments
+
+Appendix: Review of State Health Insurance Schemes
+
+39
+
+40
+
+Ayushman
+Bharat–Sarbat
+Sehat Bima
+Yojana
+
+Ayushman
+Bharat
+Nirmayam
+Yojana
+
+Swasthya Sathi
+Scheme
+
+Madhya
+Pradesh
+
+West Bengal
+
+Scheme
+
+Punjab
+
+State
+
+Established to achieve
+universal health
+protection for every
+resident of the State
+
+Extension of the
+Ayushman Bharat
+scheme launched by
+Central Government in
+2018
+
+Only includes costs associated
+with hospitalisation. No
+
+as may be agreed’ without
+specifying an income bracket
+and whether or not the
+missing middle is covered
+under it.
+b. Covers multiple procedures
+with fixed rates, across a wide
+range of specialities divided
+into 7 categories
+
+c.
+
+e. Unorganised workers
+
+d. RSBY policy-holders
+
+Contractual staff of
+government departments
+
+b. Civil organisation
+volunteers
+
+The scheme’s documents
+vaguely mention ‘Unorganized
+workers of any category
+
+a. Basic health cover for
+secondary and tertiary care up
+to Rs. 5 lakh/annum/ family
+
+cover for OPD visits and
+consultations.
+
+c.
+
+b. 1350 benefits packages with
+fixed rates for treatments and
+procedures
+
+The guidelines of the scheme
+are not transparent in terms of
+the income bracket in which
+eligible beneficiaries lie
+
+The guidelines of the scheme
+are not transparent in terms of
+the income bracket in which
+eligible beneficiaries lie
+
+Comments
+
+a. Deprived, BPL categories
+in the SECC survey
+
+b. Occupational categoriesMechanics, Drivers,
+Construction workers
+
+a. BPL population
+
+Building and Other
+Construction Workers
+Welfare Board
+a. Sum assured is Rs. 5,00,000/
+family/ annum
+
+f.
+
+d. J-Form holder farmers
+
+government on a 60:40
+basis
+
+Smart Ration Cardholder
+families
+
+a. Rs. 5,00,000 per family/year
+for secondary and tertiary
+care hospitalization (in-patient
+services)
+
+Coverage
+
+the premium is paid by
+central and state
+
+c.
+
+b. Include the urban poor
+
+a. SECC 2011 data families
+
+Target population
+
+b. 1396 treatment packages
+that include hospitalization
+expenses, day-care surgeries,
+e. Small traders registered
+and treatment expenses of the
+with the Excise & Taxation
+new-born child
+Department
+
+is at government and
+empanelled private
+hospitals. Cost of
+
+Flagship state health
+insurance scheme for
+cashless and paperless
+treatment
+
+Overview
+
+Health Insurance for India’s Missing Middle
+
+Assam Arogya
+Nidhi
+
+Chief Minister
+of Health
+Insurance
+Scheme
+
+Chief Ministergi Hakshelgi
+Tengbang
+(CMHT)
+
+Jharkhand
+
+Manipur
+
+Scheme
+
+Assam
+
+State
+
+secondary and tertiary
+care on Hospitalization
+at empanelled Network
+Hospitals. Oriented
+only towards the BPL
+category
+
+The scheme aims to
+provide cashless
+
+Fully subsidized health
+assistance scheme that
+also provides financial
+protection from natural
+and man-made disasters
+
+Overview
+BPL families
+
+Deprived and BPL
+sections identified in the
+SECC 2011 survey
+
+Those with annual income
+less than Rs. 72,000
+
+o. Local Media Person &
+Newspaper hawkers
+
+n. Disabled persons
+
+m. Widows
+
+l.
+
+i.
+
+h. BPL category families
+(MNREGA workers,
+Rickshaw & taxi drivers,
+Domestic workers)
+
+d. Families having a monthly
+income of less than Rs.
+10,000/-
+
+c.
+
+Target population
+
+Coverage for diagnostic
+procedures and various
+treatments across 7 specialities
+
+Rs. 2,00,000 allotted for
+tertiary health services/family/
+year
+
+k.
+
+General lack of transparency
+regarding
+the
+scheme’s
+guidelines. According to the
+annual income parameter, the
+missing middle of the state is
+eligible for coverage under this
+schemHowever,
+information
+regarding benefit packages and
+the treatments covered under
+them is missing and premium
+coverage for the missing middle
+within the specified income
+bracket is possibly inadequate.
+
+The income bracket specified in
+the scheme includes the missing
+middle concerningtheir monthly
+income (ILO 2019, 45). Though
+the sum assured is relatively low,
+the coverage is comprehensive
+and also includes protection
+from disasters.
+
+Comments
+
+comprehensive and inclusive of
+a range of procedures
+
+low. Benefit packaged is
+
+p. Sum assured is Rs. 2,00,000/
+The scheme’s guidelines do
+eligible family/year on a floater not state that it covers the
+basis
+missing middle of the income
+bracket its members fall under.
+q. 1844 procedures covered
+It is primarily oriented towards
+under 43 package categories;
+the economically vulnerable
+only covers costs associated
+and disabled peoplSum
+with hospitalization
+assured is also relatively
+
+Rs. 50,000 allotted for
+secondary health services/
+family/year
+
+j.
+
+g. Coverage for injuries and
+illnesses caused by natural and
+man-made disasters
+
+f.
+
+e. The sum assured is up to Rs.
+1,50,000/family/annum
+
+Coverage
+
+Appendix: Review of State Health Insurance Schemes
+
+41
+
+42
+
+Chief Minister
+Arogya
+Arunachal
+Yojana
+
+Arunachal
+Pradesh
+
+Cashless coverage
+for secondary and
+tertiary level of medical
+treatment along with
+follow-up care benefits
+
+Linked with the RSBY
+and envisaged to
+provide health insurance
+coverage to the entire
+population of Mizoram
+including BPL and APL
+families
+
+Mizoram State
+Health Care
+Scheme
+
+Mizoram
+
+Overview
+
+Proposed state-specific
+scheme along the lines
+of Ayushman Bharat. No
+information is available
+yet
+
+Scheme
+
+Tripura
+
+State
+
+b. State government
+employees and
+dependents
+
+a. Arunachal Pradesh
+Scheduled Tribe (APST)
+and Non-APST members
+and their families
+
+BPL and APL families not
+covered by PM-JAY
+
+Target population
+
+1,390 benefit packages
+spanning procedures under
+multiple specialities.
+
+c.
+
+1300+ procedures across 23
+specialities are covered under
+this scheme
+
+b. Rs. 4,00,000/family for serious
+tertiary ailments
+
+a. Rs. 1,00,000/family/year for
+secondary ailments
+
+d. OPD cost coverage also
+available for some diseases,
+but majority coverage is
+for costs associated with
+hospitalization
+
+c.
+
+b. Limit of the coverage can be
+extended to Sum assured Rs.
+2,00,000/family/annum for
+serious illnesses
+
+a. Rs. 70,000 assured sums for
+general illnesses
+
+Coverage
+
+No mention of coverage of the
+missing middle- or the-income
+bracket under which this group
+falls
+
+Although there is no clear
+mention of any income bracket
+or occupations, the scheme’s
+directives state its aim to cover
+those excluded by PMJAY
+and the schemes covering the
+organised sector.
+
+Comments
+
+Health Insurance for India’s Missing Middle
+
+Megha Health
+Insurance
+Scheme
+
+HIMCARE
+
+Himachal
+Pradesh
+
+Scheme
+
+Meghalaya
+
+State
+
+HIMCARE scheme is an
+extension of PM-JAY with
+identical policy guidelines
+
+the framework of RSBY.
+Promoted to provide
+financial aid to all the
+citizens of the state at
+the time hospitalization
+and reduce the out-ofpocket expenses
+
+Complementary to PMJAY and utilises
+
+Overview
+
+c.
+
+Category III: Other
+beneficiaries not covered
+above
+
+b. Category II: Select
+groups predominantly
+comprising of nonpermanent Government
+workers (e.g., ASHAs,
+contractual employees,
+etc.), disabled, and those
+aged above 70 years
+
+a. Category- I: BPL and
+deprived not covered by
+PMJAY
+
+Extends eligibility beyond
+PMJAY:
+
+b. APL citizens
+
+a. BPL citizens
+
+Target population
+
+Same coverage as PMJAY.
+
+b. 630 packages containing fixed
+rates for various treatments
+across specialities
+
+a. Sum assured after the
+convergence with PM-JAY is Rs
+5,00,000 /family / annum on a
+floater basis
+
+Coverage
+
+Allows coverage of the missing
+middle on a partially subsidized,
+voluntary and contributory basis.
+
+Though there is no mention of
+income brackets or coverage of
+the missing middle, the scheme
+is extensive enough to cover
+APL families. Benefit packages
+are comprehensive in terms of
+the fixed rates available for a
+variety of treatments.
+
+Comments
+
+Appendix: Review of State Health Insurance Schemes
+
+43
+
+44
+
+Scheme
+
+Arogyashree
+Scheme
+
+Bhamashah
+Swasthya Bima
+Yojana
+
+Atal Ayushman
+Uttarakhand
+Yojana
+
+State
+
+Telangana
+
+Rajasthan
+
+Uttarakhand
+
+Aims to enhance and
+extend the coverage
+provided by PM-JAY to
+provide free treatment
+of common and serious
+illnesses at empanelled
+healthcare institutions
+
+Objective of providing
+cashless treatment
+at government and
+empanelled private
+hospitals to reduce OOP
+expenditure
+
+Provides financial
+protection to families
+from medical expenses
+incurred during
+hospitalisation and
+treatment of serious
+illnesses
+
+Overview
+
+c.
+
+Economically vulnerable
+population under PM-JAY
+with unmet needs
+
+b. Those not covered by
+PM-JAY and organised
+sector schemes such as
+CGHS, and ESIC
+
+a. 11 defined occupational
+un-organised workers
+(in Urban Sector) of the
+Socio-Economic Caste
+Census (SECC) database
+of the State
+
+BPL families
+
+BPL families with ration cards
+
+Target population
+
+b. 1,557 treatment packages
+spanning 25 specialities
+
+a. Rs. 5,00,000/family/ year for
+secondary and tertiary care
+
+b. Up to Rs. 3,00,000/family/year
+on a floater basis for serious
+illnesses
+
+a. Rs. 30,000/family/year assured
+in case of general illnesses
+
+b. 949 treatments are covered
+under the scheme’s benefits
+packages
+
+a. The assured sum available is
+up to Rs. 1,50,000 /family/
+year on a floater basis.
+An additional Rs. 50,000
+is provided as a buffer if
+expenses exceed Rs. 1,50,000
+
+Coverage
+
+The scheme does not state
+an income bracket to define
+eligibility of the missing middle.
+However, it does indicate to
+cover them because it claims to
+cover those left out by PM-JAY
+and organised sector schemes
+of CGHS, ESIC
+
+No coverage for the missing
+middle
+
+No coverage for the missing
+middle.
+
+Comments
+
+Health Insurance for India’s Missing Middle
+
+Dr. Khubchand
+Baghel
+Swasthya
+Sahayata
+Yojana
+(DKBSSY)
+
+Karuna Arogya
+Suraksha
+Paddhati
+Yojana (KASPY)
+
+Chhattisgarh
+
+Kerala
+
+Mukhya Mantri
+Jan Arogya
+Abhiyan
+
+Atal Ayushman
+Uttarakhand
+Yojana
+
+Uttar Pradesh
+
+Uttarakhand
+
+Comprehensive Health
+Insurance
+Scheme (CHIS)
+
+Scheme
+
+State
+
+Aims to enhance and
+extend the coverage
+provided by PM-JAY to
+provide free treatment
+of common and serious
+illnesses at empanelled
+healthcare institutions
+
+Extension of PM-JAY with
+identical policy guidelines
+
+A state-specific
+extension of benefits
+provided under PM-JAY
+
+Overview
+
+b. Those not covered by
+PM-JAY and organised
+sector schemes such as
+CGHS, and ESIC
+
+a. 11 defined occupational
+un-organised workers
+(in Urban Sector) of the
+Socio-Economic Caste
+Census (SECC) database
+of the State
+
+categories now covered under
+PM-JAY.
+
+Poor and deprived
+
+b. APL category persons
+holding relevant ration
+cards corresponding to
+their income levels
+
+a. Economically vulnerable
+and deprived sections
+identified by SECC
+records and Antyodaya
+ration card
+
+Target population
+
+b. 1,557 treatment packages
+spanning 25 specialities
+
+a. Rs. 5,00,000/family/ year for
+secondary and tertiary care
+
+CHIS only assures a sum up to Rs.
+30,000 per eligible family per year
+
+KASPY has similar benefits to PMJAY,
+
+b. Sum assured for APL category
+persons is Rs. 50,000/family/
+annum on a floater basis
+
+a. Sum assured for BPL category
+is up to Rs. 5,00,000/family/
+annum on a floater basis
+
+Coverage
+
+a. The scheme does not
+state an income bracket
+to define eligibility of the
+missing middlHowever,
+it does indicate to cover
+them because it claims to
+cover those left out by PMJAY and organised sector
+schemes of CGHS, ESIC
+
+No coverage for the missing
+middle
+
+These schemes do not cover
+the non-poor segments of the
+population
+
+Lack of transparency in terms
+of treatments and benefits
+packages availablEven if the
+scheme covers the missing
+middle by including APL
+category persons, the sum
+assured is relatively low and
+possibly inadequate to meet
+their healthcare needs
+
+Comments
+
+Appendix: Review of State Health Insurance Schemes
+
+45
+
+46
+
+Uttar Pradesh
+
+Karuna
+Arogya
+Suraksha
+Paddhati
+Yojana
+(KASPY)
+
+Kerala
+
+Mukhya
+Mantri Jan
+Arogya
+Abhiyan
+
+Comprehensive Health
+Insurance
+Scheme
+(CHIS)
+
+Dr.
+Khubchand
+Baghel
+Swasthya
+Sahayata
+Yojana
+(DKBSSY)
+
+Scheme
+
+Chhattisgarh
+
+State
+
+Extension of PM-JAY
+with identical policy
+guidelines
+
+A state-specific
+extension of benefits
+provided under PMJAY
+
+Overview
+Economically vulnerable
+population under PM-JAY
+with unmet needs
+
+categories now
+covered under PM-JAY.
+
+Poor and deprived
+
+b. APL category persons
+holding relevant ration
+cards corresponding to
+their income levels
+
+a. Economically vulnerable
+and deprived sections
+identified by SECC
+records and Antyodaya
+ration card
+
+c.
+
+Target population
+
+CHIS only assures a sum up to
+Rs. 30,000 per eligible family per
+year
+
+KASPY has similar benefits
+to PM-JAY,
+
+b. Sum assured for APL category
+persons is Rs. 50,000/family/
+annum on a floater basis
+
+a. Sum assured for BPL category
+is up to Rs. 5,00,000/family/
+annum on a floater basis
+
+Coverage
+
+No coverage for the
+missing middle
+
+These schemes do not cover
+the non-poor segments of
+the population
+
+Lack of transparency
+in terms of treatments
+and benefits packages
+availablEven if the scheme
+covers the missing middle
+by including APL category
+persons, the sum assured is
+relatively low and possibly
+inadequate to meet their
+healthcare needs
+
+Comments
+
+Health Insurance for India’s Missing Middle
+
+References
+
+References
+1.
+
+NITI Aayog, 2019. Health System for A New India: Building Blocks. Potential Pathways
+to Re-form.
+
+2.
+
+Ahmad, N. and Aggarwal, K., 2017. Health shock, catastrophic expenditure and its
+consequences on welfare of the household engaged in informal sector. Journal of
+Public Health, 25(6), pp.611-624.
+
+3.
+
+Ashraf H., et al. Dvara Research Working Paper Series No. WP-2021-04. Pathways
+to Reimagining Commercial Health Insurance (2021)
+
+4.
+
+Bhat, R., Holtz, J. and Avila, C., 2018. Reaching the Missing Middle: Ensuring Health
+Coverage for India’s Urban Poor. Health Systems & Reform, 4(2), pp.125-135.
+
+5.
+
+Choudhury, M., et al., 2019. Analyzing Household Expenditure on Health from the
+71st Round of Survey by the National Sample Survey Organization in India (Report
+Submitted to the World Health Organization).
+
+6.
+
+Employees’ State Insurance Corporation (ESIC), Ministry of Labour & Employment,
+Government of India. Annual Reports of 2018-19 and 2019-20
+
+7.
+
+Insurance Regulatory and Development Authority of India (IRDAI). Annual Reports
+of 2018-19 and 2019-20
+
+8.
+
+Insurance Regulatory and Development Authority of India (IRDAI). Guidelines on
+Standard Individual Health Insurance Product (January 2020)
+
+47
+
+Health Insurance for India’s Missing Middle
+
+9.
+
+Kansra, P. and Gill, H.S., 2017. Role of perceptions in health insurance buying
+behaviour of workers employed in informal sector of India. Global Business Review,
+18(1), pp.250-266.
+
+10. La Forgia, G. and Nagpal, S., 2012. Government sponsored health insurance in India:
+Are you covered? The World Bank.
+11. Labour Bureau, Ministry of Labour and Employment (2015). Report on Employment
+in Informal Sector and Conditions of Informal Employment, 2013-14
+12. National Sample Survey Organization (NSSO), NSO, MoSPI (2020). Health in India.
+Report No. 586 on Social Consumption of Health Survey (NSSO 75th Round, 201718)
+13. National Sample Survey Organization (NSSO), NSO, MoSPI (2020). Social Consumption
+of Health Survey (NSSO 75th Round, 2017-18) data
+14. National Statistical Office, Minsitry of Statistics and Program Implementation (2020).
+Periodic Labour Force Survey (PLFS) Annual Report, 2018-19
+15. National Health Authority. States / UTs at a Glance. (accessed March 2021). Accessed
+at https://pmjay.gov.in/states/states-glance
+16. Ravi, S. et al. Health and Morbidity in India (2004-2014). Brookings India.
+17. State Government websites for overview of respective health insurance schemes.
+Accessed between 2019 and July 2021
+18. Shiller, RJ, 2017. Insurance Fundamentals, Financial Markets. Coursera, unpublished
+19. Socio-Economic and Caste Census 2011. Accessed at https://secc.gov.in/
+reportlistContent
+20. The Core Team, 2017. THE ECONOMY: Economics for a changing world. CORE
+Project.
+21. The World Bank Open Data. Out-of-pocket expenditure. (accessed March 2021)
+
+48
+
+Designed by
+
+

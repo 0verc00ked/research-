@@ -1,0 +1,393 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e7]:
+          - generic [ref=e10]: Visit us
+          - link "" [ref=e11] [cursor=pointer]:
+            - /url: https://www.facebook.com/nathealthindia
+            - generic [ref=e13]: 
+          - link "" [ref=e14] [cursor=pointer]:
+            - /url: https://twitter.com/nathealthindia
+            - generic [ref=e16]: 
+          - link "" [ref=e17] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/nathealthindia/
+            - generic [ref=e19]: 
+          - link "" [ref=e20] [cursor=pointer]:
+            - /url: https://www.youtube.com/@nathealth-healthcarefedera1304
+            - generic [ref=e22]: 
+          - link "INTRANET " [ref=e25] [cursor=pointer]:
+            - /url: https://one.nathealthindia.org/
+            - generic [ref=e26]: INTRANET
+            - generic [ref=e27]: 
+        - generic [ref=e29]:
+          - link "Nathealth" [ref=e32] [cursor=pointer]:
+            - /url: https://nathealthindia.org/
+            - img "Nathealth" [ref=e33]
+          - navigation [ref=e35]:
+            - list:
+              - listitem [ref=e36]:
+                - text: 
+                - link "About us" [ref=e37] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/about-us/
+                - list:
+                  - listitem:
+                    - link "Vision and Mission":
+                      - /url: https://nathealthindia.org/#vision-mission
+                  - listitem:
+                    - link "President’s Message":
+                      - /url: https://nathealthindia.org/about-us/#president-message
+                  - listitem:
+                    - link "Secretary General’s Message":
+                      - /url: https://nathealthindia.org/about-us/#gs-message
+                  - listitem:
+                    - link "Past Presidents":
+                      - /url: https://nathealthindia.org/past-presidents/
+                  - listitem:
+                    - text: 
+                    - link "Our Team":
+                      - /url: https://nathealthindia.org/our-team/
+                    - list:
+                      - listitem:
+                        - link "Leadership":
+                          - /url: https://nathealthindia.org/our-team/#leadership
+                      - listitem:
+                        - link "Secretariat":
+                          - /url: https://nathealthindia.org/our-team/#gs-team
+                      - listitem:
+                        - link "Governing Council":
+                          - /url: https://nathealthindia.org/our-team/#gc-members
+              - listitem [ref=e38]:
+                - text: 
+                - link "Strategic Initiatives" [ref=e39] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/nathealth-strategic-initiatives/
+                - list:
+                  - listitem:
+                    - link "Functional":
+                      - /url: https://nathealthindia.org/nathealth-strategic-initiatives/#functional-forums
+                  - listitem:
+                    - link "Geographical":
+                      - /url: https://nathealthindia.org/nathealth-strategic-initiatives/#geographical-forums
+                  - listitem:
+                    - link "Inter Disciplinary":
+                      - /url: https://nathealthindia.org/nathealth-strategic-initiatives/#inter-disciplinary
+              - listitem [ref=e40]:
+                - text: 
+                - link "CSR Initiatives" [ref=e41] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/csr-initiatives/
+                - list:
+                  - listitem:
+                    - link "Strategy / Blueprint":
+                      - /url: https://nathealthindia.org/csr-initiatives/#strategy
+                  - listitem:
+                    - link "Vision and Mission":
+                      - /url: https://nathealthindia.org/csr-initiatives/#vision-mission
+                  - listitem:
+                    - link "Thrust Areas":
+                      - /url: https://nathealthindia.org/csr-initiatives/#thrust-areas
+                  - listitem:
+                    - link "Framework & SOPs":
+                      - /url: https://nathealthindia.org/csr-initiatives/#framework
+                  - listitem:
+                    - link "NATHEALTH Impact Awards 2024":
+                      - /url: https://nathealthindia.org/csr-initiatives/nathealth-impact-awards-2024/
+                  - listitem:
+                    - text: 
+                    - link "CSR Programs":
+                      - /url: https://nathealthindia.org/csr-initiatives/#csr-programs
+                    - list:
+                      - listitem:
+                        - link "Health Nexus Accelerator":
+                          - /url: https://nathealthindia.org/csr-initiatives/health-nexus-accelerator/
+                      - listitem:
+                        - link "Digital Health Training Program":
+                          - /url: https://nathealthindia.org/csr-initiatives/digital-health-training-program/
+                      - listitem:
+                        - link "Choose Safer Healthcare":
+                          - /url: https://www.choosesaferhealthcare.org/
+                      - listitem:
+                        - link "CSR Awards 2023":
+                          - /url: https://nathealthindia.org/csr-initiatives/csr-awards-2023/
+                      - listitem:
+                        - link "CSR Awards":
+                          - /url: https://nathealthindia.org/csr-initiatives/csr-awards/
+                      - listitem:
+                        - link "Win with Vaccines":
+                          - /url: https://nathealthindia.org/csr-initiatives/win-with-vaccines/
+                      - listitem:
+                        - link "We Stand for Quality":
+                          - /url: https://nathealthindia.org/csr-initiatives/we-stand-for-quality/
+              - listitem [ref=e42]:
+                - text: 
+                - link "Publications" [ref=e43] [cursor=pointer]:
+                  - /url: "#"
+                - list:
+                  - listitem:
+                    - link "NATHEALTH Reports and Whitepapers":
+                      - /url: https://nathealthindia.org/nathealth-reports/
+                  - listitem:
+                    - link "Covid Work":
+                      - /url: https://nathealthindia.org/publications/covid-work/
+                  - listitem:
+                    - link "NATHEALTH Insider":
+                      - /url: https://nathealthindia.org/nathealth-insider/
+              - listitem [ref=e44]:
+                - text: 
+                - link "NATHEALTH Speaks" [ref=e45] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/nathealth-speaks/
+                - list:
+                  - listitem:
+                    - link "Expert Series":
+                      - /url: https://nathealthindia.org/nathealth-speaks/#expert-series
+                  - listitem:
+                    - link "Roadshow Series":
+                      - /url: https://nathealthindia.org/nathealth-speaks/#roadshow-series
+                  - listitem:
+                    - link "Union Budget FY23-24":
+                      - /url: https://nathealthindia.org/nathealth-speaks/union-budget-fy23-24/
+                  - listitem:
+                    - link "Leadership Series":
+                      - /url: https://nathealthindia.org/nathealth-speaks/#leadership-series
+                  - listitem:
+                    - link "ABDM Series":
+                      - /url: https://nathealthindia.org/nathealth-speaks/#abdm-series
+                  - listitem:
+                    - link "Opinion Pieces":
+                      - /url: https://nathealthindia.org/nathealth-speaks/#opinion-pieces
+                  - listitem:
+                    - link "Press Releases":
+                      - /url: https://nathealthindia.org/nathealth-speaks/#press-releases
+                  - listitem:
+                    - link "NATHEALTH In Industry":
+                      - /url: https://nathealthindia.org/nathealth-speaks/#nathealth-in-industry
+              - listitem [ref=e46]:
+                - text: 
+                - link "Events" [ref=e47] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/events/
+                - list:
+                  - listitem:
+                    - link "Annual Summit 2025":
+                      - /url: https://nathealthindia.org/etn/annual-summit-2025/
+                  - listitem:
+                    - link "Annual Summit 2024":
+                      - /url: https://nathealthindia.org/etn/annual-summit-2024/
+                  - listitem:
+                    - link "Recent Events":
+                      - /url: https://nathealthindia.org/events/#past-events
+                  - listitem:
+                    - link "Roadshows":
+                      - /url: https://nathealthindia.org/events/#roadshows
+                  - listitem:
+                    - link "GC Meetings":
+                      - /url: https://nathealthindia.org/events/#governing-council-meetings
+                  - listitem:
+                    - link "Archives":
+                      - /url: https://nathealthindia.org/events/#annual-summit
+              - listitem [ref=e48]:
+                - text: 
+                - link "Partners" [ref=e49] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/partners/
+                - list:
+                  - listitem:
+                    - link "Sponsors":
+                      - /url: https://nathealthindia.org/partners/#sponsors-and-members
+                  - listitem:
+                    - link "Partners":
+                      - /url: https://nathealthindia.org/partners/#partners
+              - listitem [ref=e50]:
+                - link "Members" [ref=e51] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/become-a-member/
+              - listitem [ref=e52]:
+                - link "Careers" [ref=e53] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/careers/
+    - generic [ref=e54]:
+      - generic [ref=e62]:
+        - generic [ref=e66]:
+          - text: 
+          - link "Press Releases" [ref=e67] [cursor=pointer]:
+            - /url: https://nathealthindia.org/category/press-releases/
+        - heading "Abhay Soi, Chairman & Managing Director, Max Healthcare Institute Limited is new President of NATHEALTH" [level=1] [ref=e68]:
+          - generic [ref=e70]: Abhay Soi, Chairman & Managing Director, Max Healthcare Institute Limited is new President of NATHEALTH
+        - generic [ref=e71]:
+          - generic [ref=e72]:  April 4, 2024
+          - generic [ref=e73]:
+            - text: 
+            - link "by admin" [ref=e74] [cursor=pointer]:
+              - /url: https://nathealthindia.org/author/admin/
+      - generic [ref=e76]:
+        - article [ref=e77]:
+          - generic [ref=e79]:
+            - generic [ref=e81]:
+              - generic [ref=e88]:
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/financial-express.png" [ref=e92] [cursor=pointer]:
+                  - /url: https://www.financialexpress.com/healthcare/news-healthcare/abhay-soi-chairman-managing-director-max-healthcare-institute-limited-becomes-president-of-nathealth/3445241/
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/financial-express.png" [ref=e93]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/express-healthcare.png" [ref=e97] [cursor=pointer]:
+                  - /url: https://www.expresshealthcare.in/news/abhay-soi-appointed-as-the-new-president-of-nathealth/442919/
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/express-healthcare.png" [ref=e98]
+                - link "https://nathealthindia.org/wp-content/uploads/2023/01/bwhealthcare.png" [ref=e102] [cursor=pointer]:
+                  - /url: https://bwhealthcareworld.businessworld.in/article/new-leadership-team-announced-at-nathealth-agm-2024-abhay-soi-takes-charge-as-president/04-04-2024-515849
+                  - img "https://nathealthindia.org/wp-content/uploads/2023/01/bwhealthcare.png" [ref=e103]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/healthcare-radius.png" [ref=e107] [cursor=pointer]:
+                  - /url: https://bwhealthcareworld.businessworld.in/article/new-leadership-team-announced-at-nathealth-agm-2024-abhay-soi-takes-charge-as-president/04-04-2024-515849
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/healthcare-radius.png" [ref=e108]
+              - generic [ref=e119]:
+                - link "https://nathealthindia.org/wp-content/uploads/2024/03/pti.png" [ref=e123] [cursor=pointer]:
+                  - /url: https://www.ptinews.com/story/business/abhay-soi-takes-over-as-new-president-of-nathealth/1402919
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/03/pti.png" [ref=e124]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/timesofindia.png" [ref=e128] [cursor=pointer]:
+                  - /url: https://timesofindia.indiatimes.com/india/max-cmd-abhay-soi-is-new-president-of-nathealth/articleshow/109013251.cms
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/timesofindia.png" [ref=e129]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/Healthy-Soch-New-Logo.webp" [ref=e133] [cursor=pointer]:
+                  - /url: https://healthysoch.com/general/abhay-soi-chairman-managing-director-max-healthcare-institute-limited-is-new-president-of-nathealth/
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/Healthy-Soch-New-Logo.webp" [ref=e134]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/passionate.png" [ref=e138] [cursor=pointer]:
+                  - /url: https://www.passionateinmarketing.com/abhay-soi-chairman-managing-director-max-healthcare-institute-limited-is-new-president-of-nathealth/
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/passionate.png" [ref=e139]
+              - generic [ref=e150]:
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/MediaNews4U.png" [ref=e154] [cursor=pointer]:
+                  - /url: https://www.latestly.com/agency-news/latest-news-abhay-soi-takes-over-as-new-president-of-nathealth-5867048.html
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/MediaNews4U.png" [ref=e155]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/newsdrum.webp" [ref=e159] [cursor=pointer]:
+                  - /url: https://www.newsdrum.in/business/abhay-soi-takes-over-as-new-president-of-nathealth-4452458
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/newsdrum.webp" [ref=e160]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/Media-Infoline.png" [ref=e164] [cursor=pointer]:
+                  - /url: https://www.mediainfoline.com/movement/abhay-soi-chairman-managing-director-max-healthcare-institute-limited-is-new-president-of-nathealth
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/Media-Infoline.png" [ref=e165]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/latestly.png" [ref=e169] [cursor=pointer]:
+                  - /url: https://www.latestly.com/agency-news/latest-news-abhay-soi-takes-over-as-new-president-of-nathealth-5867048.html
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/latestly.png" [ref=e170]
+              - generic [ref=e181]:
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/adgully.png" [ref=e185] [cursor=pointer]:
+                  - /url: https://www.adgully.com/abhay-soi-max-healthcare-institute-limited-is-president-of-nathealth-144028.html
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/adgully.png" [ref=e186]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/sarkarimirror.png" [ref=e190] [cursor=pointer]:
+                  - /url: https://www.sarkarimirror.com/abhay-soi-cmd-max-healthcare-institute-ltd-takes-charge-as-president-of-nathealth/
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/sarkarimirror.png" [ref=e191]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/03/biovoice_logo.png" [ref=e195] [cursor=pointer]:
+                  - /url: https://biovoicenews.com/abhay-soi-cmd-max-healthcare-is-new-president-of-nathealth/
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/03/biovoice_logo.png" [ref=e196]
+                - link "https://nathealthindia.org/wp-content/uploads/2024/04/ibc24.png" [ref=e200] [cursor=pointer]:
+                  - /url: https://www.ibc24.in/business/max-healthcare-chairman-abhay-soi-appointed-new-chairman-of-nathealth-2446327.html
+                  - img "https://nathealthindia.org/wp-content/uploads/2024/04/ibc24.png" [ref=e201]
+            - generic [ref=e207]:
+              - link "" [ref=e208] [cursor=pointer]:
+                - /url: https://www.facebook.com/sharer/sharer.php?u=https://nathealthindia.org/abhay-soi-chairman-managing-director-max-healthcare-institute-limited-is-new-president-of-nathealth/
+              - link "" [ref=e209] [cursor=pointer]:
+                - /url: https://twitter.com/intent/tweet?text=https://nathealthindia.org/abhay-soi-chairman-managing-director-max-healthcare-institute-limited-is-new-president-of-nathealth/
+              - link "" [ref=e210] [cursor=pointer]:
+                - /url: https://www.linkedin.com/shareArticle?url=https://nathealthindia.org/abhay-soi-chairman-managing-director-max-healthcare-institute-limited-is-new-president-of-nathealth/
+              - link "" [ref=e211] [cursor=pointer]:
+                - /url: https://api.whatsapp.com/send?text=https://nathealthindia.org/abhay-soi-chairman-managing-director-max-healthcare-institute-limited-is-new-president-of-nathealth/
+        - generic [ref=e214]:
+          - 'link "previous NATHEALTH 10th Annual Summit 2024: How Will India''s Healthcare Evolve by 2047 and in What Way Can the Private Sector Contribute to This Progress " [ref=e215] [cursor=pointer]':
+            - /url: https://nathealthindia.org/nathealth-10th-annual-summit-2024-how-will-indias-healthcare-evolve-by-2047-and-in-what-way-can-the-private-sector-contribute-to-this-progress-4/
+            - generic [ref=e217]:
+              - generic [ref=e218]: previous
+              - generic [ref=e219]: "NATHEALTH 10th Annual Summit 2024: How Will India's Healthcare Evolve by 2047 and in What Way Can the Private Sector Contribute to This Progress"
+            - text: 
+          - link "next Healthtech start-ups in India poised for expansion " [ref=e220] [cursor=pointer]:
+            - /url: https://nathealthindia.org/healthtech-start-ups-in-india-poised-for-expansion/
+            - generic [ref=e222]:
+              - generic [ref=e223]: next
+              - generic [ref=e224]: Healthtech start-ups in India poised for expansion
+            - text: 
+    - generic [ref=e225]:
+      - generic [ref=e226]:
+        - generic [ref=e233]:
+          - generic [ref=e236]:
+            - img "https://nathealthindia.org/wp-content/uploads/2022/08/nathealth-logo.webp" [ref=e239]
+            - text: 
+            - link "Communication Address" [ref=e241] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e242]: Communication Address
+            - link " Surya Kiran Building, Flat No. 112, 1st Floor, K.G. Marg, New Delhi - 110002" [ref=e244] [cursor=pointer]:
+              - /url: "#"
+              - text: 
+              - generic [ref=e245]: Surya Kiran Building, Flat No. 112, 1st Floor, K.G. Marg, New Delhi - 110002
+            - link "Registration Address" [ref=e247] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e248]: Registration Address
+            - link " 1005, Roots Tower, Plot No. 7, Laxmi Nagar District Centre, Delhi - 110092" [ref=e250] [cursor=pointer]:
+              - /url: "#"
+              - text: 
+              - generic [ref=e251]: 1005, Roots Tower, Plot No. 7, Laxmi Nagar District Centre, Delhi - 110092
+            - link " secretariat@nathealth.co.in" [ref=e253] [cursor=pointer]:
+              - /url: "#"
+              - text: 
+              - generic [ref=e254]: secretariat@nathealth.co.in
+          - generic [ref=e257]:
+            - heading "Quick Links" [level=6] [ref=e259]:
+              - generic [ref=e261]: Quick Links
+            - list [ref=e264]:
+              - listitem [ref=e265]:
+                - link "About us" [ref=e266] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/about-us/
+              - listitem [ref=e267]:
+                - link "Our Team" [ref=e268] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/our-team/
+              - listitem [ref=e269]:
+                - link "Careers" [ref=e270] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/careers/
+              - listitem [ref=e271]:
+                - link "Become a Member" [ref=e272] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/become-a-member/
+              - listitem [ref=e273]:
+                - link "NATHEALTH Speaks" [ref=e274] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/nathealth-speaks/
+              - listitem [ref=e275]:
+                - link "RFP Listings" [ref=e276] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/rfps/
+              - listitem [ref=e277]:
+                - link "UCPMP" [ref=e278] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/ucpmp/
+          - generic [ref=e281]:
+            - heading "Find Out More" [level=6] [ref=e283]:
+              - generic [ref=e285]: Find Out More
+            - list [ref=e288]:
+              - listitem [ref=e289]:
+                - link "CSR Initiatives" [ref=e290] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/csr-initiatives/
+              - listitem [ref=e291]:
+                - link "NATHEALTH Strategic Initiatives" [ref=e292] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/nathealth-strategic-initiatives/
+              - listitem [ref=e293]:
+                - link "Choose Safer Healthcare" [ref=e294] [cursor=pointer]:
+                  - /url: https://choosesaferhealthcare.org
+              - listitem [ref=e295]:
+                - link "NATHEALTH Impact Awards 2024" [ref=e296] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/csr-initiatives/nathealth-impact-awards-2024/
+              - listitem [ref=e297]:
+                - link "We Stand for Quality" [ref=e298] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/csr-initiatives/we-stand-for-quality/
+              - listitem [ref=e299]:
+                - link "Win with Vaccines" [ref=e300] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/csr-initiatives/win-with-vaccines/
+              - listitem [ref=e301]:
+                - link "CSR Awards" [ref=e302] [cursor=pointer]:
+                  - /url: https://nathealthindia.org/csr-initiatives/csr-awards/
+          - generic [ref=e305]:
+            - heading "Let’s Get In Touch" [level=6] [ref=e307]:
+              - generic [ref=e309]: Let’s Get In Touch
+            - link "Contact us" [ref=e311] [cursor=pointer]:
+              - /url: https://nathealthindia.org/contact-us/
+              - generic [ref=e312]: Contact us
+        - generic [ref=e319]:
+          - paragraph [ref=e324]:
+            - text: ©2026
+            - strong [ref=e325]: Healthcare Federation of India
+            - text: . All rights reserved.
+          - generic [ref=e328]:
+            - paragraph [ref=e330]: Visit us on social networks
+            - link "" [ref=e332] [cursor=pointer]:
+              - /url: "#"
+            - link "" [ref=e334] [cursor=pointer]:
+              - /url: "#"
+            - link "" [ref=e336] [cursor=pointer]:
+              - /url: "#"
+      - contentinfo
+  - generic:
+    - link "":
+      - /url: "#"
+      - text: 
+  - text:            

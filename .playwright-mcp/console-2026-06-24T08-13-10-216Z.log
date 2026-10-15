@@ -1,0 +1,150 @@
+[    6097ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[    5029ms] [LOG] {d: ok} @ https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:34
+[    6105ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[    6310ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[    7346ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[    8313ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[    9347ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   10339ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   11324ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   12326ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   12625ms] [WARNING] The resource https://s.go-mpulse.net/boomerang/C4E7H-KSCMC-422L4-W3EM5-U36MF was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:0
+[   13312ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   14337ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   15312ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   16324ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   17327ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   18333ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   19334ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   20332ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   21334ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   22312ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   23454ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   24318ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   25361ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   26328ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   27321ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   28318ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   29406ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   30321ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   31322ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   32521ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   33324ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   34312ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   35316ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   36341ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   37329ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   38394ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   39324ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   40403ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   41318ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   42333ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   43385ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   44391ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   45341ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   46320ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   47328ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   48315ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   49325ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   50349ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   51354ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   52313ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   53316ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   54321ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   55386ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   56313ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   57315ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   58354ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   59315ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   60369ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   61325ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   62324ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   63315ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   64360ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   65323ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   66325ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   67317ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   68325ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   69322ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   70318ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   71315ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   72320ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   73338ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   74327ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   75324ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   76315ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   77321ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56

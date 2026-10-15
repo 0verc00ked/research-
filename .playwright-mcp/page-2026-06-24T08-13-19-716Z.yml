@@ -1,0 +1,85 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - button "Print" [ref=e6] [cursor=pointer]
+    - generic [ref=e7]:
+      - generic [ref=e8]: Competition Commission of India
+      - img "azadi ka amrit mahotsav" [ref=e11]
+      - generic [ref=e12]:
+        - heading "CCI approves proposed transaction involving Aster DM Healthcare, BCP Asia, Centella and Quality Care India Limited" [level=2] [ref=e13]
+        - heading [level=3]
+      - generic [ref=e14]: "प्रविष्टि तिथि: 15 APR 2025 8:06PM by PIB Delhi"
+      - paragraph [ref=e16]:
+        - generic [ref=e17]: The
+        - generic [ref=e19]: Competition Commission of India has approved
+        - generic [ref=e20]: the proposed transaction involving Aster DM Healthcare, BCP Asia, Centella and Quality Care India Limited.
+      - paragraph [ref=e21]:
+        - generic [ref=e23]: The proposed transaction includes the proposed merger of
+        - generic [ref=e25]:
+          - text: Quality Care India Limited
+          - generic [ref=e26]:
+            - text: (
+            - strong [ref=e27]: QCIL
+            - text: ) into Aster DM Healthcare Limited (
+            - strong [ref=e28]: Aster
+            - text: ) by way of scheme of amalgamation, post which Aster will be renamed as Aster DM Quality Care Limited. Prior to the merger, Aster shall purchase 5.0% stake in QCIL from BCP Asia II TopCo IV Pte. Ltd. (
+            - strong [ref=e29]: BCP Asia
+            - text: ) and Centella Mauritius Holdings Limited (
+            - strong [ref=e30]: Centella
+            - text: ) in consideration of a primary share issuance by Aster. The existing shareholders of QCIL
+            - emphasis [ref=e31]: i.e.
+            - text: ", Centella, BCP and certain minority shareholders are proposed to hold certain stake in the merged entity with Centella holding less than 10% stake, without any control rights."
+      - paragraph [ref=e32]:
+        - generic [ref=e34]: Aster is a healthcare service provider operating in India through 19 hospitals with 4867 beds, 13 clinics, 215 pharmacies, and 232 labs and patient
+        - generic [ref=e36]: experience centers across 6 states in India. It is a part of the Aster Group.
+      - paragraph [ref=e37]:
+        - generic [ref=e39]: BCP is owned by funds advised and / or managed by affiliates of Blackstone Inc.
+      - paragraph [ref=e40]:
+        - generic [ref=e43]:
+          - text: Centella is owned and controlled by an entity, which is advised by the affiliates of TPG Inc. (
+          - strong [ref=e44]: TPG
+          - text: ), the ultimate holding company of the TPG group. TPG, including its subsidiaries and affiliates, are together referred to as ‘TPG Group’.
+      - paragraph [ref=e45]:
+        - generic [ref=e47]: QCIL, is an unlisted public limited company, owned and controlled by Centella, and BCP. It operates a network of multi-specialty hospitals under the brand name CARE Hospitals, KIMS Health and Evercare across various cities in India. It has a network of 26 healthcare centers operating over 5,150+ beds across 14 cities offer over 30 medical specialties with a team of 2,500+ doctors.
+      - paragraph [ref=e48]:
+        - generic [ref=e50]: Detailed order of the Commission will follow.
+      - paragraph [ref=e51]:
+        - generic [ref=e53]: "******"
+      - paragraph [ref=e54]:
+        - strong [ref=e55]:
+          - generic [ref=e57]: NB/AD
+      - text: "(रिलीज़ आईडी: 2121949) आगंतुक पटल : 1288"
+      - generic [ref=e58]:
+        - text: "इस विज्ञप्ति को इन भाषाओं में पढ़ें:"
+        - link "Urdu" [ref=e59] [cursor=pointer]:
+          - /url: https://pib.gov.in/PressReleasePage.aspx?PRID=2121977
+        - text: ","
+        - link "हिन्दी" [ref=e60] [cursor=pointer]:
+          - /url: https://pib.gov.in/PressReleasePage.aspx?PRID=2121959
+        - text: ","
+        - link "Tamil" [ref=e61] [cursor=pointer]:
+          - /url: https://pib.gov.in/PressReleasePage.aspx?PRID=2121990
+      - generic:
+        - list
+      - generic:
+        - list
+  - list [ref=e64]:
+    - link "Share on facebook" [ref=e65] [cursor=pointer]:
+      - /url: http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2121949
+      - listitem [ref=e66]:
+        - img "Share on facebook" [ref=e67]
+    - link "Share on twitter" [ref=e68] [cursor=pointer]:
+      - /url: https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2121949&text=	CCI approves proposed transaction involving Aster DM Healthcare, BCP Asia, Centella and Quality Care India Limited
+      - listitem [ref=e69]:
+        - img "Share on twitter" [ref=e70]
+    - link "Share on whatsapp" [ref=e71] [cursor=pointer]:
+      - /url: https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2121949
+      - listitem [ref=e72]:
+        - img "Share on whatsapp" [ref=e73]
+    - link "Share on email" [ref=e74] [cursor=pointer]:
+      - /url: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=	CCI approves proposed transaction involving Aster DM Healthcare, BCP Asia, Centella and Quality Care India Limited&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2121949&ui=2&tf=1&pli=1
+      - listitem [ref=e75]:
+        - img "Share on email" [ref=e76]
+    - link "Share on linkedin" [ref=e77] [cursor=pointer]:
+      - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2121949&title=	CCI approves proposed transaction involving Aster DM Healthcare, BCP Asia, Centella and Quality Care India Limited&summary=My%20favorite%20developer%20program&source=LinkedIn
+      - listitem [ref=e78]:
+        - img "Share on linkedin" [ref=e79]

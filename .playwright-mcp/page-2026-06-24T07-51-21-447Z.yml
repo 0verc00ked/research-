@@ -1,0 +1,175 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e6]:
+        - link "IVCA Logo" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "IVCA Logo" [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e12]:
+              - link "LinkedIn IVCA" [ref=e13] [cursor=pointer]:
+                - /url: https://in.linkedin.com/company/indian-private-equity-venture-capital-association
+                - button "linkedin" [ref=e14]:
+                  - img [ref=e15]
+              - link "twitter IVCA" [ref=e17] [cursor=pointer]:
+                - /url: https://twitter.com/IndianVCA
+                - img "twitter" [ref=e18]
+              - link "youtube IVCA" [ref=e19] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCEyV1l7ncz8m9xYVXlhGEeA
+                - button "youtube icon" [ref=e20]:
+                  - img [ref=e21]
+            - generic [ref=e23]:
+              - button "Contact Us" [ref=e25] [cursor=pointer]:
+                - text: Contact Us
+                - img [ref=e27]
+              - link "Become a Member" [ref=e30] [cursor=pointer]:
+                - /url: /membership/membership-form
+                - button "Become a Member" [ref=e31]:
+                  - generic [ref=e32]: Become a Member
+                  - img [ref=e34]
+          - generic [ref=e37]:
+            - generic [ref=e39] [cursor=pointer]:
+              - paragraph [ref=e40]: About
+              - img "Down arrow" [ref=e41]
+            - generic [ref=e43] [cursor=pointer]:
+              - paragraph [ref=e44]: Committee
+              - img "Down arrow" [ref=e45]
+            - generic [ref=e47] [cursor=pointer]:
+              - paragraph [ref=e48]: Advocacy
+              - img "Down arrow" [ref=e49]
+            - generic [ref=e51] [cursor=pointer]:
+              - paragraph [ref=e52]: Membership
+              - img "Down arrow" [ref=e53]
+            - generic [ref=e55] [cursor=pointer]:
+              - paragraph [ref=e56]: Resources
+              - img "Down arrow" [ref=e57]
+            - generic [ref=e59] [cursor=pointer]:
+              - paragraph [ref=e60]: Initiatives
+              - img "Down arrow" [ref=e61]
+            - generic [ref=e63] [cursor=pointer]:
+              - paragraph [ref=e64]: Newsroom
+              - img "Down arrow" [ref=e65]
+            - link "Industry Job Board" [ref=e67] [cursor=pointer]:
+              - /url: /jobs
+              - paragraph [ref=e68]: Industry Job Board
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - img "hero background image" [ref=e71]
+        - generic [ref=e73]:
+          - heading "About Us" [level=1] [ref=e74]
+          - paragraph [ref=e75]: IVCA - Indian Venture and Alternate Capital Association
+      - generic [ref=e77]:
+        - img "background dots" [ref=e80]
+        - article [ref=e81]:
+          - generic [ref=e84]:
+            - heading "IVCA - Indian Venture and Alternate Capital Association" [level=2] [ref=e85]
+            - paragraph [ref=e86]: Established in 1993, the Indian Venture and Alternate Capital Association (IVCA) is a non-profit organization that serves as the apex industry body dedicated to promoting the alternate capital industry and nurturing a thriving investment environment in India. IVCA is resolutely committed to bolstering the ecosystem by advocating regulatory interventions and facilitating constructive dialogue with the Government of India, policymakers, and regulators. This collaborative approach fosters increased entrepreneurial activity, innovation, job creation, and contributes to positioning India as a leading global fund management hub.
+            - paragraph [ref=e87]: With over 490 members and a combined AUM exceeding $350 billion, IVCA’s esteemed membership comprises the most active domestic and global entities, including VCs, PEs, Infrastructure Funds, Real Estate Funds, Credit Funds, Limited Partners, Investment Companies, Family Offices, Corporate VCs, Category III Funds / Hedge Funds, and Knowledge Partners.
+            - paragraph [ref=e88]: Within the SEBI-registered AIF landscape, 49% of all registered AIFs are IVCA members. Within the total IVCA membership base, 74% of members manage AIFs. IVCA stands as the sole industry association for alternate capital funds engaged in investments within India and is collectively owned by industry members.
+            - paragraph [ref=e89]: IVCA holds legal registration as a Section 8 entity, signifying a non-profit organization. Vistra ITCL (India) Limited serves as the custodian of IVCA’s trust-held shares.
+            - 'button "IVCA: Brief Profile" [ref=e91] [cursor=pointer]':
+              - generic [ref=e92]: "IVCA: Brief Profile"
+              - img [ref=e94]
+        - img "dots" [ref=e99]
+      - main [ref=e100]:
+        - article [ref=e101]:
+          - heading "Vision and Mission" [level=2] [ref=e102]
+          - paragraph [ref=e103]: As we commemorate 75 years of India's sovereignty, the 'India Opportunity' narrative is echoing on the global stage. At IVCA, our vision is not only about fostering a vibrant investing ecosystem, but also pivoting towards the ideals of 'Atmanirbhar Bharat' (self-reliant India). This vision aligns with our goals to onshore the offshore initiatives and underscores the importance of creating domestic pools of capital. It is the robust contributions and unwavering support of diverse asset classes that are instrumental in catalysing India's ambitious objective to ascend as a USD 5 trillion economy by 2025 and bolster India's stature as an enticing destination for both global and domestic funds.
+          - paragraph [ref=e104]: To actualize this vision, we have set tangible objectives. We aim to mobilize pools of capital, create a favourable regulatory environment, and drive positive change for the industry. This involves creation of dialogue platforms and opportunities for the Alternate Capital ecosystem which are focused on the promotion of best investment governance practices, research driven advocacy with regulators to provide inputs that enable a competitive policy environment, and networking opportunities between investors and high growth companies.
+          - paragraph [ref=e105]: Investor protection and enablement of free and fair markets is core to the associations thought process and we strive to achieve the same via all activities and initiatives that we carry out.
+        - generic [ref=e106]:
+          - paragraph [ref=e107]: Board of Directors
+          - generic [ref=e110]: Loading...
+      - generic [ref=e111]:
+        - paragraph [ref=e112]: Our Team
+        - generic [ref=e115]: Loading...
+    - contentinfo [ref=e116]:
+      - main [ref=e117]:
+        - heading "Stay Connected. Sign up for updates." [level=2] [ref=e119]:
+          - text: Stay Connected.
+          - text: Sign up for updates.
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - group [ref=e123]:
+              - textbox [ref=e125]:
+                - /placeholder: First Name
+            - group [ref=e126]:
+              - textbox [ref=e128]:
+                - /placeholder: Last Name
+            - group [ref=e129]:
+              - textbox [ref=e131]:
+                - /placeholder: Organisation
+            - group [ref=e132]:
+              - textbox [ref=e134]:
+                - /placeholder: E-mail Address
+          - button "Submit" [ref=e135] [cursor=pointer]:
+            - text: Submit
+            - img [ref=e137]
+      - main [ref=e140]:
+        - img "IVCA logo" [ref=e142]
+        - article [ref=e143]:
+          - heading "Website" [level=2] [ref=e144]
+          - generic [ref=e145]:
+            - link "Disclaimer" [ref=e146] [cursor=pointer]:
+              - /url: /disclaimer
+              - paragraph [ref=e147]: Disclaimer
+            - link "T&C" [ref=e148] [cursor=pointer]:
+              - /url: /tc
+              - paragraph [ref=e149]: T&C
+            - link "Privacy Policy" [ref=e150] [cursor=pointer]:
+              - /url: /privacy-policy
+              - paragraph [ref=e151]: Privacy Policy
+            - link "Refund Policy" [ref=e152] [cursor=pointer]:
+              - /url: /refund-policy
+              - paragraph [ref=e153]: Refund Policy
+            - link "About IVCA" [ref=e154] [cursor=pointer]:
+              - /url: /
+              - paragraph [ref=e155]: About IVCA
+        - article [ref=e156]:
+          - heading "Industry" [level=2] [ref=e157]
+          - generic [ref=e158]:
+            - link "Private Equity" [ref=e159] [cursor=pointer]:
+              - /url: /private-equity
+              - paragraph [ref=e160]: Private Equity
+            - link "Venture Capital" [ref=e161] [cursor=pointer]:
+              - /url: /venture-capital-2
+              - paragraph [ref=e162]: Venture Capital
+            - link "Glossary" [ref=e163] [cursor=pointer]:
+              - /url: /glossary
+              - paragraph [ref=e164]: Glossary
+        - article [ref=e165]:
+          - heading "contact us" [level=2] [ref=e166]
+          - generic [ref=e167]:
+            - img "mail logo" [ref=e168]
+            - paragraph [ref=e169]: info@ivca.in
+          - generic [ref=e170]:
+            - img "mapPin logo" [ref=e171]
+            - paragraph [ref=e172]: First floor, Room 7 & 13 Innov8, Old Fort, Saket District Centre New Delhi - 110017
+        - generic [ref=e173]:
+          - link "linkedin" [ref=e174] [cursor=pointer]:
+            - /url: https://in.linkedin.com/company/indian-private-equity-venture-capital-association
+            - button "linkedin" [ref=e175]:
+              - img [ref=e176]
+          - link "twitter" [ref=e178] [cursor=pointer]:
+            - /url: https://twitter.com/IndianVCA
+            - img "twitter" [ref=e180]
+          - link "youtube" [ref=e181] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCEyV1l7ncz8m9xYVXlhGEeA
+            - button "youtube" [ref=e182]:
+              - img [ref=e183]
+      - generic [ref=e185]:
+        - paragraph [ref=e186]: Copyright © 2026 IVCA. All rights reserved.
+        - link "The Internet Folks" [ref=e187] [cursor=pointer]:
+          - /url: https://theinternetfolks.com/
+          - paragraph [ref=e188]: "Managed by: The Internet Folks"
+    - button "Query Guidance Tool" [ref=e190] [cursor=pointer]:
+      - img [ref=e191]
+  - alert [ref=e193]
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"

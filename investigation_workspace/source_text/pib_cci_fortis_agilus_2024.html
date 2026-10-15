@@ -1,0 +1,972 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Press Release Page | Press Information Bureau
+</title><link href="css/style.css" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" />
+
+
+      <script src="js/jquery.min.js" type="text/javascript"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" /><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet" />
+
+      <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  // Get the IDs from the current page's URL
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+
+            });
+      </script>
+      <style type="text/css">
+            .table-responsive {
+                  width: 100%;
+                  overflow-x: auto;
+            }
+
+            .banner {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                  background-color: #000;
+                  color: #fff;
+                  padding: 20px;
+            }
+
+            full-width {
+                  width: 100%;
+            }
+
+            .logo-left, .logo-center, .countdown {
+                  display: flex;
+                  align-items: center;
+            }
+
+                  .logo-left img, .logo-center img {
+                        height: 70px;
+                  }
+
+            .countdown {
+                  text-align: center;
+                  background-color: #444;
+                  border-radius: 10px;
+                  padding: 10px;
+                  border: 2px solid grey;
+            }
+
+            .firstnumber {
+                  color: #000000;
+                  position: absolute;
+                  top: 50px;
+                  right: 90px;
+                  font-size: 30px;
+            }
+
+            .secondnumber {
+                  position: absolute;
+                  color: #000000;
+                  right: 45px;
+                  top: 50px;
+                  font-size: 30px;
+            }
+
+            .countdown .days {
+                  font-size: 35px;
+                  color: gold;
+            }
+
+            .countdown p {
+                  margin: 0;
+            }
+
+            .countdown .text {
+                  font-size: 16px;
+            }
+
+            a {
+                  word-break: break-all;
+            }
+
+            iframe, img {
+                  max-width: 100%;
+            }
+
+            @media(max-width:1199px) {
+                  .firstnumber {
+                        top: 40px;
+                        right: 72px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 35px;
+                        top: 40px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:990px) {
+                  .firstnumber {
+                        top: 25px;
+                        right: 54px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 25px;
+                        top: 25px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:768px) {
+                  .countdown, .days {
+                        font-size: 12px !important;
+                  }
+
+
+                  .firstnumber {
+                        top: 25%;
+                        right: 8%;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 4.5%;
+                        top: 25%;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:475px) {
+                  .countdown, .days {
+                        font-size: 10px !important;
+                        top: 20%;
+                  }
+
+                  .bannerimgdiv {
+                        padding: 0 !important;
+                  }
+
+                  .bannerimg {
+                        width: 108% !important;
+                  }
+            }
+      </style>
+      <script type="text/javascript">
+            $(function () {
+                  $("[id*=printPDF]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+            $(function () {
+                  $("[id*=printPDFEvent]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+      </script>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112591026-1"></script>
+      <script>
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() { dataLayer.push(arguments); }
+
+            gtag('js', new Date());
+
+
+
+            gtag('config', 'UA-112591026-1');
+
+      </script>
+
+<meta property="og:title" content="CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)" /><meta property="og:url" content="www.pib.gov.in/Pressreleaseshare.aspx?PRID=2069429" /><meta property="og:description" content="The Competition Commission of India has approved the acquisition of additional share capital of Agil" /><meta property="og:image" content="https:/pib.gov.in/images/indian-emblem.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="eqeub4yaznbcejafaiabmmauabvcc5ot-f-0468bd073-clienttons-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":43,"ak.ipv":6,"ak.proto":"h2","ak.rid":"37937cb","ak.r":32732,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":61154,"ak.gh":"49.44.177.135","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1780577747","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==U6ES+iJnG83/Xjs+fkJ2dQ2fzv21Q7CLbJOBjbjZM+BtWEa7DQi3MeyChbyEHZoFgVOeDZylQ1kgcD8sDNfmCI/Bu3cqGeI3N1llrsBcCyTXiHDyAa/I10Y/wj8ziCeWNY1AE2f8bcu4kSXNVHmcjb2/VCm+5aCHU57AJEHt03eELYZ/CX6OBKmcGby5eSiOyNetFaLvgBvC+pnilYemaWHG/WlMwniBJqUDMQp3K1n6/7sPDemYSqlulxT019LmQJxXTooGCtaQmlsRmHTlgXhj9yCT5A/O2LbPzuIx7FOhRpPvGKlDwoiJjVO5DdsQk9HI8rqM/+Z1sfPps0XR98Yt7aQGhNUuwaWhM8ntNwJn7o2W9Tc7S6dylaXbDZbawb10Kph7CIIw2LZbY+24NAX38ftdtIYQRa0dGlyL+Fk=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+      <form method="post" action="./PressReleasePage.aspx?PRID=2069429&amp;reg=48&amp;lang=2" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=b94hX14NMWluUQ9a73g0LYFvtKhY52TK8cbDkYB_F2GuPre4tdh-ebiiI4xuhXnRu6Q5dQjaQA4oN3PEeL0GrtKEyEY1&amp;t=638942408819057530" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=YwOa_0w_u3oCLFqmIIOf-XEz4GWZ1DuyQIpxIA4LVkywj39sZSps12NbK5wNl5XN9JF3m7d-ey7BFDgj6i0380qRQ5IMWCL54sYNVU1IjMmiOWpp0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_shmykYI80CxCNR43Ii1nLy9PBGhuSe6SPp3CEYu0wDEuLqDAuIcsXVNhTIgQn0iyiwPorMflXuK31FftDX9GnB0m366MCEoOmY-eKQ3YAO9xRL0gIigzgRbtbVOgSQkJbJpFg2&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleasePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3aa67c2700%3aab09e3fe%3a87104b7c%3a8613aea7%3a3202a5a2%3abe6fb298" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59B53027" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="AREwZYdSb1gqqFaSqpH4wC+EkARYa4MHg+iwhWcNX+W3msqbZdirc6FI78ID0IPEK/JVnG7/ApHEnZ3xrzLkEQpoFFKw9hQs9Mq68cmjYJAu+qo9/umtDBfrL/9kSdVe9CuJbaKkBHWtDeU/X6NNeyYYFQG0BeiXRiZdFZDzTofXrJd8EDIXw/0bDbugq7WPb2ng7cM+t0Ex2cZ7QH0/9iRc941jlaGfc1S9nfUM1vux4bg8zyw9QhWgw/tQAMCfuxLIW8llG3mCQt23a0SBMB0LRPK2bR7vicpbdigRQXfRef/J" />
+</div>
+                              
+            <div id="templateCss"></div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('sc', 'form1', ['tupdate12','update12'], [], [], 90, '');
+//]]>
+</script>
+
+            <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+            <div class="container" style='margin-bottom: 50px;'>
+                  <div id="accessories">
+
+                        
+                        <div class="pull-right" style="display: flex">
+                              <div id="voll"></div>
+                              <div id="vollDT"></div>
+                              
+                              
+<div class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</div>
+                        </div>
+                  </div>
+                  <input type="hidden" name="hydpermid" id="hydpermid" value="2069429" />
+                  
+
+
+
+                  <div class="innner-page-main-about-us-content-right-part">
+
+                        <div id="MinistryName" class="MinistryNameSubhead text-center">
+                              Competition Commission of India
+                        </div>
+                        
+                        <div id="lg_g"><div class='log_oo'>  <img src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2021/aug/ph202183101.png' alt='azadi ka amrit mahotsav' /> </div></div>
+
+
+
+
+
+                        <div class="text-center event-heading-background">
+                              
+                              <h2 id="Titleh2">
+                                    CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)
+                              </h2>
+                              <h3 id="Subtitleh3">
+                                    <span id="ltrSubtitle"></span>
+                              </h3>
+                        </div>
+
+                        <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                              प्रविष्टि तिथि:
+                29 OCT 2024 9:16PM by PIB Delhi
+                        </div>
+                        
+                        <div class='pt20'>
+                        </div>
+                        <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                        
+                        <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Competition Commission of India has approved the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)</span></span></p>
+
+<p style="text-align:justify"><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">The Proposed Combination involves the acquisition of an additional 31.52% share capital of Agilus by FHL.</span><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px"> </span><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Post the Proposed Combination, the shareholding of FHL in Agilus will increase from 57.68% to 89.2%.</span></p>
+
+<p style="text-align:justify"><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">FHL is primarily engaged in providing integrated healthcare delivery services such as medicare, healthcare, diagnostics and its businesses include managing and operating a network of multi-specialty hospitals and providing preventive healthcare and diagnostics services. The diagnostics services business of FHL is being undertaken primarily through Agilus.</span></p>
+
+<p style="text-align:justify"><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Agilus is, </span><em style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">inter alia</em><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">, engaged in establishing, managing, maintaining clinical reference laboratories and other laboratories for providing testing and diagnostic services. It offers a range of routine and specialized diagnostics tests as well as wellness packages that cover an extensive range of specialties. It also offers a wide range of corporate wellness services and preventive care health packages comprising several pathology and radiology tests including home collection services.</span></p>
+
+<p style="text-align:justify"><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Detailed order of the Commission will follow.</span></p>
+
+<p style="margin-left:14.2pt; text-align:center">&nbsp;</p>
+
+<p style="margin-left:14.2pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">*****</span></span></span></p>
+
+<p><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">NB/AD</span></span></strong></p>
+
+
+                        
+                        <div id="reel_pic">
+                        </div>
+
+
+
+                        
+                        <br />
+                        <span id="ReleaseId">(रिलीज़ आईडी: 2069429)</span>
+                        <span id="lblViews">	आगंतुक पटल  : 1083</span>
+                        <div>
+                              
+                        </div>
+                        
+
+                        <span id="lblRefPhoto"></span>
+
+                        <div class="BackgroundRelease">
+                              
+                        </div>
+                        <div>
+                              
+                        </div>
+                        <div class="ReleaseLang">इस विज्ञप्ति को इन भाषाओं में पढ़ें: 
+                        
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2069449' target="_blank">
+                                          Urdu </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2069464' target="_blank">
+                                          हिन्दी </a>
+                              
+                        </div>
+
+                        <div class="RelTag">
+                              <ul>
+                                    
+                              </ul>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div id="RelLink" class="RelLink">
+                              <ul>
+                                    
+                                    
+                              </ul>
+                        </div>
+                        <center>
+                              
+                        </center>
+                  </div>
+
+                  <div id="update12">
+	
+                              
+                              <input type="hidden" name="Hidden" id="Hidden" />
+                              <div id="P_CategoryManagement" class="ModalWindow" style="border-width:0px;height:60%;width:60%;overflow:auto;display: none">
+		
+                                    <div>
+                                          <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                                    </div>
+                                    <div id="description">
+                                    </div>
+                                    <div class="text-center">
+                                          <h2>
+                                                
+                                                <br>
+                                                
+                                          </h2>
+                                    </div>
+                                    <br />
+                                    <div class="clear">
+                                    </div>
+                                    
+                              
+	</div>
+                        
+</div>
+            </div>
+            
+            <div id="PdfDiv" style="display: none;">
+                  <table width="100%">
+                        <tr>
+                              <td style="font-weight: 200; text-align: center">
+                                    Competition Commission of India
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="text-align: center; font-size: 14px;">
+                                          प्रविष्टि तिथि:
+                        29 OCT 2024 9:16PM by PIB Delhi
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                                          <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Competition Commission of India has approved the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)</span></span></p>
+
+<p style="text-align:justify"><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">The Proposed Combination involves the acquisition of an additional 31.52% share capital of Agilus by FHL.</span><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px"> </span><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Post the Proposed Combination, the shareholding of FHL in Agilus will increase from 57.68% to 89.2%.</span></p>
+
+<p style="text-align:justify"><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">FHL is primarily engaged in providing integrated healthcare delivery services such as medicare, healthcare, diagnostics and its businesses include managing and operating a network of multi-specialty hospitals and providing preventive healthcare and diagnostics services. The diagnostics services business of FHL is being undertaken primarily through Agilus.</span></p>
+
+<p style="text-align:justify"><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Agilus is, </span><em style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">inter alia</em><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">, engaged in establishing, managing, maintaining clinical reference laboratories and other laboratories for providing testing and diagnostic services. It offers a range of routine and specialized diagnostics tests as well as wellness packages that cover an extensive range of specialties. It also offers a wide range of corporate wellness services and preventive care health packages comprising several pathology and radiology tests including home collection services.</span></p>
+
+<p style="text-align:justify"><span style="color:black; font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Detailed order of the Commission will follow.</span></p>
+
+<p style="margin-left:14.2pt; text-align:center">&nbsp;</p>
+
+<p style="margin-left:14.2pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">*****</span></span></span></p>
+
+<p><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">NB/AD</span></span></strong></p>
+
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                                          (रिलीज़ आईडी: 2069429)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                              </td>
+                        </tr>
+                        <tr>
+                              <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                        </tr>
+                  </table>
+            </div>
+            <div class="clearfix">
+            </div>
+
+            
+
+            <div class="section1">
+                  <div id="frst_t">
+                        <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='40' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429&text=CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='40' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='40' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='40' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429&title=CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='40' /></li></a></ul></div></div>
+                  </div>
+                  <div id="second_t">
+                        <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='35' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429&text=CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='35' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='35' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='35' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2069429&title=CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='35' /></li></a></ul></div></div>
+                  </div>
+            </div>
+            <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="CCI approves the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)" />
+            <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" />
+            <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The Competition Commission of India has approved the acquisition of additional share capital of Agilus Diagnostics Limited (Agilus) by Fortis Healthcare Limited (FHL)&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;color:black; font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>The Proposed Combination involves the acquisition of an additional 31.52% share capital of Agilus by FHL.&lt;/span>&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;> &lt;/span>&lt;span style=&quot;color:black; font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>Post the Proposed Combination, the shareholding of FHL in Agilus will increase from 57.68% to 89.2%.&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;color:black; font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>FHL is primarily engaged in providing integrated healthcare delivery services such as medicare, healthcare, diagnostics and its businesses include managing and operating a network of multi-specialty hospitals and providing preventive healthcare and diagnostics services. The diagnostics services business of FHL is being undertaken primarily through Agilus.&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;color:black; font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>Agilus is, &lt;/span>&lt;em style=&quot;color:black; font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>inter alia&lt;/em>&lt;span style=&quot;color:black; font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>, engaged in establishing, managing, maintaining clinical reference laboratories and other laboratories for providing testing and diagnostic services. It offers a range of routine and specialized diagnostics tests as well as wellness packages that cover an extensive range of specialties. It also offers a wide range of corporate wellness services and preventive care health packages comprising several pathology and radiology tests including home collection services.&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;color:black; font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>Detailed order of the Commission will follow.&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:14.2pt; text-align:center&quot;>&amp;nbsp;&lt;/p>
+
+&lt;p style=&quot;margin-left:14.2pt; text-align:center&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;span style=&quot;color:black&quot;>*****&lt;/span>&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p>&lt;strong>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>NB/AD&lt;/span>&lt;/span>&lt;/strong>&lt;/p>
+" />
+            <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+                  //function HandleAudio() {
+                  //    if (isPlaying == true) {
+                  //        //Playing already Pause it
+                  //        pauseAudio();
+                  //    } else {
+                  //        //Play the music
+                  //        playAudio();
+                  //    }
+                  //}
+            </script>
+            <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+            
+                  function CleanHtml(html) {
+
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        //for responsive tables
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            
+            <style type="text/css">
+                  @media print {
+                        .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                              display: none !important;
+                        }
+                  }
+
+                  .f_vl {
+                        padding-right: 30px;
+                        font-size: 17px;
+                        cursor: pointer;
+                  }
+
+                  .log_oo {
+                        // width: 20%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+
+                        .log_oo img {
+                              width: 150px;
+                              /*width: 100%;
+                    height: auto;*/
+                        }
+
+                  .sticky-social_mb {
+                        position: fixed;
+                        bottom: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                        width: 100%;
+                  }
+
+                  .social_mb {
+                        list-style: none;
+                        display: flex;
+                        width: 100%;
+                        margin-bottom: -8px;
+                  }
+
+                        .social_mb a {
+                              padding: 8px 0px;
+                              font-size: 30px;
+                              transition: all 0.8s ease-in-out;
+                              width: 20% !important;
+                              text-align: center;
+                        }
+            </style>
+            <style type="text/css">
+                  .section1 {
+                        position: relative;
+                        padding: 10px 0px;
+                        width: 100%;
+                  }
+
+
+
+                  .sticky-social {
+                        position: fixed;
+                        top: 20px;
+                        left: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                  }
+
+                  .social {
+                        list-style: none;
+                  }
+
+                        .social a li {
+                              padding: 8px 12px;
+                              font-size: 25px;
+                              transition: all 0.8s ease-in-out;
+                        }
+
+                              .social a li:hover {
+                                    margin-right: -30px;
+                                    box-shadow: 2px 5px 10px grey;
+                              }
+
+                                    .social a li:hover .fa {
+                                          margin-left: 20px;
+                                    }
+
+                  .fb_b {
+                        /* background-color: rgb(59, 89, 152);*/
+                        background-color: rgba(65,103,178,255);
+                  }
+
+                  .twitter_r {
+                        /* background-color: rgb(29, 161, 242);*/
+                        background-color: #000000;
+                  }
+
+                  .whatsapp_r {
+                        /* background-color: rgb(77, 194, 71);*/
+                        background-color: rgba(13,191,67,255);
+                  }
+
+                  .fa-envelope_r {
+                        /* background-color: rgb(219, 68, 55);*/
+                        background-color: #e2123d;
+                  }
+
+                  .fa-linkedin_r {
+                        background-color: rgb(0, 119, 181);
+                  }
+            </style>
+            <style type="text/css">
+                  @media only screen and (max-device-width: 767px) {
+                        p span img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        p img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        h2 {
+                              font-size: 20px !important;
+                              font-weight: 600 !important;
+                        }
+
+                        h3 {
+                              font-size: 18px !important;
+                              font-weight: 600 !important;
+                        }
+                  }
+            </style>
+            <style type="text/css">
+                  /* === Film Roll Badge Styling(IFFI2025 countdown) === */
+                  .film-roll-badge {
+                        position: absolute;
+                        top:82%;
+                        right: 20px;
+                        width: 230px;
+                        height: 70px;
+                        background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 18px, #6e2b8b 18px, #6e2b8b 36px );
+                        border-top: 8px solid #9a2375;
+                        border-bottom: 8px solid #9a2375;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                        animation: moveFilm 8s linear infinite;
+                        z-index: 10;
+                  }
+
+                        /* film sprocket holes */
+                        .film-roll-badge::before,
+                        .film-roll-badge::after {
+                              content: "";
+                              position: absolute;
+                              width: 100%;
+                              height: 10px;
+                              background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 10px, #fff 10px, #fff 20px );
+                              left: 0;
+                              z-index: 2;
+                        }
+
+                        .film-roll-badge::before {
+                              top: -4px;
+                        }
+
+                        .film-roll-badge::after {
+                              bottom: -4px;
+                        }
+
+                  .film-roll-inner {
+                        position: relative;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        animation: flicker 2s infinite ease-in-out;
+                  }
+
+                  .countdown-text {
+                        font-size: 1.3rem;
+                        font-weight: 700;
+                        color: #fff;
+                        text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                        white-space: nowrap;
+                  }
+
+                  /* === Animations === */
+                  @keyframes moveFilm {
+                        0% {
+                              background-position: 0 0;
+                        }
+
+                        100% {
+                              background-position: 120px 0;
+                        }
+                  }
+
+                  @keyframes flicker {
+                        0%, 100% {
+                              opacity: 1;
+                        }
+
+                        50% {
+                              opacity: 0.9;
+                        }
+
+                        25% {
+                              opacity: 0.95;
+                        }
+
+                        75% {
+                              opacity: 0.85;
+                        }
+                  }
+
+                  /* === Responsive Adjustments === */
+                  @media (max-width: 1500px) {
+                        .film-roll-badge {
+                              top: 68%;
+                              right: 18px;
+                              /* width: 220px; */
+                              height: 65px;
+                              font-size: 0.85rem;
+                        }
+
+                        .press-section {
+                              margin-top: 35px;
+                        }
+                  }
+
+                  @media (max-width: 992px) {
+                        .film-roll-badge {
+                              top: 52%;
+                              right: 10px;
+                               width: 200px; 
+                              height: 60px;
+                        }
+                  }
+
+                  @media (max-width: 768px) {
+                        .film-roll-badge {
+                              top: 56%;
+                              right: 10px;
+                               width: 124px; 
+                              height: 55px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.9rem;
+                        }
+                  }
+
+                  @media (max-width: 576px) {
+                        .film-roll-badge {
+                              top: 59%;
+                              right: 5px;
+                              /* width: 160px; */
+                              height: 50px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.85rem;
+                        }
+                  }
+            </style>
+          <script type="text/javascript">
+                const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+
+                const countdownElement = document.getElementById("countdown");
+
+                const interval = setInterval(() => {
+                      const now = new Date().getTime();
+
+                      // BEFORE FESTIVAL — show days + hours left
+                      if (now < festivalStart) {
+                            const diff = festivalStart - now;
+                            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                            countdownElement.innerHTML = `
+              ${days} Day${days !== 1 ? 's' : ''} 
+              ${hours} Hour${hours !== 1 ? 's' : ''} to go
+          `;
+
+                      }
+
+                      // DURING FESTIVAL — show 56th IFFI - Day X
+                      else if (now >= festivalStart && now <= festivalEnd) {
+                            const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                            countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                      }
+
+                      // AFTER FESTIVAL — new message
+                      else {
+                            countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+
+                            // Width change logic
+                            const elements = document.querySelectorAll('.film-roll-badge');
+                            elements.forEach(el => el.style.width = "350px");
+
+                            clearInterval(interval);
+                      }
+
+                }, 1000);
+          </script>
+ <script type="text/javascript">
+
+               const miffStart = new Date("2026-06-15T00:00:00").getTime();
+               const miffEnd = new Date("2026-06-21T23:59:59").getTime();
+
+               const miffElement = document.getElementById("miff");
+
+               if (miffElement) {
+
+                   const miffInterval = setInterval(() => {
+
+                       const now = new Date().getTime();
+
+                       // Before MIFF
+                       if (now < miffStart) {
+
+                           const diff = miffStart - now;
+                           const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                           const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                           miffElement.innerHTML =
+                               `${days} Day${days !== 1 ? 's' : ''} ${hours} Hour${hours !== 1 ? 's' : ''} to go`;
+
+                       }
+
+                       // During MIFF
+                       else if (now >= miffStart && now <= miffEnd) {
+
+                           const dayNumber =
+                               Math.floor((now - miffStart) / (1000 * 60 * 60 * 24)) + 1;
+
+                           miffElement.innerHTML = `18th MIFF - Day ${dayNumber}`;
+                       }
+
+                       // After MIFF
+                       else {
+
+                           miffElement.innerHTML = `✨ MIFF concludes, cinema lives on...`;
+
+                           document.querySelectorAll('.film-roll-badge')
+                               .forEach(el => el.style.width = "350px");
+
+                           clearInterval(miffInterval);
+                       }
+
+                   }, 1000);
+               }
+
+</script>
+
+      
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleasePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+

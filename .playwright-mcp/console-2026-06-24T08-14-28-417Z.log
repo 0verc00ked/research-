@@ -1,0 +1,11 @@
+[     204ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[    1388ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[    2151ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[    3154ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121949&reg=48&lang=2:911:56
+[   11984ms] [LOG] undefined @ https://www.ivca.in/_next/static/chunks/pages/committee-cba024f116262f87.js:0
+[   12229ms] [LOG] undefined @ https://www.ivca.in/_next/static/chunks/pages/committee-cba024f116262f87.js:0
+[   15528ms] [LOG] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object] @ https://www.ivca.in/_next/static/chunks/pages/committee-cba024f116262f87.js:0

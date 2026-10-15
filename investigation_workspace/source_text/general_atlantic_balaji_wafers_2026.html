@@ -1,0 +1,1939 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+	<meta charset="UTF-8"><script type="7c25e4b86ecdfc377e6ab931-text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]},feature_flags:["soft_nav"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"1120133042",accountID:"3706652",trustKey:"66686",xpid:"VwEHV1BWChABVFdbAwkEV1IE",licenseKey:"NRJS-9846188023bec224d9a",applicationID:"1069483165",browserID:"1120133042"};;/*! For license information please see nr-loader-spa-1.315.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={384:(e,t,r)=>{"use strict";r.d(t,{NT:()=>a,Zm:()=>c,bQ:()=>u,dV:()=>d,pV:()=>l});var n=r(6154),i=r(1863),s=r(944),o=r(1910);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function c(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function d(){let e=c();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate||n.gm.setInterval,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket},(0,o.i)(...Object.values(e.o))),e}function u(e,t){let r=c();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t,2===Object.keys(r.initializedAgents).length&&(0,s.R)(69)}function l(){return function(){let e=c();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=c();const t=e.init||{};e.init={...t}}(),d(),function(){let e=c();const t=e.loader_config||{};e.loader_config={...t}}(),c()}},782:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.pageViewTiming},860:(e,t,r)=>{"use strict";r.d(t,{$J:()=>u,K7:()=>c,P3:()=>d,XX:()=>i,Yy:()=>a,df:()=>s,qY:()=>n,v4:()=>o});const n="events",i="jserrors",s="browser/blobs",o="rum",a="browser/logs",c={ajax:"ajax",genericEvents:"generic_events",jserrors:i,logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations"},d={[c.pageViewEvent]:1,[c.pageViewTiming]:2,[c.metrics]:3,[c.jserrors]:4,[c.softNav]:5,[c.ajax]:6,[c.sessionTrace]:7,[c.sessionReplay]:8,[c.logging]:9,[c.genericEvents]:10},u={[c.pageViewEvent]:o,[c.pageViewTiming]:n,[c.ajax]:n,[c.softNav]:n,[c.metrics]:i,[c.jserrors]:i,[c.sessionTrace]:s,[c.sessionReplay]:s,[c.logging]:a,[c.genericEvents]:"ins"}},944:(e,t,r)=>{"use strict";r.d(t,{R:()=>i});var n=r(3241);function i(e,t){"function"==typeof console.debug&&(console.debug("New Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t),(0,n.W)({drained:null,type:"data",name:"warn",feature:"warn",data:{code:e,secondary:t}}))}},993:(e,t,r)=>{"use strict";r.d(t,{A$:()=>s,ET:()=>o,TZ:()=>a,p_:()=>i});var n=r(860);const i={ERROR:"ERROR",WARN:"WARN",INFO:"INFO",DEBUG:"DEBUG",TRACE:"TRACE"},s={OFF:0,ERROR:1,WARN:2,INFO:3,DEBUG:4,TRACE:5},o="log",a=n.K7.logging},1687:(e,t,r)=>{"use strict";r.d(t,{Ak:()=>a,Ze:()=>d,x3:()=>c});var n=r(3241),i=r(3606),s=r(860),o=r(2646);function a(e,t){if(!e)return;const r={staged:!1,priority:s.P3[t]||0};e.runtime.drainRegistry.get(t)||e.runtime.drainRegistry.set(t,r)}function c(e,t){if(!e)return;const r=e.runtime.drainRegistry;r&&(r.get(t)&&r.delete(t),l(e,t,!1),r.size&&u(e))}function d(e,t="feature",r=!1){if(e){if(!e.runtime.drainRegistry.get(t)||r)return l(e,t);e.runtime.drainRegistry.get(t).staged=!0,u(e)}}function u(e){if(!e)return;const t=Array.from(e.runtime.drainRegistry);t.every(([e,t])=>t.staged)&&(t.sort((e,t)=>e[1].priority-t[1].priority),t.forEach(([t])=>{e.runtime.drainRegistry.delete(t),l(e,t)}))}function l(e,t,r=!0){if(!e)return;const s=e.ee,a=i.i.handlers;if(s&&!s.aborted&&s.backlog&&a){if((0,n.W)({type:"lifecycle",name:"drain",feature:t}),r){const e=s.backlog[t],r=a[t];if(r){for(let t=0;e&&t<e.length;++t)f(e[t],r);Object.entries(r).forEach(([e,t])=>{Object.values(t||{}).forEach(t=>{t[0]?.on&&t[0].context()instanceof o.y&&!t[0].listeners(e).includes(t[1])&&t[0].on(e,t[1])})})}}s.isolatedBacklog||delete a[t],s.backlog[t]=null,s.emit("drain-"+t,[])}}function f(e,t){var r=e[1];Object.values(t[r]||{}).forEach(t=>{var r=e[0];if(t[0]===r){var n=t[1],i=e[3],s=e[2];n.apply(i,s)}})}},1738:(e,t,r)=>{"use strict";r.d(t,{U:()=>f,Y:()=>l});var n=r(3241),i=r(9908),s=r(1863),o=r(944),a=r(3969),c=r(8362),d=r(860),u=r(4261);function l(e,t,r,s){const l=s||r;!l||l[e]&&l[e]!==c.d.prototype[e]||(l[e]=function(){(0,i.p)(a.xV,["API/"+e+"/called"],void 0,d.K7.metrics,r.ee),(0,n.W)({drained:!!r.runtime?.activatedFeatures,type:"data",name:"api",feature:u.Pl+e,data:{}});try{return t.apply(this,arguments)}catch(e){(0,o.R)(23,e)}})}function f(e,t,r,n,o){const a=e.info;null===r?delete a.jsAttributes[t]:a.jsAttributes[t]=r,(o||null===r)&&(0,i.p)(u.Pl+n,[(0,s.t)(),t,r],void 0,"session",e.ee)}},1741:(e,t,r)=>{"use strict";r.d(t,{W:()=>s});var n=r(944),i=r(4261);class s{#e(e,...t){if(this[e]!==s.prototype[e])return this[e](...t);(0,n.R)(35,e)}addPageAction(e,t){return this.#e(i.hG,e,t)}register(e){return this.#e(i.eY,e)}recordCustomEvent(e,t){return this.#e(i.fF,e,t)}setPageViewName(e,t){return this.#e(i.Fw,e,t)}setCustomAttribute(e,t,r){return this.#e(i.cD,e,t,r)}noticeError(e,t){return this.#e(i.o5,e,t)}setUserId(e,t=!1){return this.#e(i.Dl,e,t)}setApplicationVersion(e){return this.#e(i.nb,e)}setErrorHandler(e){return this.#e(i.bt,e)}addRelease(e,t){return this.#e(i.k6,e,t)}log(e,t){return this.#e(i.$9,e,t)}start(){return this.#e(i.d3)}finished(e){return this.#e(i.BL,e)}recordReplay(){return this.#e(i.CH)}pauseReplay(){return this.#e(i.Tb)}addToTrace(e){return this.#e(i.U2,e)}setCurrentRouteName(e){return this.#e(i.PA,e)}interaction(e){return this.#e(i.dT,e)}wrapLogger(e,t,r){return this.#e(i.Wb,e,t,r)}measure(e,t){return this.#e(i.V1,e,t)}consent(e){return this.#e(i.Pv,e)}}},1863:(e,t,r)=>{"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},1910:(e,t,r)=>{"use strict";r.d(t,{i:()=>s});var n=r(944);const i=new Map;function s(...e){return e.every(e=>{if(i.has(e))return i.get(e);const t="function"==typeof e?e.toString():"",r=t.includes("[native code]"),s=t.includes("nrWrapper");return r||s||(0,n.R)(64,e?.name||t),i.set(e,r),r})}},2555:(e,t,r)=>{"use strict";r.d(t,{D:()=>a,f:()=>o});var n=r(384),i=r(8122);const s={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0};function o(e){try{return!!e.licenseKey&&!!e.errorBeacon&&!!e.applicationID}catch(e){return!1}}const a=e=>(0,i.a)(e,s)},2614:(e,t,r)=>{"use strict";r.d(t,{BB:()=>o,H3:()=>n,g:()=>d,iL:()=>c,tS:()=>a,uh:()=>i,wk:()=>s});const n="NRBA",i="SESSION",s=144e5,o=18e5,a={STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},c={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},d={OFF:0,FULL:1,ERROR:2}},2646:(e,t,r)=>{"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},2843:(e,t,r)=>{"use strict";r.d(t,{G:()=>s,u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)("visibilitychange",function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)},r,i)}function s(e,t,r){(0,n.sp)("pagehide",e,t,r)}},3241:(e,t,r)=>{"use strict";r.d(t,{W:()=>s});var n=r(6154);const i="newrelic";function s(e={}){try{n.gm.dispatchEvent(new CustomEvent(i,{detail:e}))}catch(e){}}},3304:(e,t,r)=>{"use strict";r.d(t,{A:()=>s});var n=r(7836);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function s(e){try{return JSON.stringify(e,i())??""}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}return""}}},3333:(e,t,r)=>{"use strict";r.d(t,{$v:()=>u,TZ:()=>n,Xh:()=>c,Zp:()=>i,kd:()=>d,mq:()=>a,nf:()=>o,qN:()=>s});const n=r(860).K7.genericEvents,i=["auxclick","click","copy","keydown","paste","scrollend"],s=["focus","blur"],o=4,a=1e3,c=2e3,d=["PageAction","UserAction","BrowserPerformance"],u={RESOURCES:"experimental.resources",REGISTER:"register"}},3434:(e,t,r)=>{"use strict";r.d(t,{Jt:()=>o,YM:()=>u});var n=r(7836),i=r(5607),s=r(5732);const o="nr@original:".concat(i.W),a=50;var c=Object.prototype.hasOwnProperty,d=!1;function u(e,t,r){return e||(e=n.ee),i.inPlace=function(e,t,r,n,s,o){r||(r="");const a="-"===r.charAt(0);for(let c=0;c<t.length;c++){const d=t[c],u=e[d];f(u)||(e[d]=i(u,a?d+r:r,n,d,s,o))}},i.flag=o,i;function i(t,n,i,d,h,p){return f(t)?t:(n||(n=""),nrWrapper[o]=t,function(e,t,r){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach(function(r){Object.defineProperty(t,r,{get:function(){return e[r]},set:function(t){return e[r]=t,t}})}),t}catch(e){l([e],r)}for(var n in e)c.call(e,n)&&(t[n]=e[n])}(t,nrWrapper,e),nrWrapper);function nrWrapper(){var o,c,f,g;let m,v;try{c=this,o=[...arguments],v=p?(0,s.$5)(r):[void 0],f="function"==typeof i?i(o,c):i||{}}catch(t){l([t,"",[o,c,d],f],e)}u(n+"start",[o,c,d,v],f,h);const y=performance.now();let b;try{return g=t.apply(c,o),b=performance.now(),g}catch(e){throw b=performance.now(),u(n+"err",[o,c,e,v],f,h),m=e,m}finally{const e=b-y,t={start:y,end:b,duration:e,isLongTask:e>=a,methodName:d,thrownError:m};t.isLongTask&&u("long-task",[t,c,v],f,h),u(n+"end",[o,c,g,v],f,h)}}}function u(r,n,i,s){if(!d||t){var o=d;d=!0;try{e.emit(r,n,i,t,s)}catch(t){l([t,r,n,i],e)}d=o}}}function l(e,t){t||(t=n.ee);try{t.emit("internal-error",e)}catch(e){}}function f(e){return!(e&&"function"==typeof e&&e.apply&&!e[o])}},3606:(e,t,r)=>{"use strict";r.d(t,{i:()=>s});var n=r(9908);s.on=o;var i=s.handlers={};function s(e,t,r,s){o(s||n.d,i,e,t,r)}function o(e,t,r,i,s){s||(s="feature"),e||(e=n.d);var o=t[s]=t[s]||{};(o[r]=o[r]||[]).push([e,i])}},3738:(e,t,r)=>{"use strict";r.d(t,{He:()=>i,Kp:()=>a,Lc:()=>d,Rz:()=>u,TZ:()=>n,bD:()=>s,d3:()=>o,jx:()=>l,sl:()=>f,uP:()=>c});const n=r(860).K7.sessionTrace,i="bstResource",s="resource",o="-start",a="-end",c="fn"+o,d="fn"+a,u="pushState",l=1e3,f=3e4},3785:(e,t,r)=>{"use strict";r.d(t,{R:()=>c,b:()=>d});var n=r(9908),i=r(1863),s=r(860),o=r(3969),a=r(993);function c(e,t,r={},c=a.p_.INFO,d=!0,u,l=(0,i.t)()){(0,n.p)(o.xV,["API/logging/".concat(c.toLowerCase(),"/called")],void 0,s.K7.metrics,e),(0,n.p)(a.ET,[l,t,r,c,d,u],void 0,s.K7.logging,e)}function d(e){return"string"==typeof e&&Object.values(a.p_).some(t=>t===e.toUpperCase().trim())}},3878:(e,t,r)=>{"use strict";function n(e,t){return{capture:e,passive:!1,signal:t}}function i(e,t,r=!1,i){window.addEventListener(e,t,n(r,i))}function s(e,t,r=!1,i){document.addEventListener(e,t,n(r,i))}r.d(t,{DD:()=>s,jT:()=>n,sp:()=>i})},3962:(e,t,r)=>{"use strict";r.d(t,{AM:()=>o,O2:()=>l,OV:()=>s,Qu:()=>f,TZ:()=>c,ih:()=>h,pP:()=>a,t1:()=>u,tC:()=>i,wD:()=>d});var n=r(860);const i=["click","keydown","submit"],s="popstate",o="api",a="initialPageLoad",c=n.K7.softNav,d=5e3,u=500,l={INITIAL_PAGE_LOAD:"",ROUTE_CHANGE:1,UNSPECIFIED:2},f={INTERACTION:1,AJAX:2,CUSTOM_END:3,CUSTOM_TRACER:4},h={IP:"in progress",PF:"pending finish",FIN:"finished",CAN:"cancelled"}},3969:(e,t,r)=>{"use strict";r.d(t,{TZ:()=>n,XG:()=>a,rs:()=>i,xV:()=>o,z_:()=>s});const n=r(860).K7.metrics,i="sm",s="cm",o="storeSupportabilityMetrics",a="storeEventMetrics"},4234:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(1687);class i{constructor(e,t){this.agentRef=e,this.ee=e?.ee,this.featureName=t,this.blocked=!1}deregisterDrain(){(0,n.x3)(this.agentRef,this.featureName)}}},4261:(e,t,r)=>{"use strict";r.d(t,{$9:()=>u,BL:()=>c,CH:()=>p,Dl:()=>R,Fw:()=>w,PA:()=>v,Pl:()=>n,Pv:()=>x,Tb:()=>f,U2:()=>o,V1:()=>A,Wb:()=>T,bt:()=>b,cD:()=>y,d3:()=>E,dT:()=>d,eY:()=>g,fF:()=>h,hG:()=>s,hw:()=>i,k6:()=>a,nb:()=>m,o5:()=>l});const n="api-",i=n+"ixn-",s="addPageAction",o="addToTrace",a="addRelease",c="finished",d="interaction",u="log",l="noticeError",f="pauseReplay",h="recordCustomEvent",p="recordReplay",g="register",m="setApplicationVersion",v="setCurrentRouteName",y="setCustomAttribute",b="setErrorHandler",w="setPageViewName",R="setUserId",E="start",T="wrapLogger",A="measure",x="consent"},5205:(e,t,r)=>{"use strict";r.d(t,{j:()=>x});var n=r(384),i=r(1741);var s=r(2555),o=r(3333);const a=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var c=r(2614),d=r(944),u=r(8122);const l="[data-nr-mask]",f=e=>(0,u.a)(e,(()=>{const e={feature_flags:[],experimental:{register:!1,resources:!1},mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,autoStart:!0},api:{register:{get enabled(){return e.feature_flags.includes(o.$v.REGISTER)||e.experimental.register},set enabled(t){e.experimental.register=t},duplicate_data_to_container:!1}},browser_consent_mode:{enabled:!1},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},get feature_flags(){return e.feature_flags},set feature_flags(t){e.feature_flags=t},generic_events:{enabled:!0,autoStart:!0},harvest:{interval:30},jserrors:{enabled:!0,autoStart:!0},logging:{enabled:!0,autoStart:!0},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,autoStart:!0},performance:{capture_marks:!1,capture_measures:!1,capture_detail:!0,resources:{get enabled(){return e.feature_flags.includes(o.$v.RESOURCES)||e.experimental.resources},set enabled(t){e.experimental.resources=t},asset_types:[],first_party_domains:[],ignore_newrelic:!0}},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:c.wk,inactiveMs:c.BB},session_replay:{autoStart:!0,enabled:!1,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,fix_stylesheets:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){a(t)?e.mask_selector="".concat(t,",").concat(l):""===t||null===t?e.mask_selector=l:(0,d.R)(5,t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){a(t)?e.block_selector+=",".concat(t):""!==t&&(0,d.R)(6,t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,d.R)(7,t)}},session_trace:{enabled:!0,autoStart:!0},soft_navigations:{enabled:!0,autoStart:!0},ssl:void 0,user_actions:{enabled:!0,elementAttributes:["id","className","tagName","type"]}}})());var h=r(6154),p=r(9324);let g=0;const m={buildEnv:p.F3,distMethod:p.Xs,version:p.xv,originTime:h.WN},v={consented:!1},y={activatedFeatures:void 0,appMetadata:{},configured:!1,get consented(){return this.session?.state?.consent||v.consented},set consented(e){v.consented=e},customTransaction:void 0,denyList:[],disabled:!1,drainRegistry:new Map,harvester:void 0,isolatedBacklog:!1,isRecording:!1,loaderType:void 0,maxBytes:3e4,obfuscator:void 0,onerror:void 0,ptid:void 0,releaseIds:{},session:void 0,timeKeeper:void 0,registeredEntities:[],jsAttributesMetadata:{bytes:0},get harvestCount(){return++g}},b=e=>{const t=(0,u.a)(e,y),r=Object.keys(m).reduce((e,t)=>(e[t]={value:m[t],writable:!1,configurable:!0,enumerable:!0},e),{});return Object.defineProperties(t,r)},w=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};var R=r(7836),E=r(3241);const T={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},A=e=>(0,u.a)(e,T);function x(e,t={},r,o){let{init:a,info:c,loader_config:d,runtime:u={},exposed:l=!0}=t;if(!c){const e=(0,n.pV)();a=e.init,c=e.info,d=e.loader_config}e.init=f(a||{}),e.loader_config=A(d||{}),c.jsAttributes??={},h.bv&&(c.jsAttributes.isWorker=!0),e.info=(0,s.D)(c);const p=e.init;e.runtime??=b(u),p.proxy.assets&&w(p.proxy.assets),e.runtime.configured||(Object.defineProperty(e,"beacons",{get:()=>[e.info.beacon,e.info.errorBeacon,e.init.proxy.assets,e.init.proxy.beacon].filter(Boolean)}),Object.defineProperty(e.runtime,"denyList",{get:()=>[...e.init.ajax.deny_list||[],...e.init.ajax.block_internal?e.beacons:[]]}),e.runtime.ptid=e.agentIdentifier,function(e){const t=(0,n.pV)();Object.getOwnPropertyNames(i.W.prototype).forEach(r=>{const n=i.W.prototype[r];if("function"!=typeof n||"constructor"===n)return;let s=t[r];e[r]&&!1!==e.exposed&&"micro-agent"!==e.runtime?.loaderType&&(t[r]=(...t)=>{const n=e[r](...t);return s?s(...t):n})})}(e),e.runtime.loaderType=r,e.ee=R.ee.get(e.agentIdentifier),e.exposed=l,(0,E.W)({drained:!!e.runtime.activatedFeatures,type:"lifecycle",name:"initialize",feature:void 0,data:e.config}),e.runtime.configured=!0)}},5270:(e,t,r)=>{"use strict";r.d(t,{Aw:()=>o,SR:()=>s,rF:()=>a});var n=r(384),i=r(7767);function s(e){return!!(0,n.dV)().o.MO&&(0,i.V)(e)&&!0===e?.session_trace.enabled}function o(e){return!0===e?.session_replay.preload&&s(e)}function a(e,t){try{if("string"==typeof t?.type){if("password"===t.type.toLowerCase())return"*".repeat(e?.length||0);if(void 0!==t?.dataset?.nrUnmask||t?.classList?.contains("nr-unmask"))return e}}catch(e){}return"string"==typeof e?e.replace(/[\S]/g,"*"):"*".repeat(e?.length||0)}},5289:(e,t,r)=>{"use strict";r.d(t,{GG:()=>o,Qr:()=>c,sB:()=>a});var n=r(3878),i=r(6389);function s(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(s())return e();const r=(0,i.J)(e),o=setInterval(()=>{s()&&(clearInterval(o),r())},500);(0,n.sp)("load",r,t)}function a(e){if(s())return e();(0,n.DD)("DOMContentLoaded",e)}function c(e){if(s())return e();(0,n.sp)("popstate",e)}},5607:(e,t,r)=>{"use strict";r.d(t,{W:()=>n});const n=(0,r(9566).bz)()},5732:(e,t,r)=>{"use strict";r.d(t,{$5:()=>u,B5:()=>d,Ms:()=>s,Ux:()=>a,YA:()=>c,fQ:()=>i,yx:()=>o});var n=r(7508);const i={MFE:"MFE",BA:"BA"};function s(e,t){if(!e||!t?.init.api.register.enabled)return[];const r=t.runtime.registeredEntities;return r?.filter(t=>String(t.metadata.target.id)===String(e)).map(e=>e.metadata.target)||[]}function o(e,t){if(!e||!t?.init.api.register.enabled)return[];const r=t.runtime.registeredEntities;return r?.filter(t=>t.metadata.timings?.asset?.endsWith(e)).map(e=>e.metadata.target)||[]}function a(e,t){if(!l(t))return{};const r=t.agentRef.runtime.appMetadata.agents[0].entityGuid;return e?e.attributes:{"entity.guid":r,appId:t.agentRef.info.applicationID}}function c(e,t){return d(e,t)?{"child.id":e.id,"child.type":e.type,...a(void 0,t)}:{}}function d(e,t){return!!e&&!!l(t)&&t.agentRef.init.api.register.duplicate_data_to_container}function u(e){if(!e?.init.api.register.enabled)return[void 0];const t=[];try{var r=(0,n.AZ)((0,n.QL)());let i=r.length-1;for(;r[i];)t.push(...o(r[i--],e))}catch(e){}return t.length||t.push(void 0),t}function l(e){return 2===e?.harvestEndpointVersion}},6154:(e,t,r)=>{"use strict";r.d(t,{OF:()=>d,RI:()=>i,WN:()=>f,bv:()=>s,gm:()=>o,lR:()=>l,m:()=>c,mw:()=>a,sb:()=>u,zk:()=>h});var n=r(1863);const i="undefined"!=typeof window&&!!window.document,s="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),o=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),a=Boolean("hidden"===o?.document?.visibilityState),c=""+o?.location,d=/iPad|iPhone|iPod/.test(o.navigator?.userAgent),u=d&&"undefined"==typeof SharedWorker,l=(()=>{const e=o.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);return Array.isArray(e)&&e.length>=2?+e[1]:0})(),f=Date.now()-(0,n.t)(),h=()=>{const e=o?.performance?.getEntriesByType?.("navigation")?.[0];if(e&&e.responseStart>0&&e.responseStart<o.performance.now())return e}},6344:(e,t,r)=>{"use strict";r.d(t,{BB:()=>u,Qb:()=>l,TZ:()=>i,Ug:()=>o,Vh:()=>s,_s:()=>a,bc:()=>d,yP:()=>c});var n=r(2614);const i=r(860).K7.sessionReplay,s="errorDuringReplay",o=.12,a={DomContentLoaded:0,Load:1,FullSnapshot:2,IncrementalSnapshot:3,Meta:4,Custom:5},c={[n.g.ERROR]:15e3,[n.g.FULL]:3e5,[n.g.OFF]:0},d={RESET:{message:"Session was reset",sm:"Reset"},IMPORT:{message:"Recorder failed to import",sm:"Import"},TOO_MANY:{message:"429: Too Many Requests",sm:"Too-Many"},TOO_BIG:{message:"Payload was too large",sm:"Too-Big"},CROSS_TAB:{message:"Session Entity was set to OFF on another tab",sm:"Cross-Tab"},ENTITLEMENTS:{message:"Session Replay is not allowed and will not be started",sm:"Entitlement"}},u=5e3,l={API:"api",RESUME:"resume",SWITCH_TO_FULL:"switchToFull",INITIALIZE:"initialize",PRELOAD:"preload"}},6389:(e,t,r)=>{"use strict";function n(e,t=500,r={}){const n=r?.leading||!1;let i;return(...r)=>{n&&void 0===i&&(e.apply(this,r),i=setTimeout(()=>{i=clearTimeout(i)},t)),n||(clearTimeout(i),i=setTimeout(()=>{e.apply(this,r)},t))}}function i(e){let t=!1;return(...r)=>{t||(t=!0,e.apply(this,r))}}r.d(t,{J:()=>i,s:()=>n})},6630:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.pageViewEvent},6774:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.jserrors},7295:(e,t,r)=>{"use strict";r.d(t,{Xv:()=>o,gX:()=>i,iW:()=>s});var n=[];function i(e){if(!e||s(e))return!1;if(0===n.length)return!0;if("*"===n[0].hostname)return!1;for(var t=0;t<n.length;t++){var r=n[t];if(r.hostname.test(e.hostname)&&r.pathname.test(e.pathname))return!1}return!0}function s(e){return void 0===e.hostname}function o(e){if(n=[],e&&e.length)for(var t=0;t<e.length;t++){let r=e[t];if(!r)continue;if("*"===r)return void(n=[{hostname:"*"}]);0===r.indexOf("http://")?r=r.substring(7):0===r.indexOf("https://")&&(r=r.substring(8));const i=r.indexOf("/");let s,o;i>0?(s=r.substring(0,i),o=r.substring(i)):(s=r,o="*");let[c]=s.split(":");n.push({hostname:a(c),pathname:a(o,!0)})}}function a(e,t=!1){const r=e.replace(/[.+?^${}()|[\]\\]/g,e=>"\\"+e).replace(/\*/g,".*?");return new RegExp((t?"^":"")+r+"$")}},7485:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(6154);function i(e){if(0===(e||"").indexOf("data:"))return{protocol:"data"};try{const t=new URL(e,location.href),r={port:t.port,hostname:t.hostname,pathname:t.pathname,search:t.search,protocol:t.protocol.slice(0,t.protocol.indexOf(":")),sameOrigin:t.protocol===n.gm?.location?.protocol&&t.host===n.gm?.location?.host};return r.port&&""!==r.port||("http:"===t.protocol&&(r.port="80"),"https:"===t.protocol&&(r.port="443")),r.pathname&&""!==r.pathname?r.pathname.startsWith("/")||(r.pathname="/".concat(r.pathname)):r.pathname="/",r}catch(e){return{}}}},7508:(e,t,r)=>{"use strict";r.d(t,{AZ:()=>g,Qr:()=>b,QL:()=>m});var n=r(6154),i=r(1863),s=r(9119),o=r(7866);class a{dom=new c;performance=new c;constructor(e){this.url=e}get script(){const e=Math.max(this.dom.start,this.performance.end);return{start:e,end:Math.max(this.dom.end,this.performance.end,e)}}}class c{start=0;end=0;value=void 0}let d;try{d=g(m())[0]}catch(e){d=g(e)[0]}const u=e=>"script"===e.initiatorType||["link","fetch"].includes(e.initiatorType)&&e.name.endsWith(".js"),l=new Map;let f=[];function h(e){return l.get(e)}function p(e){const t=h(e);if(t)return t;const r=new a(e);if(l.set(e,r),l.size>1e3){const e=l.keys().next().value;l.delete(e)}return r}if(n.gm.MutationObserver&&n.gm.document){new MutationObserver(e=>{e.forEach(e=>{e.addedNodes.forEach(e=>{if("SCRIPT"===e.nodeName&&e.src){const t=p((0,s.L)(e.src));t.dom.start=(0,i.t)(),t.dom.value=e;const r=()=>{t.dom.end=(0,i.t)()};["load","error"].forEach(t=>e.addEventListener(t,r,{once:!0}))}})})}).observe(n.gm.document,{childList:!0,subtree:!0})}if(n.gm.PerformanceObserver?.supportedEntryTypes.includes("resource")){new PerformanceObserver(e=>{e.getEntries().filter(u).forEach(e=>{const t=p((0,s.L)(e.name));t.performance.start=Math.floor(e.startTime),t.performance.end=Math.floor(e.responseEnd),t.performance.value=e;const r=[];f.forEach(({test:t,addedAt:n},s)=>{(t(e)||(0,i.t)()-n>1e4)&&r.push(s)}),f=f.filter((e,t)=>!r.includes(t))})}).observe({type:"resource",buffered:!0})}function g(e){if(!e||"string"!=typeof e)return[];const t=new Set,r=e.split("\n");for(const e of r){const r=e.match(o.cn)||e.match(o.hB)||e.match(o.fL);if(r&&r[2])t.add((0,s.L)(r[2]));else{const r=e.match(/\(([^)]+\.js):\d+:\d+\)/)||e.match(/^\s+at\s+([^\s(]+\.js):\d+:\d+/);r&&r[1]&&t.add((0,s.L)(r[1]))}}return[...t]}function m(){let e;try{const t=Error.stackTraceLimit;Error.stackTraceLimit=50,e=(new Error).stack,Error.stackTraceLimit=t}catch(t){e=(new Error).stack}return e}function v(e,t){return(0,s.L)(e.name)===t}function y(e,t){e.fetchStart=Math.floor(t.startTime),e.fetchEnd=Math.floor(t.responseEnd),e.asset=t.name,e.type=t.initiatorType}function b(){const e={registeredAt:(0,i.t)(),reportedAt:void 0,fetchStart:0,fetchEnd:0,scriptStart:0,scriptEnd:0,asset:void 0,type:"unknown"},t=m();if(!t)return e;const r=n.gm.performance?.getEntriesByType("navigation")?.[0]?.name||"";try{const o=g(t),a=(o.length>1?o.filter(e=>d!==e):o)[0];if(!a)return e;if(r.includes(a))return e.asset=(0,s.L)(r),e.type="inline",e;e.correlation=h(a);const c=e.correlation?.performance.value||performance.getEntriesByType("resource").find(e=>v(e,a));c?y(e,c):function(e){if(!e||!n.gm.document)return!1;try{const t=n.gm.document.querySelectorAll('link[rel="preload"][as="script"]');for(const r of t)if((0,s.L)(r.href)===e)return!0}catch(e){}return!1}(a)&&(e.asset=a,e.type="preload",f.push({addedAt:(0,i.t)(),test:t=>!!v(t,a)&&(y(e,t),!0)})),Object.defineProperty(e,"scriptStart",{get:()=>e.correlation?.script.start||e.fetchEnd}),Object.defineProperty(e,"scriptEnd",{get:()=>e.correlation?.script.end||e.registeredAt})}catch(e){}return e}},7699:(e,t,r)=>{"use strict";r.d(t,{It:()=>s,KC:()=>a,No:()=>i,qh:()=>o});var n=r(860);const i=16e3,s=1e6,o="SESSION_ERROR",a={[n.K7.logging]:!0,[n.K7.genericEvents]:!0,[n.K7.jserrors]:!0,[n.K7.ajax]:!0}},7767:(e,t,r)=>{"use strict";r.d(t,{V:()=>i});var n=r(6154);const i=e=>n.RI&&!0===e?.privacy.cookies_enabled},7836:(e,t,r)=>{"use strict";r.d(t,{P:()=>a,ee:()=>c});var n=r(384),i=r(8990),s=r(2646),o=r(5607);const a="nr@context:".concat(o.W),c=function e(t,r){var n={},o={},u={},l=!1;try{l=16===r.length&&d.initializedAgents?.[r]?.runtime.isolatedBacklog}catch(e){}var f={on:p,addEventListener:p,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,s){!1!==s&&(s=!0);if(c.aborted&&!i)return;t&&s&&t.emit(e,r,n);var a=h(n);g(e).forEach(e=>{e.apply(a,r)});var d=v()[o[e]];d&&d.push([f,e,r,a]);return a},get:m,listeners:g,context:h,buffer:function(e,t){const r=v();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach(([e,n])=>{o[n]=t,t in r||(r[t]=[])})},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach(e=>{delete f.backlog[e]})},isBuffering:function(e){return!!v()[o[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function h(e){return e&&e instanceof s.y?e:e?(0,i.I)(e,a,()=>new s.y(a)):new s.y(a)}function p(e,t){n[e]=g(e).concat(t)}function g(e){return n[e]||[]}function m(t){return u[t]=u[t]||e(f,t)}function v(){return f.backlog}}(void 0,"globalEE"),d=(0,n.Zm)();d.ee||(d.ee=c)},7866:(e,t,r)=>{"use strict";r.d(t,{Nc:()=>s,cn:()=>a,fL:()=>i,h3:()=>n,hB:()=>o});const n=/function (.+?)\s*\(/,i=/^\s*at .+ \(eval at \S+ \((?:(?:file|http|https):[^)]+)?\)(?:, [^:]*:\d+:\d+)?\)$/i,s=/^\s*at Function code \(Function code:\d+:\d+\)\s*/i,o=/^\s*at (?:((?:\[object object\])?(?:[^(]*\([^)]*\))*[^()]*(?: \[as \S+\])?) )?\(?((?:file|http|https|chrome-extension):.*?)?:(\d+)(?::(\d+))?\)?\s*$/i,a=/^\s*(?:([^@]*)(?:\(.*?\))?@)?((?:file|http|https|chrome|safari-extension).*?):(\d+)(?::(\d+))?\s*$/i},8122:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),s=0===Object.keys(r).length?e:r;for(let o in s)if(void 0!==e[o])try{if(null===e[o]){r[o]=null;continue}Array.isArray(e[o])&&Array.isArray(t[o])?r[o]=Array.from(new Set([...e[o],...t[o]])):e[o]instanceof Map||e[o]instanceof Set||e[o]instanceof Date||e[o]instanceof RegExp?r[o]=e[o]:"object"==typeof e[o]&&"object"==typeof t[o]?r[o]=i(e[o],t[o]):r[o]=e[o]}catch(e){r[o]||(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},8139:(e,t,r)=>{"use strict";r.d(t,{u:()=>f});var n=r(7836),i=r(3434),s=r(8990),o=r(6154);const a={},c=o.gm.XMLHttpRequest,d="addEventListener",u="removeEventListener",l="nr@wrapped:".concat(n.P);function f(e){var t=function(e){return(e||n.ee).get("events")}(e);if(a[t.debugId]++)return t;a[t.debugId]=1;var r=(0,i.YM)(t,!0);function f(e){r.inPlace(e,[d,u],"-",p)}function p(e,t){return e[1]}return"getPrototypeOf"in Object&&(o.RI&&h(document,f),c&&h(c.prototype,f),h(o.gm,f)),t.on(d+"-start",function(e,t){var n=e[1];if(null!==n&&("function"==typeof n||"object"==typeof n)&&"newrelic"!==e[0]){var i=(0,s.I)(n,l,function(){var e={object:function(){if("function"!=typeof n.handleEvent)return;return n.handleEvent.apply(n,arguments)},function:n}[typeof n];return e?r(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=e[1]=i}}),t.on(u+"-start",function(e){e[1]=this.wrapped||e[1]}),t}function h(e,t,...r){let n=e;for(;"object"==typeof n&&!Object.prototype.hasOwnProperty.call(n,d);)n=Object.getPrototypeOf(n);n&&t(n,...r)}},8362:(e,t,r)=>{"use strict";r.d(t,{d:()=>s});var n=r(9566),i=r(1741);class s extends i.W{agentIdentifier=(0,n.LA)(16)}},8374:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},8990:(e,t,r)=>{"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},9119:(e,t,r)=>{"use strict";r.d(t,{L:()=>s});var n=/([^?#]*)[^#]*(#[^?]*|$).*/,i=/([^?#]*)().*/;function s(e,t){return e?e.replace(t?n:i,"$1$2"):e}},9300:(e,t,r)=>{"use strict";r.d(t,{T:()=>n,f:()=>i});const n=r(860).K7.ajax,i="ajaxRequest.id"},9324:(e,t,r)=>{"use strict";r.d(t,{AJ:()=>o,F3:()=>i,Xs:()=>s,Yq:()=>a,xv:()=>n});const n="1.315.0",i="PROD",s="CDN",o="@newrelic/rrweb",a="1.1.0"},9566:(e,t,r)=>{"use strict";r.d(t,{LA:()=>a,ZF:()=>c,bz:()=>o,el:()=>d});var n=r(6154);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function s(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map(e=>"x"===e?s(t,r++).toString(16):"y"===e?(3&s()|8).toString(16):e).join("")}function a(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const o=[];for(var a=0;a<e;a++)o.push(s(r,i++).toString(16));return o.join("")}function c(){return a(16)}function d(){return a(32)}},9908:(e,t,r)=>{"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,s){s?(s.buffer([e],i),s.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var s=n[e]={exports:{}};return r[e](s,s.exports,i),s.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce((t,r)=>(i.f[r](e,t),t),[])),i.u=e=>({212:"nr-spa-compressor",249:"nr-spa-recorder",478:"nr-spa"}[e]+"-1.315.0.min.js"),i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.315.0.PROD:",i.l=(r,n,s,o)=>{if(e[r])e[r].push(n);else{var a,c;if(void 0!==s)for(var d=document.getElementsByTagName("script"),u=0;u<d.length;u++){var l=d[u];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+s){a=l;break}}if(!a){c=!0;var f={478:"sha512-JAuqU4A/wEHgBZGJFOjJXJG7xVo77qqjjb/pmkYwe33sZJQfwMblA/H7O6IQIp99MNRaqQ9ztp6hhTDdcDcKhw==",249:"sha512-GrB7Qfru6lPrPix0+Hggx+Eda7UdJXdV43hgOin6/SJwymitXgXKibaXVJgVnP1s8ipAOOGAP8vJ0RJqcyuE3A==",212:"sha512-ju17QSsLhWoDHT16gMLrXwxXtO2muxMbuRclwat2uBoZ2H/qVAg3SdcXxofZpiOmXJvzUnLFrMkP9kmEnlMGqA=="};(a=document.createElement("script")).charset="utf-8",i.nc&&a.setAttribute("nonce",i.nc),a.setAttribute("data-webpack",t+s),a.src=r,0!==a.src.indexOf(window.location.origin+"/")&&(a.crossOrigin="anonymous"),f[o]&&(a.integrity=f[o])}e[r]=[n];var h=(t,n)=>{a.onerror=a.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],a.parentNode&&a.parentNode.removeChild(a),i&&i.forEach(e=>e(n)),t)return t(n)},p=setTimeout(h.bind(null,void 0,{type:"timeout",target:a}),12e4);a.onerror=h.bind(null,a.onerror),a.onload=h.bind(null,a.onload),c&&document.head.appendChild(a)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={38:0,788:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var s=new Promise((r,i)=>n=e[t]=[r,i]);r.push(n[2]=s);var o=i.p+i.u(t),a=new Error;i.l(o,r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var s=r&&("load"===r.type?"missing":r.type),o=r&&r.target&&r.target.src;a.message="Loading chunk "+t+" failed: ("+s+": "+o+")",a.name="ChunkLoadError",a.type=s,a.request=o,n[1](a)}},"chunk-"+t,t)}};var t=(t,r)=>{var n,s,[o,a,c]=r,d=0;if(o.some(t=>0!==e[t])){for(n in a)i.o(a,n)&&(i.m[n]=a[n]);if(c)c(i)}for(t&&t(r);d<o.length;d++)s=o[d],i.o(e,s)&&e[s]&&e[s][0](),e[s]=0},r=self["webpackChunk:NRBA-1.315.0.PROD"]=self["webpackChunk:NRBA-1.315.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(8374);var e=i(8362),t=i(860);const r=Object.values(t.K7);var n=i(5205);var s=i(9908),o=i(1863),a=i(4261),c=i(1738);var d=i(1687),u=i(4234),l=i(5289),f=i(6154),h=i(944),p=i(5270),g=i(7767),m=i(6389),v=i(7699);class y extends u.W{constructor(e,t){super(e,t),this.abortHandler=void 0,this.featAggregate=void 0,this.loadedSuccessfully=void 0,this.onAggregateImported=new Promise(e=>{this.loadedSuccessfully=e}),this.deferred=Promise.resolve(),!1===e.init[this.featureName].autoStart?this.deferred=new Promise((t,r)=>{this.ee.on("manual-start-all",(0,m.J)(()=>{(0,d.Ak)(e,this.featureName),t()}))}):(0,d.Ak)(e,t)}importAggregator(e,t,r={}){if(this.featAggregate)return;const n=async()=>{let n;await this.deferred;try{if((0,g.V)(e.init)){const{setupAgentSession:t}=await i.e(478).then(i.bind(i,8766));n=t(e)}}catch(e){(0,h.R)(20,e),this.ee.emit("internal-error",[e]),(0,s.p)(v.qh,[e],void 0,this.featureName,this.ee)}try{if(!this.#t(this.featureName,n,e.init))return(0,d.Ze)(this.agentRef,this.featureName),void this.loadedSuccessfully(!1);const{Aggregate:i}=await t();this.featAggregate=new i(e,r),e.runtime.harvester.initializedAggregates.push(this.featAggregate),this.loadedSuccessfully(!0)}catch(e){(0,h.R)(34,e),this.abortHandler?.(),(0,d.Ze)(this.agentRef,this.featureName,!0),this.loadedSuccessfully(!1),this.ee&&this.ee.abort()}};f.RI?(0,l.GG)(()=>n(),!0):n()}#t(e,r,n){if(this.blocked)return!1;switch(e){case t.K7.sessionReplay:return(0,p.SR)(n)&&!!r;case t.K7.sessionTrace:return!!r;default:return!0}}}var b=i(6630),w=i(2614),R=i(3241);class E extends y{static featureName=b.T;constructor(e){var t;super(e,b.T),this.setupInspectionEvents(),t=e,(0,c.Y)(a.Fw,function(e,r){"string"==typeof e&&("/"!==e.charAt(0)&&(e="/"+e),t.runtime.customTransaction=(r||"http://custom.transaction")+e,(0,s.p)(a.Pl+a.Fw,[(0,o.t)()],void 0,void 0,t.ee))},t),this.importAggregator(e,()=>i.e(478).then(i.bind(i,5839)))}setupInspectionEvents(){const e=(e,t)=>{e&&(0,R.W)({timeStamp:e.timeStamp,loaded:"complete"===e.target.readyState,type:"window",name:t,data:e.target.location+""})};(0,l.sB)(t=>{e(t,"DOMContentLoaded")}),(0,l.GG)(t=>{e(t,"load")}),(0,l.Qr)(t=>{e(t,"navigate")}),this.ee.on(w.tS.UPDATE,(e,t)=>{(0,R.W)({type:"lifecycle",name:"session",data:t})})}}var T=i(384);class A extends e.d{constructor(e){var t;(super(),f.gm)?(this.features={},(0,T.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(e.features||[]),this.desiredFeatures.add(E),(0,n.j)(this,e,e.loaderType||"agent"),t=this,(0,c.Y)(a.cD,function(e,r,n=!1){if("string"==typeof e){if(["string","number","boolean"].includes(typeof r)||null===r)return(0,c.U)(t,e,r,a.cD,n);(0,h.R)(40,typeof r)}else(0,h.R)(39,typeof e)},t),function(e){(0,c.Y)(a.Dl,function(t,r=!1){if("string"!=typeof t&&null!==t)return void(0,h.R)(41,typeof t);const n=e.info.jsAttributes["enduser.id"];r&&null!=n&&n!==t?(0,s.p)(a.Pl+"setUserIdAndResetSession",[t],void 0,"session",e.ee):(0,c.U)(e,"enduser.id",t,a.Dl,!0)},e)}(this),function(e){(0,c.Y)(a.nb,function(t){if("string"==typeof t||null===t)return(0,c.U)(e,"application.version",t,a.nb,!1);(0,h.R)(42,typeof t)},e)}(this),function(e){(0,c.Y)(a.d3,function(){e.ee.emit("manual-start-all")},e)}(this),function(e){(0,c.Y)(a.Pv,function(t=!0){if("boolean"==typeof t){if((0,s.p)(a.Pl+a.Pv,[t],void 0,"session",e.ee),e.runtime.consented=t,t){const t=e.features.page_view_event;t.onAggregateImported.then(e=>{const r=t.featAggregate;e&&!r.sentRum&&r.sendRum()})}}else(0,h.R)(65,typeof t)},e)}(this),this.run()):(0,h.R)(21)}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}get api(){return this}run(){try{const e=function(e){const t={};return r.forEach(r=>{t[r]=!!e[r]?.enabled}),t}(this.init),n=[...this.desiredFeatures];n.sort((e,r)=>t.P3[e.featureName]-t.P3[r.featureName]),n.forEach(r=>{if(!e[r.featureName]&&r.featureName!==t.K7.pageViewEvent)return;const n=function(e){switch(e){case t.K7.ajax:return[t.K7.jserrors];case t.K7.sessionTrace:return[t.K7.ajax,t.K7.pageViewEvent];case t.K7.sessionReplay:return[t.K7.sessionTrace];case t.K7.pageViewTiming:return[t.K7.pageViewEvent];default:return[]}}(r.featureName).filter(e=>!(e in this.features));n.length>0&&(0,h.R)(36,{targetFeature:r.featureName,missingDependencies:n}),this.features[r.featureName]=new r(this)})}catch(e){(0,h.R)(22,e);for(const e in this.features)this.features[e].abortHandler?.();const t=(0,T.Zm)();delete t.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return t.ee.get(this.agentIdentifier).abort(),!1}}}var x=i(2843),S=i(782);class _ extends y{static featureName=S.T;constructor(e){super(e,S.T),f.RI&&((0,x.u)(()=>(0,s.p)("docHidden",[(0,o.t)()],void 0,S.T,this.ee),!0),(0,x.G)(()=>(0,s.p)("winPagehide",[(0,o.t)()],void 0,S.T,this.ee)),this.importAggregator(e,()=>i.e(478).then(i.bind(i,9917))))}}var O=i(3969);class P extends y{static featureName=O.TZ;constructor(e){super(e,O.TZ),this.importAggregator(e,()=>i.e(478).then(i.bind(i,6555)))}}var k=i(6774),N=i(3878),j=i(3304);class D{constructor(e,t,r,n,i){this.name="UncaughtError",this.message="string"==typeof e?e:(0,j.A)(e),this.sourceURL=t,this.line=r,this.column=n,this.__newrelic=i}}function C(e){return M(e)?e:new D(void 0!==e?.message?e.message:e,e?.filename||e?.sourceURL,e?.lineno||e?.line,e?.colno||e?.col,e?.__newrelic,e?.cause)}function L(e){const t="Unhandled Promise Rejection: ";if(!e?.reason)return;if(M(e.reason)){try{e.reason.message.startsWith(t)||(e.reason.message=t+e.reason.message)}catch(e){}return C(e.reason)}const r=C(e.reason);return(r.message||"").startsWith(t)||(r.message=t+r.message),r}function I(e){if(e.error instanceof SyntaxError&&!/:\d+$/.test(e.error.stack?.trim())){const t=new D(e.message,e.filename,e.lineno,e.colno,e.error.__newrelic,e.cause);return t.name=SyntaxError.name,t}return M(e.error)?e.error:C(e)}function M(e){return e instanceof Error&&!!e.stack}function B(e,r,n,i,a=(0,o.t)()){"string"==typeof e&&(e=new Error(e)),(0,s.p)("err",[e,a,!1,r,n.runtime.isRecording,void 0,i],void 0,t.K7.jserrors,n.ee),(0,s.p)("uaErr",[],void 0,t.K7.genericEvents,n.ee)}var H=i(5732),K=i(993),W=i(3785);function F(e,{customAttributes:t={},level:r=K.p_.INFO}={},n,i,s=(0,o.t)()){(0,W.R)(n.ee,e,t,r,!1,i,s)}function U(e,r,n,i,c=(0,o.t)()){(0,s.p)(a.Pl+a.hG,[c,e,r,i],void 0,t.K7.genericEvents,n.ee)}function V(e,r,n,i,c=(0,o.t)()){const{start:d,end:u,customAttributes:l}=r||{},f={customAttributes:l||{}};if("object"!=typeof f.customAttributes||"string"!=typeof e||0===e.length)return void(0,h.R)(57);const p=(e,t)=>null==e?t:"number"==typeof e?e:e instanceof PerformanceMark?e.startTime:Number.NaN;if(f.start=p(d,0),f.end=p(u,c),Number.isNaN(f.start)||Number.isNaN(f.end))(0,h.R)(57);else{if(f.duration=f.end-f.start,!(f.duration<0))return(0,s.p)(a.Pl+a.V1,[f,e,i],void 0,t.K7.genericEvents,n.ee),f;(0,h.R)(58)}}function z(e,r={},n,i,c=(0,o.t)()){(0,s.p)(a.Pl+a.fF,[c,e,r,i],void 0,t.K7.genericEvents,n.ee)}var G=i(7508),Y=i(9566);const Z=["name","id","type"],q=new Map([[U,"addPageAction"],[F,"log"],[V,"measure"],[B,"noticeError"],[z,"recordCustomEvent"]]),X={experimental:(0,m.J)(()=>(0,h.R)(54,"newrelic.register")),disabled:(0,m.J)(()=>(0,h.R)(55)),invalidTarget:(0,m.J)(e=>(0,h.R)(48,e)),deregistered:(0,m.J)(()=>(0,h.R)(68))};function Q(e){(0,c.Y)(a.eY,function(t){return J(e,t)},e)}function J(e,r){X.experimental(),r||={},r.instance=(0,Y.LA)(8),r.type=H.fQ.MFE,r.licenseKey||=e.info.licenseKey,r.blocked=!1,("object"!=typeof r.tags||null===r.tags||Array.isArray(r.tags))&&(r.tags={}),r.parent??={get id(){return e.runtime.appMetadata.agents[0].entityGuid},type:H.fQ.BA};const n=(0,G.Qr)(),i={};Object.prototype.hasOwnProperty.call(r,"attributes")||Object.defineProperty(r,"attributes",{get:()=>({...i,"source.id":r.id,"source.name":r.name,"source.type":r.type,"parent.type":r.parent?.type||H.fQ.BA,"parent.id":r.parent?.id})}),Object.entries(r.tags).forEach(([e,t])=>{Z.includes(e)||(i["source.".concat(e)]=t)});let a=()=>{};const c=e.runtime.registeredEntities,d=e=>{r.blocked=!0,a=e};function u(e){return"string"==typeof e&&!!e.trim()&&e.trim().length<501}e.init.api.register.enabled||d(X.disabled),u(r.id)&&u(r.name)||d(()=>X.invalidTarget(r));const l={addPageAction:(t,n={})=>m(U,[t,{...i,...n},e],r),deregister:()=>{p(),d(X.deregistered)},log:(t,n={})=>m(F,[t,{...n,customAttributes:{...i,...n.customAttributes||{}}},e],r),measure:(t,n={})=>m(V,[t,{...n,customAttributes:{...i,...n.customAttributes||{}}},e],r),noticeError:(t,n={})=>m(B,[t,{...i,...n},e],r),recordCustomEvent:(t,n={})=>m(z,[t,{...i,...n},e],r),setApplicationVersion:e=>g("application.version",e),setCustomAttribute:(e,t)=>g(e,t),setUserId:e=>g("enduser.id",e),metadata:{get customAttributes(){return i},target:r,timings:n}},f=()=>(r.blocked&&a(),r.blocked);function p(){if(n.reportedAt)return;n.reportedAt=(0,o.t)();const e=n.fetchEnd-n.fetchStart,t=n.scriptEnd-n.scriptStart;l.recordCustomEvent("MicroFrontEndTiming",{assetUrl:n.asset,assetType:n.type,timeAlive:n.reportedAt-n.registeredAt,timeToBeRequested:n.fetchStart,timeToExecute:t,timeToFetch:e,timeToLoad:e+t,timeToRegister:n.registeredAt})}f()||(c.push(l),(0,x.G)(p));const g=(e,t)=>{f()||(i[e]=t)},m=(r,n,i)=>{if(f()&&r!==J)return;const a=(0,o.t)(),c=q.get(r)||"unknown";(0,s.p)(O.xV,["API/register/".concat(c,"/called")],void 0,t.K7.metrics,e.ee);try{return r(...n,i,a)}catch(e){(0,h.R)(50,e)}};return l}class ee extends y{static featureName=k.T;constructor(e){var t;super(e,k.T),t=e,(0,c.Y)(a.o5,(e,r)=>B(e,r,t),t),function(e){(0,c.Y)(a.bt,function(t){e.runtime.onerror=t},e)}(e),function(e){let t=0;(0,c.Y)(a.k6,function(e,r){++t>10||(this.runtime.releaseIds[e.slice(-200)]=(""+r).slice(-200))},e)}(e),Q(e);try{this.removeOnAbort=new AbortController}catch(e){}this.ee.on("internal-error",(t,r)=>{this.abortHandler&&(0,s.p)("ierr",[C(t),(0,o.t)(),!0,{},e.runtime.isRecording,r],void 0,this.featureName,this.ee)}),f.gm.addEventListener("unhandledrejection",t=>{this.abortHandler&&(0,s.p)("err",[L(t),(0,o.t)(),!1,{unhandledPromiseRejection:1},e.runtime.isRecording],void 0,this.featureName,this.ee)},(0,N.jT)(!1,this.removeOnAbort?.signal)),f.gm.addEventListener("error",t=>{this.abortHandler&&(0,s.p)("err",[I(t),(0,o.t)(),!1,{},e.runtime.isRecording],void 0,this.featureName,this.ee)},(0,N.jT)(!1,this.removeOnAbort?.signal)),this.abortHandler=this.#r,this.importAggregator(e,()=>i.e(478).then(i.bind(i,9377)))}#r(){this.removeOnAbort?.abort(),this.abortHandler=void 0}}var te=i(8990);let re=1;function ne(e){const t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===f.gm?0:(0,te.I)(e,"nr@id",function(){return re++})}function ie(e){if("string"==typeof e&&e.length)return e.length;if("object"==typeof e){if("undefined"!=typeof ArrayBuffer&&e instanceof ArrayBuffer&&e.byteLength)return e.byteLength;if("undefined"!=typeof Blob&&e instanceof Blob&&e.size)return e.size;if(!("undefined"!=typeof FormData&&e instanceof FormData))try{return(0,j.A)(e).length}catch(e){return}}}var se=i(8139),oe=i(7836),ae=i(3434);const ce={},de=["open","send"];function ue(e,t){var r=e||oe.ee;const n=function(e){return(e||oe.ee).get("xhr")}(r);if(void 0===f.gm.XMLHttpRequest)return n;if(ce[n.debugId]++)return n;ce[n.debugId]=1,(0,se.u)(r);var i=(0,ae.YM)(n),s=f.gm.XMLHttpRequest,o=f.gm.MutationObserver,a=f.gm.Promise,c=f.gm.setInterval,d="readystatechange",u=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],l=[],p=f.gm.XMLHttpRequest=function(e){const r=new s(e),o=n.context(r);o.targets=(0,H.$5)(t);try{n.emit("new-xhr",[r],o),r.addEventListener(d,(a=o,function(){var e=this;e.readyState>3&&!a.resolved&&(a.resolved=!0,n.emit("xhr-resolved",[],e)),i.inPlace(e,u,"fn-",w)}),(0,N.jT)(!1))}catch(e){(0,h.R)(15,e);try{n.emit("internal-error",[e])}catch(e){}}var a;return r};function g(e,t){i.inPlace(t,["onreadystatechange"],"fn-",w)}if(function(e,t){for(var r in e)t[r]=e[r]}(s,p),p.prototype=s.prototype,i.inPlace(p.prototype,de,"-xhr-",w),n.on("send-xhr-start",function(e,t){g(e,t),function(e){l.push(e),o&&(m?m.then(b):c?c(b):(v=-v,y.data=v))}(t)}),n.on("open-xhr-start",g),o){var m=a&&a.resolve();if(!c&&!a){var v=1,y=document.createTextNode(v);new o(b).observe(y,{characterData:!0})}}else r.on("fn-end",function(e){e[0]&&e[0].type===d||b()});function b(){for(var e=0;e<l.length;e++)g(0,l[e]);l.length&&(l=[])}function w(e,t){return t}return n}var le="fetch-",fe=le+"body-",he=["arrayBuffer","blob","json","text","formData"],pe=f.gm.Request,ge=f.gm.Response,me="prototype";const ve={};function ye(e,t){const r=function(e){return(e||oe.ee).get("fetch")}(e);if(!(pe&&ge&&f.gm.fetch))return r;if(ve[r.debugId]++)return r;function n(e,n,i){var s=e[n];"function"==typeof s&&(e[n]=function(){var e=[...arguments];const n={},o=(0,H.$5)(t);var a;r.emit(i+"before-start",[e],n),n[oe.P]&&n[oe.P].dt&&(a=n[oe.P].dt);var c=s.apply(this,e);return r.emit(i+"start",[e,a],c),c.then(function(e){return r.emit(i+"end",[null,e,o],c),e},function(e){throw r.emit(i+"end",[e,void 0,o],c),e})})}return ve[r.debugId]=1,he.forEach(e=>{n(pe[me],e,fe),n(ge[me],e,fe)}),n(f.gm,"fetch",le),r.on(le+"end",function(e,t,n){var i=this;if(i.targets=n||[void 0],t){var s=t.headers.get("content-length");null!==s&&(i.rxSize=s),r.emit(le+"done",[null,t],i)}else r.emit(le+"done",[e],i)}),r}var be=i(7485);class we{constructor(e){this.agentRef=e}generateTracePayload(e){const t=this.agentRef.loader_config;if(!this.shouldGenerateTrace(e)||!t)return null;var r=(t.accountID||"").toString()||null,n=(t.agentID||"").toString()||null,i=(t.trustKey||"").toString()||null;if(!r||!n)return null;var s=(0,Y.ZF)(),o=(0,Y.el)(),a=Date.now(),c={spanId:s,traceId:o,timestamp:a};return(e.sameOrigin||this.isAllowedOrigin(e)&&this.useTraceContextHeadersForCors())&&(c.traceContextParentHeader=this.generateTraceContextParentHeader(s,o),c.traceContextStateHeader=this.generateTraceContextStateHeader(s,a,r,n,i)),(e.sameOrigin&&!this.excludeNewrelicHeader()||!e.sameOrigin&&this.isAllowedOrigin(e)&&this.useNewrelicHeaderForCors())&&(c.newrelicHeader=this.generateTraceHeader(s,o,a,r,n,i)),c}generateTraceContextParentHeader(e,t){return"00-"+t+"-"+e+"-01"}generateTraceContextStateHeader(e,t,r,n,i){return i+"@nr=0-1-"+r+"-"+n+"-"+e+"----"+t}generateTraceHeader(e,t,r,n,i,s){if(!("function"==typeof f.gm?.btoa))return null;var o={v:[0,1],d:{ty:"Browser",ac:n,ap:i,id:e,tr:t,ti:r}};return s&&n!==s&&(o.d.tk=s),btoa((0,j.A)(o))}shouldGenerateTrace(e){return this.agentRef.init?.distributed_tracing?.enabled&&this.isAllowedOrigin(e)}isAllowedOrigin(e){var t=!1;const r=this.agentRef.init?.distributed_tracing;if(e.sameOrigin)t=!0;else if(r?.allowed_origins instanceof Array)for(var n=0;n<r.allowed_origins.length;n++){var i=(0,be.D)(r.allowed_origins[n]);if(e.hostname===i.hostname&&e.protocol===i.protocol&&e.port===i.port){t=!0;break}}return t}excludeNewrelicHeader(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!!e.exclude_newrelic_header}useNewrelicHeaderForCors(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!1!==e.cors_use_newrelic_header}useTraceContextHeadersForCors(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!!e.cors_use_tracecontext_headers}}var Re=i(9300),Ee=i(7295);function Te(e){return"string"==typeof e?e:e instanceof(0,T.dV)().o.REQ?e.url:f.gm?.URL&&e instanceof URL?e.href:void 0}var Ae=["load","error","abort","timeout"],xe=Ae.length,Se=(0,T.dV)().o.REQ,_e=(0,T.dV)().o.XHR;const Oe="X-NewRelic-App-Data";class Pe extends y{static featureName=Re.T;constructor(e){super(e,Re.T),this.dt=new we(e),this.handler=(e,t,r,n)=>(0,s.p)(e,t,r,n,this.ee);try{const e={xmlhttprequest:"xhr",fetch:"fetch",beacon:"beacon"};f.gm?.performance?.getEntriesByType("resource").forEach(r=>{if(r.initiatorType in e&&0!==r.responseStatus){const n={status:r.responseStatus},i={rxSize:r.transferSize,duration:Math.floor(r.duration),cbTime:0};ke(n,r.name),this.handler("xhr",[n,i,r.startTime,r.responseEnd,e[r.initiatorType]],void 0,t.K7.ajax)}})}catch(e){}ye(this.ee,e),ue(this.ee,e),function(e,r,n,i){function a(e){var t=this;t.totalCbs=0,t.called=0,t.cbTime=0,t.end=T,t.ended=!1,t.xhrGuids={},t.lastSize=null,t.loadCaptureCalled=!1,t.params=this.params||{},t.metrics=this.metrics||{},t.latestLongtaskEnd=0,e.addEventListener("load",function(r){x(t,e)},(0,N.jT)(!1)),f.lR||e.addEventListener("progress",function(e){t.lastSize=e.loaded},(0,N.jT)(!1))}function c(e){this.params={method:e[0]},ke(this,e[1]),this.metrics={}}function d(t,r){e.loader_config.xpid&&this.sameOrigin&&r.setRequestHeader("X-NewRelic-ID",e.loader_config.xpid);var n=i.generateTracePayload(this.parsedOrigin);if(n){var s=!1;n.newrelicHeader&&(r.setRequestHeader("newrelic",n.newrelicHeader),s=!0),n.traceContextParentHeader&&(r.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&r.setRequestHeader("tracestate",n.traceContextStateHeader),s=!0),s&&(this.dt=n)}}function u(e,t){var n=this.metrics,i=e[0],s=this;if(n&&i){var a=ie(i);a&&(n.txSize=a)}this.startTime=(0,o.t)(),this.body=i,this.listener=function(e){try{"abort"!==e.type||s.loadCaptureCalled||(s.params.aborted=!0),("load"!==e.type||s.called===s.totalCbs&&(s.onloadCalled||"function"!=typeof t.onload)&&"function"==typeof s.end)&&s.end(t)}catch(e){try{r.emit("internal-error",[e])}catch(e){}}};for(var c=0;c<xe;c++)t.addEventListener(Ae[c],this.listener,(0,N.jT)(!1))}function l(e,t,r){this.cbTime+=e,t?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof r.onload||"function"!=typeof this.end||this.end(r)}function h(e,t){var r=""+ne(e)+!!t;this.xhrGuids&&!this.xhrGuids[r]&&(this.xhrGuids[r]=!0,this.totalCbs+=1)}function p(e,t){var r=""+ne(e)+!!t;this.xhrGuids&&this.xhrGuids[r]&&(delete this.xhrGuids[r],this.totalCbs-=1)}function g(){this.endTime=(0,o.t)()}function m(e,t){t instanceof _e&&"load"===e[0]&&r.emit("xhr-load-added",[e[1],e[2]],t)}function v(e,t){t instanceof _e&&"load"===e[0]&&r.emit("xhr-load-removed",[e[1],e[2]],t)}function y(e,t,r){t instanceof _e&&("onload"===r&&(this.onload=!0),("load"===(e[0]&&e[0].type)||this.onload)&&(this.xhrCbStart=(0,o.t)()))}function b(e,t){this.xhrCbStart&&r.emit("xhr-cb-time",[(0,o.t)()-this.xhrCbStart,this.onload,t],t)}function w(e){var t,r=e[1]||{};if("string"==typeof e[0]?0===(t=e[0]).length&&f.RI&&(t=""+f.gm.location.href):e[0]&&e[0].url?t=e[0].url:f.gm?.URL&&e[0]&&e[0]instanceof URL?t=e[0].href:"function"==typeof e[0].toString&&(t=e[0].toString()),"string"==typeof t&&0!==t.length){t&&(this.parsedOrigin=(0,be.D)(t),this.sameOrigin=this.parsedOrigin.sameOrigin);var n=i.generateTracePayload(this.parsedOrigin);if(n&&(n.newrelicHeader||n.traceContextParentHeader))if(e[0]&&e[0].headers)a(e[0].headers,n)&&(this.dt=n);else{var s={};for(var o in r)s[o]=r[o];s.headers=new Headers(r.headers||{}),a(s.headers,n)&&(this.dt=n),e.length>1?e[1]=s:e.push(s)}}function a(e,t){var r=!1;return t.newrelicHeader&&(e.set("newrelic",t.newrelicHeader),r=!0),t.traceContextParentHeader&&(e.set("traceparent",t.traceContextParentHeader),t.traceContextStateHeader&&e.set("tracestate",t.traceContextStateHeader),r=!0),r}}function R(e,t){this.params={},this.metrics={},this.startTime=(0,o.t)(),this.dt=t;let[r,n={}]=e;ke(this,Te(r));const i=(""+(r&&r instanceof Se&&r.method||n.method||"GET")).toUpperCase();this.params.method=i,this.body=n.body,this.txSize=ie(n.body)||0}function E(e,t){if(this.endTime=(0,o.t)(),this.params||(this.params={}),(0,Ee.iW)(this.params))return;let r;this.params.status=t?t.status:0,"string"==typeof this.rxSize&&this.rxSize.length>0&&(r=+this.rxSize);const n={txSize:this.txSize,rxSize:r,duration:(0,o.t)()-this.startTime},i=[this.params,n,this.startTime,this.endTime,"fetch"];this.targets.forEach(e=>A(i,this,e))}function T(e){const t=this.params,r=this.metrics;if(this.ended)return;this.ended=!0;for(let t=0;t<xe;t++)e.removeEventListener(Ae[t],this.listener,!1);if(t.aborted)return;if((0,Ee.iW)(t))return;r.duration=(0,o.t)()-this.startTime,this.loadCaptureCalled||4!==e.readyState?null==t.status&&(t.status=0):x(this,e),r.cbTime=this.cbTime;const n=[t,r,this.startTime,this.endTime,"xhr"];this.targets.forEach(e=>A(n,this,e))}function A(e,r,i){n("xhr",[...e,i],r,t.K7.ajax)}function x(e,n){e.params.status=n.status;var i=function(e,t){var r=e.responseType;return"json"===r&&null!==t?t:"arraybuffer"===r||"blob"===r||"json"===r?ie(e.response):"text"===r||""===r||void 0===r?ie(e.responseText):void 0}(n,e.lastSize);if(i&&(e.metrics.rxSize=i),e.sameOrigin&&n.getAllResponseHeaders().indexOf(Oe)>=0){var o=n.getResponseHeader(Oe);o&&((0,s.p)(O.rs,["Ajax/CrossApplicationTracing/Header/Seen"],void 0,t.K7.metrics,r),e.params.cat=o.split(", ").pop())}e.loadCaptureCalled=!0}r.on("new-xhr",a),r.on("open-xhr-start",c),r.on("open-xhr-end",d),r.on("send-xhr-start",u),r.on("xhr-cb-time",l),r.on("xhr-load-added",h),r.on("xhr-load-removed",p),r.on("xhr-resolved",g),r.on("addEventListener-end",m),r.on("removeEventListener-end",v),r.on("fn-end",b),r.on("fetch-before-start",w),r.on("fetch-start",R),r.on("fn-start",y),r.on("fetch-done",E)}(e,this.ee,this.handler,this.dt),this.importAggregator(e,()=>i.e(478).then(i.bind(i,3845)))}}function ke(e,t){var r=(0,be.D)(t),n=e.params||e;n.hostname=r.hostname,n.port=r.port,n.protocol=r.protocol,n.host=r.hostname+":"+r.port,n.pathname=r.pathname,e.parsedOrigin=r,e.sameOrigin=r.sameOrigin}const Ne={},je=["pushState","replaceState"];function De(e){const t=function(e){return(e||oe.ee).get("history")}(e);return!f.RI||Ne[t.debugId]++||(Ne[t.debugId]=1,(0,ae.YM)(t).inPlace(window.history,je,"-")),t}var Ce=i(3738);function Le(e){(0,c.Y)(a.BL,function(r=Date.now()){const n=r-f.WN;n<0&&(0,h.R)(62,r),(0,s.p)(O.XG,[a.BL,{time:n}],void 0,t.K7.metrics,e.ee),e.addToTrace({name:a.BL,start:r,origin:"nr"}),(0,s.p)(a.Pl+a.hG,[n,a.BL],void 0,t.K7.genericEvents,e.ee)},e)}const{He:Ie,bD:Me,d3:Be,Kp:He,TZ:Ke,Lc:We,uP:Fe,Rz:Ue}=Ce;class Ve extends y{static featureName=Ke;constructor(e){var r;super(e,Ke),r=e,(0,c.Y)(a.U2,function(e){if(!(e&&"object"==typeof e&&e.name&&e.start))return;const n={n:e.name,s:e.start-f.WN,e:(e.end||e.start)-f.WN,o:e.origin||"",t:"api"};n.s<0||n.e<0||n.e<n.s?(0,h.R)(61,{start:n.s,end:n.e}):(0,s.p)("bstApi",[n],void 0,t.K7.sessionTrace,r.ee)},r),Le(e);if(!(0,g.V)(e.init))return void this.deregisterDrain();const n=this.ee;let d;De(n),this.eventsEE=(0,se.u)(n),this.eventsEE.on(Fe,function(e,t){this.bstStart=(0,o.t)()}),this.eventsEE.on(We,function(e,r){(0,s.p)("bst",[e[0],r,this.bstStart,(0,o.t)()],void 0,t.K7.sessionTrace,n)}),n.on(Ue+Be,function(e){this.time=(0,o.t)(),this.startPath=location.pathname+location.hash}),n.on(Ue+He,function(e){(0,s.p)("bstHist",[location.pathname+location.hash,this.startPath,this.time],void 0,t.K7.sessionTrace,n)});try{d=new PerformanceObserver(e=>{const r=e.getEntries();(0,s.p)(Ie,[r],void 0,t.K7.sessionTrace,n)}),d.observe({type:Me,buffered:!0})}catch(e){}this.importAggregator(e,()=>i.e(478).then(i.bind(i,6974)),{resourceObserver:d})}}var ze=i(6344);class Ge extends y{static featureName=ze.TZ;#n;recorder;constructor(e){var r;let n;super(e,ze.TZ),r=e,(0,c.Y)(a.CH,function(){(0,s.p)(a.CH,[],void 0,t.K7.sessionReplay,r.ee)},r),function(e){(0,c.Y)(a.Tb,function(){(0,s.p)(a.Tb,[],void 0,t.K7.sessionReplay,e.ee)},e)}(e);try{n=JSON.parse(localStorage.getItem("".concat(w.H3,"_").concat(w.uh)))}catch(e){}(0,p.SR)(e.init)&&this.ee.on(a.CH,()=>this.#i()),this.#s(n)&&this.importRecorder().then(e=>{e.startRecording(ze.Qb.PRELOAD,n?.sessionReplayMode)}),this.importAggregator(this.agentRef,()=>i.e(478).then(i.bind(i,6167)),this),this.ee.on("err",e=>{this.blocked||this.agentRef.runtime.isRecording&&(this.errorNoticed=!0,(0,s.p)(ze.Vh,[e],void 0,this.featureName,this.ee))})}#s(e){return e&&(e.sessionReplayMode===w.g.FULL||e.sessionReplayMode===w.g.ERROR)||(0,p.Aw)(this.agentRef.init)}importRecorder(){return this.recorder?Promise.resolve(this.recorder):(this.#n??=Promise.all([i.e(478),i.e(249)]).then(i.bind(i,4866)).then(({Recorder:e})=>(this.recorder=new e(this),this.recorder)).catch(e=>{throw this.ee.emit("internal-error",[e]),this.blocked=!0,e}),this.#n)}#i(){this.blocked||(this.featAggregate?this.featAggregate.mode!==w.g.FULL&&this.featAggregate.initializeRecording(w.g.FULL,!0,ze.Qb.API):this.importRecorder().then(()=>{this.recorder.startRecording(ze.Qb.API,w.g.FULL)}))}}var Ye=i(3962);class Ze extends y{static featureName=Ye.TZ;constructor(e){if(super(e,Ye.TZ),function(e){const r=e.ee.get("tracer");function n(){}(0,c.Y)(a.dT,function(e){return(new n).get("object"==typeof e?e:{})},e);const i=n.prototype={createTracer:function(n,i){var a={},c=this,d="function"==typeof i;return(0,s.p)(O.xV,["API/createTracer/called"],void 0,t.K7.metrics,e.ee),function(){if(r.emit((d?"":"no-")+"fn-start",[(0,o.t)(),c,d],a),d)try{return i.apply(this,arguments)}catch(e){const t="string"==typeof e?new Error(e):e;throw r.emit("fn-err",[arguments,this,t],a),t}finally{r.emit("fn-end",[(0,o.t)()],a)}}}};["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach(r=>{c.Y.apply(this,[r,function(){return(0,s.p)(a.hw+r,[performance.now(),...arguments],this,t.K7.softNav,e.ee),this},e,i])}),(0,c.Y)(a.PA,function(){(0,s.p)(a.hw+"routeName",[performance.now(),...arguments],void 0,t.K7.softNav,e.ee)},e)}(e),!f.RI||!(0,T.dV)().o.MO)return;const r=De(this.ee);try{this.removeOnAbort=new AbortController}catch(e){}Ye.tC.forEach(e=>{(0,N.sp)(e,e=>{l(e)},!0,this.removeOnAbort?.signal)});const n=()=>(0,s.p)("newURL",[(0,o.t)(),""+window.location],void 0,this.featureName,this.ee);r.on("pushState-end",n),r.on("replaceState-end",n),(0,N.sp)(Ye.OV,e=>{l(e),(0,s.p)("newURL",[e.timeStamp,""+window.location],void 0,this.featureName,this.ee)},!0,this.removeOnAbort?.signal);let d=!1;const u=new((0,T.dV)().o.MO)((e,t)=>{d||(d=!0,requestAnimationFrame(()=>{(0,s.p)("newDom",[(0,o.t)()],void 0,this.featureName,this.ee),d=!1}))}),l=(0,m.s)(e=>{"loading"!==document.readyState&&((0,s.p)("newUIEvent",[e],void 0,this.featureName,this.ee),u.observe(document.body,{attributes:!0,childList:!0,subtree:!0,characterData:!0}))},100,{leading:!0});this.abortHandler=function(){this.removeOnAbort?.abort(),u.disconnect(),this.abortHandler=void 0},this.importAggregator(e,()=>i.e(478).then(i.bind(i,4393)),{domObserver:u})}}var qe=i(3333),Xe=i(9119);const $e={},Qe=new Set;function Je(e){return"string"==typeof e?{type:"string",size:(new TextEncoder).encode(e).length}:e instanceof ArrayBuffer?{type:"ArrayBuffer",size:e.byteLength}:e instanceof Blob?{type:"Blob",size:e.size}:e instanceof DataView?{type:"DataView",size:e.byteLength}:ArrayBuffer.isView(e)?{type:"TypedArray",size:e.byteLength}:{type:"unknown",size:0}}class et{constructor(e,t){this.timestamp=(0,o.t)(),this.currentUrl=(0,Xe.L)(window.location.href),this.socketId=(0,Y.LA)(8),this.requestedUrl=(0,Xe.L)(e),this.requestedProtocols=Array.isArray(t)?t.join(","):t||"",this.openedAt=void 0,this.protocol=void 0,this.extensions=void 0,this.binaryType=void 0,this.messageOrigin=void 0,this.messageCount=0,this.messageBytes=0,this.messageBytesMin=0,this.messageBytesMax=0,this.messageTypes=void 0,this.sendCount=0,this.sendBytes=0,this.sendBytesMin=0,this.sendBytesMax=0,this.sendTypes=void 0,this.closedAt=void 0,this.closeCode=void 0,this.closeReason="unknown",this.closeWasClean=void 0,this.connectedDuration=0,this.hasErrors=void 0}}class tt extends y{static featureName=qe.TZ;constructor(e){super(e,qe.TZ);const r=e.init.feature_flags.includes("websockets"),n=!e.init.feature_flags.includes("no_spv"),d=[e.init.page_action.enabled,e.init.performance.capture_marks,e.init.performance.capture_measures,e.init.performance.resources.enabled,e.init.user_actions.enabled,r,n];var u;let l;if(u=e,(0,c.Y)(a.hG,(e,t)=>U(e,t,u),u),function(e){(0,c.Y)(a.fF,(t,r)=>z(t,r,e),e)}(e),Le(e),Q(e),function(e){(0,c.Y)(a.V1,(t,r)=>V(t,r,e),e)}(e),this.removeOnAbort=new AbortController,this.abortHandler=()=>{this.removeOnAbort.abort(),this.abortHandler=void 0},r){const h=function(e){if(!(0,T.dV)().o.WS)return e;const t=e.get("websockets");if($e[t.debugId]++)return t;$e[t.debugId]=1,(0,x.G)(()=>{const e=(0,o.t)();Qe.forEach(r=>{r.nrData.closedAt=e,r.nrData.closeCode=1001,r.nrData.closeReason="Page navigating away",r.nrData.closeWasClean=!1,r.nrData.openedAt&&(r.nrData.connectedDuration=e-r.nrData.openedAt),t.emit("ws",[r.nrData],r)})});class r extends WebSocket{static name="WebSocket";static toString(){return"function WebSocket() { [native code] }"}toString(){return"[object WebSocket]"}get[Symbol.toStringTag](){return r.name}#o(e){(e.__newrelic??={}).socketId=this.nrData.socketId,this.nrData.hasErrors??=!0}constructor(...e){super(...e),this.nrData=new et(e[0],e[1]),this.addEventListener("open",()=>{this.nrData.openedAt=(0,o.t)(),["protocol","extensions","binaryType"].forEach(e=>{this.nrData[e]=this[e]}),Qe.add(this)}),this.addEventListener("message",e=>{const{type:t,size:r}=Je(e.data);this.nrData.messageOrigin??=(0,Xe.L)(e.origin),this.nrData.messageCount++,this.nrData.messageBytes+=r,this.nrData.messageBytesMin=Math.min(this.nrData.messageBytesMin||1/0,r),this.nrData.messageBytesMax=Math.max(this.nrData.messageBytesMax,r),(this.nrData.messageTypes??"").includes(t)||(this.nrData.messageTypes=this.nrData.messageTypes?"".concat(this.nrData.messageTypes,",").concat(t):t)}),this.addEventListener("close",e=>{this.nrData.closedAt=(0,o.t)(),this.nrData.closeCode=e.code,e.reason&&(this.nrData.closeReason=e.reason),this.nrData.closeWasClean=e.wasClean,this.nrData.connectedDuration=this.nrData.closedAt-this.nrData.openedAt,Qe.delete(this),t.emit("ws",[this.nrData],this)})}addEventListener(e,t,...r){const n=this,i="function"==typeof t?function(...e){try{return t.apply(this,e)}catch(e){throw n.#o(e),e}}:t?.handleEvent?{handleEvent:function(...e){try{return t.handleEvent.apply(t,e)}catch(e){throw n.#o(e),e}}}:t;return super.addEventListener(e,i,...r)}send(e){if(this.readyState===WebSocket.OPEN){const{type:t,size:r}=Je(e);this.nrData.sendCount++,this.nrData.sendBytes+=r,this.nrData.sendBytesMin=Math.min(this.nrData.sendBytesMin||1/0,r),this.nrData.sendBytesMax=Math.max(this.nrData.sendBytesMax,r),(this.nrData.sendTypes??"").includes(t)||(this.nrData.sendTypes=this.nrData.sendTypes?"".concat(this.nrData.sendTypes,",").concat(t):t)}try{return super.send(e)}catch(e){throw this.#o(e),e}}close(...e){try{super.close(...e)}catch(e){throw this.#o(e),e}}}return f.gm.WebSocket=r,t}(this.ee);h.on("ws",e=>{(0,s.p)("ws-complete",[e],void 0,this.featureName,this.ee)})}if(n&&f.gm.addEventListener("securitypolicyviolation",e=>{(0,s.p)("spv",[e],void 0,t.K7.genericEvents,this.ee)},(0,N.jT)(!1,this.removeOnAbort.signal)),f.RI){if(ye(this.ee,e),ue(this.ee,e),l=De(this.ee),e.init.user_actions.enabled){function p(t){const r=(0,be.D)(t);return e.beacons.includes(r.hostname+":"+r.port)}function g(){l.emit("navChange")}qe.Zp.forEach(e=>(0,N.sp)(e,e=>(0,s.p)("ua",[e],void 0,this.featureName,this.ee),!0)),qe.qN.forEach(e=>{const t=(0,m.s)(e=>{(0,s.p)("ua",[e],void 0,this.featureName,this.ee)},500,{leading:!0});(0,N.sp)(e,t)}),f.gm.addEventListener("error",()=>{(0,s.p)("uaErr",[],void 0,t.K7.genericEvents,this.ee)},(0,N.jT)(!1,this.removeOnAbort.signal)),this.ee.on("open-xhr-start",(e,r)=>{p(e[1])||r.addEventListener("readystatechange",()=>{2===r.readyState&&(0,s.p)("uaXhr",[],void 0,t.K7.genericEvents,this.ee)},(0,N.jT)(void 0,this.removeOnAbort.signal))}),this.ee.on("fetch-start",e=>{e.length>=1&&!p(Te(e[0]))&&(0,s.p)("uaXhr",[],void 0,t.K7.genericEvents,this.ee)}),l.on("pushState-end",g),l.on("replaceState-end",g),window.addEventListener("hashchange",g,(0,N.jT)(!0,this.removeOnAbort.signal)),window.addEventListener("popstate",g,(0,N.jT)(!0,this.removeOnAbort.signal))}if(e.init.performance.resources.enabled&&f.gm.PerformanceObserver?.supportedEntryTypes.includes("resource")){new PerformanceObserver(e=>{e.getEntries().forEach(e=>{(0,s.p)("browserPerformance.resource",[e],void 0,this.featureName,this.ee)})}).observe({type:"resource",buffered:!0})}}d.some(e=>e)?this.importAggregator(e,()=>i.e(478).then(i.bind(i,8019))):this.deregisterDrain()}}var rt=i(2646);const nt=new Map;function it(e,t,r,n,i=!0,s){if("object"!=typeof t||!t||"string"!=typeof r||!r||"function"!=typeof t[r])return(0,h.R)(29);const o=function(e){return(e||oe.ee).get("logger")}(e),a=(0,ae.YM)(o,void 0,s),c=new rt.y(oe.P);c.level=n.level,c.customAttributes=n.customAttributes,c.autoCaptured=i;const d=t[r]?.[ae.Jt]||t[r];return nt.set(d,c),a.inPlace(t,[r],"wrap-logger-",()=>nt.get(d),void 0,!0),o}var st=i(1910);class ot extends y{static featureName=K.TZ;constructor(e){var t;super(e,K.TZ),t=e,(0,c.Y)(a.$9,(e,r)=>F(e,r,t),t),function(e){(0,c.Y)(a.Wb,(t,r,{customAttributes:n={},level:i=K.p_.INFO}={})=>{it(e.ee,t,r,{customAttributes:n,level:i},!1,e)},e)}(e),Q(e);const r=this.ee;["log","error","warn","info","debug","trace"].forEach(t=>{(0,st.i)(f.gm.console[t]),it(r,f.gm.console,t,{level:"log"===t?"info":t},void 0,e)}),this.ee.on("wrap-logger-end",function([e],t,n,i=[]){const{level:s,customAttributes:o,autoCaptured:a}=this;i.forEach(t=>{(0,W.R)(r,e,o,s,a,t)})}),this.importAggregator(e,()=>i.e(478).then(i.bind(i,5288)))}}new A({features:[Pe,E,_,Ve,Ge,P,ee,tt,ot,Ze],loaderType:"spa"})})()})();</script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript">
+/* <![CDATA[ */
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+/* ]]> */
+</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Balaji Wafers Announces Strategic Investment from General Atlantic | General Atlantic</title>
+<meta name="description" content="Gujarat, 22 January 2026 – Balaji Wafers, one of India’s largest snack food brands, today announced that it has entered into a definitive agreement to receive"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Balaji Wafers Announces Strategic Investment from General Atlantic | General Atlantic" />
+<meta property="og:description" content="Gujarat, 22 January 2026 – Balaji Wafers, one of India’s largest snack food brands, today announced that it has entered into a definitive agreement to receive" />
+<meta property="og:url" content="https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/" />
+<meta property="og:site_name" content="General Atlantic" />
+<meta property="og:image" content="https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg" />
+<meta property="og:image:secure_url" content="https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg" />
+<meta property="og:image:width" content="818" />
+<meta property="og:image:height" content="652" />
+<meta property="og:image:alt" content="Balaji Wafers Announces Strategic Investment from General Atlantic" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2026-01-21T23:30:12-05:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Balaji Wafers Announces Strategic Investment from General Atlantic | General Atlantic" />
+<meta name="twitter:description" content="Gujarat, 22 January 2026 – Balaji Wafers, one of India’s largest snack food brands, today announced that it has entered into a definitive agreement to receive" />
+<meta name="twitter:image" content="https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://www.generalatlantic.com/#place","address":{"@type":"PostalAddress","streetAddress":"55 East 52nd Street, 33rd Floor","addressLocality":"New York","addressRegion":"NY","postalCode":"10055","addressCountry":"United States"}},{"@type":"Organization","@id":"https://www.generalatlantic.com/#organization","name":"General Atlantic","url":"https://www.generalatlantic.com","email":"inquiries@generalatlantic.com","address":{"@type":"PostalAddress","streetAddress":"55 East 52nd Street, 33rd Floor","addressLocality":"New York","addressRegion":"NY","postalCode":"10055","addressCountry":"United States"},"logo":{"@type":"ImageObject","@id":"https://www.generalatlantic.com/#logo","url":"https://www.generalatlantic.com/wp-content/uploads/2024/12/ga_logo.jpg","contentUrl":"https://www.generalatlantic.com/wp-content/uploads/2024/12/ga_logo.jpg","caption":"General Atlantic","inLanguage":"en-US","width":"2400","height":"2400"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1 (212) 715-4000","contactType":"customer support"}],"description":"General Atlantic, legal main entity General Atlantic Service Company, L.P., is an American growth equity firm providing capital and strategic support for global growth companies, headquartered in New York, United States.","legalName":"General Atlantic Service Company, L.P.","location":{"@id":"https://www.generalatlantic.com/#place"}},{"@type":"WebSite","@id":"https://www.generalatlantic.com/#website","url":"https://www.generalatlantic.com","name":"General Atlantic","alternateName":"GA","publisher":{"@id":"https://www.generalatlantic.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg","url":"https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg","width":"818","height":"652","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/#webpage","url":"https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/","name":"Balaji Wafers Announces Strategic Investment from General Atlantic | General Atlantic","datePublished":"2026-01-21T23:30:12-05:00","dateModified":"2026-01-21T23:30:12-05:00","isPartOf":{"@id":"https://www.generalatlantic.com/#website"},"primaryImageOfPage":{"@id":"https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/#author","name":"dax","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/c454610e0b359f2e5641ef3008e7f57bc701743b4ad9e7b743cd1b37c71085c1?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/c454610e0b359f2e5641ef3008e7f57bc701743b4ad9e7b743cd1b37c71085c1?s=96&amp;d=mm&amp;r=g","caption":"dax","inLanguage":"en-US"},"worksFor":{"@id":"https://www.generalatlantic.com/#organization"}},{"@type":"NewsArticle","headline":"Balaji Wafers Announces Strategic Investment from General Atlantic | General Atlantic","datePublished":"2026-01-21T23:30:12-05:00","dateModified":"2026-01-21T23:30:12-05:00","author":{"@id":"https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/#author","name":"dax"},"publisher":{"@id":"https://www.generalatlantic.com/#organization"},"description":"Gujarat, 22 January 2026 \u2013 Balaji Wafers, one of India\u2019s largest snack food brands, today announced that it has entered into a definitive agreement to receive","name":"Balaji Wafers Announces Strategic Investment from General Atlantic | General Atlantic","@id":"https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/#richSnippet","isPartOf":{"@id":"https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/#webpage"},"image":{"@id":"https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//www.generalatlantic.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="General Atlantic &raquo; Feed" href="https://www.generalatlantic.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="General Atlantic &raquo; Comments Feed" href="https://www.generalatlantic.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.generalatlantic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.generalatlantic.com%2Fmedia-article%2Fbalaji-wafers-announces-strategic-investment-from-general-atlantic%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.generalatlantic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.generalatlantic.com%2Fmedia-article%2Fbalaji-wafers-announces-strategic-investment-from-general-atlantic%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote :where(cite),.wp-block-pullquote :where(footer),.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+/*# sourceURL=/wp-includes/css/dist/block-library/theme.min.css */
+</style>
+<link rel='stylesheet' id='theme-styles-css' href='https://www.generalatlantic.com/wp-content/themes/general-atlantic-theme/dist/css/theme.css?id=cf1c3f7664ef183a99e1c69af6ac89f0' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.generalatlantic.com/wp-content/plugins/tablepress/css/build/default.css?ver=3.3' type='text/css' media='all' />
+<style id='block-visibility-screen-size-styles-inline-css' type='text/css'>
+/* Large screens (desktops, 1079px and up) */
+@media ( min-width: 1079px ) {
+	.block-visibility-hide-large-screen {
+		display: none !important;
+	}
+}
+
+/* Medium screens (tablets, between 768px and 1079px) */
+@media ( min-width: 768px ) and ( max-width: 1078.98px ) {
+	.block-visibility-hide-medium-screen {
+		display: none !important;
+	}
+}
+
+/* Small screens (mobile devices, less than 768px) */
+@media ( max-width: 767.98px ) {
+	.block-visibility-hide-small-screen {
+		display: none !important;
+	}
+}
+/*# sourceURL=block-visibility-screen-size-styles-inline-css */
+</style>
+<script type="text/javascript" id="gtmkit-js-before" data-cfasync="false" data-nowprocket="" data-cookieconsent="ignore">
+/* <![CDATA[ */
+		window.gtmkit_settings = {"datalayer_name":"dataLayer","console_log":false};
+		window.gtmkit_data = {};
+		window.dataLayer = window.dataLayer || [];
+				
+//# sourceURL=gtmkit-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" id="gtmkit-container-js-after" data-cfasync="false" data-nowprocket="" data-cookieconsent="ignore">
+/* <![CDATA[ */
+/* Google Tag Manager */
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PNGJ658R');
+/* End Google Tag Manager */
+
+//# sourceURL=gtmkit-container-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="gtmkit-datalayer-js-before" data-cfasync="false" data-nowprocket="" data-cookieconsent="ignore">
+/* <![CDATA[ */
+const gtmkit_dataLayer_content = {"pagePostType":"media_article","pageType":"media_article","postDate":"2026-01-21"};
+dataLayer.push( gtmkit_dataLayer_content );
+
+//# sourceURL=gtmkit-datalayer-js-before
+/* ]]> */
+</script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" src="https://www.generalatlantic.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" src="https://www.generalatlantic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" id="theme-js-js-extra">
+/* <![CDATA[ */
+var localized_object = {"ajax_url":"https://www.generalatlantic.com/wp-admin/admin-ajax.php","nonce":"6e2e434c20"};
+//# sourceURL=theme-js-js-extra
+/* ]]> */
+</script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-content/themes/general-atlantic-theme/dist/js/theme.js?id=d8d5804d4ce3c9bdf4455f473e73a9a3" id="theme-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.generalatlantic.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.generalatlantic.com/wp-json/wp/v2/media_article/10919" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.generalatlantic.com/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://www.generalatlantic.com/?p=10919' />
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.generalatlantic.com/?wordfence_lh=1&hid=390B19C01DDAF1744B51B6E15C424D0D');
+</script><link rel="icon" href="https://www.generalatlantic.com/wp-content/uploads/2024/07/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://www.generalatlantic.com/wp-content/uploads/2024/07/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.generalatlantic.com/wp-content/uploads/2024/07/favicon.png" />
+<meta name="msapplication-TileImage" content="https://www.generalatlantic.com/wp-content/uploads/2024/07/favicon.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+@media (min-width: 1080px){
+.col-top-less {
+	margin-top: -3em;
+}
+}
+
+
+.less-padding {
+	margin-bottom: .5em !important;
+}
+
+
+
+/* dv | change bullets to '-' for applicant policy*/
+.dash-list,
+.dash-list ul {
+  list-style: none !important;
+  margin: 0 !important;
+  padding-left: 1.25em !important;
+}
+
+.dash-list li {
+  position: relative;
+  margin: 0.3em 0;
+}
+
+.dash-list li::before {
+  content: "–"; 
+  position: absolute;
+  left: -1.25em;
+}
+.dash-list li::marker {
+  content: "";
+}
+
+
+/* dv | applicant tracking weird table html fix */
+.wp-block-table.ga-privacy-table {
+  margin: 2rem 0;
+}
+
+.wp-block-table.ga-privacy-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.wp-block-table.ga-privacy-table thead th {
+  text-align: left;
+  font-weight: 700;
+  border-bottom: 2px solid rgba(0,0,0,0.25);
+  padding: 14px 16px;
+  vertical-align: bottom;
+}
+
+.wp-block-table.ga-privacy-table tbody td {
+  padding: 18px 16px;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(0,0,0,0.12);
+}
+
+
+.wp-block-table.ga-privacy-table tr.table-section td {
+  padding: 16px 16px;
+  font-weight: 700;
+  border-top: 1px solid rgba(0,0,0,0.18);
+  border-bottom: 1px dotted rgba(0,0,0,0.35);
+  background: transparent;
+}
+
+.wp-block-table.ga-privacy-table td ul {
+  margin: 0;
+  padding-left: 1.1em;
+}
+.wp-block-table.ga-privacy-table td li {
+  margin: 0.25em 0;
+}
+
+@media (min-width: 900px) {
+  .wp-block-table.ga-privacy-table table.has-fixed-layout {
+    table-layout: fixed;
+  }
+  .wp-block-table.ga-privacy-table thead th:nth-child(1),
+  .wp-block-table.ga-privacy-table tbody td:nth-child(1) { width: 34%; }
+  .wp-block-table.ga-privacy-table thead th:nth-child(2),
+  .wp-block-table.ga-privacy-table tbody td:nth-child(2) { width: 36%; }
+  .wp-block-table.ga-privacy-table thead th:nth-child(3),
+  .wp-block-table.ga-privacy-table tbody td:nth-child(3) { width: 30%; }
+}
+
+/* dv | applicant tracking weird table html fix Mobile */
+@media (max-width: 780px) {
+  
+  .wp-block-table.ga-privacy-table {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+ 
+  .wp-block-table.ga-privacy-table table {
+    min-width: 760px;         
+  }
+
+  
+  .wp-block-table.ga-privacy-table thead th,
+  .wp-block-table.ga-privacy-table tbody td {
+    padding: 12px 12px;
+  }
+
+ 
+  .wp-block-table.ga-privacy-table thead th {
+    white-space: nowrap;
+  }
+}
+/* END OF dv | applicant tracking weird table html fix */
+
+
+
+
+.new-padding {
+	padding-right: 40%;
+}
+@media (max-width: 995px){
+.new-padding {
+	padding-right: 20%;
+}
+}
+
+/* Allow long email/URLs to wrap instead of overflowing */
+.break-email, a[href^="mailto"] {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+
+body.page-id-10594 .site-header
+ {
+  display: none !important;
+}
+
+
+
+/* Apply to the parent Columns block that has the class */
+@media (min-width: 1224px){
+.wp-block-columns.tight-cols,
+.tight-cols.wp-block-columns {
+  /* WP core uses this var to drive gaps */
+  --wp--style--block-gap: 8px;            /*  .wp-block-column,
+.tight-cols.wp-block-columns > .wp-block-column {
+  margin-left: 0 !important;
+  padding-left: 0;                        /* in case padding used as gutter */
+  padding-right: 0;
+  flex: 1 1 auto !important;
+  max-width: none !important;
+}
+
+/* Some themes set margin-left on all but the first column */
+.wp-block-columns.tight-cols > .wp-block-column:not(:first-child),
+.tight-cols.wp-block-columns > .wp-block-column:not(:first-child) {
+  margin-left: -6em !important;
+}
+
+/* If the theme uses “not stacked on mobile” selector to inject space */
+.wp-block-columns.tight-cols.is-not-stacked-on-mobile > .wp-block-column,
+.tight-cols.wp-block-columns.is-not-stacked-on-mobile > .wp-block-column {
+  margin-left: -6em !important;
+}
+
+/* If your theme applies a separate custom var for gutters, catch it too */
+.wp-block-columns.tight-cols,
+.tight-cols.wp-block-columns {
+  --columns-gap: 8px;                     /* some themes read this */
+}
+}
+
+
+
+
+
+.logo-pad {
+	padding-right: 10em;
+}
+.logo-pad-mobile {
+	padding-left: 3em;
+}
+
+.allcaps  {
+	text-transform: uppercase !important;
+}
+/* Mobile adjustment for ALL CAPS hero text */
+@media (max-width: 600px) {
+  .allcaps {
+    font-size: 50px !important;
+    line-height: 1.05 !important;
+    word-break: break-word;       /* prevents clipping */
+  }
+}
+
+.ga-hero-bg {
+  position: relative;
+  padding: 80px 0;
+  overflow: visible;
+  z-index: 1;
+}
+
+.ga-hero-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  width: 100vw;
+  left: calc(50% - 50vw);
+  background-image: url('/wp-content/uploads/2025/11/ga-ripple-large-scaled-1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.ga-together-section-2 {
+  position: relative;
+  padding: 80px 0;
+  overflow: visible;
+  z-index: 1;
+}
+
+.ga-together-section-2::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  width: 100vw;
+  left: calc(50% - 50vw);
+  background-image: url('/wp-content/uploads/2025/11/blue-together-page-1.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+ 
+.ga-together-section-3 {
+  position: relative;
+  padding: 80px 0;
+  overflow: visible;
+  z-index: 1;
+}
+
+.ga-together-section-3::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  width: 100vw;
+  left: calc(50% - 50vw);
+  background-image: url('/wp-content/uploads/2025/11/ga-together-bottom-banner-1.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+/* GA Together – pill/oval outline button */
+.ga-together-bttn .wp-block-button__link,
+.wp-block-button__link.ga-together-bttn {
+  background-image: none !important;    /* remove arrow icon */
+  background-color: transparent !important;
+  border: 2px solid #ffffff !important; /* white outline */
+  color: #ffffff !important;
+  border-radius: 999px !important;      /* pill shape */
+  padding: 0.75em 1.75em !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Hover state */
+.ga-together-bttn .wp-block-button__link:hover,
+.wp-block-button__link.ga-together-bttn:hover {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+  color: #ffffff !important;
+}
+
+
+
+
+.smaill-line-height {
+	line-height: 1.75;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.line-ht-adj {
+	line-height: 1.5;
+}
+.topdown {
+	margin-top: -1.5em;
+}
+
+/* Apply to the parent Columns block that has the class */
+@media (min-width: 1224px){
+.wp-block-columns.tight-cols,
+.tight-cols.wp-block-columns {
+  /* WP core uses this var to drive gaps */
+  --wp--style--block-gap: 8px;            /*  .wp-block-column,
+.tight-cols.wp-block-columns > .wp-block-column {
+  margin-left: 0 !important;
+  padding-left: 0;                        /* in case padding used as gutter */
+  padding-right: 0;
+  flex: 1 1 auto !important;
+  max-width: none !important;
+}
+
+/* Some themes set margin-left on all but the first column */
+.wp-block-columns.tight-cols > .wp-block-column:not(:first-child),
+.tight-cols.wp-block-columns > .wp-block-column:not(:first-child) {
+  margin-left: -6em !important;
+}
+
+/* If the theme uses “not stacked on mobile” selector to inject space */
+.wp-block-columns.tight-cols.is-not-stacked-on-mobile > .wp-block-column,
+.tight-cols.wp-block-columns.is-not-stacked-on-mobile > .wp-block-column {
+  margin-left: -6em !important;
+}
+
+/* If your theme applies a separate custom var for gutters, catch it too */
+.wp-block-columns.tight-cols,
+.tight-cols.wp-block-columns {
+  --columns-gap: 8px;                     /* some themes read this */
+}
+}
+
+
+
+.small-case  {
+	text-transform: none !important;
+	padding-bottom: .5em;
+}
+
+.page-link-underline a {
+  text-decoration-line: underline;
+}
+
+.smaill-line-height {
+	line-height: 1.75;
+}
+
+
+.line-ht {
+	line-height: 1.5;
+}
+
+p.hundredpercent-link-wrap a,
+.hundredpercent-link-wrap a {
+  display: inline !important;
+  width: auto !important;
+  white-space: normal !important;
+  vertical-align: baseline;
+}
+
+
+.dash-left {
+  position: relative;
+}
+
+.dash-left::before {
+  content: "";
+  position: absolute;
+  top: 0.65em; /* aligns with text midline */
+  right: 100%; /* positions line to the left of the text */
+  width: 9999px; /* extends far to the left */
+  height: 1px;
+  background-color: currentColor;
+  transform: translateX(-1.5rem); /* adjust spacing from text */
+}
+
+
+.small-top-new2 {
+	margin-top: -1.25em;
+}
+
+
+
+.postid-10388 .is-style-line.wp-block-heading::before, .is-style-line.wp-block-image::before, .is-style-line.wp-block-paragraph::before, .is-style-line.wp-block-post-tile::before {
+  display: none;
+}
+
+
+
+
+.postid-10388 h1.wp-block-heading {
+  visibility: hidden;
+  position: relative;
+}
+
+.postid-10388 h1.wp-block-heading::after {
+  content: "Building Talent Density:\AThe Key to Sustainable Growth";
+  white-space: pre-wrap;
+  visibility: visible;
+  position: relative;
+  display: block;
+	margin-top: -1.9em;
+}
+
+
+
+
+
+
+
+@media (min-width: 768px) {
+	.shrink-new-top {
+		margin-top: -2em;
+	}
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 1079px){
+.hundredpercent-title  {
+	max-width: 100% !important;
+	line-height: 1.5;
+	margin-left: .9em !important;
+}
+}
+@media (min-width: 1080px){
+.hundredpercent-title  {
+	max-width: 100% !important;
+	line-height: 1.5;
+	margin-left: .70em !important;
+}
+}
+
+.shrink-top {
+	margin-top: -5.5em;
+}
+
+
+
+
+body.postid-10388 .has-cloud-background-color {
+  background-color: rgb(0 53 76/var(--tw-bg-opacity,1));
+	color: #fff;
+}
+body.postid-10388 .share-btn svg g {
+  stroke: white !important;
+}
+body.postid-10388 .back-btn {
+  color: white !important;
+}
+body.postid-10388 .has-secondary-color {
+  color: white !important;
+}
+
+body.postid-10388 .taxonomy-category [data-tag*="insights"],
+body.postid-9306 .taxonomy-category a[href*="insights"] {
+  color: rgb(0 53 76/var(--tw-bg-opacity,1));
+}
+
+
+
+
+
+@media (max-width: 679px) {
+  .featured-posts .wp-block-post-template.columns-2 .wp-block-post, .featured-posts .wp-block-post-template.columns-3 .wp-block-post {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
+
+
+
+.pad-below-link {
+	margin-bottom: 10px
+}
+
+
+/* Custom class to remove capitalization */
+.no-capitalize {
+  text-transform: none !important;
+}
+
+
+
+
+table td ul { margin:0; padding-left:1.2em; list-style-type:disc; }
+
+.arabic-heading-line.wp-block-heading::before, .arabic-heading-line.wp-block-image::before, .arabic-heading-line.wp-block-paragraph::before, .arabic-heading-line.wp-block-post-tile::before {
+  --tw-translate-x: 10px !important;
+  --tw-translate-y: .18em;
+  background-color: currentColor;
+  content: "";
+  display: block;
+  height: 1px;
+  position: absolute;
+  left: 100% !important;
+  transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  width: 9999px;
+  
+}
+
+
+.custom-hr {
+  border: none;
+  border-top: 1px solid #07272e !important;
+  margin: 1em 0; /* optional: adjust spacing */
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+
+.rtl-arabic {
+  font-family: 'Tajawal', sans-serif;
+  direction: rtl;
+  text-align: right;
+}
+
+
+
+.shrink-bttm-vc {
+	margin-bottom: -3em;
+}
+
+.shrink-bttm-vc2 {
+	margin-bottom: -.75em !important;
+}
+
+/*
+.new-hires--item-content h4 {
+  color: #173057;
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0;
+  text-align: center;
+}
+
+.new-hires--item-content ul li {
+  color: #566879;
+  display: block;
+  font-size: 14px;
+  margin: 5px 0 0;
+}
+
+*/
+
+
+.wp-block-quote.custom-quote-insight-power {
+  margin-top: -.5em;
+}
+.wp-block-quote.custom-quote-insight-power p {
+  max-width: 100% !important;
+	font-size: 1em;
+}
+
+
+
+.custom-pdf-frame iframe {
+  border: 2px solid #444;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+  padding: 0;
+  width: 100%;
+  height: 1000px; /* adjust as needed */
+}
+
+
+
+.toc-inline {
+	max-width: 100% !important;
+}
+
+.toc-inline a {
+  text-decoration: none;
+  color: #202b3c;
+  
+}
+.toc-inline a:hover {
+  text-decoration: underline;
+  color: #b9fbb8;
+}
+
+.icon-right {
+	display: flex !important;
+  justify-content: flex-end !important;
+  
+}
+.media-top {
+	margin-top: -4em;
+}
+
+.tiles-up {
+	margin-top: -1.75em;
+}
+@media (min-width: 768px){
+.shrink-top2 {
+	margin-top: -4.75em !important;
+}
+}
+/*
+.taller {
+	min-height: 145px !important;
+}
+.taller-2 {
+	min-height: 225px !important;
+}
+
+.taller-3 {
+	min-height: 300px !important;
+}
+*/
+.logo-down {
+	margin-bottom: 1.75em;
+}
+
+.small-top {
+	margin-top: -2em !important;
+}
+
+
+@media (max-width: 767px) {
+  .media-switch.wp-block-media-text.is-stacked-on-mobile {
+    display: flex !important;
+    flex-direction: row-reverse !important; /* 👈 This flips the order */
+    align-items: flex-start;
+  }
+
+  .media-switch .wp-block-media-text__content,
+  .media-switch .wp-block-media-text__media {
+    width: auto !important;
+    flex: 1 1 auto;
+  }
+
+  .media-switch .wp-block-media-text__media img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.media-down {
+	margin-bottom: -3em;
+}
+
+.new-size {
+	font-size: 2.25em;
+}
+.custom-h-new-2::before {
+	top: 40px !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.hundredpercent a {
+  width: 100% !important;
+	display: inline-block !important;
+}
+
+.toc-list ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.toc-list li {
+  list-style: none; /* optional, to remove bullets */
+}
+
+
+
+
+.toc-container h2 {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  
+}
+
+.toc-list {
+  list-style: none;
+  padding: 0;
+}
+
+.toc-list li {
+  margin: 0.5em 0;
+  border-bottom: 1px dotted #ccc;
+  padding-bottom: 0.3em;
+}
+
+.toc-list a {
+  text-decoration: none;
+  color: #202b3c;
+  
+}
+
+.toc-list a:hover {
+  text-decoration: underline;
+  color: #b9fbb8;
+}
+.toc-list ul {
+  list-style: disc;
+  margin-left: 1.5em;
+  margin-top: 0.5em;
+}
+.toc-container ul ul {
+  margin-bottom: 0; /* removes space below nested list */
+  padding-bottom: 0;
+}
+
+.toc-list > li > ul {
+  border-bottom: none !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.toc-list li {
+  border-bottom: none !important;
+}
+
+.toc-container a {
+  text-decoration: underline;
+}
+
+.toc-container ul ul li:last-child {
+  margin-bottom: 0; /* removes space below last subitem */
+  padding-bottom: 0;
+}
+
+.wp-block-accordion.insights-accordion {
+  background-color: transparent !important;
+  --tw-bg-opacity: 0 !important;
+}
+
+
+.custom-h::before {
+	top: 45px !important;
+}
+.accord-font-size .wp-block-accordion__toggle{
+	font-size: 18px !important;
+}
+.custom-h-new::before {
+	top: 15px !important;
+}
+
+.accord-size .wp-block-accordion__toggle{
+	font-size: 24px !important;
+}
+.insights-line-new {
+  display: block !important;
+  width: 100% !important;
+  border: none !important;
+  height: 1px !important;
+  background-color: white !important;
+  margin-bottom: -3em;
+}
+
+.insights-line-dark2 {
+	display: block !important;
+  width: 100% !important;
+  border: none !important;
+  height: 1px !important;
+  background-color: rgba(6,38,45,.1) !important;
+  margin: .75em 0 !important;
+}
+.insights-line {
+  display: block !important;
+  width: 100% !important;
+  border: none !important;
+  height: 1px !important;
+  background-color: white !important;
+  margin: 1.25em 0 !important;
+}
+
+@media (min-width: 1080px){
+.bottom-height {
+	margin-bottom: -6em;
+}
+}
+@media (min-width: 992px) and (max-width: 1079px){
+.bottom-height {
+	margin-bottom: -2em;
+}
+}
+
+
+@media (min-width: 768px) {
+  .media-insights-wide.wp-block-media-text.has-background.alignfull:not(.is-image-fill).has-media-on-the-right .wp-block-media-text__media {
+    padding-right: 0;
+		
+  }
+}
+
+@media (min-width: 1440px) {
+  .media-insights-wide.wp-block-media-text.alignfull.has-media-on-the-right .wp-block-media-text__content > * {
+    margin-left: 11em;
+    padding-right: 0;
+		max-width: 100% !important;
+  }
+}
+
+
+@media (min-width: 768px) {
+  .insights-media.wp-block-media-text {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-bottom: -6em !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .insights-media.wp-block-media-text {
+    display: block !important;
+    
+  }
+}
+/*	
+@media (min-width: 768px) {
+  .insights-media-two.wp-block-media-text {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-bottom: -6em !important;
+  }
+}
+*/
+@media (max-width: 767px) {
+  .insights-media-two.wp-block-media-text {
+    display: block !important;
+    
+  }
+}
+
+
+  .insights-media.wp-block-media-text .size-full {
+    width: 61% !important;
+    height: 100% !important;
+    display: block;
+  }
+}
+
+
+
+
+
+
+
+
+
+.bottom-shrink {
+	margin-bottom: -.25em !important;
+}
+
+.accord-blue {
+  --tw-bg-opacity: 0;
+  background-color: transparent !important;
+}
+
+
+
+body.postid-9498 .has-cloud-background-color {
+  background-color: rgb(0 53 76/var(--tw-bg-opacity,1));
+	color: #fff;
+}
+body.postid-9498 .share-btn svg g {
+  stroke: white !important;
+}
+body.postid-9498 .back-btn {
+  color: white !important;
+}
+body.postid-9498 .has-secondary-color {
+  color: white !important;
+}
+
+body.postid-9498 .taxonomy-category [data-tag*="insights"],
+body.postid-9306 .taxonomy-category a[href*="insights"] {
+  color: rgb(0 53 76/var(--tw-bg-opacity,1));
+}
+
+
+
+/*
+
+body.postid-9306 .has-cloud-background-color {
+  background-color: rgb(0 53 76/var(--tw-bg-opacity,1));
+	color: #fff;
+}
+body.postid-9306 .share-btn svg g {
+  stroke: white !important;
+}
+body.postid-9306 .back-btn {
+  color: white !important;
+}
+body.postid-9306 .has-secondary-color {
+  color: white !important;
+}
+
+body.postid-9306 .taxonomy-category [data-tag*="insights"],
+body.postid-9306 .taxonomy-category a[href*="insights"] {
+  color: rgb(0 53 76/var(--tw-bg-opacity,1));
+}
+*/
+
+.col-color-blue {
+  background-color: rgb(0 53 76/var(--tw-bg-opacity,1));
+	color: #fff;
+	padding: 4em;
+}
+
+.shrink-top {
+	margin-top: -5.5em;
+}
+
+@media (min-width: 1082px){
+.shrink-bottom {
+	margin-bottom: -5.5em;
+}
+	}
+
+.custom-heading::before {
+  display: none !important;
+  content: none !important;
+  background: none !important;
+  width: 0 !important;
+  position: static !important;
+}
+
+.custom-heading {
+	padding-bottom: 1em;
+}
+
+
+.custom-heading-col::before {
+  display: none !important;
+  content: none !important;
+  background: none !important;
+  width: 0 !important;
+  position: static !important;
+}
+
+.custom-heading-col {
+	padding-top: .5em;
+}
+
+@media (max-width: 767px){
+.hundredpercent-six  {
+	max-width: 100% !important;
+	line-height: 1.5;
+}
+}
+@media (min-width: 768px){
+	.hundredpercent-seven  {
+	max-width: 95% !important;
+		line-height: 1.5;
+		
+}
+}
+
+
+
+@media (max-width: 767px){
+.hundredpercent-fn  {
+	max-width: 100% !important;
+	
+}
+}
+@media (min-width: 768px){
+	.hundredpercent-fn  {
+	max-width: 100% !important;
+		padding-left: 2.25em;
+		
+}
+}
+
+@media (max-width: 767px){
+.hundredpercent-four  {
+	max-width: 100% !important;
+	
+}
+}
+@media (min-width: 768px){
+	.hundredpercent-five  {
+	max-width: 100% !important;
+		padding-left: 1.5em;
+		
+}
+}
+
+.hundredpercent-new  {
+	max-width: 100% !important;
+	
+}
+
+@media (min-width: 768px){
+.hundredpercent-new-size-2  {
+	max-width: 98% !important;
+	font-size: 1.20em;
+	line-height: 1.45;
+}
+}
+
+@media (max-width: 767px){
+.hundredpercent-new-size-2  {
+	max-width: 100% !important;
+	font-size: 1.2em;
+	line-height: 1.45;
+}
+}
+
+
+@media (min-width: 768px){
+.hundredpercent-new-size  {
+	max-width: 98% !important;
+	font-size: 1.45em;
+	line-height: 1.45;
+}
+}
+
+@media (max-width: 767px){
+.hundredpercent-new-size  {
+	max-width: 100% !important;
+	font-size: 1.45em;
+	line-height: 1.45;
+}
+}
+
+.hundredpercent  {
+	max-width: 100% !important;
+	
+}
+
+
+.hundredpercent-titles  {
+	max-width: 100% !important;
+	line-height: 1.45;
+}
+.hundredpercent-three  {
+	max-width: 100% !important;
+	
+}
+
+.quote-size {
+	line-height: 1.5;
+		margin-left: auto;
+    margin-right: 50%;
+	
+}
+
+.single-insights .legacy-content h2 strong {
+	font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+.shrink-top {
+	margin-top: -5.5em;
+}
+
+@media (min-width: 1082px){
+.shrink-bottom {
+	margin-bottom: -5.5em;
+}
+	}
+
+.custom-heading::before {
+  display: none !important;
+  content: none !important;
+  background: none !important;
+  width: 0 !important;
+  position: static !important;
+}
+
+.custom-heading {
+	padding-bottom: 1em;
+}
+
+.hundredpercent  {
+	max-width: 100% !important;
+	
+}
+
+
+
+.wp-block-clocks-a img,
+.wp-block-clocks-b img {
+  aspect-ratio: 138 / 92;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+
+.quote-size {
+	line-height: 1.5;
+		margin-left: auto;
+    margin-right: 50%;
+}
+
+.single-insights .legacy-content h2 strong {
+	font-weight: 600;
+}
+
+
+/* 
+.wp-block-clocks-b .clock:nth-child(23) {
+  display: none; 
+}
+.wp-block-clocks-a .clock:nth-child(23) {
+  display: none; 
+}
+
+*/
+
+
+
+
+
+/*
+.wp-block-columns.tight-gap .move-over {
+  margin-left: -0.5em; 
+}
+
+@media (max-width: 768px) {
+  .wp-block-columns.tight-gap .move-over {
+    margin-left: 0 !important;
+  }
+}
+*/
+
+.top-marge {
+	margin-top: -1.5em;
+}
+
+@media (max-width: 768px) {
+  .mobile-full-width-heading {
+    max-width: 96.99% !important;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+.wp-block-quote.custom-quote-insight p {
+  max-width: 100% !important;
+	line-height: 1.5em;
+}
+/*
+.insight-margin img {
+	margin-left: -.8em;
+	padding-bottom: 10px;
+}
+*/
+
+.custom-quote::before {
+	display: none;
+  /* font-size: 4rem;
+  line-height: 1;
+	font-weight: 200;
+ */
+}
+/*
+@media (min-width: 1080px) {
+ .custom-quote.wp-block-quote p:first-of-type::before, blockquote p:first-of-type::before {
+    margin-right: -8.5px;
+  }
+}
+
+
+*/
+
+.custom-quote::before {
+	display: none !important;
+   font-size: 4rem;
+  line-height: 1;
+	font-weight: 200;
+ content: none !important;
+	max-width: 100% !important;
+}
+
+.custom-quote.wp-block-quote p:first-of-type::before, blockquote p:first-of-type::before {
+  --tw-text-opacity: 1;
+  color: rgb(58 69 84/var(--tw-text-opacity,1));
+  content: none;
+  margin-right: 4px;
+  position: absolute;
+  right: 100%;
+}
+
+.legal-terms ul {
+  display: flex;
+  flex-wrap: wrap; /* allow items to wrap */
+  align-items: center;
+  gap: 16px;
+  justify-content: flex-start; /* align items to left */
+  padding-left: 0; /* remove any left padding */
+  margin-left: 0; /* ensure no left margin */
+	line-height: 15px;
+	padding-top: 15px;
+}
+
+.footer-legal {
+  display: flex;
+  flex-wrap: wrap; 
+  align-items: center;
+  justify-content: space-between;
+  color: #888888;
+}
+
+
+
+
+
+
+.is-page-our-approach .grid > .wp-block-group {
+  display: flex;
+  flex-direction:column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.is-page-our-approach .grid > .wp-block-group .wp-block-buttons {
+  margin-top: auto;
+}
+
+/*
+.custom-media-text-image .wp-block-media-text__media img {
+    margin-top: -20px !important; 
+}
+
+
+@media (min-width: 1336px){
+.custom-media-text-content  {
+    margin-bottom: -68px !important; 
+}
+}
+*/
+
+.home .site-content, .is-page-our-story .site-content, .is-page-sustainability .site-content { margin-top: -120px!important; }
+
+
+/* CookieYes Styling */
+
+.cky-audit-table-element h3 {
+  font-size: 1.1rem;  
+  font-weight: 600;  
+}
+table td ul { margin:0; padding-left:1.2em; list-style-type:disc; }
+
+
+.cky-audit-table-element h3 {
+  margin: 10px 0 25px 0!important;
+}
+
+.cky-audit-table-element .cky-category-des p {
+  margin-top: 0;
+  margin-bottom: 20px!important;
+}
+
+.cky-audit-table-element {
+  display: flex;
+  flex-direction: column;
+
+}
+		</style>
+		</head>
+
+
+<body class="wp-singular media_article-template-default single single-media_article postid-10919 wp-custom-logo wp-embed-responsive wp-theme-general-atlantic-theme theme is-media_article-balaji-wafers-announces-strategic-investment-from-general-atlantic is-chrome">
+
+	<div id="page" class="site">
+
+		<a class="skip-link sr-only" href="#content" aria-label="Skip to content" tab-index="0">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="header_inner">
+
+				<div class="site-branding">
+					<a href="https://www.generalatlantic.com/" class="custom-logo-link" rel="home"><img width="171" height="32" src="https://www.generalatlantic.com/wp-content/uploads/2024/07/general-atlantic-logo.svg" class="custom-logo" alt="General Atlantic" decoding="async" /></a>						<span class="site-title sr-only">General Atlantic</span>
+					
+					<div class="locations">
+						<ul class="menu">
+													</ul>
+					</div>
+				</div><!-- .site-branding -->
+
+				
+				<button class="menu-toggle">
+					<span class="sr-only">Menu</span>
+					<span class="menu-icon">
+						<span></span>
+					</span>
+				</button>
+
+				<nav id="primary-nav" class="site-navigation" role="navigation">
+					<ul class="menu">
+						<li id="menu-item-1049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1049"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1061"><a href="#">About Us</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1259"><a href="https://www.generalatlantic.com/our-story/">Our Story</a></li>
+		<li id="menu-item-1260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1260"><a href="https://www.generalatlantic.com/our-culture/">Our Culture</a></li>
+		<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1269"><a href="https://www.generalatlantic.com/careers/">Careers</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1062"><a href="#">Our Team</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11523"><a href="/our-team/?group=executive-committee">Executive Committee</a></li>
+		<li id="menu-item-1066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1066"><a href="/our-team/?group=investment-team">Investment Team</a></li>
+		<li id="menu-item-1069" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1069"><a href="/our-team/?group=capital-solutions">Capital Solutions</a></li>
+		<li id="menu-item-1070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1070"><a href="/our-team/?group=value-creation">Value Creation</a></li>
+		<li id="menu-item-7308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7308"><a href="/our-team/?group=portfolio-management">Portfolio Management</a></li>
+		<li id="menu-item-1068" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1068"><a href="/our-team/?group=business-operations">Business Operations</a></li>
+		<li id="menu-item-4805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4805"><a href="https://www.generalatlantic.com/our-team/">View All</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1050"><a href="#">Strategies</a>
+<ul class="sub-menu">
+	<li id="menu-item-2966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2966"><a href="#">Our Approach</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2965"><a href="https://www.generalatlantic.com/our-approach/">Overview</a></li>
+		<li id="menu-item-2973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2973"><a href="https://www.generalatlantic.com/capital-solutions/">Capital Solutions</a></li>
+		<li id="menu-item-2967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2967"><a href="https://www.generalatlantic.com/value-creation/">Value Creation</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2968"><a href="#">Investment Strategies</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2969"><a href="https://www.generalatlantic.com/growth-equity/">Growth Equity</a></li>
+		<li id="menu-item-2970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2970"><a href="https://www.generalatlantic.com/credit/">Credit</a></li>
+		<li id="menu-item-2971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2971"><a href="https://www.generalatlantic.com/energy-transition/">Energy Transition</a></li>
+		<li id="menu-item-6453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6453"><a href="https://www.generalatlantic.com/sustainable-infrastructure/">Sustainable Infrastructure</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1051"><a href="#">Investments</a>
+<ul class="sub-menu">
+	<li id="menu-item-3568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3568"><a href="#">Sectors</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3574"><a href="/investments/?type=Technology">Technology</a></li>
+		<li id="menu-item-3572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3572"><a href="/investments/?type=Healthcare">Healthcare</a></li>
+		<li id="menu-item-3571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3571"><a href="/investments/?type=Financial+Services">Financial Services</a></li>
+		<li id="menu-item-3570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3570"><a href="/investments/?type=Consumer">Consumer</a></li>
+		<li id="menu-item-3573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3573"><a href="/investments/?type=Life+Sciences">Life Sciences</a></li>
+		<li id="menu-item-3575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3575"><a href="/investments/?type=energy-transition">Energy Transition</a></li>
+		<li id="menu-item-7439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7439"><a href="/investments/?type=Sustainable+Infrastructure">Sustainable Infrastructure</a></li>
+		<li id="menu-item-4823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4823"><a href="/investments/">View All</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3569"><a href="#">Region</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3576"><a href="/investments/?region=United+States">United States</a></li>
+		<li id="menu-item-3578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3578"><a href="/investments/?region=EMEA">EMEA</a></li>
+		<li id="menu-item-3579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3579"><a href="/investments/?region=India">India</a></li>
+		<li id="menu-item-7418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7418"><a href="/investments/?region=Southeast+Asia">Southeast Asia</a></li>
+		<li id="menu-item-3580" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3580"><a href="/investments/?region=Latin+America">Latin America</a></li>
+		<li id="menu-item-3577" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3577"><a href="/investments/?region=China">China</a></li>
+		<li id="menu-item-4822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4822"><a href="/investments/">View All</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1052"><a href="#">Responsibility</a>
+<ul class="sub-menu">
+	<li id="menu-item-3148" class="hidden-label menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3148"><a href="#">Hidden Label</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3151"><a href="https://www.generalatlantic.com/sustainability/">Sustainability</a></li>
+		<li id="menu-item-3149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3149"><a href="https://www.generalatlantic.com/foundation/">General Atlantic Foundation</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3904"><a href="#">News &#038; Insights</a>
+<ul class="sub-menu">
+	<li id="menu-item-3905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3905"><a href="#">News</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3908"><a href="/news-insights/?type=press-release">Press Releases</a></li>
+		<li id="menu-item-3909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3909"><a href="/news-insights/?type=media">Media</a></li>
+		<li id="menu-item-4825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4825"><a href="/news-insights/">View All</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3906"><a href="#">Perspectives</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3910"><a href="/news-insights/?type=insight">Insights</a></li>
+		<li id="menu-item-4826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4826"><a href="/news-insights/">View All</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1054" class="hide-mobile menu-item menu-item-type-custom menu-item-object-custom menu-item-1054"><a target="_blank" href="http://portal.generalatlantic.com/">LP Login</a></li>
+					</ul>
+					<ul class="mobile-links">
+						<li><a href="#">Contact</a></li>
+						<li><a href="#">LP Login</a></li>
+					</ul>
+
+											<ul class="header-social">
+							<li id="menu-item-1117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1117"><a target="_blank" href="https://twitter.com/generalatlantic/"><span class="sr-only">X</span></a></li>
+<li id="menu-item-1118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1118"><a target="_blank" href="https://www.linkedin.com/company/general-atlantic/"><span class="sr-only">Linkedin</span></a></li>
+						</ul>
+									</nav><!-- #site-navigation -->
+
+
+				<!-- <div id="site-search" class="site-search">
+				<button class="search-toggle">
+  <span class="search-label sr-only">Search</span>
+
+  <svg width="22px" height="22px" viewBox="-1 -1 22 22" class="max-lg:hidden">
+    <g stroke="#06262D" stroke-width="2" fill="none">
+      <circle cx="7.5" cy="7.5" r="7.5"></circle>
+      <line x1="13.3888889" y1="13.3888889" x2="19.6111111" y2="19.6111111" stroke-linecap="square"></line>
+    </g>
+  </svg>
+
+  <svg width="32px" height="32px" fill="none" viewBox="0 0 32 32" class="lg:hidden">
+    <defs>
+      <clipPath id="search">
+        <path fill="#fff" d="M0 0h32v32H0z" />
+      </clipPath>
+    </defs>
+    <g stroke="#06262D" stroke-linejoin="round" clip-path="url(#search)">
+      <path stroke-linecap="round" d="M14 24c5.523 0 10-4.477 10-10S19.523 4 14 4 4 8.477 4 14s4.477 10 10 10Z" />
+      <path stroke-linecap="square" d="M21.072 21.07 28.001 28" />
+    </g>
+  </svg>
+</button>
+      </div> -->
+
+			</div>
+		</header>
+
+		
+		
+				<!-- content start -->
+		<div id="content" class="site-content">
+			<main id="primary" class="content_inner">
+    <article id="post-10919" class="blocks post-10919 media_article type-media_article status-publish has-post-thumbnail hentry">
+            <div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-style-hero has-cloud-background-color">
+        <div class="wp-block-media-text__content">
+          <div class="mb-4">
+            <a class="back-btn" href="/news-insights">Back to News &amp; Insights</a>
+          </div>
+          <h1 class="wp-block-heading is-style-line has-heading-medium-font-size">Balaji Wafers Announces Strategic Investment from General Atlantic</h1>
+
+                    <div class="post-meta mt-auto">
+            <div class="taxonomy-category">
+                                <span data-tag="press-release" rel="tag">Press Release</span>
+                          </div>
+            <div class="wp-block-post-date has-secondary-color">
+              January 21, 2026            </div>
+            <a class="share-btn" href="https://www.generalatlantic.com/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/">
+              <span class="sr-only">Share</span>
+              <svg fill="none" viewBox="0 0 32 32" width="32" height="32">
+                <g stroke="#000" stroke-linecap="square" clip-path="url(#share-clip)">
+                  <path stroke-linejoin="round" d="M22.059 13.297h3a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-18a1 1 0 0 1-1-1v-12a1 1 0 0 1 1-1h3" />
+                  <path d="m11.059 8.297 5-5 5 5" />
+                  <path stroke-linejoin="round" d="M16.059 3.797v13.5" />
+                </g>
+                <defs>
+                  <clipPath id="share-clip">
+                    <path fill="#fff" d="M0 0h32v32H0z" />
+                  </clipPath>
+                </defs>
+              </svg>
+            </a>
+          </div>
+        </div>
+         
+        <figure class="wp-block-media-text__media">
+          <img width="818" height="652" src="https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg" class="wp-image-3091 size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26.jpg 818w, https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26-300x239.jpg 300w, https://www.generalatlantic.com/wp-content/uploads/2026/01/balaji-logo-26-768x612.jpg 768w" sizes="(max-width: 818px) 100vw, 818px" />        </figure>
+              </div>
+      <div class="wp-block-group legacy-content">
+<p class="wp-block-paragraph"><strong>Gujarat, 22 January 2026 –</strong> Balaji Wafers, one of India’s largest snack food brands, today announced that it has entered into a definitive agreement to receive a strategic investment from General Atlantic, a leading global investor. Financial terms of the transaction were not disclosed.</p>
+
+
+
+<p class="wp-block-paragraph">Founded in 1981 by the Virani family, Balaji Wafers has grown from a home-based enterprise into one of India’s largest packaged snack brands. The Company has built its brand on the promise of consistent high-quality, taste and availability, which is supported by its continuous investment in automation, supply chain, innovation, as well as its people and channel partners. Balaji Wafers offers a diverse portfolio across Namkeen, Western snacks, potato wafers, noodles, chikki, papad, and confectionery, all of which have been well received by consumers. Over the years, the Company has successfully scaled its operations from its home base in Gujarat to become a leading player across multiple states in India. In addition to its strong domestic presence, Balaji Wafers exports its products to around 25 countries worldwide.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">With General Atlantic’s investment, Balaji Wafers will focus on further strengthening key corporate functions across the Company and accelerating innovation. Drawing on General Atlantic’s global expertise in the food and consumer sectors, the Company plans to accelerate its expansion across India.</p>
+
+
+
+<p class="wp-block-paragraph">Chandubhai Virani, Founder &amp; Chairman at Balaji Wafers, said: “This partnership marks an important milestone in our journey. General Atlantic’s deep understanding of consumer businesses, track record of working with founder families and long-term approach to value creation, align well with our vision for Balaji Wafers.” Keyur Virani, Whole-time Director, added: “General Atlantic’s investment will support our efforts to establish and operate world-class facilities, invest in innovation and build a professional team to help drive the next phase of growth for the Company. We are excited to extend our footprint across India while staying true to the quality and taste that our consumers trust.”&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Shantanu Rastogi, Managing Director and Head of India at General Atlantic, said: “Balaji Wafers is a true Indian success story. The Company has modernised its production capabilities while preserving the flavour and quality that its consumers have grown to love. We see significant growth potential in India’s packaged snacks market as households increasingly seek affordable, convenient and high-quality food products. Balaji Wafers is well positioned to capitalise on this opportunity, and we look forward to partnering with Chandubhai, Keyur and the entire Balaji team as the Company enters its next phase of growth.”</p>
+
+
+
+<p class="wp-block-paragraph">Intensive Fiscal Services Pvt. Ltd. acted as the exclusive advisor to Balaji Wafers. Under the leadership of Mr. D.K. Surana, Intensive Fiscal Services is a leading investment bank in the consumer sector.</p>
+
+
+
+<p class="wp-block-paragraph">The transaction is subject to customary regulatory approvals and is expected to close later in 2026.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>About Balaji Wafers</strong></p>
+
+
+
+<p class="wp-block-paragraph">Balaji Wafers is one of India’s largest snack food brands. Headquartered in Gujarat, the company is known for its wide portfolio of high-quality and affordable snack products. Supported by advanced manufacturing facilities, Balaji Wafers has established a robust and expansive retail footprint across multiple regions of India.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>About General Atlantic</strong></p>
+
+
+
+<p class="wp-block-paragraph">General Atlantic is a leading global investor with more than four and a half decades of experience providing capital and strategic support for over 830 companies throughout its history. Established in 1980, General Atlantic continues to be a dedicated partner to visionary founders and investors seeking to build dynamic businesses and create long term value. Guided by the conviction that entrepreneurs can be incredible agents of transformational change, the firm combines a collaborative global approach, sector specific expertise, a long-term investment horizon, and a deep understanding of growth drivers to partner with and scale innovative businesses around the world. The firm leverages its patient capital, operational expertise, and global platform to support a diversified investment platform spanning Growth Equity, Credit, Climate, and Sustainable Infrastructure strategies. General Atlantic manages approximately $118 billion in assets under management, inclusive of all strategies, as of September 30, 2025, with more than 900 professionals in 20 countries across five regions. For more information on General Atlantic, please visit: www.generalatlantic.com.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Media Contacts</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Balaji Wafers</strong><br>Jay Sachdev<br><a href="/cdn-cgi/l/email-protection#442e253d3725272c20213204262528252e2d3325222136376a272b29"><span class="__cf_email__" data-cfemail="4228233b3123212a2627340220232e23282b3523242730316c212d2f">[email&#160;protected]</span></a></p>
+
+
+
+<p class="wp-block-paragraph"><strong>General Atlantic</strong><br>Jess Gill<br><a href="/cdn-cgi/l/email-protection#5b363e3f323a1b3c3e353e293a373a2f373a352f323875383436"><span class="__cf_email__" data-cfemail="a4c9c1c0cdc5e4c3c1cac1d6c5c8c5d0c8c5cad0cdc78ac7cbc9">[email&#160;protected]</span></a></p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>      
+      
+      
+<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-left newsletter-signup has-white-color has-text-color has-link-color wp-elements-5e13baadfde1fbae4e79b19355069e56"><span aria-hidden="true" class="wp-block-cover__background has-deep-sea-blue-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top py-0"><div class="wp-block-media-text__content">
+<h2 class="wp-block-heading wp-block-heading alignwide is-style-line has-heading-small-font-size" style="text-transform:none">Subscribe and stay up to  date with the latest news.</h2>
+
+
+
+                <div class='gf_browser_chrome gform_wrapper gform-theme gform-theme--foundation gform-theme--framework gform-theme--orbital' data-form-theme='orbital' data-form-index='0' id='gform_wrapper_1' ><style>#gform_wrapper_1[data-form-index="0"].gform-theme,[data-parent-form="1_0"]{--gf-color-primary: #204ce5;--gf-color-primary-rgb: 32, 76, 229;--gf-color-primary-contrast: #fff;--gf-color-primary-contrast-rgb: 255, 255, 255;--gf-color-primary-darker: #001AB3;--gf-color-primary-lighter: #527EFF;--gf-color-secondary: #fff;--gf-color-secondary-rgb: 255, 255, 255;--gf-color-secondary-contrast: #112337;--gf-color-secondary-contrast-rgb: 17, 35, 55;--gf-color-secondary-darker: #F5F5F5;--gf-color-secondary-lighter: #FFFFFF;--gf-color-out-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-out-ctrl-light-rgb: 17, 35, 55;--gf-color-out-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-out-ctrl-light-lighter: #F5F5F5;--gf-color-out-ctrl-dark: #585e6a;--gf-color-out-ctrl-dark-rgb: 88, 94, 106;--gf-color-out-ctrl-dark-darker: #112337;--gf-color-out-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-color-in-ctrl: #fff;--gf-color-in-ctrl-rgb: 255, 255, 255;--gf-color-in-ctrl-contrast: #112337;--gf-color-in-ctrl-contrast-rgb: 17, 35, 55;--gf-color-in-ctrl-darker: #F5F5F5;--gf-color-in-ctrl-lighter: #FFFFFF;--gf-color-in-ctrl-primary: #204ce5;--gf-color-in-ctrl-primary-rgb: 32, 76, 229;--gf-color-in-ctrl-primary-contrast: #fff;--gf-color-in-ctrl-primary-contrast-rgb: 255, 255, 255;--gf-color-in-ctrl-primary-darker: #001AB3;--gf-color-in-ctrl-primary-lighter: #527EFF;--gf-color-in-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-in-ctrl-light-rgb: 17, 35, 55;--gf-color-in-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-in-ctrl-light-lighter: #F5F5F5;--gf-color-in-ctrl-dark: #585e6a;--gf-color-in-ctrl-dark-rgb: 88, 94, 106;--gf-color-in-ctrl-dark-darker: #112337;--gf-color-in-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-radius: 3px;--gf-font-size-secondary: 14px;--gf-font-size-tertiary: 13px;--gf-icon-ctrl-number: url("data:image/svg+xml,%3Csvg width='8' height='14' viewBox='0 0 8 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4 0C4.26522 5.96046e-08 4.51957 0.105357 4.70711 0.292893L7.70711 3.29289C8.09763 3.68342 8.09763 4.31658 7.70711 4.70711C7.31658 5.09763 6.68342 5.09763 6.29289 4.70711L4 2.41421L1.70711 4.70711C1.31658 5.09763 0.683417 5.09763 0.292893 4.70711C-0.0976311 4.31658 -0.097631 3.68342 0.292893 3.29289L3.29289 0.292893C3.48043 0.105357 3.73478 0 4 0ZM0.292893 9.29289C0.683417 8.90237 1.31658 8.90237 1.70711 9.29289L4 11.5858L6.29289 9.29289C6.68342 8.90237 7.31658 8.90237 7.70711 9.29289C8.09763 9.68342 8.09763 10.3166 7.70711 10.7071L4.70711 13.7071C4.31658 14.0976 3.68342 14.0976 3.29289 13.7071L0.292893 10.7071C-0.0976311 10.3166 -0.0976311 9.68342 0.292893 9.29289Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-select: url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.292893 0.292893C0.683417 -0.097631 1.31658 -0.097631 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976311 9.31658 -0.0976311 9.70711 0.292893C10.0976 0.683417 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976311 1.31658 -0.0976311 0.683418 0.292893 0.292893Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-search: url("data:image/svg+xml,%3Csvg width='640' height='640' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M256 128c-70.692 0-128 57.308-128 128 0 70.691 57.308 128 128 128 70.691 0 128-57.309 128-128 0-70.692-57.309-128-128-128zM64 256c0-106.039 85.961-192 192-192s192 85.961 192 192c0 41.466-13.146 79.863-35.498 111.248l154.125 154.125c12.496 12.496 12.496 32.758 0 45.254s-32.758 12.496-45.254 0L367.248 412.502C335.862 434.854 297.467 448 256 448c-106.039 0-192-85.962-192-192z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-label-space-y-secondary: var(--gf-label-space-y-md-secondary);--gf-ctrl-border-color: #686e77;--gf-ctrl-size: var(--gf-ctrl-size-md);--gf-ctrl-label-color-primary: #112337;--gf-ctrl-label-color-secondary: #112337;--gf-ctrl-choice-size: var(--gf-ctrl-choice-size-md);--gf-ctrl-checkbox-check-size: var(--gf-ctrl-checkbox-check-size-md);--gf-ctrl-radio-check-size: var(--gf-ctrl-radio-check-size-md);--gf-ctrl-btn-font-size: var(--gf-ctrl-btn-font-size-md);--gf-ctrl-btn-padding-x: var(--gf-ctrl-btn-padding-x-md);--gf-ctrl-btn-size: var(--gf-ctrl-btn-size-md);--gf-ctrl-btn-border-color-secondary: #686e77;--gf-ctrl-file-btn-bg-color-hover: #EBEBEB;--gf-field-img-choice-size: var(--gf-field-img-choice-size-md);--gf-field-img-choice-card-space: var(--gf-field-img-choice-card-space-md);--gf-field-img-choice-check-ind-size: var(--gf-field-img-choice-check-ind-size-md);--gf-field-img-choice-check-ind-icon-size: var(--gf-field-img-choice-check-ind-icon-size-md);--gf-field-pg-steps-number-color: rgba(17, 35, 55, 0.8);}</style><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/media-article/balaji-wafers-announces-strategic-investment-from-general-atlantic/' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_1_1" class="gfield gfield--type-email gfield--width-eleven-twelfths field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_1'>Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_1_1' type='email' value='' class='large'   placeholder='Email Address'  aria-invalid="false"  />
+                        </div></div><div id="field_submit" class="gfield gfield--type-submit gfield--width-one-twelfth field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-field-class="gform_editor_submit_container" data-field-position="inline" ><button type="submit" id="gform_submit_button_1" class="gform-button gform-button--white  button gform-button--width-full" onclick="if (!window.__cfRLUnblockHandlers) return false; gform.submission.handleButtonClick(this);" data-submission-type="submit" data-cf-modified-7c25e4b86ecdfc377e6ab931-="">Submit</button></div></div></div>
+        <div class='gform-footer gform_footer top_label'>  
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_1' value='postback' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_1' id='gform_theme_1' value='orbital' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_1' id='gform_style_settings_1' value='{&quot;inputPrimaryColor&quot;:&quot;#204ce5&quot;}' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='USD' value='EtbpDZdjZ3uMCSr54cMmkCCIGs50bWvR8AB8IPa56AiDanFPqGmYsH+bsEuzO8imw24vYMI2Xh0/HN1hwZ5No2p+id/dcfcvDXwuXCsIimS2aAY=' />
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjVlOTkxMWY0YmQ4OGE0MDZlNWU0N2RjZWNmM2QyYTVjIl0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="7c25e4b86ecdfc377e6ab931-text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://www.generalatlantic.com/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://www.generalatlantic.com/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+</div><figure class="wp-block-media-text__media"><img decoding="async" width="1024" height="653" src="https://www.generalatlantic.com/wp-content/uploads/2024/07/Home-Footer-1024x653.jpeg" alt="" class="wp-image-1456 size-full" srcset="https://www.generalatlantic.com/wp-content/uploads/2024/07/Home-Footer-1024x653.jpeg 1024w, https://www.generalatlantic.com/wp-content/uploads/2024/07/Home-Footer-300x191.jpeg 300w, https://www.generalatlantic.com/wp-content/uploads/2024/07/Home-Footer-768x489.jpeg 768w, https://www.generalatlantic.com/wp-content/uploads/2024/07/Home-Footer-1536x979.jpeg 1536w, https://www.generalatlantic.com/wp-content/uploads/2024/07/Home-Footer-2048x1305.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+</div></div>
+
+    </article>
+
+
+
+
+ 
+ <!-- content end -->
+ </main><!-- #main -->
+</div>
+
+		<footer id="colophon" class="site-footer">
+      			<div class="footer_inner">
+
+			<div class="footer-contents">
+
+				<div class="footer-branding">
+					 <a href="https://www.generalatlantic.com/" class="custom-logo-link" rel="home"><img width="171" height="32" src="https://www.generalatlantic.com/wp-content/uploads/2024/07/general-atlantic-logo.svg" class="custom-logo" alt="General Atlantic" decoding="async" /></a>             <span class="site-title sr-only">General Atlantic</span>
+
+									</div><!-- .footer-branding -->
+
+
+        				<nav id="footer-nav" class="footer-navigation" role="navigation">
+						<ul class="menu">
+						<li id="menu-item-1086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1086"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-6124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6124"><a href="https://www.generalatlantic.com/our-story/">Our Story</a></li>
+	<li id="menu-item-6125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6125"><a href="https://www.generalatlantic.com/our-team/">Our Team</a></li>
+	<li id="menu-item-6123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6123"><a href="https://www.generalatlantic.com/our-culture/">Our Culture</a></li>
+	<li id="menu-item-6122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6122"><a href="https://www.generalatlantic.com/careers/">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-1087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1087"><a href="#">Strategies</a>
+<ul class="sub-menu">
+	<li id="menu-item-6130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6130"><a href="https://www.generalatlantic.com/our-approach/">Our Approach</a></li>
+	<li id="menu-item-6129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6129"><a href="https://www.generalatlantic.com/growth-equity/">Growth Equity</a></li>
+	<li id="menu-item-6128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6128"><a href="https://www.generalatlantic.com/credit/">Credit</a></li>
+	<li id="menu-item-6127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6127"><a href="https://www.generalatlantic.com/energy-transition/">Energy Transition</a></li>
+	<li id="menu-item-8560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8560"><a href="https://www.generalatlantic.com/sustainable-infrastructure/">Sustainable Infrastructure</a></li>
+	<li id="menu-item-6126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6126"><a href="https://www.generalatlantic.com/capital-solutions/">Capital Solutions</a></li>
+</ul>
+</li>
+<li id="menu-item-1088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1088"><a href="#">Investments</a>
+<ul class="sub-menu">
+	<li id="menu-item-1105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1105"><a href="/investments/?type=Technology">Technology</a></li>
+	<li id="menu-item-1103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1103"><a href="/investments/?type=Healthcare">Healthcare</a></li>
+	<li id="menu-item-1102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1102"><a href="/investments/?type=Financial+Services">Financial Services</a></li>
+	<li id="menu-item-1101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1101"><a href="/investments/?type=Consumer">Consumer</a></li>
+	<li id="menu-item-1104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1104"><a href="/investments/?type=Life+Sciences">Life Sciences</a></li>
+	<li id="menu-item-1106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1106"><a href="/investments/?type=energy-transition">Energy Transition</a></li>
+</ul>
+</li>
+<li id="menu-item-1089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1089"><a href="#">News &#038; Insights</a>
+<ul class="sub-menu">
+	<li id="menu-item-10521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10521"><a href="/news-insights/?type=press-release">Announcements</a></li>
+	<li id="menu-item-1109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1109"><a href="/news-insights/?type=media">Media</a></li>
+	<li id="menu-item-1110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1110"><a href="/news-insights/">Perspectives</a></li>
+</ul>
+</li>
+<li id="menu-item-1090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1090"><a href="#">Get in Touch</a>
+<ul class="sub-menu">
+	<li id="menu-item-6482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6482"><a href="https://www.generalatlantic.com/contact/">Contact</a></li>
+	<li id="menu-item-1114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1114"><a target="_blank" href="http://portal.generalatlantic.com/">LP Login</a></li>
+</ul>
+</li>
+					</ul>
+				</nav><!-- #footer-nav -->
+        
+
+											<nav class="footer-social">
+							<ul class="menu">
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1117"><a target="_blank" href="https://twitter.com/generalatlantic/"><span class="sr-only">X</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1118"><a target="_blank" href="https://www.linkedin.com/company/general-atlantic/"><span class="sr-only">Linkedin</span></a></li>
+							</ul>
+						</nav><!-- .site-social -->
+					
+				</div>
+				
+				<div class="footer-legal">
+						<p class="legal-copyright">
+							&copy;2026 <a href="https://www.generalatlantic.com/" rel="home">General Atlantic</a> All Rights Reserved.
+						</p>
+														<nav id="legal-nav" class="legal-terms" role="navigation">
+										<ul class="menu">
+										<li id="menu-item-6903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6903"><a href="https://www.generalatlantic.com/legal-disclaimer/">Legal Disclaimer</a></li>
+<li id="menu-item-9018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9018"><a href="https://www.generalatlantic.com/legal-website-disclaimers/">Legal Website Disclaimers</a></li>
+<li id="menu-item-9166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9166"><a href="https://www.generalatlantic.com/cookie-policy/">Cookie Policy</a></li>
+<li id="menu-item-10539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10539"><a href="https://www.generalatlantic.com/security-and-fraud-awareness/">Security and Fraud Awareness</a></li>
+<li id="menu-item-1081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1081"><a href="/sitemap_index.xml">Sitemap</a></li>
+<li id="menu-item-6905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-6905"><a rel="privacy-policy" href="https://www.generalatlantic.com/privacy-notice/">Privacy Notice</a></li>
+<li id="menu-item-1083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1083"><a target="_blank" href="/wp-content/uploads/2026/04/GASC-Form-ADV-Part-3-2026-Update-interactive-version-1.pdf">Form CRS</a></li>
+<li id="menu-item-9004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9004"><a target="_blank" href="/wp-content/uploads/2026/05/SFDR-Periodic-disclosure-and-PAI-Statement_GABNZ__2024_1606_Final.pdf">BeyondNetZero SFDR Disclosure</a></li>
+<li id="menu-item-9104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9104"><a href="https://www.generalatlantic.com/ga-bnz-ii-website-disclosures/">GA BNZ II Website Disclosures</a></li>
+									</ul>
+								</nav><!-- #legal-nav -->
+												</span>
+				</div>
+			</div>
+		</footer>
+
+		<div class="search-container">
+			<div class="search-header">
+				<form class="search-form" role="search" method="get">
+					<input type="text" class="search-input" placeholder="Search">
+				</form>
+			</div>
+			<div class="search-body"></div>
+			<div class="search-footer"></div>
+		</div>
+
+	</div><!-- #page -->
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/general-atlantic-theme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<link rel='stylesheet' id='gravity_forms_theme_reset-css' href='https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=2.9.31' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_theme_foundation-css' href='https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=2.9.31' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_theme_framework-css' href='https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=2.9.31' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_orbital_theme-css' href='https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=2.9.31' type='text/css' media='all' />
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-elements-5e13baadfde1fbae4e79b19355069e56 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://kit.fontawesome.com/4589ba4e3d.js?ver=5eb95d47518bb5fa01bd5bd42a568463" id="theme-icons-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-includes/js/dist/a11y.min.js?ver=cb460b4676c94bd228ed" id="wp-a11y-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer='defer' src="https://www.generalatlantic.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.31" id="gform_json-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled","error":"Error","message":"Message"},"vars":{"images_url":"https://www.generalatlantic.com/wp-content/plugins/gravityforms/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https://www.generalatlantic.com/wp-content/plugins/gravityforms","number_formats":[],"spinnerUrl":"https://www.generalatlantic.com/wp-content/plugins/gravityforms/images/spinner.svg","version_hash":"bb3f3ce4ef048f04017ad7132f988dc7","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+//# sourceURL=gform_gravityforms-js-extra
+/* ]]> */
+</script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.31" id="gform_gravityforms-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer='defer' src="https://www.generalatlantic.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.31" id="gform_placeholder-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=3f278756f0a3032bed328ff6a9f6c01d" id="gform_gravityforms_utils-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=4f8b3915c1c1e1a6800825abd64b03cb" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"bb3f3ce4ef048f04017ad7132f988dc7"},"ajax":{"ajaxurl":"https://www.generalatlantic.com/wp-admin/admin-ajax.php","ajax_submission_nonce":"72632f77bb","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again."}}}},"hmr_dev":"","public_path":"https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/js/dist/","config_nonce":"6a49eb08e3"};
+//# sourceURL=gform_gravityforms_theme-js-extra
+/* ]]> */
+</script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript" defer src="https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=a1e4be6ab14e0f896212221fc6ec8edd" id="gform_gravityforms_theme-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.generalatlantic.com/wp-includes/js/wp-emoji-release.min.js?ver=5eb95d47518bb5fa01bd5bd42a568463"}}
+</script>
+<script type="7c25e4b86ecdfc377e6ab931-module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.generalatlantic.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="7c25e4b86ecdfc377e6ab931-text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+  <script type="7c25e4b86ecdfc377e6ab931-text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-9846188023bec224d9a","applicationID":"1069483165","transactionName":"blAHZkADWkRYVhFYXVcaJFFGC1tZFkYMX1VVUA==","queueTime":0,"applicationTime":1029,"atts":"QhcEEAgZSUo=","errorBeacon":"bam.nr-data.net","agent":""}</script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7c25e4b86ecdfc377e6ab931-|49" defer></script></body>
+</html>

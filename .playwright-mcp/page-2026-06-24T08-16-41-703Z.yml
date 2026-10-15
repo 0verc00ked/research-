@@ -1,0 +1,148 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e6]:
+        - link "IVCA Logo" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "IVCA Logo" [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e12]:
+              - link "LinkedIn IVCA" [ref=e13] [cursor=pointer]:
+                - /url: https://in.linkedin.com/company/indian-private-equity-venture-capital-association
+                - button "linkedin" [ref=e14]:
+                  - img [ref=e15]
+              - link "twitter IVCA" [ref=e17] [cursor=pointer]:
+                - /url: https://twitter.com/IndianVCA
+                - img "twitter" [ref=e18]
+              - link "youtube IVCA" [ref=e19] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCEyV1l7ncz8m9xYVXlhGEeA
+                - button "youtube icon" [ref=e20]:
+                  - img [ref=e21]
+            - generic [ref=e23]:
+              - button "Contact Us" [ref=e25] [cursor=pointer]:
+                - text: Contact Us
+                - img [ref=e27]
+              - link "Become a Member" [ref=e30] [cursor=pointer]:
+                - /url: /membership/membership-form
+                - button "Become a Member" [ref=e31]:
+                  - generic [ref=e32]: Become a Member
+                  - img [ref=e34]
+          - generic [ref=e37]:
+            - generic [ref=e39] [cursor=pointer]:
+              - paragraph [ref=e40]: About
+              - img "Down arrow" [ref=e41]
+            - generic [ref=e43] [cursor=pointer]:
+              - paragraph [ref=e44]: Committee
+              - img "Down arrow" [ref=e45]
+            - generic [ref=e47] [cursor=pointer]:
+              - paragraph [ref=e48]: Advocacy
+              - img "Down arrow" [ref=e49]
+            - generic [ref=e51] [cursor=pointer]:
+              - paragraph [ref=e52]: Membership
+              - img "Down arrow" [ref=e53]
+            - generic [ref=e55] [cursor=pointer]:
+              - paragraph [ref=e56]: Resources
+              - img "Down arrow" [ref=e57]
+            - generic [ref=e59] [cursor=pointer]:
+              - paragraph [ref=e60]: Initiatives
+              - img "Down arrow" [ref=e61]
+            - generic [ref=e63] [cursor=pointer]:
+              - paragraph [ref=e64]: Newsroom
+              - img "Down arrow" [ref=e65]
+            - link "Industry Job Board" [ref=e67] [cursor=pointer]:
+              - /url: /jobs
+              - paragraph [ref=e68]: Industry Job Board
+    - main [ref=e70]:
+      - generic [ref=e71]:
+        - paragraph [ref=e72]: Board of Directors
+        - generic [ref=e75]: Loading...
+    - contentinfo [ref=e76]:
+      - main [ref=e77]:
+        - heading "Stay Connected. Sign up for updates." [level=2] [ref=e79]:
+          - text: Stay Connected.
+          - text: Sign up for updates.
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - group [ref=e83]:
+              - textbox [ref=e85]:
+                - /placeholder: First Name
+            - group [ref=e86]:
+              - textbox [ref=e88]:
+                - /placeholder: Last Name
+            - group [ref=e89]:
+              - textbox [ref=e91]:
+                - /placeholder: Organisation
+            - group [ref=e92]:
+              - textbox [ref=e94]:
+                - /placeholder: E-mail Address
+          - button "Submit" [ref=e95] [cursor=pointer]:
+            - text: Submit
+            - img [ref=e97]
+      - main [ref=e100]:
+        - img "IVCA logo" [ref=e102]
+        - article [ref=e103]:
+          - heading "Website" [level=2] [ref=e104]
+          - generic [ref=e105]:
+            - link "Disclaimer" [ref=e106] [cursor=pointer]:
+              - /url: /disclaimer
+              - paragraph [ref=e107]: Disclaimer
+            - link "T&C" [ref=e108] [cursor=pointer]:
+              - /url: /tc
+              - paragraph [ref=e109]: T&C
+            - link "Privacy Policy" [ref=e110] [cursor=pointer]:
+              - /url: /privacy-policy
+              - paragraph [ref=e111]: Privacy Policy
+            - link "Refund Policy" [ref=e112] [cursor=pointer]:
+              - /url: /refund-policy
+              - paragraph [ref=e113]: Refund Policy
+            - link "About IVCA" [ref=e114] [cursor=pointer]:
+              - /url: /
+              - paragraph [ref=e115]: About IVCA
+        - article [ref=e116]:
+          - heading "Industry" [level=2] [ref=e117]
+          - generic [ref=e118]:
+            - link "Private Equity" [ref=e119] [cursor=pointer]:
+              - /url: /private-equity
+              - paragraph [ref=e120]: Private Equity
+            - link "Venture Capital" [ref=e121] [cursor=pointer]:
+              - /url: /venture-capital-2
+              - paragraph [ref=e122]: Venture Capital
+            - link "Glossary" [ref=e123] [cursor=pointer]:
+              - /url: /glossary
+              - paragraph [ref=e124]: Glossary
+        - article [ref=e125]:
+          - heading "contact us" [level=2] [ref=e126]
+          - generic [ref=e127]:
+            - img "mail logo" [ref=e128]
+            - paragraph [ref=e129]: info@ivca.in
+          - generic [ref=e130]:
+            - img "mapPin logo" [ref=e131]
+            - paragraph [ref=e132]: First floor, Room 7 & 13 Innov8, Old Fort, Saket District Centre New Delhi - 110017
+        - generic [ref=e133]:
+          - link "linkedin" [ref=e134] [cursor=pointer]:
+            - /url: https://in.linkedin.com/company/indian-private-equity-venture-capital-association
+            - button "linkedin" [ref=e135]:
+              - img [ref=e136]
+          - link "twitter" [ref=e138] [cursor=pointer]:
+            - /url: https://twitter.com/IndianVCA
+            - img "twitter" [ref=e140]
+          - link "youtube" [ref=e141] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCEyV1l7ncz8m9xYVXlhGEeA
+            - button "youtube" [ref=e142]:
+              - img [ref=e143]
+      - generic [ref=e145]:
+        - paragraph [ref=e146]: Copyright © 2026 IVCA. All rights reserved.
+        - link "The Internet Folks" [ref=e147] [cursor=pointer]:
+          - /url: https://theinternetfolks.com/
+          - paragraph [ref=e148]: "Managed by: The Internet Folks"
+    - button "Query Guidance Tool" [ref=e150] [cursor=pointer]:
+      - img [ref=e151]
+  - alert [ref=e153]
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"

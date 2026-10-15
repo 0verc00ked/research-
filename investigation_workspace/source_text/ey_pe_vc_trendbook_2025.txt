@@ -1,0 +1,12599 @@
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Private Equity and
+Venture Capital
+Trendbook 2025
+
+1
+
+2
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+India stands on the cusp of an urban revolution. Rapid
+urbanization, a booming economy and technological
+advancements, are propelling the nation toward
+unprecedented growth. As India cements its position as
+a global powerhouse, cities like Hyderabad, Bengaluru,
+Agra, Chennai, and Surat are at the forefront of this
+transformation. These dynamic hubs are more than
+economic engines—they are shaping the country’s
+future. With a young, skilled workforce and a thriving
+industrial base, India’s cities are accelerating progress
+toward Viksit Bharat goals, aiming for a US$5 trillion
+economy by 2025 and US$40 trillion by 2047.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+India’s fastest-growing cities are driving
+the future of growth
+
+3
+
+TOC
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Table of
+
+4
+
+contents
+06
+
+07
+
+13
+
+19
+
+41
+
+Foreword
+
+Preface
+
+A brief review
+of 2024
+
+Key trends
+of 2024
+
+PE/VC investments
+by sector
+
+79
+
+84
+
+86
+
+94
+
+Exits:
+Key trends
+
+Tax and regulatory
+updates
+
+Glossary of
+acronyms
+
+Appendices
+
+Contacts
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+67
+
+5
+
+Foreword
+
+Foreword
+Ashley Menezes
+Chairperson, IVCA
+Partner and COO - ChrysCapital
+
+Over the last ten years, India’s private equity and
+venture capital (PE/VC) sector has undergone a
+significant transformation. This evolution has been
+characterized by rapid innovation, sectoral
+diversification, and an ability to adapt to changing
+market dynamics, establishing India as one of the most
+attractive investment destinations globally.
+In 2024, the Indian PE/VC industry demonstrated its
+resilience amid global uncertainties and market
+fluctuations, securing investments worth US$56 billion —
+a 5% increase from the previous year. There was a
+marked shift in investor focus towards buyout
+transactions, which saw a 39% surge in value, outpacing
+growth investments.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+The bulk of PE/VC activity remained concentrated in
+sectors that have traditionally attracted interest.
+However, there was a noticeable expansion in financial
+services, e-commerce, and technology sectors,
+outperforming their performance in 2023. Despite a
+downturn in the value of large deals, the investment
+landscape was energized by a record number of
+transactions, propelled by a rekindled interest in startups and growth in private credit transactions.
+
+6
+
+Exit strategies also evolved, with a total of US$26.7
+billion realized, representing a 7% year-on-year increase.
+Open market exits dominated, while PE-backed initial
+public offerings (IPOs) gained momentum, buoyed by a
+capital market that offered robust opportunities for
+investor exits.
+
+The private equity domain has increasingly concentrated
+on growth and mature companies seeking strategic
+partnerships. Concurrently, venture capital has been
+instrumental in fostering India's burgeoning start-up
+ecosystem, which continues to reach unprecedented
+milestones and is the third largest start-up ecosystem
+globally. The country has seen a surge in unicorns and a
+robust pipeline of 'soonicorns,' spanning diverse sectors
+such as FinTech, e-commerce, EdTech, and HealthTech.
+Additionally, PE/VC investors are turning their attention
+to emerging domains like renewable energy, climate
+change, and waste management.
+This report offers an in-depth analysis of the current
+trends that are shaping India's PE/VC landscape. It
+examines investor sentiments, investment and exit
+patterns, sectoral preferences, and the emergence of
+new opportunities.
+I extend my gratitude to the EY team for their
+meticulous research, comprehensive analysis, and the
+assembly of this report.
+I also wish to express my sincere thanks to all of you for
+your unwavering support and encourage your active
+engagement in IVCA's initiatives. As we continue our
+commitment to nurturing and enhancing India's PE/VC
+ecosystem, I invite you to join us on this journey of
+growth. Together, we can work towards creating a more
+prosperous and dynamic future for India's PE/VC sector.
+
+Preface
+
+Preface
+Vivek Soni
+Partner and National Leader
+Private Equity Services, EY India
+vivek.soni@in.ey.com
+
+2.
+
+3.
+
+While certain sectors like e-commerce, technology,
+financial services, media and entertainment, and food
+and agriculture experienced substantial growth, other
+sectors such as life sciences, industrial products, retail
+consumer products, education and automotive faced a
+decline in investment interest.
+PE/VC exits in 2024 totalled US$26.7 billion, marking a
+7% increase compared to 2023 (US$24.9 billion),
+notwithstanding a 7% decline in exit deal volume, falling
+to 282 in 2024 from 304 in 2023. Taking advantage of
+a buoyant capital market, PE/VC investors were able to
+return significant capital via open market exits and IPOs.
+
+4.
+
+§
+
+The number of deals experienced a 54% yearon-year growth.
+
+§
+
+While buyout, start-ups and credit segment
+experienced an increase in value terms, growth
+and PIPE investments declined compared to the
+previous year.
+
+Shift in investment approach:
+
+§
+
+Growth was observed in pure-play PE/VC
+investments, which saw a 10% year-on-year
+increase.
+
+§
+
+PE/VC activity in the infrastructure and real
+estate asset class declined by 3% year-on-year.
+
+Shifting sectoral allocation:
+
+§
+
+Infrastructure was the leading sector,
+attracting US$12.1 billion in PE/VC
+investments.
+
+§
+
+Among the traditional favorites, financial
+services, e-commerce, and technology
+recorded growth, whereas life sciences
+experienced a year-on-year decline.
+
+§
+
+The real estate sector witnessed a record high
+of US$8.8 billion in investments.
+
+PE/VC exits rise:
+
+§
+
+PE/VC exits surged to a record third-highest
+total of US$26.7 billion, across the second
+highest-ever number of exits, with 282 deals.
+
+§
+
+Exits via the open market dominated this year's
+exit activity with an all-time high of US$12.9
+billion, accounting for 48% of overall exits
+during the year.
+
+The report sheds light on the evolving strategies and
+tactics adopted by PE/VC in response to the changing
+market dynamics.
+The data analyzed in this report highlights the following
+trends:
+1.
+
+5.
+
+Decline in fundraising activity:
+
+§
+
+Fundraising activity declined in 2024 to reach
+US$10.4 billion, down from US$15.9 billion in
+the previous year.
+
+§
+
+The number of fundraises also dropped to 95
+from an all-time high of 102 in 2023.
+
+Overall rise in investments:
+
+§
+
+PE/VC investment value saw a 5% year-on-year
+increase in 2024, driven by a surge in buyout
+investments, particularly in the infrastructure,
+technology, and financial services sectors.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+PE/VC activity in 2024 was shaped by several factors,
+including key political events like India's general
+elections and the US presidential elections, ongoing
+geopolitical tensions, the U.S. Federal Reserve’s moves
+to manage interest rate changes and inflation, and their
+corollary impact on global liquidity and financing
+conditions. Also, the buoyant Indian capital markets and
+the depreciating Indian currency impacted PE/VC
+investor confidence and decision making. Despite these
+challenges, after two years of decline, PE/VC investment
+activity sustained to record the second highest-ever
+investments of US$56 billion, driven by highest-ever
+number of deals, marking a 5% and 54% year-on-year
+growth in value and volume, respectively. This growth in
+these challenging times reflects the strength of the
+country’s economic expansion, supported by robust
+fiscal health, rising GST collections, and a favorable
+macroeconomic environment.
+
+7
+
+Outlook
+PE/VC investments
+PE/VC investments in 2025 began on a positive note, with January 2025 investments 37% higher in value compared to
+December 2024 and 9% lower than January 2024.
+Exhibit A
+Investments
+Deal type 1
+
+Value US$ million
+
+Number of deals
+
+2025 (Jan)
+
+2024 (Dec)
+
+2024 (Jan)
+
+2025 (Jan)
+
+2024 (Dec)
+
+2024 (Jan)
+
+Buyout
+
+3,459
+
+2,248
+
+3,435
+
+8
+
+7
+
+3
+
+Growth
+
+1,425
+
+1,023
+
+1,984
+
+19
+
+21
+
+18
+
+Start-up
+
+1,065
+
+861
+
+455
+
+59
+
+57
+
+42
+
+Credit
+
+312
+
+235
+
+529
+
+11
+
+7
+
+28
+
+PIPE
+
+10
+
+218
+
+523
+
+4
+
+12
+
+10
+
+6,271
+
+4,585
+
+6,926
+
+101
+
+104
+
+101
+
+Grand total
+
+Source: EY analysis of VCCEdge data
+
+PE/VC exits
+Exits have experienced a relatively slow start; with January 2025 recording exits at 48% lower than those in December
+2024.
+Exhibit B
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exits
+
+8
+
+Value US$ million
+
+Number of deals
+
+Deal type
+
+2025 (Jan)
+
+2024 (Dec)
+
+2024 (Jan)
+
+2025 (Jan)
+
+2024 (Dec)
+
+2024 (Jan)
+
+Secondary
+
+1,000
+
+1,126
+
+59
+
+1
+
+4
+
+4
+
+IPO
+
+57
+
+562
+
+79
+
+1
+
+7
+
+3
+
+Strategic
+
+3
+
+-
+
+460
+
+5
+
+4
+
+6
+
+Open market
+
+0
+
+351
+
+149
+
+1
+
+3
+
+9
+
+Buyback
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,061
+
+2,039
+
+747
+
+8
+
+18
+
+22
+
+Grand total
+
+Source: EY analysis of VCCEdge data
+
+1
+Growth capital refers to investment in companies older than 10 years, Start-up refers to investments in companies less than 10 years old,
+Buyouts refers to control transactions (>50% stake).
+
+Structurally, Indian consumption appears to be slowing
+down and we hope that the recent budget
+announcements will leave more disposable income in the
+hands of consumers and help address this slowdown.
+Corporate earnings for 3QFY2025 have been tepid and
+disappointing, leading to the significant correction in the
+broader Indian equity markets. Lack of growth combined
+with inflation has dampened earnings growth for India
+Inc and record FII selling observed in the past 5 months
+is in part because of this.
+The rupee has depreciated by 3% in the past 60 days and
+is now at a record low of INR 87.5 to a US Dollar. This
+currency depreciation not only negatively impacts
+PE/VC investor returns in US Dollar terms but also adds
+to the inflation risk in the economy.
+Geopolitically, the world appears to be on a hot tin roof
+and risk of potential escalation of ongoing geopolitical
+conflicts has gone up exponentially as the new US
+government begins to articulate its foreign policy. It
+remains to be seen how the new tariff regime being put
+in place by the USA will impact Indian exports and Indian
+economy.
+From a monetary policy point of view, India appears to
+be in a hard spot. Interest rates appear to have peaked
+and most experts are projecting a downward sloping
+rate curve in 2025. However, the INR is under pressure,
+in part due to the signifcant selling by FII’s in the Indian
+capital markets which does not appear to be abating.
+Any reduction in interest rates would further reduce the
+difference between the 10 year US and Indian
+government bond yields, which is already at a historic
+low. This could further exacerbate the INR depreciation
+situation we find ourselves in as US investors pull out
+more money from the Indian markets citing lack of
+adequate risk premium.
+
+Despite these challenges and potential risks,
+opportunities abound for PE/VC investors active in India.
+One hopes that the ongoing correction in Indian equity
+markets, especially in the mid-cap and small-cap space
+will help close the gap between seller expectations and
+buyer valuations and boost the value and volume of
+PE/VC deal closures.
+A downward sloping interest rate curve in 2025 could
+spur an increase in investments in infrastructure and
+real estate asset class as yield investors look to lock in
+long term yields before asset prices inflate.
+The sustained PE/VC activity seen in 2024, despite
+external challenges, underscores investors’ preference
+for making more substantial investments in India. India's
+appeal as a leading destination for PE/VC investments is
+expected to remain strong and the recent correction in
+the capital markets, while challenging for some, signals
+potential for more balanced market valuations moving
+forward.
+In 2025, the Indian PE/VC market will continue to be
+dominated by international GPs, who play a crucial role
+in shaping the country’s PE/VC landscape. These
+investors as well as the home grown Indian GP’s drive
+their investment decisions by focussing on the micro and
+not the macro. As India’s corporate earnings begin to
+improve, and the gap between buyer and seller
+expectations narrows, we anticipate a significant
+infusion of PE/VC investments into the country.
+Heightened volatility and risk will create buying
+opporutnities for the smart and nimble investors.
+With significant amounts of dry powder with PE/VC
+funds and the potential re-alignment of geopolitical
+stars, we remain cautiously optimistic about the Indian
+PE/VC outlook for 2025 and project an increase in the
+total value of PE/VC investment in the year ahead.
+We hope you enjoy this year’s Trendbook – as always, do
+share your feedback.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+2025 is expected to be a challenging year with many
+uncertainties yet to unfold. The yet to be unveiled
+policies of the new US Government could have far
+reaching effect on international trade flows, exports,
+currency, crude oil prices and their cumulative impact
+will have a bearing on the Indian macro.
+
+9
+
+Investment Banker
+in India 2024
+Deal value and Deal count across
+league tables*
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+*Mergermarket, Refinitiv, Bloomberg and VCCEdge
+
+10
+
+Connect with us:
+Amit Khandelwal
+
+Ajay Arora
+
+Managing Partner,
+Strategy and Transactions
+EY India
+
+Head of Investment
+Banking Advisory
+EY India
+
++
+
+years of unparallel leadership
+across 1,000+ deals
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Scan here to know
+more about us:
+
+11
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+12
+
+Buddha Statue Hyderabad
+Hyderabad, a blend of rich history and modern innovation,
+is witnessing rapid growth as a technology and business
+hub. With a thriving IT sector and home to over 1,500
+startups, Hyderabad’s economy continues to soar,
+positioning it as a leader in South India’s rise
+
+A brief re view of 20 2 4
+
+A brief review of
+
+2024
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+C H A P T E R
+
+13
+
+PE/VC investments
+India PE/VC investments hit a record high of
+US$76.7 billion in 2021 but since then have declined
+as the cost of capital and business risk premium went
+up. In 2022, there was a significant decrease of 28%
+(US$55.4 billion) after which in 2023, there was
+another decline of 3%, as PE/VC investments closed
+at US$53.4 billion. In 2024, after two years of
+declines, PE/VC investments have shown an uptick of
+5%, reaching US$56 billion. This recovery was mainly
+due to increased buyout and credit investments, as
+well as an increase in start-up investments.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+While the deal count remained consistent with the
+previous year, the dollar value of PE/VC buyout
+investments saw a 39% increase, reaching US$16.8
+billion, up from US$12 billion in 2023. This growth
+was particularly driven by investments in the
+infrastructure, technology, and financial services
+sectors. Buyouts secured the top position among all
+deal strategies, rising from second place in 2023.
+This was followed by growth investments, which saw
+a decline of 21% in value, totalling US$13.4 billion,
+down from US$17 billion in 2023. Credit investments
+ranked third, reaching an all-time high of US$10.8
+billion, marking an impressive 52% increase from
+US$7.1 billion in 2023. Start-up investments
+followed closely, reaching US$10 billion, reflecting a
+13% growth compared to US$8.9 billion in 2023.
+Lastly, PIPE investments totalled US$5 billion,
+representing a 40% year-over-year decline from
+US$8.4 billion in 2023.
+
+14
+
+2024 marked a record year for deal activity, with the
+total deal count reaching an all-time high 1,352
+deals, a notable 54% increase from 880 deals in
+2023. The start-up segment was the volume leader
+with 645 deals, a 35% increase to the 477 deals in
+2023. Credit deals experienced a 256% year-on-year
+growth, reaching an all-time high of 310 deals.
+Growth transactions totalled 182 deals, up from 147
+in 2023, while PIPE deals rose by 41%, reaching 157
+deals, compared to 111 in the prior year. Buyouts
+recorded 58 deals and remained consistent with the
+previous year.
+In terms of asset class activity, the minor decline in
+real assets backed (infrastructure and real estate)
+investments (US$20.9 billion across 267 deals in
+2024, compared to US$21.5 billion across 124 deals
+in 2023) was more than compensated by a ~10%
+
+increase in pure-play PE/VC investments, which
+totalled to US$35 billion across 1,085 deals in 2024,
+up from US$31.9 billion across 756 deals in 2023.
+The investment trends in 2024 mirrored that of the
+previous two years, with heightened activity in the
+first half of the year followed by a slowdown in the
+latter half. The first half attracted PE/VC investments
+of US$32.4 billion, while the second half saw
+investments of US$23.6 billion, as the investors
+exercised increased caution amidst rising geopolitical
+conflicts, the US elections and elevated valuation
+levels on account of the public market buoyancy.
+There was also a notable decline in large deals (deals
+greater than US$100 million), with the dollar value
+decreasing by 9%, from US$41.7 billion to US$37.8
+billion across 125 deals, the same deal count as the
+previous year. This decline was primarily driven by a
+reduction in deals within the US$100 million to
+US$500 million range, which fell to US$11.3 billion in
+2024, down from US$12.6 billion in 2023.
+Additionally, the mega deals segment (above US$1
+billion) decreased to US$6.1 billion, compared to
+US$9.6 billion in the previous year.
+In terms of sectoral allocation, infrastructure,
+financial services, real estate, e-commerce,
+technology, and life science recorded more than 100
+deals each, compared to just two sectors reaching
+this milestone in 2023, and collectively accounted for
+80% of total investments by value and 66% by deal
+volume. Like last year, 2024 also witnessed 12
+sectors receiving over US$1 billion in investments.
+Infrastructure was the leading sector, attracting
+US$12.1 billion in investment, slightly down from
+US$13 billion in 2023, accounting for 22% of overall
+investments during the year. Financial services
+climbed one spot to second place, recording US$9.0
+billion, a 41% increase over 2023. Real estate
+secured third place, with US$8.8 billion, a slight
+growth of 3% over 2023. Among other traditionally
+favoured sectors, technology saw a notable 56%
+growth, reaching US$6 billion, while e-commerce
+increased by 87%, totalling US$4.6 billion. However,
+the life sciences sector experienced a 31% decline
+with investments falling from US$6.2 billion in 2023
+to US$4.3 billion in 2024.
+
+Exhibit 1
+Total PE/VC investments
+80,000
+1,277
+
+1,273
+
+1,600
+
+1,352
+
+1,400
+
+60,000
+
+1,200
+928
+
+40,000
+
+880
+
+1,000
+800
+
+76,713
+55,370
+
+48,128
+
+20,000
+
+53,437
+
+600
+
+55,969
+
+400
+200
+
+-
+
+2020
+
+2021
+
+2022
+
+2023
+
+Value (US$m)
+
+0
+
+2024
+
+# of deals
+
+Source: EY analysis of VCCEdge data
+
+PE/VC investments: split across asset classes
+
+80,000
+
+5,406
+5,447
+60,000
+9,021
+
+4,813
+5,888
+
+40,000
+
+6,953
+
+8,512
+
+65,860
+20,000
+
+39,396
+
+37,427
+
+-
+
+2020
+
+2021
+
+PE/VC investments (other sectors) (US$m)
+
+12,998
+
+2022
+Real estate (US$m)
+
+12,126
+8,802
+
+31,927
+
+35,041
+
+2023
+
+2024
+
+Infrastructure (US$m)
+
+PE/VC exits
+Following a 54% year-on-year decline in 2022, PE/VC
+exits rebounded in 2023, registering 36% growth to
+reach US$24.9 billion, compared to US$18.3 billion
+in the previous year. The momentum continued into
+2024, with exits growing by 7% year-on-year totalling
+US$26.7 billion. In terms of exit volume, 2024 saw
+the second-highest number of deals, with 282 exits,
+down from the all-time high of 304 exits in 2023. The
+increase was mainly driven by open market exits,
+which accounted for 48% of the total exits in 2024.
+Additionally, the year saw the second-highest
+number of PE-backed IPOs, with 40 listings, slightly
+lesser than an all-time high of 44 PE-backed IPOs in
+2021.
+
+In terms of distribution of exits by type, open market
+exits, in line with their co-relation to rising equity
+indices, maintained their dominance for the third
+consecutive year, and reached a record high of
+US$12.9 billion across 126 exits, a slight increase
+from US$12.8 billion across 132 exits in 2023.
+Secondary exits followed with US$6.7 billion in 2024,
+up from US$6.6 billion in 2023. Strategic exits
+ranked third, totalling US$3.7 billion, compared to
+US$3.5 billion the previous year. Notably, 2024 was
+the second-best year for PE-backed IPOs, which grew
+by 130% year-on-year and recorded US$3.3 billion in
+OFS vs. US$1.4 billion in 2023.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Source: EY analysis of VCCEdge data
+
+15
+
+International for US$1.6 billion. Predominantly,
+PE/VC exit activities were observed in the financial
+services, technology, e-commerce, pharmaceuticals,
+infrastructure, healthcare, real estate, retail and
+consumer products, and industrial products sectors,
+each witnessing exits surpassing US$1 billion.
+Financial services sector saw exits worth US$5.9
+billion across 68 deals; a 20% decline compared to
+2023 (US$7.4 billion across 80 deals). This was
+followed by exits in the technology sector totalling
+US$4 billion across 27 deals, a 53% growth compared
+to 2023 (US$2.6 billion across 23 deals).
+E-commerce sector recorded exits worth US$2.7
+billion across 30 deals, a 4% decline compared to
+2023 (US$2.9 billion across 35 deals).
+
+While the total number of exits in 2024 declined by
+7%, the year still recorded the second-highest
+number of exits ever, with 282 deals, down from the
+all-time high of 304 exits in 2023. Open market exits
+fell by 5%, totalling 126 deals compared to 132 in
+2023. Secondary exits saw a 12% volume decrease,
+with 53 deals in 2024, down from 60 in the previous
+year. Strategic exits declined by 20%, with 60 exits in
+2024, compared to 75 in 2023. PE-backed IPO was
+the only exit segment to grow in volume, by 33% to
+40 PE-backed IPOs from 30 such IPOs in 2023.
+Buyback deals plummeted by 57%, dropping from
+seven deals in 2023 to just three in 2024.
+The largest exit in 2024 involved Mankind Pharma
+acquiring Bharat Serums and Vaccines from Advent
+Exhibit 2
+
+Total PE/VC exits (US$m)
+40,000
+279
+
+151
+
+300
+250
+200
+
+39,575
+
+150
+24,857
+
+10,000
+
+-
+
+282
+
+248
+
+30,000
+
+20,000
+
+350
+
+304
+
+26,653
+
+18,291
+
+50
+
+5,957
+2020
+
+2021
+
+2022
+Value (US$m)
+
+2023
+
+0
+
+2024
+
+# of exits
+
+Source: EY analysis of VCCEdge data
+
+US$m
+
+PE/VC exits: split across asset classes
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+40,000
+
+16
+
+2,943
+1,219
+
+30,000
+
+20,000
+
+10,000
+
+-
+
+35,413
+
+117
+955
+4,885
+2020
+
+1,513
+2,587
+
+2,234
+1,724
+
+20,758
+
+22,695
+
+2023
+
+2024
+
+3,763
+1,012
+13,516
+
+2021
+
+Other sectors (US$m)
+Source: EY analysis of VCCEdge data
+
+100
+
+2022
+Real estate (US$m)
+
+Infrastructure (US$m)
+
+PE/VC fund raising
+4 targeted at investing in banking, healthcare,
+consumer and software sector.
+
+Fundraising by India focussed GP’s continued to
+decline, reaching US$10.4 billion in 2024, following
+an all-time high of US$17.3 billion in 2022 and the
+second-highest total of US$15.9 billion in 2023.
+
+As stated earlier in our reports, this decline does not
+have a material impact on the value and volume of
+PE/VC investment and activity as bulk of the
+alternative investment capital deployed in India
+continues to be managed by international GP’s that
+raise and invest out of regional or global funds.
+
+Despite the decline in total value, 2024 saw the thirdhighest number of fundraises on record, with 95
+funds raised, down from 102 in the previous year.
+The largest fund raise of 2024 was led by Kedaara
+Capital, securing US$1.7 billion for its Kedaara Fund
+
+Exhibit 3: Fundraise
+
+18,000
+
+99
+
+16,000
+
+102
+
+120
+95
+
+14,000
+73
+
+12,000
+
+80
+
+10,000
+8,000
+
+17,351
+
+42
+
+60
+
+15,903
+
+6,000
+4,000
+
+10,434
+
+8,238
+
+7,747
+
+2020
+
+2021
+
+40
+20
+
+2,000
+-
+
+100
+
+2022
+
+Total funds raised (US$m)
+
+2023
+
+2024
+
+0
+
+Total # of funds raised
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Source: EY analysis of VCCEdge data
+
+17
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+18
+
+Bangalore Palace
+Once the seat of royalty, today Bangalore
+stands as the tech capital of India and a key
+player in the country's startup ecosystem. Home
+to over 12,000 startups and 400+ multinational
+companies, its economic engine is expanding
+into Tier 2 cities, pushing innovation and
+development throughout Karnataka.
+
+2024
+
+Key trends of
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Key trends of 20 2 4
+
+C H A P T E R
+
+19
+
+Buyout investment growth accelerates on account of the increase in the value of
+large deals
+Infrastructure (US$4.3 billion), real estate (US$2.9
+billion), technology (US$2.7 billion), financial
+services (US$2.5 billion), healthcare (US$2.1 billion)
+and industrial products (US$1 billion), each recorded
+greater than US$1 billion investment and dominated
+buyout investments in 2024, collectively accounting
+for 92% of overall buyout investments.
+
+After correcting by 47% in value in 2022, buyout
+strategy rose 8% in 2023 and then saw a 39% yearon-year growth in 2024, climbing to the first spot by
+US$ value, up from the second place in the previous
+year. Buyout transactions accounted for 30% of the
+overall PE/VC investments in 2024.
+While the deal count remained same as last year (58
+deals), buyout investment value increased from
+US$12 billion in 2023 to US$16.8 billion in 2024.
+Notably, 2024 saw 36 large deals (deals with a value
+greater than US$100 million) including three deals
+exceeding US$1 billion (at par with the previous
+year), compared to 28 large deals in 2023. These
+large deals accounted for 94% of total buyout
+investments, amounting to US$15.8 billion.
+
+Over the years, buyout transactions have evolved
+from small and mid to large cap companies. Buyouts
+have enabled the PE/VC investors to acquire
+controlling stakes, allowing them to make strategic
+decisions in their portfolio companies and turn
+around underperforming assets. Given the growth
+tailwinds, acquisition of controlling stakes in
+established companies with strong fundamentals
+offer superior risk-adjusted returns to PE/VC
+investors, which is why, despite global headwinds and
+uncertainties, buyouts are emerging as a preferred
+strategy for large PE/VC investors active in India.
+
+The largest buyout deal of the year saw the
+acquisition of ATC India Tower Corporation by Data
+Infrastructure Trust (a Brookfield-sponsored InvIT)
+for US$2 billion.
+
+Exhibit 4: Trend in buyout
+6,000
+
+18
+
+19
+
+18
+
+5,000
+
+15
+
+16
+
+16
+
+14
+10
+
+3,000
+
+8
+4,464
+
+2,000
+1,000
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+-
+
+20
+
+3,244
+2,363
+
+1Q
+
+1,996
+
+2,287
+
+2Q
+
+3Q
+
+2022
+(US$11,110m, #54)
+
+3,728
+
+12
+9
+
+10
+
+5,697
+
+4,297
+
+3,623
+
+4,026
+2,781
+
+4Q
+
+1Q
+
+2Q
+
+3Q
+
+4Q
+
+2023
+(US$12,045m, #58)
+# of deals
+
+8
+6
+4
+
+1,450
+
+Value (US$m)
+Source: EY analysis of VCCEdge data
+
+18
+16
+
+14
+
+14
+
+13
+
+4,000
+
+20
+
+2
+1Q
+
+2Q
+
+3Q
+
+2024
+(US$16,801m, #58)
+
+4Q
+
+0
+
+2023
+
+2024
+
+Exhibit 6: Deal size #
+
+Exhibit 5: Deal size (US$m)
+4,585
+4,452
+
+>US$1000m
+US$500m - US$1000m
+
+6,253
+
+1,775
+
+4,972
+4,959
+
+US$100m - US$500m
+
+8
+
+US$500m - US$1000m
+
+3
+25
+22
+
+US$100m - US$500m
+
+US$50m - US$100m
+
+859
+599
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+117
+227
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+15
+28
+
+US$10m - US$20m
+
+<US$10m
+
+3
+3
+
+>US$1000m
+
+12
+9
+4
+7
+1
+2
+
+<US$10m
+
+5
+
+2
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+2023
+
+Infrastructure
+
+Technology
+
+4,301
+
+1,426
+2,902
+3,186
+
+Real estate
+
+2,680
+
+300
+
+2,459
+1,784
+
+Financial services
+
+2,082
+1,675
+
+Healthcare
+
+1,000
+1,480
+
+Industrial products
+
+Exhibit 8: Top sectors by # of deals
+Real estate
+
+Technology
+
+345
+616
+
+Retail and consumer
+products
+
+269
+297
+
+Metals and mining
+
+Source: EY analysis of VCCEdge data
+
+Others
+
+2
+2
+1
+
+17
+
+10
+9
+
+6
+6
+
+Food and agriculture
+
+Pharmaceuticals
+
+1,212
+
+5
+
+Financial services
+
+Pharmaceuticals
+
+345
+
+7
+
+Infrastructure
+
+417
+68
+
+Others
+
+8
+
+Healthcare
+
+Food and agriculture
+
+Cement and building
+products
+
+12
+
+9
+
+3
+
+3
+
+2
+
+1
+
+6
+
+7
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 7: Top sectors by value (US$m)
+
+2024
+
+21
+
+Exhibit 9: Top PE/VC buyouts in 2024
+Company/asset
+
+Investors
+
+Sector
+
+Amount
+(US$m)
+
+Deal
+stake %
+
+ATC India Tower Corporation (American Data Infrastructure Trust
+Tower Corporation (Indian business))
+(Brookfield)
+
+Infrastructure
+
+2,000
+
+100
+
+Vertelo
+
+Macquarie
+
+Financial services
+
+1,500
+
+100
+
+12 road projects
+
+Highways Infrastructure
+Trust (KKR InvIT)
+
+Infrastructure
+
+1,085
+
+100
+
+Manjushree Technopack
+
+PAG
+
+Industrial products
+
+1,000
+
+>50
+
+Altimetrik Corp
+
+TPG
+
+Technology
+
+900
+
+60
+
+GeBBS Healthcare Solutions
+
+EQT
+
+Technology
+
+860
+
+>50
+
+Healthium Medtech
+
+KKR
+
+Healthcare
+
+838
+
+100
+
+Omega Healthcare Management
+Services
+
+OTPP
+
+Technology
+
+800
+
+>50
+
+11-acre commercial project in Mumbai
+(RMZ Nexus)
+
+CPPIB, RMZ
+
+Real estate
+
+750
+
+100
+
+Shriram Housing Finance
+
+Warburg Pincus
+
+Financial services
+
+554
+
+100
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 10: PE/VC investments split across asset classes (US$ million)
+21,000
+
+PE/VC investment (other sectors)
+
+Real estate
+
+Infrastructure
+
+1,608
+2,037
+
+18,000
+15,000
+12,000
+9,000
+6,000
+3,000
+
+# of deals
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+1,426
+
+2,549
+3,761
+
+4,633
+
+17,138
+
+4,211
+3,145
+
+2,902
+
+3,186
+7,433
+
+9,598
+
+5,430
+
+4,639
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Infrastructure
+
+13
+
+11
+
+10
+
+11
+
+9
+
+7
+
+Real estate
+
+17
+
+12
+
+19
+
+21
+
+12
+
+17
+
+Pure play
+
+32
+
+20
+
+33
+
+22
+
+37
+
+34
+
+-
+
+22
+
+4,301
+
+7,967
+
+3,753
+
+Source: EY analysis of VCCEdge data
+
+Since the correction from the record highs in 2022,
+the US$ value of pure play PE buyouts has increased
+at a CAGR of ~60%, closing 2024 at US$9.6 billion,
+whereas its deal volume has grown at a CAGR of 24%,
+reflecting a healthy increase in average buyout deal
+size. This growth seen in the last 2 years is
+noteworthy as it has come despite the buoyancy in
+the Indian capital markets, that has led to widening
+bid ask spreads between sellers and PE investors,
+leading to protracted and often aborted negotiations,
+
+making deal closures tougher. As the Indian equity
+markets correct, especially in the mid-cap / small-cap
+space, we expect convergence on valuation views
+increasing between sellers and PE investors. This,
+aided by record levels of dry powder available with
+buyout funds and other factors including rising
+incidence of succession planning issues in family
+businesses, difficulty in complete exit for promoter
+groups of listed companies, etc., leads us to project
+an optimistic outlook for buyouts in 2025.
+
+Growth investments slid to second spot, owing to reduction in large deals (above
+US$500 million)
+(US$1.4 billion), and e-commerce (US$1.2 billion),
+which cumulatively accounted for 79% of overall
+growth investments during the year. Healthcare
+sector, which was the third largest sector in 2023,
+saw an 87% reduction in deal value year-on-year,
+largely on account of paucity of scaled up assets as
+opposed to investor appetite. Other sectors which
+saw a decline in value of growth capital investments
+include retail and consumer products (85%),
+industrial products (51%). In terms of deal volume,
+financial services recorded the highest number of
+deals (26), followed by infrastructure and real estate
+(21 deals each).
+
+In 2024, growth investments fell to US$13.4 billion,
+reflecting a 21% year-on-year decrease from US$17
+billion in 2023. However, deal volume saw a 24%
+increase, with 182 growth capital deals in 2024
+compared to 147 in the previous year.
+The decline in growth investments was primarily
+driven by a reduction in large deals exceeding
+US$500 million. These large deals, above US$500
+million, totaled only US$4 billion across four deals
+compared to US$10.4 billion across 11 deals in
+2023, marking a 62% decrease in value terms. The
+year 2024 recorded only one mega deal (above US$1
+billion) in growth investments, i.e., ADIA and KKR’s
+investment of US$1.5 billion into Reliance Logistics
+and Warehouse Holdings (Reliance Retail Ventures
+warehousing assets), which was also the largest deal
+in the segment.
+
+Although the start-up ecosystem is witnessing rapid
+growth, established and mature companies offer a
+balanced risk-return profile over a shorter time frame
+compared to investments in early-stage companies.
+This makes growth companies an appealing target for
+PE and VC investors looking to generate value
+through growth investing. As the economy continues
+to evolve, growth investments are expected to play a
+pivotal role in shaping the PE/VC landscape.
+
+Five sectors recorded over US$1 billion in growth
+investments in 2024, led by infrastructure (US$3.6
+billion), and followed by real estate (US$2.8 billion),
+technology (US$1.6 billion), financial services
+
+Exhibit 11: Trends in growth investments
+53
+
+60
+49
+
+46
+
+10,000
+41
+
+39
+
+37
+
+8,000
+
+36
+
+48
+
+46
+
+39
+
+40
+
+26
+
+6,000
+
+30
+
+4,000
+
+20
+6,255
+
+2,000
+-
+
+50
+
+6,243
+
+3,988
+
+3,323
+
+4,388
+
+4,212
+
+2,175
+
+1,187
+1Q
+
+2Q
+
+3Q
+
+2022
+(US$14,753m, #187)
+
+4Q
+
+1Q
+
+2Q
+
+4Q
+
+2023
+(US$17,018m, #147)
+Value (US$m)
+
+Source: EY analysis of VCCEdge data
+
+3Q
+
+# of deals
+
+3,516
+
+4,065
+
+1Q
+
+2Q
+
+2,749
+
+3,043
+
+3Q
+
+4Q
+
+2024
+(US$13,373m, #182)
+
+10
+0
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+12,000
+
+56
+
+23
+
+2023
+
+2024
+
+Exhibit 12: Deal size (US$m)
+>US$1000m
+
+Exhibit 13: Deal size #
+
+1,500
+
+>US$1000m
+
+4,000
+2,450
+
+US$500m - US$1000m
+
+6,380
+6,323
+
+US$100m - US$500m
+
+US$500m - US$1000m
+
+1
+2
+3
+9
+34
+
+US$100m - US$500m
+
+3,884
+
+US$50m - US$100m
+
+1,096
+1,328
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+1,419
+1,045
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+432
+225
+
+US$10m - US$20m
+
+<US$10m
+
+152
+156
+
+<US$10m
+
+21
+15
+20
+46
+34
+31
+18
+36
+29
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+2023
+
+Exhibit 14: Top sectors by value (US$m)
+3,580
+3,536
+
+Financial services
+
+Real estate
+
+2,781
+3,619
+
+Real estate
+
+Financial services
+
+1,631
+2,060
+399
+
+Healthcare
+
+1,442
+
+Food and agriculture
+
+385
+377
+259
+
+Retail and consumer
+products
+
+Food and agriculture
+
+371
+200
+
+Healthcare
+
+Media and entertainment
+
+351
+216
+
+Industrial products
+
+Source: EY analysis of VCCEdge data
+
+1,259
+
+2,810
+
+Others
+
+21
+
+14
+
+18
+
+9
+
+15
+14
+14
+
+Technology
+
+Pharmaceuticals
+
+Others
+
+21
+19
+
+E-commerce
+
+3,064
+
+26
+
+15
+
+Infrastructure
+
+1,196
+856
+
+E-commerce
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 15: Top sectors by # of deals
+
+Infrastructure
+
+Technology
+
+24
+
+2024
+
+22
+
+13
+10
+12
+
+17
+
+8
+7
+20
+
+34
+
+Exhibit 16: Top growth investments in 2024
+Amount
+(US$m)
+
+Deal
+stake%
+
+1,500
+
+NA
+
+1,000
+
+NA
+
+Technology
+
+950
+
+18
+
+Sterlite Power, GIC
+
+Infrastructure
+
+500
+
+49
+
+National Highway Infra Trust
+
+CPPIB, OTPP
+
+Infrastructure
+
+438
+
+NA
+
+Mahindra Susten (Susten)
+
+OTPP
+
+Infrastructure
+
+428
+
+NA
+
+Rostrum Realty
+
+Brookfield
+
+Real estate
+
+359
+
+49
+
+Fourth Partner Energy
+
+ADB, DEG, IFC
+
+Infrastructure
+
+275
+
+NA
+
+Bangalore International Airport
+(Kempegowda International
+Airport)
+
+Fairfax
+
+Infrastructure
+
+255
+
+10
+
+Svatantra Microfin
+
+Advent, Multiples
+
+Infrastructure
+
+233
+
+NA
+
+Company/asset
+
+Investors
+
+Sector
+
+Reliance Logistics and Warehouse
+Holdings (Reliance Retail Ventures
+warehousing assets)
+
+ADIA and KKR
+
+Real estate
+
+Sael (Sukhbir Agro, SAEL Group)
+
+ADB, Norfund, Tata Cleantech
+Infrastructure
+Capital and US DFC
+
+VFS Global Services
+
+Temasek
+
+Sterlite Grid 32 (Sterlite GIC JV)
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 17: PE/VC investments split across asset classes (US$ million)
+PE/VC investment (other sectors)
+964
+659
+
+20,000
+
+Real estate
+
+1,032
+2,242
+
+15,000
+10,000
+5,000
+
+2,988
+1,698
+
+Infrastructure
+
+1,581
+734
+
+21,254
+16,461
+
+3,536
+3,619
+
+2,781
+12,438
+
+9,863
+
+5,267
+
+# of deals
+
+-
+
+3,580
+
+7,013
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Infrastructure
+
+19
+
+4
+
+12
+
+16
+
+14
+
+21
+
+Real estate
+
+27
+
+11
+
+27
+
+14
+
+19
+
+21
+
+Pure play
+
+106
+
+101
+
+149
+
+157
+
+114
+
+140
+
+Source: EY analysis of VCCEdge data
+
+2020 was an outlier for growth investments on
+account of over US$16.3 billion raised by RIL and its
+Group companies. 2021 saw record highs for PE/VC
+growth investments post which underwriting of large
+growth investments on back of optimistic
+assumptions became tougher as cost of capital and
+business risk premium demanded by investors began
+2
+
+https://www.ey.com/en_gl/insights/ipo/trends
+
+to spike. On the other hand, the sellers were/are
+reluctant to accept the contraction in deal multiples
+from 2021 highs and continue to see the buoyant
+Indian capital markets as a more rewarding avenue
+for raising growth capital. In 2024, Indian IPO
+volumes were the highest globally2 with most of the
+activity in the SME / small-cap / mid-cap space. In
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+25,000
+
+25
+
+Indian consumption story. The recent policy
+initiatives announced by the Government in the
+Budget are a step in the right direction and are
+expected to boost domestic consumption. As the
+Indian equity markets continue to correct and the IPO
+window becomes less viable on account of volatility,
+we project an increase both the value and volume of
+growth capital investments in 2025.
+
+2025, the Indian markets have begun to see a
+correction in valuations, especially in the small-cap
+and mid-cap space, which at the time of this report
+going into print, is seeing elevated levels of volatility
+and broad-based correction across sectors. This
+correction is largely being driven by spike in global
+uncertainty, lack of corporate earnings growth
+across three quarters of the financial year on
+account of inflationary factors and slowdown in the
+
+Private credit reaches historic high fueled by record deals3
+overall credit investments. These sectors saw a
+substantial year-on-year growth of 26%, 125% and
+206%, respectively. Unlike 2023, when only one
+sector received over US$2 billion in credit
+investments, 2024 was more broad based with three
+sectors surpassing the US$2 billion mark.
+
+Private credit investments have been on an upward
+trajectory, reaching an all-time high of US$10.8
+billion, an increase of 52% from last year’s US$7.1
+billion. This growth is driven by a surge in deal
+activity, with the number of deals rising from 87 in
+2023 to 310 in 2024, representing a year-on-year
+growth of 256%.
+
+In terms of deal volume, the sectors with the highest
+investment values also accounted for the largest
+share of overall deal activity, comprising 64% of the
+total volume. Real estate led with 81 deals, followed
+by financial services with 61 deals, and infrastructure
+with 56 deals. Notably, except for education, metals
+& mining, and oil & gas, all sectors saw an increase in
+deal volume in 2024.
+
+While large deals (exceeding US$100 million)
+reached US$5 billion across 20 deals, this segment
+saw a year-on-year decline of 8% (US$5.4 billion
+across 25 deals in 2023). This was offset by a
+significant increase in the small ticket deals (below
+US$100 million) totaling US$5.8 billion across 290
+deals, reflecting a 249% year-on-year growth
+compared to US$1.7 billion across 62 deals in 2023.
+The bulk of the private credit investments,
+constituting 73% of the total, were concentrated in
+three sectors: infrastructure (US$3.1 billion), real
+estate (US$2.4 billion) and financial services (US$2.3
+billion), which collectively accounted for 73% of
+
+The surge in private credit activities in India can be
+primarily attributed to increased demand for
+infrastructure spending and real estate development,
+surge in capital raising by Non-Banking Financial
+Companies (NBFCs) and a general slowdown / risk
+averseness in bank lending to these three sectors.
+
+Exhibit 18: Trends in credit investments
+
+4,000
+
+120
+
+105
+
+100
+
+86
+
+3,000
+
+80
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+69
+
+26
+
+2,000
+
+3,005
+1,000
+
+1,808
+
+43
+
+35
+
+31
+
+22
+1,261
+654
+
+-
+
+1Q
+
+50
+
+60
+
+2,802
+
+40
+
+3,781
+
+47
+
+2Q
+
+3Q
+
+2022
+(US$6,728m, #156)
+
+4Q
+
+2,446
+
+957
+
+25
+
+1Q
+
+2Q
+
+1,438
+
+1,402
+
+22
+
+18
+3Q
+
+4Q
+
+2023
+(US$7,094m, #87)
+Value (US$m)
+
+2,783
+
+2,253
+
+1Q
+
+2Q
+
+3Q
+
+20
+
+4Q
+
+2024
+(US$10,767m, #310)
+
+# of deals
+
+Source: EY analysis of VCCEdge data
+3
+
+For the purpose of this analysis, we have only considered private credit by PE funds, SWFs, Pension Funds and Venture debt investments
+
+0
+
+2023
+
+2024
+
+Exhibit 19: Deal size (US$m)
+
+Exhibit 20: Deal size #
+
+>US$1000m
+
+>US$1000m
+1,250
+1,521
+
+US$500m - US$1000m
+
+US$500m - US$1000m
+3,744
+3,919
+
+US$100m - US$500m
+1,974
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+<US$10m
+
+2,361
+
+18
+23
+
+US$100m - US$500m
+US$50m - US$100m
+
+919
+
+2
+2
+
+29
+13
+73
+
+US$20m - US$50m
+
+530
+945
+108
+
+US$10m - US$20m
+
+493
+97
+
+<US$10m
+
+17
+68
+8
+114
+19
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+Exhibit 21: Top sectors by value (US$m)
+3,130
+2,493
+
+Infrastructure
+Real estate
+
+1,080
+
+Financial services
+
+Retail and consumer
+products
+Industrial products
+Technology
+Cement and building
+products
+
+2,282
+
+747
+485
+1,041
+
+Metals and mining
+Media and entertainment
+
+2,432
+
+450
+45
+0
+1
+
+Real estate
+
+213
+
+Industrial products
+936
+
+1,664
+
+Others
+
+31
+
+8
+
+Power and utilities
+
+Retail and consumer
+products
+
+242
+24
+
+61
+
+24
+
+Infrastructure
+
+Technology
+
+81
+
+14
+
+Financial services
+
+Food and agriculture
+
+286
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 22: Top sectors by # of deals
+
+25
+
+6
+
+E-commerce
+
+312
+
+Others
+
+2024
+
+6
+2
+2
+1
+1
+
+16
+13
+12
+12
+11
+
+23
+
+48
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+2023
+
+27
+
+Exhibit 23: Top private credit investments in 2024
+Amount
+(US$m)
+
+Company/asset
+
+Investors
+
+Sector
+
+GMR Enterprises
+
+ADIA
+
+Infrastructure
+
+750
+
+HDFC Bank
+
+IFC
+
+Financial services
+
+500
+
+Reliance Power
+
+Varde Partners
+
+Infrastructure
+
+500
+
+Bajaj Finance
+
+IFC
+
+Financial services
+
+400
+
+Reliance Infrastructure
+
+Varde Partners
+
+Infrastructure
+
+350
+
+Reliance Logistics and
+Warehouse Holdings
+
+Mubadala and Fortress management
+
+Real estate
+
+322
+
+Residential projects in
+prominent locations across 4
+cities in India of Prestige
+
+ADIA, Kotak AIF
+
+Real estate
+
+240
+
+Vedanta
+
+Davidson Kempner, Varde Partners
+and Alpha Alternatives
+
+Metals and mining
+
+216
+
+GMR Airports
+
+JP Morgan, TATA Capital and Varde
+Partners
+
+Infrastructure
+
+202
+
+IIFL Finance
+
+Fairfax
+
+Financial services
+
+200
+
+Source: EY analysis of VCCEdge data
+
+India's start-up ecosystem rebounds with a 13% growth in 2024; e-commerce leads
+the surge
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Start-up activities rebounded in 2024 after two years
+of decline. They grew by 13% to reach US$10 billion,
+up from US$8.9 billion in 2023. The number of deals
+also increased to 645 in 2024, compared to 477
+deals in 2023, reflecting a 35% year-on-year growth.
+
+28
+
+E-commerce was a major driver of start-up
+investments in 2024, attracting US$3.1 billion across
+79 deals — 31% of the total start-up investments. This
+marked a significant 128% increase compared to the
+US$1.4 billion invested across 59 deals in 2023. The
+hyperlocal and B2C segments were the key drivers
+within e-commerce. Notably, KiranaKart
+Technologies (Zepto), a pioneering company in quick
+commerce, secured US$1.4 billion in funding during
+the year, representing 44% of the total PE/VC
+investments in e-commerce.
+The financial services sector secured second place,
+attracting US$1.8 billion, a slight decline from US$2
+billion in 2023. The technology sector recorded
+US$1.2 billion, consistent with the previous year.
+Collectively, the e-commerce, financial services and
+
+technology sectors accounted for 61% of overall
+start-up investments. These sectors not only
+dominated in value terms but also in the number of
+deals, with technology leading at 126 deals, followed
+by financial services with 99 deals, and e-commerce
+with 79 deals. Together, they accounted for 47% of
+the total start-up deal volume. Within technology, the
+SaaS and software segments saw the highest deal
+activity, while FinTech and NBFCs led the way in
+financial services.
+India’s start-up ecosystem remains resilient, and its
+future appears highly promising, with continued
+strong investment from both domestic and
+international investors. Sectors such as SaaS, AI,
+blockchain, FinTech, HealthTech, NBFCs, EVs,
+housing finance, D2C and B2C are expected to see
+increased activities. Further, the growing awareness
+of environmental challenges and social responsibility
+is spurring the emergence of start-ups focused on
+climate change, waste management, and renewable
+energy.
+
+and China. With the increased focus on innovation,
+coupled with the evolving technology and favorable
+support, India’s start-up ecosystem will continue to
+be on an upward trajectory in the coming years.
+
+Start-up activities in India will continue to evolve,
+supported by government policies and initiatives.
+India boasts over 100 unicorns, with five joining the
+ranks in 2024 alone 4, followed by a growing list of
+soonicorns. We now rank third globally, following US
+
+Exhibit 24: Trends in VC/start-up investments
+10,000
+
+258
+
+300
+252
+250
+
+8,000
+161
+
+6,000
+4,000
+
+146
+
+151
+
+137
+112
+
+7,856
+
+172
+
+159
+
+163
+
+150
+
+120
+
+108
+
+100
+
+5,607
+2,000
+-
+
+1Q
+
+2Q
+
+200
+
+2,769
+
+2,531
+
+2,257
+
+3Q
+
+4Q
+
+1Q
+
+2022
+(US$18,764m, #817)
+
+1,496
+
+1,921
+
+2Q
+
+3Q
+
+3,206
+
+3,194
+1,643
+4Q
+
+1Q
+
+2023
+(US$8,867m, #477)
+Value (US$m)
+
+2Q
+
+2,340
+
+2,832
+
+3Q
+
+4Q
+
+50
+0
+
+2024
+(US$10,021m, #645)
+
+# of deals
+
+Source: EY analysis of VCCEdge data
+
+2023
+Exhibit 25: Deal size (US$m)
+
+Exhibit 26: Deal size #
+
+665
+500
+3,126
+3,389
+
+US$100m - US$500m
+1,301
+1,168
+
+US$50m - US$100m
+
+2,136
+1,850
+
+US$20m - US$50m
+US$10m - US$20m
+
+1,157
+815
+
+<US$10m
+
+1,636
+1,145
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+4
+
+https://www.ventureintelligence.com/Indian-Unicorn-Tracker.php
+
+US$500m - US$1000m
+
+1
+1
+
+US$100m - US$500m
+
+16
+18
+
+US$50m - US$100m
+
+20
+19
+
+US$20m - US$50m
+
+75
+62
+
+US$10m - US$20m
+
+88
+63
+
+<US$10m
+
+282
+
+406
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+>US$1000m
+
+>US$1000m
+US$500m - US$1000m
+
+2024
+
+29
+
+2023
+
+2024
+
+Exhibit 27: Top sectors by value (US$m)
+E-commerce
+
+1,369
+
+Exhibit 28: Top sectors by # of deals
+
+3,124
+
+Technology
+
+1,850
+1,989
+
+Financial services
+
+E-commerce
+
+628
+297
+
+Food and agriculture
+
+59
+
+Food and agriculture
+
+34
+
+Retail and consumer
+products
+
+594
+1,025
+
+Automotive
+
+30
+
+51
+49
+
+480
+211
+
+Healthcare
+
+Education
+
+384
+438
+
+Automotive
+
+43
+30
+
+Retail and consumer
+products
+
+340
+279
+
+Media and entertainment
+
+25
+34
+
+Media and entertainment
+
+328
+224
+
+Real estate
+1,107
+1,843
+
+Others
+
+29
+
+7
+
+79
+
+53
+
+Healthcare
+
+Others
+
+126
+
+99
+82
+
+Financial services
+
+1,186
+1,190
+
+Technology
+
+92
+
+19
+
+80
+
+101
+
+Source: EY analysis of VCCEdge data
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 29: Top VC / start-up investments in 2024
+
+30
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+E-commerce
+
+665
+
+18
+
+Food and
+agriculture
+
+350
+
+12
+
+KiranaKart Technologies
+(Zepto, KiranaKart)
+
+MOPE, Mankind Pharma Family Office,
+E-commerce
+RP Sanjiv Goenka Group and others
+
+350
+
+7
+
+KiranaKart Technologies
+(Zepto, KiranaKart)
+
+General Catalyst, Mars Growth, EPIQ
+Capital and others
+
+E-commerce
+
+340
+
+7
+
+Apollo Healthco
+
+Advent
+
+E-commerce
+
+297
+
+17
+
+Meesho Inc.
+
+SoftBank, Prosus, Elevation Capital
+and others
+
+E-commerce
+
+275
+
+API Holdings (PharmEasy)
+
+MEMG, Prosus, Temasek and others
+
+E-commerce
+
+216
+
+30
+
+Physicswallah
+
+Hornbill Capital, Lightspeed, GSV and
+Westbridge
+
+Education
+
+210
+
+8
+
+Mintifi
+
+Prosus, OTPP and Premji Invest
+
+Financial
+services
+
+180
+
+24
+
+Elan Group
+
+Kotak RE
+
+Real estate
+
+143
+
+Company/asset
+
+Investors
+
+Sector
+
+KiranaKart Technologies
+(Zepto, KiranaKart)
+
+StepStone, Nexus Venture Partners,
+Glade Brook Capital and others
+
+Advanta Enterprises (Advanta
+Seeds)
+
+Alpha Wave
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 30: Trend in number of start-ups attaining unicorn status each year
+50
+44
+40
+
+30
+22
+
+20
+
+10
+
+8
+4
+
+-
+
+1
+
+1
+
+1
+
+1
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+10
+
+9
+
+5
+2
+2016
+
+2017
+
+2
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Source: EY analysis of Venture Intelligence data
+
+Exhibit 31: Sectoral split of unicorns by
+value (US$b)^ - 2024
+4, 1%
+9, 3%
+
+10, 3%
+
+3, 3%
+
+24, 7%
+36, 10%
+
+Exhibit 32: Sectoral split of unicorns by
+volume - 2024
+5, 5%
+
+6, 5%
+8, 7%
+
+124, 36%
+
+35, 32%
+
+7, 6%
+
+54, 15%
+
+21, 19%
+25, 23%
+86, 25%
+
+E-commerce
+
+Financial services
+
+Technology
+
+Education
+
+Media and entertainment
+
+Logistics
+
+Healthcare
+
+Others
+
+^Valuation at the time of latest round of funding
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Source: EY analysis of Venture Intelligence data
+
+31
+
+Private investments in public equity (PIPE) drop 40% from 2023 peak due to
+reduction in the value of large deals, particularly within infrastructure sector
+infrastructure sector, which saw US$667 million
+invested across four deals, compared to US$4.2
+billion across eight deals in 2023.
+
+PIPE transactions which recorded an all-time high of
+US$8.4 billion in value across 111 deals in the
+previous year, experienced the highest fall across all
+segments in 2024 by 40% to record US$5 billion
+across 157 deals.
+
+PE/VC investments were predominantly observed in
+telecommunication, financial services, and
+infrastructure sectors, each receiving an investment
+of more than US$900 million (US$932 million,
+US$918 million and US$912 million, respectively).
+Other sectors that followed are retail and consumer
+products, real estate and technology. In terms of deal
+volume, financial services dominated with 24 deals
+followed by infrastructure and industrial products (19
+deals and 14 deals, respectively).
+
+The decline in PIPE investments is primarily on
+account of a decrease in the value of large deals
+(deals greater than US$100 million). In 2024, there
+were only 14 large deals totalling US$3 billion,
+compared to 21 deals totalling US$6.9 billion in the
+previous year, marking a 57% year-on-year decrease
+in value. Large deals accounted for 59% of total PIPE
+investments in 2024, down from 82% in 2023. This
+reduction was particularly pronounced in the
+
+Exhibit 33: Trends in PIPE
+
+4,000
+
+42
+
+3,000
+
+42
+
+41
+
+50
+40
+
+28
+
+2,000
+16
+
+16
+
+1,000
+-
+
+60
+
+51
+
+1,103
+
+951
+
+1Q
+
+2Q
+
+22
+
+18
+
+13
+
+2,904
+19
+
+1,561
+
+527
+
+4Q
+
+1Q
+
+2022
+(US$4,015m, #63)
+
+20
+
+2,662
+
+1,768
+
+400
+3Q
+
+30
+
+23
+
+3,213
+
+2Q
+
+3Q
+
+4Q
+
+1Q
+
+2023
+(US$8,413m, #111)
+
+Value (US$m)
+
+752
+
+538
+
+2Q
+
+3Q
+
+1,055
+4Q
+
+10
+0
+
+2024
+(US$5,006m, #157)
+
+# of deals
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 34: Deal size (US$m)
+
+32
+
+>US$1000m
+US$500m - US$1000m
+
+Exhibit 35: Deal size #
+>US$1000m
+
+1,100
+711
+
+2,466
+2,261
+
+US$100m - US$500m
+
+2024
+
+3,340
+
+US$500m - US$1000m
+
+1
+4
+
+US$100m - US$500m
+
+13
+16
+9
+9
+
+US$50m - US$100m
+
+614
+645
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+748
+403
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+340
+224
+
+US$10m - US$20m
+
+<US$10m
+
+332
+235
+
+<US$10m
+
+Source: EY analysis of VCCEdge data
+
+1
+
+12
+
+21
+
+15
+
+26
+
+51
+
+82
+
+2023
+
+2024
+
+Exhibit 36: Top sectors by value (US$m)
+
+Exhibit 37: Top sectors by # of deals
+
+932
+
+Telecommunications
+
+918
+1,413
+
+Financial services
+
+912
+
+Infrastructure
+
+Infrastructure
+
+4,304
+
+Retail and consumer
+products
+
+Real estate
+
+432
+536
+
+Real estate
+
+Technology
+
+224
+253
+
+Technology
+
+Healthcare
+
+173
+23
+
+Food and agriculture
+
+Automotive
+
+158
+171
+
+Pharmaceuticals
+
+Pharmaceuticals
+
+113
+22
+
+Healthcare
+
+63
+
+Others
+
+500
+
+13
+
+19
+
+13
+
+6
+
+12
+
+8
+
+11
+
+4
+5
+4
+4
+
+9
+8
+8
+
+Others
+
+1,628
+
+30
+
+14
+15
+
+Industrial products
+
+644
+
+Retail and consumer
+products
+
+24
+
+Financial services
+
+39
+
+22
+
+Source: EY analysis of VCCEdge data
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Telecommunications
+
+711
+
+1
+
+GIC, Kuwait Investment Authority
+
+Retail and consumer
+products
+
+447
+
+1
+
+Adani Green Energy
+
+Ardour Investment
+
+Infrastructure
+
+282
+
+4
+
+Vodafone Idea
+
+GQG, AustralianSuper, ADIA and
+others
+
+Telecommunications
+
+209
+
+2
+
+Sustainable Energy Infra
+Trust
+
+Asian Infrastructure Investment Bank
+and others
+
+Infrastructure
+
+165
+
+NA
+
+UGRO Capital
+
+Samena Capital, Aregence and others
+
+Financial services
+
+160
+
+34
+
+PNB Housing Finance
+
+Morgan Stanley
+
+Financial services
+
+156
+
+5
+
+Indiabulls Real Estate
+
+Blackstone
+
+Real estate
+
+148
+
+12
+
+Hyundai Motor India
+
+GIC, Government Pension Fund
+Global, CPPIB and others
+
+Automotive
+
+138
+
+1
+
+Avanse Financial Services
+
+Avendus PE and Mubadala
+
+Financial services
+
+121
+
+NA
+
+Company/asset
+
+Investors
+
+Sector
+
+Bharti Airtel (Airtel, Airtel
+Xstream)
+
+GQG, ADIA, Goldman Sachs and
+others
+
+ITC (Aashirvaad)
+
+Source: EY analysis of VCCEdge data
+
+The significant reduction in PIPE deal value after
+1Q2024 can be primarily ascribed to the one-time
+nature of the large investments in listed
+
+infrastructure companies in 2023 and the runaway
+valuations of the broader Indian market in Q2-Q4.
+Most companies investible by PE (good track record,
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 38: Top PIPE investments in 2024
+
+33
+
+correct), ample opportunities are expected to emerge
+for PIPE investors across a swathe of sectors across
+mid cap and small cap companies. We expect good
+growth for the PIPE segment in 2025.
+
+good governance, strong management, good growth,
+etc.) were trading at lifetime high multiples during
+this period, making it very tough for investors to
+underwrite investments. Looking ahead in 2025, as
+Indian markets correct (and some companies over
+
+Large deals declined in value owing to a reduction in mega deals (above US$1
+billion) in growth and PIPE transactions
+Buyout segment investments in large deals rose
+notably by 41%, making it the only strategy to
+achieve a year-on-year increase. In contrast, other
+strategies within the large deals space faced declines,
+with PIPE transactions witnessing the sharpest drop
+of 57%. Growth investments followed with a 28%
+decrease, credit investments fell by 8%, and start-up
+investments declined by 3%.
+
+While the PE/VC activities hit an unprecedented high
+in 2021 backed by a surge in the large deals (deals
+greater than US$100 million) in both value and
+volume, 2022 saw a decline in this segment of 40% in
+value and 29% in terms of volume. The large deals
+volume continued to decline in 2023 but saw a 17%
+year-on-year increase in value terms.
+In 2024, the number of large deals (125) remained
+consistent with 2023; however, investment value
+dropped 9%, totaling US$37.8 billion versus US$41.7
+billion in 2023. This decrease was primarily due to a
+reduction in count of mega deals (deals exceeding
+US$1 billion), with only four such deals in 2024,
+down from six in 2023. While buyout deals in 2024
+totaled US$4.5 billion, a slight increase from US$4.4
+billion in 2023, growth transactions in this segment
+saw a 63% decline in value, reaching US$1.5 billion
+across one deal in 2024, compared to US$4 billion
+across two deals in 2023. No mega-deals (deals
+greater than US$1 billion) were recorded this year in
+PIPE transactions, compared to one such deal in
+2023. Mega deals accounted for 16% of total
+investments in large deals, down from 23% share of
+this segment in the previous year.
+
+The infrastructure sector led large deals in value
+terms, accounting for 27% of the total deal value
+(US$10.8 billion). The real estate sector followed
+with deals worth US$6 billion, while financial services
+reached US$5.6 billion. Investments exceeding US$1
+billion also flowed into technology, e-commerce,
+healthcare and industrial products.
+A similar trend was observed in deal volume, with the
+infrastructure sector recording the highest number
+of large deals (23), followed by real estate (21) and
+financial services (20). E-commerce, technology, and
+healthcare sectors recorded with 13, 10 and 9 deals,
+respectively.
+
+Exhibit 39: Trend in large deals (value >= US$100m)
+15,000
+
+60
+49
+
+46
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+12,000
+
+34
+
+50
+
+10,947
+
+32
+
+9,000
+12,026
+6,000
+
+-
+
+4,779
+1Q
+
+2Q
+
+10,851
+
+34
+
+35
+
+12,709
+
+11,007 11,703
+
+11,519
+
+2022
+(US$35,715m, #132)
+
+1Q
+
+2Q
+
+3Q
+
+4Q
+
+2023
+(US$41,685m, #125)
+Value (US$m)
+
+# of deals
+
+1Q
+
+2Q
+
+40
+30
+
+9,815
+5,316
+
+7,963
+4Q
+
+33
+23
+
+6,607
+
+3Q
+
+Source: EY analysis of VCCEdge data
+
+36
+25
+
+22
+15
+
+3,000
+
+32
+
+3Q
+
+2024
+(US$37,840m, #125)
+
+20
+10
+
+4Q
+
+0
+
+2023
+
+2024
+
+Exhibit 40: Deal size (US$m)
+
+Exhibit 41: Deal size #
+
+6,085
+
+>US$1000m
+
+>US$1000m
+
+6
+
+9,552
+
+11,329
+
+US$500m US$1000m
+
+4
+
+US$500m - US$1000m
+
+15
+19
+
+12,642
+
+20,426
+
+US$100m - US$500m
+
+106
+
+US$100m - US$500m
+
+100
+
+19,491
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+2024
+
+Exhibit 42: Large deal type (US$m)
+15,810
+
+Buyout
+
+11,185
+10,273
+
+Growth
+
+Credit
+
+Start-up
+
+PIPE
+
+14,264
+4,994
+5,440
+3,791
+3,889
+2,972
+6,906
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 43: Large deal type #
+36
+
+Buyout
+
+28
+38
+
+Growth
+
+32
+20
+
+Credit
+
+25
+17
+
+Start-up
+
+PIPE
+
+19
+14
+21
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+2023
+
+35
+
+2023
+
+Exhibit 44: Large deals top sectors by
+value (US$m)
+
+2024
+
+Exhibit 45: Large deals top sectors by
+# of deals
+
+10,051
+11,893
+
+Infrastructure
+
+5,999
+7,419
+
+Real estate
+
+5,554
+4,016
+
+Financial services
+
+Real estate
+
+21
+18
+
+Financial services
+
+20
+20
+
+4,235
+2,387
+
+Technology
+
+E-commerce
+
+3,270
+1,344
+
+E-commerc
+
+Media and entertainment
+
+Telecommunications
+
+920
+100
+
+Food and agriculture
+
+Food and agriculture
+
+767
+289
+
+Retail and consumer
+products
+
+Others
+
+10
+9
+
+Healthcare
+
+1,100
+2,403
+
+Industrial products
+
+3,664
+
+7
+2
+1
+
+9
+
+5
+4
+
+3
+4
+17
+
+Others
+
+7,637
+
+32
+
+13
+
+6
+
+Technology
+
+2,280
+4,196
+
+Healthcare
+
+23
+
+Infrastructure
+
+26
+
+Source: EY analysis of VCCEdge data
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 46: Top large deals in 2024
+
+36
+
+Company/asset
+
+Investors
+
+Sector
+
+Stage
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+ATC India Tower Corporation
+(American Tower Corporation
+(Indian business))
+
+Data Infrastructure
+Trust (Brookfield)
+
+Infrastructure
+
+Buyout
+
+2,000
+
+100
+
+Reliance Logistics and Warehouse
+Holdings (Reliance Retail
+ADIA and KKR
+Ventures's warehousing assets)
+
+Real estate
+
+Growth
+
+1,500
+
+NA
+
+Vertelo
+
+Macquarie
+
+Financial services
+
+Buyout
+
+1,500
+
+100
+
+12 road projects
+
+Highways
+Infrastructure Trust
+(KKR InvIT)
+
+Infrastructure
+
+Buyout
+
+1,085
+
+100
+
+Manjushree Technopack
+
+PAG
+
+Industrial products
+
+Buyout
+
+1,000
+
+>50
+
+Sael (Sukhbir Agro, SAEL Group)
+
+ADB, Norfund, Tata
+Cleantech Capital and
+US DFC
+
+Infrastructure
+
+Growth
+
+1,000
+
+NA
+
+VFS Global Services
+
+Temasek
+
+Technology
+
+Growth
+
+950
+
+18
+
+Altimetrik Corp.
+
+TPG
+
+Technology
+
+Buyout
+
+900
+
+60
+
+GeBBS Healthcare Solutions
+
+EQT
+
+Technology
+
+Buyout
+
+860
+
+>50
+
+Healthium Medtech (Healthium
+Group)
+
+KKR
+
+Healthcare
+
+Buyout
+
+838
+
+100
+
+Source: EY analysis of VCCEdge data
+
+Fundraising activity declines owing to reduction in average fund size
+2023’s US$6.6 billion across 20 funds. Following PE
+funds, Venture Capital (VC) funds secured US$2.6
+billion, marking a substantial 60% decline from the
+previous year (US$6.5 billion). Real estate funds,
+which held the third position in 2023 with US$1.4
+billion, dropped to fifth in 2024 with US$513
+million, representing a 63% decrease. In contrast,
+infrastructure funds experienced a substantial 19fold increase, from US$72 million in 2023 to US$1.4
+billion in 2024. Debt funds also saw significant
+growth, rising from US$1.1 billion in 2023 to
+US$1.7 billion in 2024.
+
+After achieving a record-high fundraising in 2022 at
+US$17.4 billion, fundraising has dropped for the
+past two consecutive years. 2024 recorded
+US$10.4 billion across 95 funds, a 34% decline in
+value compared to 2023 (US$15.9 billion across
+102 funds) and a 40% decline in value compared to
+2022 (US$17.4 billion across 99 funds).
+The largest fundraising endeavor of 2024 saw
+Kedaara Capital close its US$1.73 billion fund,
+Kedaara IV, the largest fund raised by an India GP.
+Following next was Goldman Sachs and Mubadala,
+launching a co-investment partnership worth US$1
+billion to focus on private credit in the Asia-Pacific
+region, particularly India.
+
+In terms of sectoral allocation, over 52% (US$5.5
+billion) of the funds raised were earmarked for
+sector-agnostic deployment, followed by the
+infrastructure sector, securing 14% (US$1.5 billion),
+and the financial services sector 11% (US$1.2
+billion) of the total funds.
+
+Despite the leading fundraising strategy, the private
+equity sector saw a considerable decline in 2024,
+raising US$3.9 billion across 13 funds – a 40%
+decrease in value and 35% decrease in volume from
+
+Exhibit 47: Trends in fundraise
+6,000
+
+2,000
+
+27
+
+29
+
+27
+24
+
+23
+
+24
+
+20
+
+4,587
+
+19
+
+21
+
+21
+
+15
+3,878
+
+3,861
+2,777
+
+2,948
+
+1Q
+
+2Q
+
+3Q
+
+2022
+(US$17,351m, #99)
+
+4Q
+
+1Q
+
+2Q
+
+4Q
+
+2023
+(US$15,903m, #102)
+Value (US$m)
+
+Source: EY analysis of VCCEdge data
+
+3Q
+
+# of funds
+
+10
+
+2,830
+
+1,733
+-
+
+25
+20
+
+6,299
+
+5,707
+
+5,324
+
+30
+
+1Q
+
+2Q
+
+1,743
+
+1,999
+
+3Q
+
+4Q
+
+5
+0
+
+2024
+(US$10,434m, #95)
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+29
+
+4,000
+
+35
+
+32
+
+37
+
+2023
+
+2024
+
+Exhibit 48: By sector focus (US$m)
+
+Exhibit 49: By sector focus (# of funds)
+
+5,476
+6,237
+
+Sector agnostic
+
+40
+36
+
+Sector agnostic
+
+Infrastructure
+
+1,459
+672
+
+Infrastructure
+
+3
+2
+
+Financial services
+
+1,158
+116
+
+Financial services
+
+4
+3
+
+906
+
+Technology/Internet
+
+735
+
+Real estate
+
+5,698
+
+19
+
+Technology/Internet
+12
+11
+
+Real estate
+
+2,079
+
+Clean energy
+
+253
+226
+
+Clean energy
+
+6
+4
+
+Retail and consumer
+products
+
+166
+313
+
+Retail and consumer
+products
+
+5
+5
+
+Aerospace and defence
+
+149
+-
+
+Aerospace and defence
+
+Healthcare
+
+20
+560
+
+Healthcare
+
+112
+-
+
+Others
+
+38
+
+3
+1
+3
+2
+
+Others
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+Exhibit 50: By fund type (US$m)
+3,929
+
+Private equity
+
+6,551
+2,566
+
+Venture capital
+
+6,475
+1,724
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Private credit
+
+38
+
+Infrastructure
+
+Real estate
+
+Venture debt
+
+1,130
+1,414
+72
+513
+1,387
+289
+287
+
+Source: EY analysis of VCCEdge data
+
+2024
+
+Exhibit 51: By fund type (# of funds)
+13
+
+Private equity
+
+20
+56
+
+Venture capital
+
+58
+12
+
+Private credit
+
+Infrastructure
+
+9
+2
+1
+8
+
+Real estate
+
+Venture debt
+
+9
+4
+5
+
+Exhibit 52: Top India-focused fundraises in 2024
+Fund
+
+PE/VC GP
+
+US$m Strategy
+
+Kedaara Fund 4
+
+Kedaara
+
+1,730 Banking, healthcare, consumer and software
+
+Goldman Sachs and
+Mubadala Asia Pacific
+Private Credit Fund
+
+Goldman Sachs
+and Mubadala
+
+1,000 Private credit
+
+Edelweiss Alternatives Infrastructure Fund 2
+
+Edelweiss
+
+964 Infrastructure
+
+ChrysCapital Continuation
+Fund
+
+ChrysCapital
+
+700 To take on the portfolio of earlier fund - NSE
+
+Accel India Eighth Fund
+
+Accel
+
+650 Pre-IPO rounds of Indian start-ups
+
+360 ONE Secondaries
+Fund
+
+360 One
+
+500
+
+Secondaries fund which will also invest in companies
+planning to go public within the next two years
+
+Alpha Alternatives Build
+India Infrastructure Fund
+
+Alpha
+Alternatives
+
+450
+
+Road assets across India, including standard,
+distressed, under-construction, and operating projects
+
+Neo Asset Special Credit
+Opportunities Fund
+
+Neo Asset
+Management
+
+Non-triple-A-rated companies that are at least posting
+309 operating profits, targeting a gross internal rate of
+return (IRR) of 22-24% for its investors
+
+Stellaris Venture Partners
+Fund 3
+
+Stellaris Venture
+Partners
+
+25-30 start-ups across consumer technology,
+300 enterprise software, artificial intelligence and financial
+services sectors
+
+IvyCap Ventures Fund III
+
+IvyCap Ventures
+
+251
+
+25 companies with an average starting investment
+amount of INR30-50 crore each
+
+We don’t see any material insight from this fall in
+fund raising by India focused GP on account of the
+cyclical nature of this segment. As and when the
+large Indian GP’s hit the trail to raise large US$500m
+
+plus funds, this number will go up. A trough after
+every spike in fund raising is expected given the
+nascent nature of the of the India focused GP
+ecosystem.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Source: EY analysis of VCCEdge data
+
+39
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+40
+
+Taj mahal Agra
+Agra, with its iconic Taj Mahal, symbolizes not
+only India's heritage but also the emerging
+economic opportunities in Uttar Pradesh. With
+a growing manufacturing sector, Agra is
+steadily becoming a hub for ceramics and
+leather goods, contributing significantly to the
+state's rise in India’s economic landscape.
+
+PE/VC investm ents b y sector
+
+PE/VC investments by
+
+sector
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+C H A P T E R
+
+41
+
+while the financial services sector moved up from
+third to secure the second spot. The technology
+sector, previously ranked fifth in 2023, moved to the
+fourth spot.
+
+In 2024, private equity and venture capital
+investment activity exhibited clear preference in
+various sectors. Infrastructure, financial services,
+real estate, e-commerce, technology and life sciences
+recorded more than 100 deals each, compared to
+just two sectors reaching this milestone in 2023,
+collectively accounting for 80% of total investments
+by value and 66% by deal volume. Like last year,
+2024 also had 12 sectors receiving over US$1 billion
+in PE/VC investments.
+
+Traditionally favored sectors such as e-commerce,
+technology, and financial services grew by 87%, 56%,
+and 41%, respectively. Meanwhile, sectors like
+telecommunications, chemicals, and media and
+entertainment experienced exceptional growth of
+711%, 472%, and 108%, each surpassing the 100%
+growth mark. These dynamics underscore the
+evolving landscape of PE/VC investments, reflecting
+shifts in investor preferences as per the market
+dynamics.
+
+The infrastructure sector maintained its dominance
+and, as in the previous year, remained the top sector
+in this year. In 2024, the real estate and financial
+services sectors swapped positions. Real estate,
+which held the second spot in 2023, slid to third,
+Exhibit 53: Top sectors by value (US$m)
+Sectors
+
+12,998
+
+12,126
+
+Financial services
+
+6,333
+
+8,951
+
+Real estate
+
+8,512
+
+8,802
+
+Technology
+
+3,827
+
+5,963
+
+E-commerce
+
+2,460
+
+4,596
+
+Healthcare
+
+5,090
+
+3,283
+
+Industrial products
+
+2,766
+
+1,599
+
+Retail and consumer products
+
+2,631
+
+1,596
+
+919
+
+1,595
+
+Media and entertainment
+
+575
+
+1,197
+
+Automotive
+
+1,475
+
+1,072
+
+Pharmaceuticals
+
+1,123
+
+1,013
+
+117
+
+950
+
+Telecommunications
+Education
+Logistics and transportaion
+Metals and mining
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+2024
+
+Infrastructure
+
+Food and agriculture
+
+42
+
+2023
+
+1,286
+
+735
+
+725
+
+693
+
+1,056
+
+585
+
+Cement and building products
+
+337
+
+522
+
+Aerospace and defense
+
+165
+
+320
+
+Chemicals
+
+39
+
+226
+
+Business and professional services
+
+590
+
+135
+
+Oil and gas
+
+414
+
+12
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 54: Top sectors by number of deals
+Sectors
+
+2023
+
+2024
+
+Financial services
+
+160
+
+216
+
+Technology
+
+125
+
+169
+
+Real estate
+
+60
+
+150
+
+E-commerce
+
+86
+
+118
+
+Infrastructure
+
+64
+
+117
+
+Food and agriculture
+
+52
+
+96
+
+Retail and consumer products
+
+49
+
+90
+
+Healthcare
+
+62
+
+84
+
+Automotive
+
+41
+
+60
+
+Industrial products
+
+35
+
+53
+38
+
+Media and entertainment
+
+40
+
+Pharmaceuticals
+
+17
+
+32
+
+Logistics and transportaion
+
+22
+
+30
+
+Aerospace and defense
+
+14
+
+27
+
+Education
+
+28
+
+26
+
+Business and professional services
+
+5
+
+12
+
+Metals and mining
+
+8
+
+11
+
+Chemicals
+
+3
+
+9
+
+Cement and building products
+
+4
+
+6
+
+Telecommunications
+
+2
+
+5
+
+Oil and gas
+
+3
+
+3
+
+Source: EY analysis of VCCEdge data
+
+The following section covers key highlights of some of the prominent sectors in 2024:
+
+PE/VC investments in the infrastructure sector continued to dominate, achieving
+the highest number of deals ever recorded
+
+While the investments in pure-play PE/VC
+investments grew by 10% in 2024 (US$35 billion vs
+US$31.9 billion in 2023), investments in
+infrastructure declined by 7%. (US$12.1 billion in
+2024 vs. US$13 billion in in 2023). The
+infrastructure sector also saw 23 transactions
+greater than US$100 million totaling to US$10
+billion, contributing to nearly 83% of the total PE/VC
+
+investments in 2024, compared to US$11.9 billion
+across 32 deals > US$100 million in 2023.
+Renewables took center stage, attracting 33% of all
+infrastructure PE/VC investments in 2024 (US$3.9
+billion) and accounted for 39% of the sector’s total
+number of deals (46 deals), driven by a growing
+demand for sustainable energy solutions.
+This was followed by investments of US$2.3 billion in
+roads and highways across 14 deals. Telecom assets
+attracted US$2.1 billion across three deals, driven by
+the year’s largest deal—Brookfield’s acquisition of
+ATC India Tower Corporation for US$2 billion. The
+rise in PE/VC investments in the infrastructure sector
+can be attributed to a growing pipeline of
+government-backed assets, urbanization, population
+growth and global shift towards the sustainable
+energy, etc. These factors have driven increased
+demand for core infrastructure sectors such as
+renewables, roads and highways and transmission
+assets.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+While the infrastructure sector witnessed a surge in
+PE/VC investments in 2023, totaling US$13 billion
+(compared to US$9 billion in 2022), it continued to
+dominate in 2024 and recorded US$12.1 billion,
+accounting for nearly 22% of the total PE/VC
+investments for the year. In terms of the number of
+deals, the sector saw a robust growth of 83% (117
+deals in 2024 vs. 64 deals in 2023). Over the last
+five years, the infrastructure sector has consistently
+gained traction with aggregate investments reaching
+US$44.4 billion and accounting for 64% of the total
+PE/VC investments that the sector has received over
+the past decade.
+
+43
+
+Exhibit 55: Investment trends in the infrastructure sector
+38
+
+10,000
+
+40
+
+23
+
+6,000
+
+15
+
+4,000
+
+14
+
+30
+
+19
+
+20
+
+15
+
+14
+
+15
+
+7,094
+4,645
+
+2,000
+
+2,895
+635
+1Q
+
+2Q
+
+2,875 2,616
+
+2,726
+
+3Q
+
+1Q
+
+4Q
+
+2022
+(US$9,021m, #75)
+
+10
+
+3,932
+1,695
+
+2Q
+
+35
+
+25
+
+21
+
+20
+17
+
+-
+
+31
+
+29
+
+8,000
+
+3Q
+
+4Q
+
+1Q
+
+2023
+(US$12,998m, #64)
+Value (US$m)
+
+3,035
+
+1,720
+
+276
+2Q
+
+3Q
+
+4Q
+
+5
+0
+
+2024
+(US$12,126m, #117)
+
+# of deals
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+Exhibit 56: Top sub-sectors by value
+(US$m)
+3,945
+6,001
+
+Renewables
+
+2,136
+
+Telecom assets
+
+Power transmission and
+distribution
+
+1,651
+380
+
+Power transmission and
+distribution
+
+EPC
+
+1,308
+1,228
+
+EPC
+
+Ports (air and sea)
+
+619
+1,461
+
+Ports (air and sea)
+
+Thermal Power
+Other utilities (waste,
+water)
+
+161
+
+98
+1,561
+23
+135
+
+Source: EY analysis of VCCEdge data
+
+46
+
+Renewables
+
+Roads and highways
+
+Telecom assets
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 57: Top sub-sectors by # of deals
+
+2,345
+2,072
+
+Roads and highways
+
+44
+
+2024
+
+Thermal Power
+Other utilities (waste,
+water)
+
+27
+14
+8
+3
+1
+7
+3
+31
+10
+6
+7
+3
+4
+7
+4
+
+2023
+
+2024
+
+Exhibit 58: Deal type (US$m)
+4,301
+
+Buyout
+
+1,426
+3,580
+3,536
+
+Growth
+
+Credit
+
+912
+
+PIPE
+
+Buyout
+
+Growth
+
+3,130
+2,493
+
+Credit
+
+Start-up
+
+Exhibit 59: Deal type #
+
+4,304
+203
+
+PIPE
+
+Start-up
+
+1,240
+
+7
+9
+21
+14
+56
+14
+19
+13
+14
+14
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+>US$1000m
+
+Exhibit 61: Deal size #
+
+3,085
+
+>US$1000m
+
+1,100
+2,800
+
+US$500m - US$1000m
+
+5,660
+4,166
+5,134
+
+US$100m - US$500m
+
+US$500m - US$1000m
+
+729
+819
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+981
+214
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+261
+39
+
+US$10m - US$20m
+
+<US$10m
+
+104
+32
+
+<US$10m
+
+Does not include deals where deal value is not available.
+
+4
+8
+17
+
+US$100m - US$500m
+
+US$50m - US$100m
+
+Source: EY analysis of VCCEdge data
+
+2
+1
+
+23
+10
+11
+29
+6
+19
+3
+31
+10
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 60: Deal size (US$m)
+
+2024
+
+45
+
+Exhibit 62: Top infrastructure sector investments in 2024
+Company/asset
+
+Investors
+
+ATC India Tower Corporation
+Data Infrastructure Trust
+(American Tower Corporation
+(Brookfield)
+(Indian business))
+
+Sub-sector
+
+Stage
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Telecom assets
+
+Buyout
+
+2,000
+
+100
+
+12 road projects
+
+Highways Infrastructure
+Trust (KKR InvIT)
+
+Roads and
+highways
+
+Buyout
+
+1,085
+
+100
+
+Sael (Sukhbir Agro, SAEL
+Group)
+
+ADB, Norfund, Tata
+Cleantech Capital and US
+DFC
+
+Renewables
+
+Growth
+
+1,000
+
+NA
+
+GMR Enterprises
+
+ADIA
+
+EPC
+
+Credit
+
+750
+
+NA
+
+Leap Green Energy
+
+Brookfield
+
+Renewables
+
+Buyout
+
+550
+
+>50
+
+Sterlite Grid 32 (Sterlite GIC
+JV)
+
+GIC
+
+Power transmission
+Growth
+and distribution
+
+500
+
+49
+
+Reliance Power
+
+Varde Partners
+
+Power transmission
+Credit
+and distribution
+
+500
+
+NA
+
+National Highway Infra Trust
+(NHAI InvIT)
+
+CPPIB, OTPP
+
+Roads and
+highways
+
+Growth
+
+438
+
+NA
+
+Mahindra Susten (Susten)
+
+OTPP
+
+Renewables
+
+Growth
+
+428
+
+NA
+
+Reliance Infrastructure
+
+Varde Partners
+
+Power transmission
+Credit
+and distribution
+
+350
+
+NA
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Source: EY analysis of VCCEdge data
+
+46
+
+As the Indian GDP grows and urbanization continues,
+the infrastructure sector is poised for continued
+growth and increased investments in the coming
+years as we have a long way to go before the nation’s
+energy and connectivity (physical and digital) needs
+get satiated. Key drivers of this optimism include the
+Government of India’s commitment to ensure timely
+enforcement of long-term contracts entered between
+infrastructure developers and government entities
+and a pipeline of ambitious projects, such as
+Bharatmala Pariyojana, which aims to develop
+34,800 km of roads and highways, and the
+Sagarmala Project, focused on modernizing ports and
+improving port connectivity. Other initiatives like PM
+Gati Shakti Yojana, targeting enhanced logistics
+infrastructure, and the National Infrastructure
+
+Pipeline, featuring projects over INR100 crore across
+economic and social infrastructure, further bolster
+confidence among PE/VC investors in India’s
+infrastructure growth story. Besides the underlying
+demand dynamics for quality infrastructure, other
+factors that will act as tailwind to the sector are the
+elevated levels of dry powder available with long
+term investors (regional and global infrastructure
+funds, pension funds and sovereign wealth funds)
+and the peaking of interest rates in early 2025, which
+is expected to increase appetite of yield investors
+into the infrastructure asset class as the interest rate
+curve begins to trend downwards. We continue to
+have an optimistic outlook for the infrastructure
+sector in 2025.
+
+In creating long term value,
+
+TRUST matters
+
+30+ deals worth US$7b+ advised in last 3 years
+Sustained leadership in Infrastructure deals in India
+
+PNC Infra Road
+Projects
+
+Welspun
+
+Sunsure Energy
+
+Italian Thai
+Development (ITD)
+
+Strategic
+Disinvestment of
+
+acquired by
+
+Sale of highway assets
+portfolio to
+
+Investment from
+
+Sold stake in
+
+Air India
+
+Highways
+Infrastructure Fund
+(KKR)
+
+Actis
+
+from Partners Group
+
+ITD Cementation
+India
+
+US$2.4b
+
+US$1,089m
+
+US$750m
+
+US$400m
+
+US$382m
+
+Towervision
+
+Enfinity Global Inc
+
+Oiltanking
+GmbH
+
+BCI
+
+CloudExtel and
+shareholders
+
+acquired by
+
+Funds raised
+
+Stake sale in Indian
+Oiltanking and in its
+subsidiary to
+
+Investment as anchor
+investor in
+
+Fund-raise from
+
+Ascend Telecom
+Infrastructure Pvt.
+Ltd. and GIP
+
+Canada Pension Plan
+Investment Board
+
+Adani Ports
+
+Cube Highways
+Trust (CHT)
+
+Macquaire
+
+US$135m
+
+US$150m
+
+US$630 m
+
+US$100m
+
+Largest Infrastructure Investment Banking Team in India
+Advisors to the most complex and marquee deals
+
+Scan here to know
+more about us:
+
+© 2025
+Ernst
+Young
+AllyRights
+Reserved.
+Pri
+v a&t e
+E qLLP.
+uit
+and V
+enture
+
+Government of India
+
+Cap ital Tren db ook 20 25
+
+Select deals
+
+47
+
+Financial services surged on account of NBFC, while FinTech assumed a secondary
+role
+billion in 2023), credit investments and buyouts grew
+by 206% and 38%, respectively. Macquarie’s buyout
+of Vertelo for US$1.5 billion was the largest deal in
+the sector.
+
+In 2023, the financial sector experienced a
+significant decline of 39% after being the top
+performer in the previous year and slid to third spot.
+However, the sector rebounded strongly in 2024,
+achieving a growth of 41% with investments totaling
+to US$9 billion (vs. US$6.3 billion in 2023). This
+growth was also reflected in the deal volume, which
+increased by 35% rising from 160 deals in 2023 to
+216 deals in 2024. This helped the financial sector
+move to the second spot following infrastructure
+sector. The financial services sector has maintained
+its position as the top performer in the pure-play PE
+asset class for the third consecutive year.
+The growth in aggregate deal value was primarily
+driven by growth in housing finance and NBFC
+segments which saw a year-on-year increase of 172%
+and 44% respectively. While the FinTech investments
+experienced a 12% decline, it attracted the secondlargest share of PE/VC investments within the sector,
+following NBFC. The sector recorded 20 large deals
+(deals greater than US$100 million), consistent with
+the previous year, but saw a 38% growth in value
+terms reaching US$5.6 billion in 2024, up from US$4
+billion in 2023.
+While the investment value declined by 7% in the
+start-up category (US$1.8 billion in 2024 vs. US$2
+
+5,000
+
+83
+
+The shift in investor interest towards lending
+businesses like NBFCs and Housing Finance
+Companies (HFCs) was pronounced in 2024. The
+future outlook for NBFCs in India appears promising
+fueled by factors such as the ongoing digital
+revolution, the growing GDP and demand for credit.
+Government support, including liquidity provisions
+and initiatives like the partial credit guarantee
+scheme, aim to address challenges faced by this
+sector as it acts as an agent for propelling financial
+penetration.
+The ongoing digital transformation of the financial
+services industry is expected to continue with
+increasing adoption of technology-driven solutions
+such as digital banking services, blockchain, artificial
+intelligence etc. that will help to drive innovation and
+improve efficiency. FinTech start-ups are expanding
+into the areas such as insurance, wealth
+management, etc. As the FinTech ecosystem
+continues to evolve, the sector is expected to
+continue attracting interest and investments from
+PE/VC firms.
+
+Exhibit 63: Investment trends in the financial services sector
+
+90
+
+74
+
+80
+
+4,000
+
+64
+
+70
+
+58
+52
+
+3,000
+
+44
+
+43
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+36
+
+48
+
+2,000
+
+45
+
+41
+
+40
+
+2,062
+
+1Q
+
+30
+
+2,727
+
+1,000
+
+2Q
+
+1,496
+
+1,529
+
+4Q
+
+1Q
+
+3Q
+
+2022
+(US$10,337m, #253)
+
+1,193
+2Q
+
+3Q
+
+4Q
+
+2023
+(US$6,333m, #160)
+Value (US$m)
+
+Source: EY analysis of VCCEdge data
+
+883
+
+# of deals
+
+1,474
+
+1Q
+
+2Q
+
+50
+40
+
+3,962
+
+3,769
+3,010
+
+-
+
+60
+
+49
+
+1,744
+
+1,771
+
+3Q
+
+4Q
+
+2024
+(US$8,951m, #216)
+
+20
+10
+0
+
+2023
+
+2024
+
+Exhibit 64: Top sub-sectors by value
+(US$m)
+
+Exhibit 65: Top sub-sectors by # of deals
+3,924
+
+NBFC
+
+1,797
+2,036
+
+Fintech
+
+37
+91
+
+Fintech
+
+1,752
+
+Housing finance
+
+61
+
+NBFC
+
+2,721
+
+77
+21
+14
+
+Housing Finance
+
+644
+
+Bank
+
+593
+490
+
+Bank
+
+Micro/Small finance
+
+405
+147
+
+Micro/Small finance
+
+6
+7
+11
+9
+
+Crypto
+
+87
+26
+
+Crypto
+
+4
+3
+
+Insurance
+
+73
+217
+
+Insurance
+
+2
+6
+
+Asset management
+Other financial services
+
+68
+48
+
+10
+
+Asset management
+
+253
+
+4
+10
+
+Other financial services
+
+5
+
+3
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+2,459
+
+Buyout
+
+Credit
+
+1,784
+2,282
+747
+1,850
+
+Start-up
+
+Growth
+
+Exhibit 67: Deal type #
+
+1,989
+1,442
+399
+
+PIPE
+
+Source: EY analysis of VCCEdge data
+
+918
+1,413
+
+Buyout
+
+Credit
+
+6
+9
+61
+24
+99
+
+Start-up
+
+Growth
+
+PIPE
+
+82
+26
+15
+24
+30
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 66: Deal type (US$m)
+
+2024
+
+49
+
+2023
+
+2024
+
+Exhibit 68: Deal size (US$m)
+
+Exhibit 69: Deal size #
+
+1,500
+1,105
+
+>US$1000m
+
+>US$1000m
+
+1,054
+
+US$500m - US$1000m
+
+US$500m - US$1000m
+3,000
+2,911
+
+US$100m - US$500m
+
+1
+1
+2
+
+US$100m - US$500m
+
+17
+19
+19
+14
+
+US$50m - US$100m
+
+1,338
+973
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+1,138
+714
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+532
+282
+
+US$10m - US$20m
+
+<US$10m
+
+388
+348
+
+<US$10m
+
+39
+24
+42
+22
+90
+70
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 70: Top financial services sector investments in 2024
+
+50
+
+Company/asset
+
+Investors
+
+Sub-sector
+
+Stage
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Vertelo
+
+Macquarie
+
+NBFC
+
+Buyout
+
+1,500
+
+100
+
+Shriram Housing Finance
+
+Warburg Pincus
+
+Housing Finance
+
+Buyout
+
+554
+
+100
+
+HDFC Bank
+
+IFC
+
+Bank
+
+Credit
+
+500
+
+NA
+
+Bajaj Finance
+
+IFC
+
+NBFC
+
+Credit
+
+400
+
+NA
+
+Svatantra Microfin
+
+Advent, Multiples
+
+Micro/Small
+Finance
+
+Growth
+
+233
+
+NA
+
+Indostar Home Finance
+
+EQT
+
+Housing Finance
+
+Buyout
+
+209
+
+100
+
+IIFL Finance
+
+Fairfax
+
+NBFC
+
+Credit
+
+200
+
+NA
+
+Mintifi
+
+Prosus, OTPP and
+Premji Invest
+
+Fintech
+
+Start-up
+
+180
+
+24
+
+SK Finance
+
+Norwest, TPG, MOPE
+and others
+
+NBFC
+
+Growth
+
+160
+
+NA
+
+UGRO Capital
+
+Samena Capital,
+Aregence and others
+
+NBFC
+
+Growth
+
+160
+
+NA
+
+Source: EY analysis of VCCEdge data
+
+Real estate sector records all-time high PE/VC investments driven by substantial
+investments in commercial and warehousing
+Despite the challenges faced by the office market
+during 2020 and 2021 due to the COVID-19
+pandemic and subsequent lockdowns, the segment
+has witnessed a strong recovery. The adoption of
+hybrid work models has rejuvenated demand for
+office space by enterprise as well as SME corporates.
+This demand growth is further fuelled by the growth
+of IT/ITES sectors, expanding footprint of the GCC’s,
+the expansion of corporates and the rapid rise of
+start-ups, all of which are providing a tailwind to the
+increasing demand for modern and flexible office
+space.
+
+The real estate sector emerged as the third most
+attractive sector for PE/VC investors, following
+infrastructure and financial services. In 2024, the
+sector achieved a historic high, with investments
+totaling US$8.8 billion (compared to US$8.5 billion in
+2023) across 150 deals (vs. 60 deals in 2023),
+reflecting a 150% growth in deal volume.
+The sector recorded 21 large deals (deals greater
+than US$100 million) totaling to US$6 billion
+compared to US$7.4 billion across 18 deals in 2023.
+Notably, these large deals were concentrated in the
+warehousing, commercial and developer’s category.
+ADIA and KKR’s US$1.5 billion investment into
+Reliance Logistics and Warehouse Holdings (Reliance
+Retail Ventures warehousing assets) was the largest
+deal within the sector.
+
+E-commerce expansion has created investment
+opportunities in logistics parks and the warehousing
+segment. Additionally, in the elevated levels of data
+consumption in India and the evolving data
+localization norms have enhanced the prospects of
+data centers asset class.
+
+PE/VC investments within the real estate sector have
+predominantly taken the form of buyout
+transactions, with investors seeking ownership of
+yield-generating assets (US$2.9 billion across 17
+deals) followed by growth investments (US$2.8
+billion across 21 deals). The commercial office real
+estate segment garnered most of the investments,
+constituting nearly 25% of the sector's total, followed
+by warehousing, which accounted for 23% of the
+overall investments.
+
+Tax benefits for first-time home buyers have
+bolstered demand for affordable housing. In
+response, developers are increasingly turning their
+attention to Tier II and Tier III cities, aiming to
+capitalize on the growing and largely untapped
+market potential in these regions.
+
+Exhibit 71: Investment trends in real estate sector
+
+6,000
+
+50
+
+44
+39
+
+45
+
+40
+
+40
+
+4,500
+
+35
+
+30
+
+27
+
+26
+
+1,500
+
+-
+
+20
+
+21
+
+25
+
+21
+17
+11
+
+2,248
+
+2,053
+
+1,875
+777
+
+1Q
+
+2Q
+
+3Q
+
+2022
+(US$6,953m, #97)
+
+4Q
+
+1Q
+
+1,300
+
+1,348
+
+2Q
+
+3Q
+
+15
+
+2,115
+1,039
+
+773
+4Q
+
+2023
+(US$8,512m, #60)
+Value (US$m)
+
+Source: EY analysis of VCCEdge data
+
+11
+
+5,091
+
+20
+
+4,039
+
+# of deals
+
+1Q
+
+2Q
+
+1,609
+
+3Q
+
+2024
+(US$8,802m, #150)
+
+4Q
+
+10
+5
+0
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+3,000
+
+30
+
+51
+
+2023
+
+Exhibit 72: Top sub-sectors by value
+(US$m)
+
+158
+
+Commercial
+
+2,027
+
+Warehousing
+
+1,600
+1,094
+
+Developer
+Residential
+SEZ/IT parks
+
+REIT's
+Online real estate portal
+Other real estate
+
+3
+4
+
+Developer
+
+801
+
+SEZ/IT parks
+
+2,558
+
+13
+2
+
+Logistics/Industrial
+Parks/Data centers
+
+9
+8
+11
+
+Hospitality
+
+177
+
+REIT's
+
+2
+3
+
+Online real estate portal
+
+6
+7
+
+25
+342
+30
+2
+
+35
+
+9
+
+200
+163
+866
+
+49
+
+13
+
+Residential
+
+511
+
+24
+
+6
+
+1,256
+732
+128
+
+Logistics/Industrial
+Parks/Data centers
+Hospitality
+
+Exhibit 73: Top sub-sectors by # of deals
+
+2,174
+2,469
+
+Commercial
+Warehousing
+
+2024
+
+3
+
+2
+1
+
+Other real estate
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+Exhibit74: Deal type (US$m)
+
+2,781
+
+Growth
+
+3,619
+2,432
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Credit
+
+52
+
+PIPE
+
+Start-up
+
+Exhibit 75: Deal type #
+
+2,902
+3,186
+
+Buyout
+
+1,080
+432
+536
+255
+90
+
+Source: EY analysis of VCCEdge data
+
+2024
+
+Buyout
+
+17
+12
+
+Growth
+
+21
+19
+81
+
+Credit
+
+PIPE
+
+Start-up
+
+14
+12
+8
+19
+7
+
+2023
+
+2024
+
+Exhibit 76: Deal size (US$m)
+1,500
+
+>US$1000m
+
+US$500m - US$1000m
+
+Exhibit 77: Deal size #
+>US$1000m
+
+1
+2
+
+US$500m - US$1000m
+
+1
+1
+
+3,867
+750
+700
+3,749
+2,852
+
+US$100m - US$500m
+
+US$50m - US$100m
+
+1,157
+567
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+980
+351
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+456
+114
+
+US$10m - US$20m
+
+<US$10m
+
+19
+15
+
+US$100m - US$500m
+
+210
+61
+
+16
+8
+30
+11
+32
+7
+44
+
+<US$10m
+
+13
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+Company/asset
+
+Investors
+
+Sub-sector
+
+Stage
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Reliance Logistics and Warehouse
+Holdings (Reliance Retail Ventures's
+warehousing assets)
+
+ADIA and KKR
+
+Warehousing Growth
+
+1,500
+
+NA
+
+11-acre commercial project in
+Mumbai (RMZ Nexus)
+
+CPPIB, RMZ
+
+Commercial
+
+Buyout
+
+750
+
+100
+
+Rostrum Realty (JV of Bharti
+Enterprises’ real estate and
+Brookfield Asset Management)
+
+Brookfield
+
+Commercial
+
+Growth
+
+359
+
+NA
+
+Hyderabad Next Galleria Malls (3
+malls in Hyderabad)
+
+Nexus Select Trust
+(Blackstone)
+
+Commercial
+
+Buyout
+
+350
+
+100
+
+Reliance Logistics and Warehouse
+Holdings
+
+Mubadala and Fortress
+management
+
+Warehousing Credit
+
+322
+
+NA
+
+One Paramount 1 (tech park in
+Chennai)
+
+Keppel
+
+Commercial
+
+Buyout
+
+264
+
+100
+
+TSI Business Parks (Hyderabad IT
+SEZ WaveRock)
+
+GIC and Xander
+
+SEZ/IT parks Buyout
+
+263
+
+100
+
+Residential projects in prominent
+locations across 4 cities in India of
+Prestige
+
+ADIA, Kotak AIF
+
+Residential
+
+Credit
+
+240
+
+NA
+
+41-acre land parcel in Bengaluru
+
+Mapletree (Temasek)
+
+Developer
+
+Buyout
+
+228
+
+100
+
+Logos India (3 warehousing assets)
+
+Blackstone
+
+Warehousing Buyout
+
+205
+
+100
+
+Source: EY analysis of VCCEdge data
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 78: Top real estate sector investments in 2024
+
+53
+
+expected to increase from yield investors. In our
+view, the outlook for PE/VC investments in the real
+estate sector is positive and we expect the sector to
+continue being a significant contributor to the Indian
+GDP growth story.
+
+Overall, investor confidence in the Indian real estate
+market remains high, given good economic growth
+and urbanization. As interest rates peak in early
+2025 and then start trending downwards, demand
+for commercial real estate and warehousing assets is
+
+PE/VC investments in the technology sector surged owing to large buyout deals
+the overall deal volume in 2024. In the pure-play PE
+asset class, the technology sector secured second
+rank, moving up from the third spot in the previous
+year.
+
+After peaking at US$17 billion in 2021, PE/VC
+investments in the technology sector declined further
+in 2022 and 2023 by 60% and 44%, respectively.
+However, the sector witnessed a renewed interest in
+2024 with PE/VC investments growing by 56% yearon-year, reaching US$6 billion. This rise in
+momentum was evident in deal volumes, which
+increased by 35% year-on-year, totaling 169 deals in
+2024 compared to 125 deals in the previous year.
+
+The ongoing digital transformation across industries
+is fueling the demand for technology driven
+solutions. In the current macroeconomic
+environment, the next generation of companies may
+replace/compete with incumbents by leveraging and
+sharing efficiency gains from GenAI, building deep
+specialization in digital and cloud technologies, and
+developing domain expertise through a sharp focus
+on strategic verticals.
+
+The sector recorded 10 large deals (deals greater
+than US$100 million) aggregating to US$4.2 billion,
+accounting for 71% of the sector’s total investments.
+Notably, the sector recorded four deals greater than
+US$500 million as compared to just one deal in the
+same category in 2023. Temasek’s investment of
+US$950 million in VFS Global services was the
+largest deal in 2024.
+
+Further, the Indian SaaS landscape has matured
+significantly, with the number of early-stage startups scaling to an ARR of US$10 million, increasing
+from 20 to 30 companies five years ago to over 100
+today. The surge in demand for cloud and digital
+transformations suggests that the technology sector
+may soon regain its appeal as an attractive area for
+PE/VC investors.
+
+The IT/ITES and SaaS segments led the technology
+sector, representing 50% and 38% of total
+investments, respectively. Consistent with the
+previous year, start-up deals accounted for 75% of
+
+Exhibit 79: Investment trends in the technology sector
+4,000
+
+64
+
+70
+
+59
+
+56
+
+60
+
+3,000
+36
+2,000
+
+33
+
+32
+
+31
+
+43
+
+38
+
+34
+
+40
+
+32
+
+28
+
+30
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+3,110
+
+54
+
+1,000
+
+-
+
+2,228
+
+2,011
+1,252
+431
+1Q
+
+2Q
+
+3Q
+
+2022
+(US$6,804m, #192)
+
+4Q
+
+870
+
+1,062
+
+1,136
+
+1Q
+
+2Q
+
+3Q
+
+Value (US$m)
+Source: EY analysis of VCCEdge data
+
+1,595
+759
+
+838
+
+4Q
+
+1Q
+
+2023
+(US$3,827m, #125)
+# of deals
+
+50
+
+2Q
+
+1,302
+3Q
+
+2024
+(US$5,963m, #169)
+
+20
+10
+
+4Q
+
+0
+
+2023
+
+Exhibit 80: Top sub-sectors by value
+(US$m)
+Ites
+SaaS
+
+1,401
+424
+
+IT consulting and
+services
+
+223
+
+Exhibit 81: Top sub-sectors by # of deals
+11
+4
+
+Ites
+
+2,991
+
+429
+
+Software
+
+2024
+
+SaaS
+
+2,263
+
+72
+30
+29
+
+Software
+
+958
+
+IT consulting and
+services
+
+887
+
+11
+11
+
+Data analytics
+
+45
+81
+
+Data analytics
+
+6
+3
+
+Hardware
+
+17
+58
+
+Hardware
+
+4
+4
+
+13
+
+Others
+
+Others
+
+107
+
+2
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+2024
+
+Exhibit 83: Deal type #
+
+Exhibit 82: Deal type (US$m)
+Buyout
+
+2,680
+
+300
+
+Buyout
+
+1,631
+2,060
+
+Growth
+
+14
+22
+
+Growth
+
+1,186
+1,190
+
+Start-up
+
+6
+5
+
+Start-up
+
+Credit
+
+242
+24
+
+Credit
+
+PIPE
+
+224
+253
+
+PIPE
+
+92
+2
+4
+
+126
+
+12
+11
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+Exhibit 84: Deal size (US$m)
+
+Exhibit 85: Deal size #
+
+>US$1000m
+
+.
+
+>US$1000m
+3,510
+
+500
+
+US$500m - US$1000m
+
+4
+1
+
+US$100m - US$500m
+
+6
+8
+6
+7
+
+US$100m - US$500m
+
+725
+
+US$50m - US$100m
+
+409
+415
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+740
+574
+
+US$20m - US$50m
+
+25
+19
+14
+13
+
+1,887
+
+US$10m - US$20m
+
+173
+168
+
+US$10m - US$20m
+
+<US$10m
+
+406
+283
+
+<US$10m
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+66
+
+103
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+US$500m - US$1000m
+
+2024
+
+55
+
+Exhibit 86: Top technology sector investments in 2024
+Company/asset
+
+Investors
+
+Sub-sector
+
+Stage
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+VFS Global Services
+
+Temasek
+
+Ites
+
+Growth
+
+950
+
+18
+
+Altimetrik Corp.
+
+TPG
+
+SaaS
+
+Buyout
+
+900
+
+60
+
+GeBBS Healthcare Solutions
+
+EQT
+
+Ites
+
+Buyout
+
+860
+
+NA
+
+Omega Healthcare
+Management Services
+
+OTPP
+
+Ites
+
+Buyout
+
+800
+
+NA
+
+Infinx Services
+
+KKR, Norwest Venture Partners
+
+Ites
+
+Growth
+
+150
+
+NA
+
+Kore.ai Software
+
+FTV Capital, NVIDIA and others
+
+Software
+
+Growth
+
+150
+
+NA
+
+The Digital Technology
+Business of NSE
+
+Investcorp
+
+IT consulting
+and services
+
+Buyout
+
+120
+
+100
+
+Atlan
+
+GIC, Meritech Capital, PeakXV
+and others
+
+SaaS
+
+Start-up
+
+105
+
+14
+
+InMobi Technologies
+
+Mars Growth Capital
+
+SaaS
+
+Credit
+
+100
+
+NA
+
+Whatfix
+
+Warburg Pincus and SoftBank
+
+SaaS
+
+Growth
+
+100
+
+12
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Source: EY analysis of VCCEdge data
+
+56
+
+E-commerce sector sees renewed interest
+PE/VC investments in the e-commerce sector had
+been on an upward trajectory over the past few years
+but saw a sharp decline of 66% in 2022 and 55% in
+2023. In 2024, the sector rebounded strongly,
+recording an impressive 87% year-on-year growth,
+with total investments reaching US$4.6 billion. The
+number of deals also saw a rise, increasing by 37%
+(118 deals in 2024 compared to 86 deals in 2023).
+The rise of PE/VC investments in e-commerce sector
+can be attributed to:
+
+2.
+
+Significant growth in start-up: Start-up
+investments more than doubled, reaching
+US$3.1 billion across 79 deals in 2024,
+compared to US$1.4 billion across 59 deals in
+2023. This growth was largely driven by
+hyperlocal and B2C segments of the broader
+e-commerce category.
+Increase in large deals: The number of large
+deals (deals greater than US$100 million) in the
+sector doubled in 2024, rising to 13 deals from 6
+in 2023. These large transactions accounted for
+71% of the total investments in 2024, up from
+55% the previous year. The majority of these
+large deals were concentrated in the B2C and
+hyperlocal segments.
+
+PE/VC investments were concentrated in hyperlocal
+and B2C, which collectively accounted for 86% of
+total investments by value and 58% by deal volume.
+Notably, KiranaKart Technologies (Zepto) raised the
+
+3,000
+
+47
+
+50
+39
+
+37
+
+2,000
+
+21
+
+2,662
+
+27
+
+24
+
+16
+
+500
+2Q
+
+353
+
+583
+
+3Q
+
+4Q
+
+865
+1Q
+
+443
+
+562
+
+591
+
+384
+
+2Q
+
+3Q
+
+4Q
+
+1Q
+
+2023
+(US$2,460m, #86)
+Value (US$m)
+
+Source: EY analysis of VCCEdge data
+
+Indian E-commerce Industry Analysis | IBEF
+
+# of deals
+
+992
+2Q
+
+30
+20
+
+1,924
+
+2022
+(US$5,478m, #166)
+
+5
+
+21
+
+1,879
+
+1Q
+
+40
+28
+
+28
+
+26
+
+1,000
+
+-
+
+According to India Brand Equity Foundation (IBEF),
+Indian e-commerce is expected to grow at a
+compound annual growth rate (CAGR) of 27% to
+reach US$163 billion by 2026. 5
+
+60
+
+2,500
+
+1,500
+
+The COVID-19 pandemic played a pivotal role in
+changing consumer behaviour, as people became
+more reliant on online shopping for convenience and
+safety. This shift has accelerated the growth of the ecommerce sector, expanding its scope beyond
+traditionally favoured sectors to include hyperlocal
+services, D2C, grocery delivery, and healthcare
+products. Additionally, the rise of emerging start-ups
+has further fuelled the growth of the e-commerce
+industry, introducing innovative business models and
+catering to diverse consumer needs. As a result, the
+Indian e-commerce market continues to evolve
+rapidly.
+
+Exhibit 87: Investment trends in the e-commerce sector
+
+56
+
+3,500
+
+The e-commerce industry in India has undergone
+significant transformation, driven by evolving market
+dynamics, technological advancements and changing
+consumer preferences. With the expansion of
+internet access, e-commerce has increasingly
+penetrated rural areas, broadening its reach.
+
+1,296
+
+3Q
+
+2024
+(US$4,596m, #118)
+
+4Q
+
+10
+0
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+1.
+
+maximum PE/VC investment of US$1.4 billion in
+2024, accounting for 29% of overall PE/VC
+investments within the sector. However, the sector
+has failed to see mega deals (greater than US$1
+billion) after 2021.
+
+57
+
+2023
+
+2024
+
+Exhibit 88: Top sub-sectors by value
+(US$m)
+B2C
+
+1,140
+
+Hyperlocal
+
+470
+
+Exhibit 89: Top sub-sectors by # of deals
+
+2,555
+
+B2C
+
+1,397
+
+17
+23
+
+B2B
+
+204
+102
+
+Mobility
+
+11
+7
+
+Mobility
+
+D2C
+
+89
+65
+
+D2C
+
+Social
+
+46
+9
+
+Social
+
+4
+3
+
+Others
+
+1
+1
+
+Others
+
+6
+
+61
+
+8
+7
+
+Hyperlocal
+
+305
+668
+
+B2B
+
+39
+
+6
+
+16
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+Exhibit 90: Deal type (US$m)
+
+1,369
+1,196
+856
+
+Growth
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+59
+15
+14
+
+Growth
+
+164
+65
+
+Credit
+
+PIPE
+
+112
+171
+
+PIPE
+
+Source: EY analysis of VCCEdge data
+
+79
+
+Start-up
+
+Credit
+
+Buyout
+
+58
+
+Exhibit 91: Deal type #
+3,124
+
+Start-up
+
+2024
+
+Buyout
+
+16
+6
+7
+7
+1
+
+2023
+
+2024
+
+Exhibit 92: Deal size (US$m)
+
+Exhibit 93: Deal size #
+>US$1000m
+
+>US$1000m
+US$500m - US$1000m
+
+665
+500
+
+US$100m - US$500m
+
+844
+
+US$500m - US$1000m
+2,605
+
+US$100m - US$500m
+
+US$50m - US$100m
+
+327
+359
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+562
+430
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+165
+133
+
+US$10m - US$20m
+
+<US$10m
+
+272
+194
+
+<US$10m
+
+1
+1
+12
+
+5
+6
+6
+
+19
+16
+12
+10
+40
+
+59
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Start-up
+
+665
+
+18
+
+Hyperlocal
+
+Start-up
+
+350
+
+7
+
+General Catalyst, Mars Growth,
+EPIQ Capital and others
+
+Hyperlocal
+
+Start-up
+
+340
+
+7
+
+Apollo Healthco (Apollo
+24/7)
+
+Advent
+
+B2C
+
+Start-up
+
+297
+
+17
+
+Meesho Inc.
+
+SoftBank, Prosus, Elevation
+Capital and others
+
+B2C
+
+Start-up
+
+275
+
+API Holdings (PharmEasy)
+
+MEMG, Prosus, Temasek and
+others
+
+B2C
+
+Start-up
+
+216
+
+30
+
+Rebel Foods (Faasos,
+Behrouz Biryani)
+
+Evolvence Capital and Temasek
+
+B2C
+
+Growth
+
+210
+
+15
+
+Lenskart Solutions
+
+Fidelity Investments and
+Temasek
+
+B2C
+
+Growth
+
+200
+
+4
+
+Rebel Foods (Faasos,
+Behrouz Biryani)
+
+Temasek
+
+B2C
+
+Growth
+
+200
+
+Bright Lifecare (BLife,
+Healthkart)
+
+ChrysCapital, MOPE, A91
+Partners and others
+
+B2C
+
+Growth
+
+153
+
+Company/asset
+
+Investors
+
+Sub-sector
+
+Stage
+
+KiranaKart Technologies
+(Zepto)
+
+StepStone, Nexus Venture
+Partners, Glade Brook Capital
+and others
+
+Hyperlocal
+
+KiranaKart Technologies
+(Zepto)
+
+MOPE, Mankind Pharma Family
+Office, RP Sanjiv Goenka Group
+and others
+
+KiranaKart Technologies
+(Zepto)
+
+Source: EY analysis of VCCEdge data
+
+31
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 94: Top e-commerce sector investments in 2024
+
+59
+
+Investments in life sciences declined on account of reduction in ticket size of large
+deals
+primarily concentrated in segments of HealthTech
+and biotechnology.
+
+Over the past few years, the life sciences sector has
+seen a renewed interest showcasing a compound
+annual growth rate (CAGR) of 24% in PE/VC
+investments. The year 2023 witnessed PE/VC
+investments in the life sciences sector reaching a
+historic high of US$6.2 billion across 79 deals.
+However, in 2024, PE/VC investments in the sector
+saw a 31% decline, totalling US$4.3 billion across
+116 deals. While the number of large deals (deals
+greater than US$100 million) remained the same in
+2024, with 12 transactions recorded in both years,
+the average size of these large deals declined to
+US$233 million accounting for 65% of total
+investments compared to an average deal size of
+US$428 million in 2023 which represented 83% of
+overall life sciences sector investments.
+
+Healthcare investments were primarily directed
+towards hospitals, clinics and medical devices, which
+collectively accounted for 76% of overall investments
+(39% by hospitals / clinics and 38% by medical
+devices), whereas formulations accounted for 89% of
+pharmaceuticals investments.
+KKR’s acquisition of Healthium Medtech for US$838
+million and Platinum Equity Advisors acquiring 75%
+stake in Inventia Healthcare for US$225 million were
+top deals within healthcare and pharmaceuticals
+sectors, respectively.
+
+In the life sciences sector, PE/VC investments were
+predominantly driven by buyout transactions, which
+totalled US$2.4 billion and accounted for 57% of
+overall investments. Growth-stage investments saw a
+77% year-on-year drop, falling from US$3.3 billion in
+2023 to just US$762 million in 2024.
+
+The COVID-19 pandemic has significantly changed
+perceptions of healthcare needs, driving growing
+demand for clinics, pharmaceutical drugs, and
+medical devices. As people adopt more healthconscious lifestyles and become increasingly aware
+of wellness, this shift has attracted PE/VC investors,
+particularly in the start-up space, who are seeking to
+develop innovative healthcare solutions.
+
+In 2024, the number of buyout transactions slightly
+decreased from 13 in the previous year to 10, of
+which there were eight in healthcare and two in
+pharmaceuticals. Notably, start-up deals saw a surge,
+increasing by 79% in deal volume, from 33 in 2023 to
+59 in 2024. These start-up investments were
+
+With the aim of improving healthcare infrastructure,
+the government has launched the PM Ayushman
+Bharat Health Infrastructure Mission, Pradhan Mantri
+Jan Arogya Yojana, and other initiatives, creating
+many opportunities for investors to grow along with
+the sector.
+
+3,500
+
+Exhibit 95: Investment trends in the life sciences sector
+35
+
+37
+
+36
+
+35
+
+3,000
+
+30
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+2,500
+
+60
+
+24
+
+2,000
+
+24
+20
+
+18
+
+22
+
+25
+
+21
+
+20
+
+16
+
+3,001
+
+15
+
+2,475
+
+1,000
+
+-
+
+22
+
+17
+
+1,500
+
+500
+
+40
+
+1,157
+
+1Q
+
+859
+2Q
+
+10
+
+1,558
+
+1,549
+
+3Q
+
+2022
+(US$4,620m, #97)
+
+1,054
+
+4Q
+
+1,006
+
+648
+1Q
+
+172
+2Q
+
+4Q
+
+2023
+(US$6,213m, #79)
+Value (US$m)
+
+Source: EY analysis of VCCEdge data
+
+3Q
+
+# of deals
+
+1Q
+
+2Q
+
+789
+
+860
+
+3Q
+
+4Q
+
+2024
+(US$4,296m, #116)
+
+5
+0
+
+2023
+
+2024
+
+Exhibit 96: Deal type (US$m)
+
+Exhibit 97: Deal type #
+
+2,427
+2,292
+
+Buyout
+762
+
+Growth
+
+13
+18
+
+Growth
+
+3,322
+541
+224
+
+Start-up
+
+10
+
+Buyout
+
+21
+59
+
+Start-up
+
+PIPE
+
+286
+45
+
+PIPE
+
+Credit
+
+279
+330
+
+Credit
+
+33
+16
+8
+13
+4
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 98: PE/VC investments in the life sciences sector split between
+pharmaceuticals and healthcare
+90%
+
+27
+
+80%
+
+208
+
+25
+
+627
+
+70%
+60%
+
+873
+
+18
+835
+15
+
+40%
+30%
+8
+
+10%
+
+284
+
+6
+
+5
+
+2Q
+
+3Q
+
+762
+
+2,681
+12
+
+6
+
+24
+1Q
+
+1,257
+
+4Q
+
+125
+
+513
+
+18
+
+15
+15
+
+14
+
+12
+
+12
+10
+
+6
+
+258
+
+244
+
+4
+
+3
+
+320
+
+1Q
+
+2Q
+
+2022
+
+10
+
+6
+
+4
+
+301
+
+4
+
+48
+
+508
+
+3Q
+
+4Q
+
+1Q
+
+2Q
+
+276
+
+5
+182
+-
+
+2023
+
+3Q
+2024
+
+Pharmaceuticals (US$m)
+
+Healthcare (US$m)
+
+Number of deals (pharmaceuticals)
+
+Number of deals (healthcare)
+
+Source: EY analysis of VCCEdge data
+
+20
+678
+
+1,967
+
+16
+
+845
+
+922
+
+20%
+
+24
+
+20
+
+391
+
+50%
+
+0%
+
+30
+
+27
+
+4Q
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+100%
+
+61
+
+2023
+
+2024
+
+Exhibit 99: Deal size (US$m)
+
+>US$1000m
+
+Exhibit 100: Deal size #
+>US$1000m
+
+2,000
+838
+
+US$500m - US$1000m
+
+US$500m - US$1000m
+
+1,777
+1,960
+1,365
+
+US$100m - US$500m
+
+1
+1
+3
+11
+
+US$100m - US$500m
+
+US$50m - US$100m
+
+532
+539
+
+US$50m - US$100m
+
+US$20m - US$50m
+
+517
+259
+
+US$20m - US$50m
+
+US$10m - US$20m
+
+239
+142
+
+US$10m - US$20m
+
+<US$10m
+
+210
+132
+
+<US$10m
+
+8
+8
+8
+18
+9
+17
+11
+56
+28
+
+Source: EY analysis of VCCEdge data
+Does not include deals where deal value is not available
+
+2023
+
+Exhibit 101: Top sub-sectors in
+pharmaceuticals by value (US$m)
+
+Formulations
+
+Biotechnology
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+API/intermediates
+
+62
+
+CDMO/CRO
+
+Other pharmaceuticals
+
+904
+106
+41
+31
+
+977
+
+24
+9
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 102: Top sub-sectors in
+pharmaceuticals by # of deals
+18
+
+Formulations
+
+3
+9
+
+Biotechnology
+
+24
+
+20
+
+2024
+
+4
+2
+
+API/intermediates
+
+CDMOs/CRO
+
+Other pharmaceuticals
+
+9
+1
+
+2
+1
+
+2023
+
+2024
+
+Exhibit 103: Top sub-sectors in
+healthcare by value (US$m)
+1,270
+
+Hospitals/Clinics
+
+Medical equipment/
+devices/consumables
+
+HealthTech
+
+Online healthcare portals
+
+Diagnostics/Path labs
+
+Other healthcare
+
+Exhibit 104: Top sub-sectors in
+healthcare by # of deals
+
+4,623
+1,236
+
+462
+
+9
+13
+21
+
+HealthTech
+
+175
+226
+
+25
+
+Medical equipment/
+devices/consumables
+
+252
+
+25
+
+23
+
+Hospitals/Clinics
+
+18
+20
+
+Online healthcare portals
+
+50
+16
+39
+
+Diagnostics/Path labs
+
+4
+5
+2
+6
+
+Other healthcare
+
+Source: EY analysis of VCCEdge data
+
+Company/asset
+
+Investors
+
+Sector
+
+Stage
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Inventia Healthcare
+
+Platinum Equity Advisors
+
+Formulations
+
+Buyout
+
+225
+
+75
+
+Matrix Pharma
+
+Kotak Strategic Situations
+
+Formulations
+
+Growth
+
+173
+
+NA
+
+Maiva Pharma
+
+InvAscent and Morgan Stanley
+
+Formulations
+
+Buyout
+
+120
+
+NA
+
+HBM Healthcare Investments,
+OneSource Specialty
+WhiteOak Capital, Param Capital
+Pharma (Stelis Biopharma)
+and others
+
+Formulations
+
+Growth
+
+95
+
+5
+
+Matrix Pharma
+
+Edelweiss, Investec and Morgan
+Stanley
+
+Formulations
+
+Credit
+
+77
+
+NA
+
+La Renon Healthcare
+
+ChrysCapital
+
+Formulations
+
+Growth
+
+70
+
+8
+
+Cipla
+
+Canadian Pacific Railway Company
+Pension Plan, JP Morgan, GIC and
+others
+
+Formulations
+
+PIPE
+
+26
+
+NA
+
+Zeno Healthcare
+
+Stic Investment and Lightbox
+
+Formulations
+
+Startup
+
+25
+
+NA
+
+Entero Healthcare
+Solutions
+
+GIC, Morgan Stanley, Goldman
+Sachs and JP Morgan
+
+Other
+PIPE
+Pharmaceuticals
+
+20
+
+3
+
+Orbicular Pharmaceutical
+Technologies
+
+Tata Capital
+
+CDMO/CRO
+
+20
+
+NA
+
+Source: EY analysis of VCCEdge data
+
+Growth
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 105: Top pharmaceuticals sector investments in 2024
+
+63
+
+Exhibit 106: Top healthcare sector investments in 2024
+Company/asset
+
+Investors
+
+Sector
+
+Stage
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Healthium
+Medtech
+
+KKR
+
+Medical equipment/devices/
+consumables
+
+Buyout
+
+838
+
+100
+
+Appasamy
+Associates Group
+
+Warburg Pincus
+
+Medical equipment/devices/
+consumables
+
+Buyout
+
+300
+
+65
+
+Baby Memorial
+Hospital
+
+KKR
+
+Hospitals/Clinics
+
+Buyout
+
+300
+
+70
+
+Vee Healthtek
+
+TA Associates
+
+Healthcare technology
+
+Buyout
+
+250
+
+NA
+
+Asia Healthcare
+Holdings Advisory
+
+GIC
+
+Hospitals/Clinics
+
+Buyout
+
+150
+
+17
+
+Cygnus Medicare
+
+General Atlantic
+
+Hospitals/Clinics
+
+Buyout
+
+134
+
+70
+
+Aster DM
+Healthcare
+
+Blackstone and TPG
+
+Hospitals/Clinics
+
+PIPE
+
+104
+
+4
+
+Nephrocare
+Health Services
+
+Quadria Capital Advisors
+
+Hospitals/Clinics
+
+Growth
+
+103
+
+43
+
+New Delhi Centre
+for Sight
+
+ChrysCapital
+
+Hospitals/Clinics
+
+Growth
+
+100
+
+NA
+
+Qure.ai
+Technologies
+
+360 One Asset
+Management, Lightspeed
+and others
+
+Healthcare technology
+
+Start-up
+
+65
+
+NA
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Source: EY analysis of VCCEdge data
+
+64
+
+65
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+66
+
+Chennai Central Station
+Chennai, the automotive and manufacturing
+powerhouse of South India, is accelerating its growth
+trajectory. Home to India’s largest auto manufacturing
+base, the city accounts for over 40% of India’s
+automotive exports, while its Tier 2 counterparts like
+Coimbatore and Madurai are also gaining momentum
+in sectors like textiles and engineering.
+
+Exits
+
+Key trends
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exits: k ey tren ds
+
+C H A P T E R
+
+67
+
+PE/VC exits in 2024 increased to US$26.7 billion,
+marking a 7% year-on-year growth from the US$24.9
+billion recorded in 2023. The year 2024 was second
+best ever in terms of exit deal volume totaling 282
+compared to 304 (highest ever) in 2023, a decline of
+7%. Large deals (deals greater than US$100 million)
+accounted for 83% of total exits during the year
+(US$22 billion across 70 deals). The largest exit in
+2024 saw Advent selling 100% stake in Bharat Serums
+and Vaccines to Mankind Pharma for US$1.6 billion.
+Open market exits continued their dominance and
+recorded highest ever exits worth US$12.9 billion,
+marginally higher than the previous year (US$12.8
+
+billion in 2023). Furthermore, the IPO market
+demonstrated considerable strength with 40 PEbacked IPO’s in 2024 (second highest after 44 IPO in
+2021). While all other exit strategies recorded a less
+than 10% growth, PE-backed IPO exits recorded a
+growth of 130% year-on-year (US$3.3 billion in 2024
+vs US$1.4 billion in 2023).
+In 2024, PE/VC exits were concentrated in financial
+services, technology, e-commerce, pharmaceuticals,
+infrastructure, healthcare, real estate, retail and
+consumer products, and industrial products sectors,
+each witnessing exits greater than US$1 billion.
+
+Exhibit 107: Trends in PE/VC exits
+10,000
+8,000
+
+69
+
+90
+
+78
+
+80
+
+65
+
+70
+
+52
+
+60
+43
+
+8,899
+
+4,000
+2,000
+
+81
+
+80
+
+78
+
+73
+
+66
+
+61
+6,000
+
+100
+
+88
+
+4,230
+
+5,362
+
+4,193
+
+4,507
+
+6,584
+
+5,618
+
+50
+
+8,510
+
+3,756
+
+5,069
+
+6,820
+
+6,253
+
+40
+30
+20
+10
+
+-
+
+1Q
+
+2Q
+
+3Q
+
+4Q
+
+2022
+(US$18,291m, #248)
+
+1Q
+
+2Q
+
+3Q
+
+4Q
+
+1Q
+
+2023
+(US$24,857m, #304)
+Value (US$m)
+
+2Q
+
+3Q
+
+4Q
+
+0
+
+2024
+(US$26,653m, #282)
+
+# of deals
+
+Source: EY analysis of VCCEdge data
+
+2023
+
+2024
+
+Exhibit 108: Exit type (US$m)
+12,874
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Open market
+
+68
+
+12,846
+6,690
+
+Secondary
+
+6,610
+3,652
+
+Strategic
+
+IPO
+
+Buyback
+
+Exhibit 109: Exit type #
+
+3,487
+3,278
+1,427
+159
+486
+
+Source: EY analysis of VCCEdge data
+
+126
+
+Open market
+
+132
+53
+
+Secondary
+
+60
+60
+
+Strategic
+
+75
+40
+
+IPO
+
+Buyback
+
+30
+3
+7
+
+Exhibit 110: Top exits in 2024
+Company/asset
+
+Sellers
+
+Investors
+
+Sector
+
+Exit Type
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Bharat Serums and
+Vaccines
+
+Advent
+
+Mankind
+Pharma
+
+Pharmaceuticals
+
+Strategic
+
+1,628
+
+100
+
+Manjushree Technopack
+
+Advent
+
+PAG
+
+Industrial products
+
+Secondary
+
+1,000
+
+NA
+
+VFS Global Services
+
+Blackstone
+
+Temasek
+
+Technology
+
+Secondary
+
+950
+
+18
+
+Brookfield’s 2.2 GW
+Assets
+
+Brookfield
+
+Gentari
+
+Infrastructure
+
+Strategic
+
+900
+
+100
+
+GeBBS Healthcare
+Solutions
+
+ChrysCapital
+
+EQT
+
+Technology
+
+Secondary
+
+860
+
+NA
+
+Healthium Medtech
+
+Apax Partners KKR
+
+Healthcare
+
+Secondary
+
+838
+
+100
+
+Swiggy
+
+Accel,
+Apoletto Asia,
+Alpha Wave
+and others
+
+E-commerce
+
+IPO
+
+811
+
+8
+
+Mphasis
+
+Blackstone
+
+Technology
+
+Open market
+
+806
+
+15
+
+Data Infrastructure Trust
+
+Brookfield
+
+Infrastructure
+
+Open market
+
+801
+
+NA
+
+Omega Healthcare
+Management Services
+
+Everstone
+
+Technology
+
+Secondary
+
+800
+
+NA
+
+OTPP
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Source: EY analysis of VCCEdge data
+
+69
+
+Open market exits
+As Indian equity markets have deepened and evolved,
+open market exits have seen remarkable growth over
+the last few years. The year 2024 has recorded the
+highest ever open market exits worth US$12.9 billion,
+marginally higher than last year (US$12.8 billion in
+2023). In terms of number of deals, it recorded a 5%
+decline (126 in 2024 vs. 132 in 2023).
+The largest open market PE exit deal in 2024 saw
+Blackstone selling 15% stake in Mphasis for US$806
+million. 2024 recorded 40 large open market PE/VC
+exit deals (deals greater than US$100 million)
+aggregating to US$10.3 billion.
+
+billion across 44 deals. Retail and consumer products,
+e-commerce, and technology followed, with each
+recording open market exits greater than US$1
+billion.
+Open market exits have been a key part of PE/VC exit
+strategy in India over the past decade and in a growth
+economy, is one of the key exit themes underwritten
+in most late-stage investment thesis.
+Following the COVID-19 pandemic, there has been a
+notable surge in open market exits, driven by the
+expanding depth of India's capital markets. Broader
+investor base, enhanced liquidity, ability to sell large
+blocks without material price disruption and greater
+transparency make this exit strategy more attractive
+for the PE/VC investors.
+
+From a sector perspective, financial services
+maintained its lead in 2024 as the largest sector for
+open market exits, recording exits worth US$5.2
+
+Exhibit 111: Trends in open market exits
+4,500
+
+50
+
+46
+41
+
+4,000
+3,500
+28
+
+40
+
+35
+
+34
+
+3,000
+
+45
+
+40
+
+38
+
+35
+
+28
+
+30
+
+2,500
+19
+
+2,000
+1,500
+1,000
+
+11
+
+-
+
+13
+2,279
+
+1,852
+
+500
+
+3,851
+
+1,838
+
+2,087
+
+4,307
+
+4,279
+
+3,673
+
+2Q
+
+3Q
+
+4Q
+
+1Q
+
+15
+
+2Q
+
+3Q
+
+4Q
+
+1Q
+
+2023
+(US$12,846m, #132)
+
+2022
+(US$6,621m, #80)
+
+Value (US$m)
+
+2Q
+
+# of deals
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+70
+
+Exhibit 112: Split by sector (US$m)
+
+479 , 4%
+616 , 5%
+
+Financial services
+Retail and consumer products
+E-commerce
+5,182 , 40%
+
+669 , 5%
+
+1,046 , 8%
+
+Technology
+Infrastructure
+
+803 , 6%
+
+Healthcare
+1,379 , 11%
+
+1,284 , 10%
+
+Real estate
+Telecommunications
+Others
+
+Source: EY analysis of VCCEdge data
+
+3Q
+
+2024
+(US$12,874m, #126)
+
+Source: EY analysis of VCCEdge data
+
+1,417 , 11%
+
+20
+
+2,600
+
+652
+1Q
+
+25
+
+4,241
+
+5
+
+10
+
+681
+
+5
+
+4Q
+
+0
+
+Exhibit 113: Split by sector (# of deals)
+Financial services
+20 , 16%
+
+Retail and consumer products
+44 , 35%
+
+5 , 4%
+6 , 5%
+
+E-commerce
+Healthcare
+
+7 , 6%
+
+Food and agriculture
+
+7 , 5%
+
+Technology
+
+8 , 6%
+13 , 10%
+
+16 , 13%
+
+Industrial products
+Pharmaceuticals
+Others
+
+Source: EY analysis of VCCEdge data
+
+Amount
+(US$m)
+
+Deal stake
+%
+
+Technology
+
+806
+
+15
+
+Brookfield
+
+Infrastructure
+
+801
+
+NA
+
+Zomato
+
+Antfin
+
+E-commerce
+
+570
+
+2
+
+Nexus Select Trust
+
+Blackstone
+
+Real estate
+
+505
+
+22
+
+Indus Towers
+
+CPPIB, KKR
+
+Telecommunications
+
+479
+
+7
+
+Kalyan Jewellers India
+
+Warburg Pincus
+
+Retail and consumer
+products
+
+428
+
+6
+
+Axis Bank
+
+Bain Capital
+
+Financial services
+
+428
+
+1
+
+Five-Star Business Finance
+
+TPG, Peak XV, Norwest
+Venture Partners
+
+Financial services
+
+408
+
+15
+
+Kalyan Jewellers India
+
+Warburg Pincus
+
+Retail and consumer
+products
+
+353
+
+8
+
+Zomato
+
+Antfin
+
+E-commerce
+
+339
+
+2
+
+Company/asset
+
+Sellers
+
+Sector
+
+Mphasis
+
+Blackstone
+
+Data Infrastructure Trust
+
+Source: EY analysis of VCCEdge data
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 114: Top open market exits in 2024
+
+71
+
+Secondary exits
+The accelerating trend of secondary exits indicates PE
+investors’ growing interest in mature companies that
+have proven their performance and show strong
+potential for continued growth.
+Although secondary exits declined by 65% in 2022
+($4.8 billion from US$13.6 billion in 2021), they
+rebounded to a record US$6.6 billion in 2023, a 37%
+year-on-year increase, and then reached US$6.7
+billion across 53 deals in 2024 – a slight increase from
+the previous year.
+The year 2024 recorded 15 large deals (deals greater
+than US$100 million), totaling US$6.1 billion
+compared to 16 large deals reaching US$5.9 billion in
+2023. The year saw no mega deal (above US$1
+billion) as compared to one such deal in the previous
+
+year. Large deals accounted for 90% of overall
+secondary exits in 2024.
+Secondary exits were predominantly observed in
+technology and industrial product sectors. PAG
+acquiring Manjushree Technopack from Advent for
+US$1 billon was the largest secondary deal in 2024.
+Private equity investors usually choose secondary
+exits as part of their risk-mitigation strategy. They do
+this by acquiring stakes in well-established companies
+with a proven track record, and governance
+frameworks put in place by the outgoing PE investor.
+Investing in established companies also allows private
+equity investors to make faster and more efficient
+exits as opposed to an IPO, in which selling a
+controlling stake in a listed company will take a much
+longer time.
+
+Exhibit 115: Trends in secondary exits
+3,500
+
+17
+
+3,000
+
+20
+
+18
+
+17
+
+18
+
+16
+
+15
+
+16
+
+2,500
+2,000
+
+9
+
+2,010
+
+1,570
+294
+
+1Q
+
+2Q
+
+1,791
+
+949
+3Q
+
+1,881
+
+2,305
+
+1,327
+
+4Q
+
+2Q
+
+3Q
+
+4Q
+
+Value (US$m)
+
+2Q
+
+# of deals
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+72
+
+Exhibit 116: Split by sector (US$m)
+250 , 4%
+Technology
+Industrial products
+Healthcare
+
+781 , 12%
+
+2,610 , 39%
+
+Real estate
+E-commerce
+Media and entertainment
+Financial services
+
+936 , 14%
+1,091 , 16%
+
+Infrastructure
+Others
+
+Source: EY analysis of VCCEdge data
+
+3Q
+
+2024
+(US$6,690m, #53)
+
+Source: EY analysis of VCCEdge data
+
+292 , 4%
+
+8
+
+2
+
+1Q
+
+2023
+(US$6,610m, #60)
+
+10
+
+4
+
+1,097
+1Q
+
+12
+
+6
+
+1,644
+59
+
+2022
+(US$4,822m, #31)
+
+226 , 3%
+236 , 4%
+269 , 4%
+
+9
+3,196
+
+7
+
+6
+
+500
+-
+
+10
+
+9
+
+1,500
+1,000
+
+14
+
+11
+
+4Q
+
+0
+
+Exhibit 117: Split by sector (# of deals)
+Financial services
+8 , 15%
+
+8 , 15%
+
+Real estate
+E-commerce
+
+3 , 6%
+
+Technology
+
+7 , 13%
+
+5 , 9%
+
+Healthcare
+
+5 , 9%
+
+Food and agriculture
+
+7 , 13%
+
+Retail and consumer products
+
+5 , 10% 5 , 10%
+
+Media and entertainment
+Others
+
+Source: EY analysis of VCCEdge data
+
+Exhibit 118: Top secondary exits in 2024
+Sellers
+
+Investors
+
+Sector
+
+Manjushree
+Technopack
+
+Advent
+
+PAG
+
+Industrial
+products
+
+1,000
+
+NA
+
+VFS Global Services
+
+Blackstone
+
+Temasek
+
+Technology
+
+950
+
+18
+
+GeBBS Healthcare
+Solutions
+
+ChrysCapital
+
+EQT
+
+Technology
+
+860
+
+NA
+
+Healthium Medtech
+
+Apax Partners
+
+KKR
+
+Healthcare
+
+838
+
+100
+
+Omega Healthcare
+Management Services
+
+Everstone
+
+OTPP
+
+Technology
+
+800
+
+NA
+
+One Paramount 1
+CPPIB, RMZ Corp
+(tech park in Chennai)
+
+Keppel
+
+Real estate
+
+264
+
+100
+
+Total Environment
+Building Systems
+
+Brookfield and others
+
+SBI, Standard Chartered,
+ICICI and others
+
+Real estate
+
+248
+
+NA
+
+Interise Trust
+
+Allianz Capital Partners
+
+OMERS
+
+Infrastructure
+
+226
+
+13
+
+Rebel Foods (Faasos,
+Behrouz Biryani)
+
+Lightbox Ventures
+Capital, Coatue
+Management
+
+Evolvence, Temasek
+
+E-commerce
+
+158
+
+11
+
+Sporta Technologies
+(Dream11, FanCode,
+DreamSetGo)
+
+Tencent
+
+Tiga Acquisition Corp
+
+Media and
+entertainment
+
+150
+
+NA
+
+Source: EY analysis of VCCEdge data
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Amount
+Deal
+(US$m) stake %
+
+Company/asset
+
+73
+
+Strategic exits
+to Mankind Pharma for US$1.6 billion, making it the
+largest exit deal of 2024.
+
+In value terms, strategic exits recorded a marginal
+year-on-year growth of 5% reaching US$3.7 billion
+across 60 deals compared to US$3.5 billion recorded
+across 75 deals in 2023. Strategic exits were predominantly seen in pharmaceuticals (US$1.6 billion),
+infrastructure (US$900 million) and food and
+agriculture (US$460 million) sector, which
+collectively accounted for 81% of overall strategic
+exits value in 2024.
+
+Factors contributing to this tepid growth in strategic
+exit volumes include high interest rates, mismatch in
+buyer and seller expectations and competition from
+the capital markets. However, the recent correction
+in asset prices is expected to narrow the bid-ask
+spread, potentially boosting the M&A deal activity in
+the near future.
+
+The largest exit within the segment involved Advent
+selling its 100% stake in Bharat Serums and Vaccines
+Exhibit 119: Trends in strategic exits
+
+42
+
+4,000
+
+45
+40
+
+3,000
+
+35
+
+31
+
+30
+
+26
+22
+
+2,000
+
+25
+
+20
+
+18
+16
+
+1,000
+
+-
+
+360
+1Q
+
+3,666
+2Q
+
+734
+
+410
+
+481
+
+741
+
+3Q
+
+4Q
+
+1Q
+
+2Q
+
+2022
+(US$5,169m, #115)
+
+15
+
+13
+
+1,935
+
+3Q
+
+330
+
+460
+
+308
+
+4Q
+
+1Q
+
+2Q
+
+# of deals
+
+Source: EY analysis of VCCEdge data
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+74
+
+Exhibit 120: Split by sector (US$m)
+92 , 2%
+Pharmaceuticals
+Infrastructure
+
+279 , 8%
+460 , 13%
+
+Food and agriculture
+1,628 , 44%
+
+Real estate
+Healthcare
+Media and entertainment
+
+900 , 25%
+
+Technology
+Others
+
+Source: EY analysis of VCCEdge data
+
+14
+
+3Q
+
+20
+15
+10
+
+1,065
+
+2024
+(US$3,652m, #60)
+
+Deal value not available for 39 deals in 2024 and 57 deals in 2023
+
+78 , 2%
+100 , 3%
+115 , 3%
+
+17
+
+1,818
+
+2023
+(US$3,487m, #75)
+Value (US$m)
+
+16
+
+4Q
+
+5
+0
+
+Exhibit 121: Split by sector (# of deals)
+Technology
+11 , 18%
+
+13 , 22%
+
+Financial services
+Healthcare
+
+3 , 5%
+
+Real estate
+
+8 , 13%
+
+E-commerce
+
+5 , 8%
+
+Infrastructure
+
+7 , 12%
+
+6 , 10%
+
+Food and agriculture
+
+7 , 12%
+
+Others
+
+Source: EY analysis of VCCEdge data
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+Pharmaceuticals
+
+1,628
+
+100
+
+Infrastructure
+
+900
+
+100
+
+Tata Consumer
+Food and agriculture
+Products
+
+460
+
+75
+
+Blackstone and TPG
+
+Aster DM
+
+Healthcare
+
+104
+
+5
+
+Tata Play
+
+Temasek
+
+Tata Sons
+
+Media and
+entertainment
+
+100
+
+10
+
+Sky Forest Projects
+
+Blackstone
+
+Indiabulls
+Constructions
+
+Real estate
+
+77
+
+100
+
+Moonshine Technology
+
+PSM Group, Bellerive
+Capital, and others
+
+Nazara
+Technologies
+
+Technology
+
+71
+
+34
+
+Total Investment Project
+
+HDFC capital
+
+Real estate
+
+63
+
+NA
+
+Sunbeam Lightweighting
+Solutions
+
+Kedaara Capital
+
+Automotive
+
+45
+
+100
+
+3 QVC projects (two in
+Gurugram and one in
+Bengaluru)
+
+Ask Property Fund
+
+Real estate
+
+42
+
+NA
+
+Company/asset
+
+Sellers
+
+Buyer
+
+Sector
+
+Bharat Serums and
+Vaccines
+
+Advent
+
+Mankind
+Pharma
+
+Brookfield's 2.2 GW
+Assets
+
+Brookfield
+
+Gentari
+
+Capital Foods (Chings
+Secret, Smith and Jones)
+
+Invus and General
+Atlantic
+
+Quality Care India (CARE
+Hospitals)
+
+Source: EY analysis of VCCEdge data
+
+Craftsman
+Automation
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 122: Top strategic exits in 2024
+
+75
+
+IPO exits
+After witnessing an all-time high of US$5.2 billion in
+2021, PE-backed IPO exits dropped to US$1.1 billion
+in 2022 and US$1.4 billion in 2023. However, it
+increased to US$3.3 billion (40 IPOs) in 2024,
+making a growth of 130% year-on-year. This growth
+can be attributed to the resilience of the Indian
+capital market driven for most of 2024 and the
+significant delta between higher public market
+multiples and private market transaction multiples.
+
+PE-backed IPOs have become a favoured exit
+strategy for investors due to certain advantages.
+PE-backed companies often attract richer valuations
+in the public markets on account of their established
+market position, strong growth potential, better
+governance and operational improvements made
+during the PE investor. The liquidity generated
+through the IPO enables PE investors to generate
+higher returns on the stake sold in the OFS on
+account of the buoyancy in the Indian capital
+markets, a growing preference for IPOs as an exit
+strategy has been observed in many PE/VC exit
+situations.
+
+In addition to the traditionally favored sectors like ecommerce, financial services, technology, and
+healthcare, 2024 witnessed PE-backed IPOs in
+sectors such as pharmaceuticals, real estate and
+automotive as well.
+
+Exhibit 123: Trends in PE-backed IPO exits
+
+2,000
+
+16
+
+14
+
+1,500
+
+13
+11
+
+10
+
+1,000
+
+11
+
+12
+9
+7
+
+6
+
+10
+1,820
+
+-
+
+1 8
+
+415
+
+1
+30
+
+665
+
+1Q
+
+2Q
+
+3Q
+
+4Q
+
+2022
+(US$1,117m, #18)
+
+2
+
+3
+
+42
+
+220
+
+1Q
+
+2Q
+
+798
+
+271
+
+367
+3Q
+
+4Q
+
+1Q
+
+2023
+(US$1,427m, #30)
+Value (US$m)
+
+4
+
+481
+
+2
+2Q
+
+3Q
+
+2024
+(US$3,278m, #40)
+
+# of deals
+
+Source: EY analysis of VCCEdge data
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 124: Split by sector (US$m)
+
+76
+
+E-commerce
+
+270 , 8%
+145 , 4%
+259 , 8%
+
+Financial services
+1,163 , 36%
+
+Pharmaceuticals
+Business and professional services
+
+271 , 8%
+
+Technology
+
+327 , 10%
+431 , 13%
+412 , 13%
+
+Healthcare
+Infrastructure
+Others
+
+Source: EY analysis of VCCEdge data
+
+8
+6
+
+705
+500
+
+14
+
+4Q
+
+0
+
+Exhibit 125: Split by sector (# of deals)
+Financial services
+10 , 25%
+
+8 , 20%
+
+E-commerce
+Healthcare
+
+3 , 8%
+3 , 7%
+
+4 , 10%
+
+Infrastructure
+Pharmaceuticals
+
+4 , 10%
+
+4 , 10% 4 , 10%
+
+Real estate
+Retail and consumer products
+Others
+
+Source: EY analysis of VCCEdge data
+
+Amount
+(US$m)
+
+Deal
+stake%
+
+E-commerce
+
+811
+
+8
+
+Blackstone
+
+Business and
+professional services
+
+327
+
+NA
+
+Sagility India
+
+EQT
+
+Technology
+
+250
+
+15
+
+BrainBees Solutions (Firstcry.com)
+
+Softbank, PremjiInvest, TPG
+and others
+
+E-commerce
+
+244
+
+8
+
+Aadhar Housing Finance
+
+Blackstone
+
+Financial services
+
+240
+
+15
+
+Sai Life Sciences
+
+TPG Asia
+
+Pharmaceuticals
+
+151
+
+11
+
+Premier Energies
+
+GEF Capital
+
+Infrastructure
+
+145
+
+6
+
+Niva Bupa Health Insurance
+
+True North, Faering Capital
+and others
+
+Financial services
+
+125
+
+8
+
+Akums Drugs and Pharmaceuticals
+
+Quadria Capital
+
+Pharmaceuticals
+
+116
+
+9
+
+Emcure Pharmaceuticals
+
+Bain Capital
+
+Pharmaceuticals
+
+87
+
+4
+
+Company
+
+Sellers
+
+Sector
+
+Swiggy
+
+Naspers, Accel, Elevation
+Capital and others
+
+International Gemmological
+Institute India
+
+Source: EY analysis of VCCEdge data
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 126: Top PE-backed IPO exits in 2024
+
+77
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+78
+
+Surat Diamond Bourse, Surat Gujarat
+Surat, the world’s largest diamond processing
+center, is a beacon of Gujarat's industrial might.
+As the 'Diamond City,' it contributes to nearly 90%
+of India’s diamond exports. Surat’s textile industry
+is also booming, positioning it as a key driver of
+India’s trade and manufacturing growth, making it
+an economic powerhouse of India’s Tier 2 cities.
+
+Tax and re gul atory u pdates
+
+Tax
+
+and regulatory updates
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+C H A P T E R
+
+79
+
+Introduction
+
+Tax updates
+
+The investment horizon of 2024 has unfolded with
+dynamic shifts in the PE/VC ecosystem, reflecting a
+nuanced interplay of market forces and strategic
+policy interventions. PE/VC investments rebounded
+in 2024 with a 5% growth to US$56.0 billion,
+recovering from a 3% decrease in 2023 and a 28% fall
+in 2022, after reaching a high of US$76.7 billion in
+2021, thus underscoring a renewed investor
+optimism and a departure from the previous years'
+cautious stance. The rebound was driven by a
+significant 54% increase in deal volume, with 1,352 in
+2024 deals compared to 880 in 2023. Despite this,
+the cumulative PE/ VC investment value decreased
+by 9% from US$41.7 billion in 2023 to US$37.8
+billion in 2024 due to lack of growth in large deals.
+
+A. Key tax amendments vide Finance Act
+(No. 2), 2024 (‘FA 2024’)
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+In 2024, 80% of PE/VC investment value and 66% of
+deal volume were concentrated in six sectors:
+infrastructure, financial services, real estate,
+e-commerce, technology, and life sciences.
+PE-backed IPOs saw a notable 130% increase in value
+to US$3.3 billion from US$1.4 billion in 2023. PE/VC
+exits were mainly in financial services, technology,
+e-commerce, pharmaceuticals, infrastructure,
+healthcare, real estate, retail and consumer
+products, and industrial products sectors where each
+recorded over US$1 billion.
+
+80
+
+In an effort to sustain this momentum, the
+Government of India has continued to refine the
+regulatory and tax landscape, with targeted
+measures designed to enhance ease of doing
+business and to ensure a level playing field for
+domestic and international investors alike. We have
+summarized some of the key tax and regulatory
+changes introduced in 2024, including amendments
+introduced vide Finance Act (No. 2), 2024, and a few
+noteworthy proposals of the recently announced
+Budget 2025 that could impact the PE/VC
+ecosystem. These developments are indicative of
+India's commitment to creating a robust
+infrastructure for PE/VC investments, with an
+emphasis on transparency, efficiency, and global
+competitiveness:
+
+As it was an election year, the Union Budget 2024
+was presented in July 2024, which supplemented the
+Interim Budget presented in February 2024. Some
+key amendments enacted vide Finance Act (No.2),
+2024 impacting PE/VC are below:
+
+1. Abolishment of angel tax provisions:
+§
+
+Previously, where an unlisted Indian
+company issued shares for consideration
+exceeding its face value, the consideration
+received in excess of FMV is taxable in the
+hands of the issuer company (commonly
+referred to as ‘Angel Tax’).
+
+§
+
+This has been amended so that the said
+Angel Tax provisions shall not be applicable
+from FY 2024-25 onwards. This is likely to
+significantly boost investor confidence.
+
+2. Changes in capital gains tax regime, w.e.f.
+23 July 2024:
+Previously, holding period for different classes of
+assets varied from 12 months to 36 months.
+This has been amended as below:
+
+§
+
+For all listed securities, the holding period
+will be 12 months and for all other assets, it
+will be 24 months.
+
+§
+
+Unlisted bonds and debentures will be
+deemed to be short-term, irrespective of the
+holding period.
+
+§
+
+Indexation benefit removed for all long-term
+capital assets (except for property acquired
+prior to 23 July 2024).
+
+§
+
+Short-term capital gains rates on the sale of
+equity oriented mutual funds and equity
+shares (on which STT has been paid) has
+been increased to 20% from the previous
+rate of 15%. Short-term capital gains on the
+sale of other financial assets will be taxed at
+the applicable tax rates.
+
+§
+
+Long-term capital gains on sale of all
+financial and non-financial assets will attract
+a tax rate of 12.5% as against the previous
+rate of 10% and 20%.
+
+§
+
+Unlisted bonds and debentures now attract
+tax on capital gains at applicable rates,
+irrespective of the period of holding.
+
+3. Abolishment of buy-back tax and taxation
+of buy-back proceeds as dividend for
+shareholders, w.e.f. 1 October 2024:
+
+§
+
+§
+
+Buy-back tax was payable by domestic
+companies at the rate of 23.30% on buyback of shares (tax calculated on distributed
+income minus amount received by company
+on allotment of shares) and was exempt in
+the hands of shareholders.
+Buy-back tax has now been abolished and
+the money received by shareholders on buyback of shares is now treated as ‘dividend’
+income, taxable on in the hands of
+shareholder on gross basis. The domestic
+company shall be required to withhold tax at
+10% for payment to resident shareholders
+and at applicable tax rate for payment to
+non-resident shareholders.
+Further, the actual cost of acquisition of the
+shares in the hands of the shareholders is
+considered as ‘capital loss’ eligible for carry
+forward and set-off against ‘capital gains’.
+
+§
+
+2. Extension of sunset dates, and certain
+other benefits to sovereign wealth and
+pension funds
+In line with market expectations and to
+encourage growth, sunset dates for certain tax
+exemptions and certain benefits to sovereign
+wealth and pension funds have been extended as
+below:
+
+§
+
+The sunset date for incorporating start-ups
+to claim profit-linked tax exemption is
+extended from 31 March 2025 to 31 March
+2030.
+
+§
+
+The investment deadline for tax exemption
+by sovereign wealth and pension funds
+extended to 31 March 2030. Deeming
+provisions under section 50A to not apply to
+gains on unlisted debt securities earned by
+these funds.
+
+4. Other key tax updates:
+§
+
+§
+
+The corporate tax rate for foreign
+companies has been reduced to 35%
+(effective headline tax rate of 38.22%,
+including highest applicable surcharge and
+cess) from earlier tax rate of 40% (effective
+headline tax rate of 43.68%, including
+highest applicable surcharge and cess).
+The tax benefit on transfer of capital asset
+under a gift or will or an irrevocable trust,
+not being considered as transfer for purpose
+of capital gains, is now applicable only to
+such transfers by individuals and HUFs. Gifts
+by corporates are now considered taxable
+and fair value provisions will apply for
+computation of capital gains.
+
+3. IFSC related
+§
+
+With effect from 1 April 2026, it is proposed
+to exempt the income earned by nonresidents entering into derivative contracts
+or instruments (i.e., non-deliverable
+forwards, offshore derivative instruments or
+over the counter derivatives) issued by a FPI
+that is an IFSC unit, thereby permitting nonbanks to issue instruments in a tax-neutral
+manner.
+
+§
+
+Effective 1 April 2026, it is proposed to
+expand the definition of 'resultant fund' to
+also include 'Retail Schemes' and 'ETFs' in
+IFSC, making them eligible for tax neutral
+relocation of offshore funds to IFSC.
+
+§
+
+Effective 1 April 2025, it is proposed to
+provide deemed dividend exemption for
+intra-group loans, where one entity is a
+Finance Company or Unit in IFSC set-up as
+Global/Regional Treasury Centre and
+undertaking treasury activities or services,
+
+B. Key tax proposals introduced vide
+Finance Bill, 2025 (‘FB 2025’)
+With the motto of “Sabka Saath, Sabka Vikas, Sabka
+Vishwas and Sabka Prayas”, some of the key tax
+proposals announced in the Union Budget 2025
+impacting the PE/VC space are as follows:
+
+1. Carry forward of losses in case of certain
+amalgamations:
+§
+
+Presently, in case of certain amalgamations,
+the amalgamated company can forward and
+set-off losses for a fresh period of eight
+years from the year of amalgamation. This
+led to an unintended tax advantage by
+
+For amalgamations effected on or after 1
+April 2025, such losses will be available in
+the hands of the amalgamated company
+only for eight assessment years from the
+assessment year in which such loss was first
+computed for the predecessor entity, i.e.,
+for the residuary period and not for a fresh
+eight years.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+§
+
+resetting the loss carry-forward period upon
+amalgamation. Accordingly, the FB 2025
+has proposed the below to ensure that the
+total period remains capped at eight years
+from when the losses were first computed.
+
+81
+
+and the parent or principal entity of such
+group is listed on a stock exchange outside
+India.
+
+§
+
+Extension of sunset clause for various tax
+incentives in IFSC to 31 March 2030.
+
+The strategic reforms proposed to boost IFSC
+are a positive step towards the right direction,
+though more needs to be done to achieve the
+agenda of making IFSC a premier global financial
+hub in the international landscape.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+4. Other key tax proposals:
+
+82
+
+§
+
+A New Income Tax Bill 6 to be placed in
+Parliament aimed at simplification,
+promoting tax certainty and reduced
+litigation.
+
+§
+
+Security held by Category I and II AIF will be
+deemed to be capital asset and gains will be
+taxed as capital gains with effect from 1
+April 2026.
+
+§
+
+The scope for fast-track mergers will be
+widened and the process to be made
+simpler.
+
+§
+
+TCS on sale of goods (e.g., unlisted shares)
+abolished effective 1 April 2025.
+
+§
+
+TDS rates and threshold limits to be
+rationalized.
+
+§
+
+Rationalization of taxation on long-term
+capital gains at 12.5% on:
+
+§
+
+§
+
+6
+
+§
+
+securities other than listed equity
+shares, equity-oriented mutual fund and
+units of business trust in the hands of
+specified funds and foreign institutional
+investors.
+
+§
+
+listed equity shares, equity-oriented
+mutual fund and units of business trust
+in the hands of business trust.
+
+To harmonize business connection and SEP
+provisions, it is now proposed that
+transactions or activities of a non-resident in
+India which are confined to the purchase of
+goods in India for the purpose of export shall
+not constitute SEP of such non-resident in
+India.
+Effective 1 April 2026, the scope of virtual
+digital assets (VDAs) expanded to include
+crypto assets that rely on cryptographically
+secured distributed ledger to validate and
+secure transactions.
+
+Regulatory updates
+Over the past year, the GoI has introduced regulatory
+updates to refine the landscape to enhance the
+business environment. These measures aim to
+bolster investor confidence, streamline processes,
+protect stakeholders and encourage investment.
+Some key regulatory updates are as follows:
+
+1. International Financial Services Centre
+On the IFSC front, few of the noteworthy
+updates are as under:
+
+§
+
+New IFSCA (Listing) Regulations, 2024
+provides a much-needed fillip to the primary
+market in the IFSC, across various financial
+instruments.
+
+§
+
+Issuance of derivative instruments against
+Indian securities by Non-Bank Entities in
+GIFT IFSC, is now permissible under the
+extant SEBI FPI Regulations.
+
+§
+
+Foreign entities can trade directly on the
+IFSC stock exchanges subject to certain
+conditions for an entity to be onboarded as a
+Remote Trading Participant.
+
+2. Modification to regulatory framework for
+Angel Funds
+SEBI has issued a Consultation Paper proposing
+various amendments to the regulatory
+framework for Angel Funds. Following the
+abolition of the controversial angel tax, SEBI's
+efforts to relax Angel Fund norms are expected
+to further propel the Indian start-up ecosystem
+making angel funds more attractive and easier to
+manage with transparency. The key proposals
+include:
+
+§
+
+Lowering the minimum investment for each
+start-up from INR25 lakh to INR10 lakh
+while increasing the maximum investment
+cap from INR10 crore to INR25 crore.
+
+§
+
+Each investment made by an Angel Fund
+must include contributions from at least
+three investors (excluding the manager/
+sponsor)
+
+§
+
+Reduction in the lock-in period to six months
+for Angel Funds that exit by way of sale to a
+third party (other than the start-up or its
+promoters/affiliates).
+
+§
+
+To allow employees and directors of Angel
+Fund as well as its manager to invest in
+
+Kindly note that as on the date of this article, the Income Tax Bill has not been presented in the Parliament yet
+
+§
+
+The RBI has compiled all instructions issued
+in relation to ARCs and published the
+Reserve Bank of India (Asset Reconstruction
+Companies) Directions, 2024 to ensure that
+the ARCs function in a transparent, fair,
+prudent and accountable manner, thereby
+protecting the interests of investors.
+
+§
+
+RBI has issued the final framework for SelfRegulatory Organization in the FinTech
+Sector (SRO-FT) to have a balanced
+regulatory approach wherein FinTechs are
+free to innovate and develop as well as
+adhere to high standards of conduct,
+transparency and accountability.
+
+Restriction of investment in Angel Funds
+only to "Accredited Investors" who satisfy
+prescribed net-worth criteria, as verified by
+a third-party accreditation agency.
+
+3. Reserve Bank of India
+In 2024, the RBI issued several frameworks,
+directions and circulars to foster increased
+governance and transparency from an investor
+perspective. The key updates are as follows:
+
+§
+
+§
+
+In January 2024, RBI permitted direct listing
+of equity shares of Indian companies on
+International Exchanges ('IEs') (currently,
+only two exchanges viz. India International
+Exchange and NSE International Exchange in
+GIFT-IFSC under the regulatory supervision
+of IFSCA are permitted IEs). In furtherance
+to the same, RBI has also notified mode of
+payment for purchase/ subscription of
+equity shares of Indian companies on IEs,
+remittance of sale proceeds of equity shares
+of Indian companies on IEs, funds through
+direct listing of equity shares of Indian
+companies, and the obligation on the
+investee Indian Company to report
+purchase/ subscription of equity shares
+through an Authorised Dealer.
+
+While the government has implemented several
+commendable measures in recent years, there
+remain critical areas that require attention to
+bolster foreign investor confidence. These
+include clarifying the ambiguity surrounding
+gift tax on off-market transactions involving
+listed shares, improving the entry and exit
+ecosystem for investments, introducing regular
+amnesty schemes to resolve litigation without
+the burden of interest and penalties, and
+rationalizing the taxation framework for
+Employee Stock Ownership Plans (ESOPs) to
+synchronize with liquidity events. Addressing
+these issues would significantly enhance
+investors' confidence.
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Angel Fund with minimum investment
+amount of INR5 lakh.
+
+83
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+of acronyms
+
+Glossary
+
+Glossary o f a crony ms
+
+84
+
+1.
+
+ADIA – Abu Dhabi Investment Authority
+
+2.
+
+AI – Artificial Intelligence
+
+3.
+
+AIIB – Asian Infrastructure Investment Bank
+
+4.
+
+AIFs – Alternate Investment Funds
+
+5.
+
+AMT – Alternative Minimum Tax
+
+6.
+
+ARC – Asset Reconstruction Company
+
+7.
+
+AUM – Assets under management
+
+8.
+
+AY – Assessment Year
+
+9.
+
+B2B – Business-to-Business
+
+10.
+
+B2C – Business-to-Consumer
+
+11.
+
+CAGR – Compounded annual growth rate
+
+12.
+
+CBDT – Central Board of Direct Taxes
+
+13.
+
+CDPQ – Caisse de dépôt et placement du Québec
+
+14.
+
+CPPIB – Canada Pension Plan Investment Board
+
+15.
+
+CRAMS – Contract research and manufacturing services
+
+16.
+
+DFID – Department for International Development
+
+17.
+
+DIPP – Department of Industrial Policy and Promotion
+
+18.
+
+DPIIT – Department for Promotion of Industry and Internal Trade
+
+19.
+
+DRHP – Draft Red Herring Prospectus
+
+20.
+
+DTAA – Double Taxation Avoidance Agreement
+
+21.
+
+EBITDA – Earning before interest tax depreciation and amortization
+
+22.
+
+EMPEA – Emerging Markets Private Equity Association
+
+23.
+
+EPC – Engineering, Procurement and Construction
+
+24.
+
+FDI – Foreign Direct Investment
+
+25.
+
+ESG – Environmental, Social, and Corporate Governance
+
+26.
+
+EV – Electric vehicles
+
+27.
+
+FAQ – Frequently asked questions
+
+28.
+
+FEMA – Foreign Exchange Management Act, 1999
+
+29.
+
+FDI – Foreign Direct Investment
+
+30.
+
+FII – Foreign Institutional Investment
+
+31.
+
+FPI – Foreign Portfolio Investment
+
+32.
+
+GAAR – General anti avoidance rule
+
+33.
+
+GFC – Global financial crisis
+
+34.
+
+GIC – GIC Private Limited
+
+35.
+
+GIFT – Gujarat International Finance Tec-City
+
+36.
+
+GIP – Global Infrastructure Partners
+
+37.
+
+GoI – Government of India
+
+38.
+
+GP – General partner
+
+39.
+
+GST – Goods and services tax
+
+40.
+
+IDBI – Industrial Development Bank of India
+
+41.
+
+IFC – International Finance Corporation
+
+42.
+
+IFCI – Industrial Finance Corporation of India
+
+43.
+
+IFSC – International Financial Services Centre
+
+44.
+
+InvIT – Infrastructure investment trust
+
+IPO – Initial public offering
+
+46.
+
+IT/ITES – Information Technology / Information Technology Enabled Services
+
+47.
+
+IRDA – Insurance Regulatory and Development Authority of India
+
+48.
+
+KKR – Kohlberg Kravis Roberts & Co
+
+49.
+
+LPs – Limited Partners
+
+50.
+
+M&A – Mergers and Acquisitions
+
+51.
+
+MAT – Minimum Alternate Tax
+
+52.
+
+MFI – Micro Finance Institution
+
+53.
+
+MOPE – Motilal Oswal Private Equity
+
+54.
+
+MSME – Micro, Small and Medium Enterprises
+
+55.
+
+NASSCOM – National Association of Software and Service Companies
+
+56.
+
+NBFC – Non-Banking Financial Company
+
+57.
+
+NCLT – National Company Law Tribunal
+
+58.
+
+NHAI – National Highway Authority of India
+
+59.
+
+NIIF – National Investment and Infrastructure Fund
+
+60.
+
+NPA – Non-performing Asset
+
+61.
+
+NRI – Non-Resident Indian
+
+62.
+
+OCI – Overseas Citizen of India
+
+63.
+
+OMERS – Ontario Municipal Employees Retirement System
+
+64.
+
+OTPP – Ontario Teachers' Pension Plan
+
+65.
+
+PAN – Permanent Account Number
+
+66.
+
+PE/VC – Private Equity/Venture Capital
+
+67.
+
+PIF – Public Investment Fund of Saudi Arabia
+
+68.
+
+PIPE – Private investment in public equity
+
+69.
+
+PLI – Production-linked incentive
+
+70.
+
+PSP – Public Sector Pension Investment Board
+
+71.
+
+QIP – Qualified Institutional Placement
+
+72.
+
+RBI – Reserve Bank of India
+
+73.
+
+RE – Real estate
+
+74.
+
+REIT – Real estate investment trust
+
+75.
+
+RCP – Retail and Consumer Products
+
+76.
+
+RERA - Real Estate Regulatory and Development Act
+
+77.
+
+ROIC – Return on invested capital
+
+78.
+
+SaaS – Software as a service
+
+79.
+
+SBI – State Bank of India
+
+80.
+
+SEBI - Securities and Exchange Board of India
+
+81.
+
+SPAC - Special purpose acquisition company
+
+82.
+
+SWF – Sovereign wealth fund
+
+83.
+
+TCS – Tax collected at source
+
+84.
+
+TDICI - Technology Development and Information Company of India
+
+85.
+
+TDS – Tax deducted at source
+
+86.
+
+ToT – Toll operate transfer
+
+87.
+
+VSV - Vivad Se Vishwas
+
+88.
+
+WHT - withholding tax
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+45.
+
+85
+
+Appendices
+
+About Private Equity Services at EY
+
+EY India Private Equity Services Practice has been
+among the top advisors for private equity deals over
+two decades now. We provide value to PE funds and
+their portfolio companies through its deep sector and
+service expertise. EY India is organized around key
+industry verticals in a matrix structure that enables
+us to offer an unparalleled blend of industry expertise
+and functional skills. We actively track about 15
+sectors with sector leads, driving our penetration in
+each of those sectors.
+Private equity firms, portfolio companies and
+investment funds face complex challenges. They are
+under pressure to deploy capital amid geopolitical
+uncertainty, increased competition, higher
+valuations, and rising stakeholder expectations.
+Successful deals depend on the ability to move
+faster, drive rapid and strategic growth, and create
+
+greater value throughout the transaction lifecycle.
+EY taps its global network to help source deal
+opportunities and combines deep sector insights with
+the proven, innovative strategies that have guided
+the world’s fastest growing companies.
+In India, EY is among the leading providers of
+advisory, tax, transactions, and assurance services.
+EY Ranked #1 Financial Advisor India – 2024 in M&A
+and PE deals across all league tables, which is a
+testimony to our relentless commitment to deliver
+exceptional client services and create a better
+working world. EY has offices spread across 12 cities
+in India. Worldwide, our 400,000+ people across
+150+ countries and 700+ cities are united by our
+shared values and their unwavering commitment to
+quality.
+
+Exhibit 127
+Refinitiv/Thomson Reuters
+
+Merger market
+
+Bloomberg
+
+105
+87
+78
+
+73
+61
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+34
+
+86
+
+2021
+
+38
+
+2022
+
+78
+56
+
+51
+
+45
+
+72
+64
+
+28
+
+27
+
+2023
+
+2024
+
+19
+
+2021
+
+2022
+EY
+
+54
+
+28
+
+24
+
+23
+
+2023
+
+2024
+
+2021
+
+2022
+
+64
+45
+27
+
+28
+
+2023
+
+2024
+
+Closest competitor
+
+* As per Global Brand Survey, conducted by an independent research agency commissioned by EY
+** for most number of deals
+
+§
+
+§
+§
+
+#1 advisor in Financial advisory league tables across databases
+a. Bloomberg for 21 consecutive years (2003-2024)
+b. Merger market for 19 consecutive years (2006-2024)
+Consistently maintaining a significant lead from closest competitor
+Sustained leadership in infrastructure deals in India, including largest roads and highway transaction – NHIT, PNC
+Infra
+
+Exhibit 128
+Partners
+
+Fund assurance and
+management
+
+(Personal tax)
+
+(Fund and fund management
+company audit, portfolio
+valuation, controls and process
+design and review, tax and
+regulatory compliance)
+
+(Marketing collateral, fund
+structuring, audit of fund
+performance)
+
+Buy and sell side advisory
+(M&A, capital markets support,
+tax structuring, regulatory
+compliance, SPA advisory,
+integrated sell side advisory –
+building equity story,
+vendor due diligence (VDD),
+
+Funds
+Transaction
+advisory services
+Portfolio services
+
+Buyside support
+(Due diligence – financial, tax,
+business and commercial, forensics
+and background, HR, IT and ESG;
+modeling and valuations)
+PE Value creation
+(Growth strategy, EBITDA
+improvement, Go to market)
+
+Exit readiness
+
+Transition
+
+(IPO, GAAP conversion, VDD,
+value creation, investor
+relations, exit preparation, sale
+mandates, exit structuring)
+
+(Project management office
+(PMO), 100-day plans,
+transaction integration, GAAP
+conversion, governance,
+controls assessment, MIS
+development, process
+advisory, standard operating
+procedures, CFO services,
+compliance manager)
+
+Tax and legal
+
+Assurance
+
+(Tax advisory, tax accounting,
+ESOP advisory, global mobility,
+transfer pricing and operating
+model effectiveness, tax policy
+and litigation, regulatory
+compliance)
+
+(Statutory audit, tax
+compliance, risk management,
+corporate governance advisory,
+internal audits, ESG and fraud
+reviews)
+
+Distressed
+(Debt syndication, bank
+intermediation, restructuring,
+working capital management,
+cost reduction, insolvency,
+and bankruptcy advisory)
+
+Value creation
+(Operational turnaround,
+performance improvement,
+portfolio value creation)
+
+Growth
+(Strategic options, technology
+security, IT strategy,
+operational improvement,
+supply chain management
+(SCM), market entry options
+and working capital
+management)
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Fund raising
+
+87
+
+Are you ready for
+
+IPO journey?
+Pre-IPO planning
+
+Capital and Tax structuring
+
+§ Evaluate fund raise, Strategy formulation,
+
+§
+§
+§
+§
+
+identification and business positioning,
+Growth strategy, EBITDA improvement
+
+§ IPO readiness – gap analysis, roadmap
+§ Enhance corporate presentations
+
+Pre-IPO
+
+Succession planning
+
+§ Early planning for Board of Directors,
+
+§
+§
+§
+§
+
+Financial reporting and ESG considerations
+Benchmarking and identification of KPIs
+Appoint auditor of repute and internal audit
+Build a comprehensive dataroom
+
+IPO execution
+
+Strategic insights
+
+§ Share market insights on role of
+
+§ Value creation through Independent insights
+
+§ Execution support, be a single point contact
+
+§ Analysis of use of proceeds and selling
+
+§ 3 years restated financials, advise on SEBI
+
+§ Financial modeling
+§ Investor perception study
+
+IPO execution (2)
+
+Post-IPO framework
+
+§ Expedite quarterly consolidated financial
+
+§ Conduct Board / KMP /SMP/ employee
+
+§ Enhance governance and implementation of
+
+§ Assist in setting up post-IPO compliance
+
+intermediaries and accelerate timelines
+for intermediaries
+
+ICDR, LODR regulations
+
+reporting/close process
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+SEBI compliant ESOP Scheme
+
+Financial reporting and Dataroom
+
+§ Accelerate financial reporting
+§ Secretarial Healthcheck & Remediations
+
+88
+
+Evaluate tax efficient exit mechanism for OFS
+
+Governance, systems and controls
+Committees
+Establish robust IFC, ERM & overall
+systems/controls
+
+Kick-off to
+Listing
+
+Corporate restructuring, optimise Cap-Table
+
+20+ policies / charters
+
+§ Structured approach to manage Insider
+
+Trading, RPT compliances / STX disclosures
+
+and investor feedback
+
+shareholder engagement
+
+orientation sessions
+
+framework, calendar, SOPs
+Develop CG & CSR report, Business
+Responsibility and Sustainability report
+
+§ Support in interactions with Independent CA,
+chartered engineer, other agencies
+
+Investor relationship and
+sustainability
+Post
+Listing
+
+§ Enhance IR strategy
+§ Target specific investors, analysts to
+
+effectively communicate performance
+
+§ ESG reporting, sustainability initiatives and
+diversity and inclusion
+
+Digital / Other considerations
+§ Deploy digital tools (e.g. compliance
+
+management, dashboards, reporting)
+
+§ Continuous secretarial support (incl Board,
+
+shareholders’ meetings, filings, SE intimations
+etc.)
+Periodic compliance reviews
+
+Scan the QR code to
+know more about us
+
+Delivering issue-based solutions to the entire PE enterprise
+EY has established six distinct solutions reflecting the
+holistic set of challenges that PE firms face across all
+
+levels of the organization–the management company,
+the funds, and their portfolio companies.
+
+Operating model and automation
+
+Global compliance and reporting
+
+Deal origination
+
+Alternative asset managers need
+to drive efficiency through multiyear target operating models and
+infrastructure strategies to
+remain competitive. These align
+with strategic growth plans by
+leveraging vendor and service
+provider activities. EY defines
+and monitors data analytics and
+key performance indicators to
+annually assess data governance
+and risk against these target
+models.
+
+Large asset managers have
+hundreds of non-US legal entities
+in multiple countries, and
+continually create new ones–all
+with different compliance
+obligations. Many are outsourced
+and require local knowledge. EY
+gathers the data, leverages local
+EY teams familiar with
+accounting and tax laws,
+performs data analytics to
+identify trends, risks and
+opportunities and monitors filing
+requirements.
+
+The intense competition for a
+limited number of deals raises
+stakes to win for Private Equity
+(PE) firms. A proprietary
+investment approach, driven by
+sector insights, enables firms to
+confidently place winning bids
+that generate appropriate
+returns. EY’s global origination
+team turns opportunities into
+actionable strategies. Our
+proprietary knowledge and
+advanced analytics help develop
+strategic capital options to help
+firms achieve success.
+
+Integrated due diligence
+
+Value creation
+
+Exit readiness and IPO
+
+PE firms conduct diligence on
+assets across strategic, financial,
+tax, operational and HR issues.
+Firms historically used issuebased advisors, managing
+different parties, and
+consolidating findings at the end
+of the process. Employing EY’s
+integrated diligence approach at
+the early stages of a transaction
+provides more effective,
+comprehensive diligence on an
+asset, giving firms a distinct
+competitive advantage.
+
+PE firms face increasing pressure
+to attract fresh capital. This
+requires generating greater
+investment returns and
+demonstrating a consistent track
+record in creating value in their
+portfolio. EY’s value creation
+solution addresses these
+challenges across all five stages
+of the deal life cycle, including
+deal origination, diligence,
+inception, optimization and exit
+strategy.
+
+PE firms must plan exits
+rigorously to successfully
+monetize their investment during
+the exit process in today’s
+challenging environment.
+Executives must identify key
+short- and long-term priorities
+prior to undertaking an IPO or
+alternative transaction. EY can
+advise deal teams and portfolio
+companies on exit alternatives,
+assess exit readiness, prepare a
+business for exit/IPO, and create
+a value story for targeted buyers.
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Exhibit 129
+
+89
+
+Exhibit 130
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Focused advisory solutions for PE-backed portfolio companies
+
+90
+
+IPO readiness: the
+first step in the
+IPO value journey
+
+EY’s IPO readiness service is the first step in what we describe as the “IPO value
+journey” and is designed to guide the client through a successful transformation
+from private to public status. Achieving readiness will ensure a strong debut in the
+capital markets. Getting IPO readiness right means implementing change
+throughout the business, organization, and the corporate culture. As a public
+company, the client will be subject to increased filing requirements, transparency,
+compliance, scrutiny by investors and analysts and overall accountability for
+delivering on promises. Successful businesses start to prepare typically 12 to 24
+months before the IPO — in many cases with an IPO readiness assessment.
+
+Performance
+improvement
+
+Depending on objectives and business context, EY helps the client develop a
+combination of short-term and long-term strategies to reduce costs, optimize
+process and bring in efficiency and effectiveness across all layers of business to
+deliver positive impact on EBITDA by ensuring optimal utilization of both tangible
+and intangible resources.
+
+Analytics:
+generate insights
+to make smarter,
+faster decisions
+
+EY helps clients build data and information strategies using various analytics tools
+to deal with big data to address various areas of business, ranging from
+opportunity sizing and feasibility, operations and customer modeling, executive
+decision making, mergers and acquisition and valuation. EY helps across the
+capability value chain, ranging from strategy, implementation, hosting and running
+the analytics functions.
+
+Growth navigator:
+achieving your
+growth ambitions
+
+Having a broader perspective on the drivers of growth in your business and finding
+innovative ways to accelerate and sustain that growth can give you a competitive
+advantage. That is why we have developed EY Growth Navigator , an interactive
+experience that uses the EY 7 Drivers of Growth to help you and your leadership
+team assess your business’s current and aspirational position and create a strategic
+road map to help you get there.
+
+Route to Market
+(RTM): deliver a
+successful strategy
+for your business
+
+EY identifies focused opportunities for optimizing cost and growth after full
+assessment; designs new RTM, including different approaches for different
+segments (customers, regions, seasonal demand); identifies the optimal
+concessionaires’ model considering different distribution approaches; and supports
+the implementation of the RTM by providing IT specs and additional services (e.g.,
+stock management options).
+
+Cybersecurity
+
+EY assists internal teams to build cyber awareness and conduct company-wide
+training, as well as training of board of directors. EY supports in building
+regulations and compliance requirements with audit and readiness services. EY
+helps transform the security program and integrate information security and IT risk
+across the enterprise as well as help implement globalized data protection
+strategies to protect information that matters, while considering regulatory and
+industry compliances.
+
+Our consulting solutions across the investment lifecycle
+Transaction closure
+
+Build foundation
+
+Holding period
+
+Day 100
+
+Year 1 to 4
+
+Business and operating
+model Transformation
+
+Exit preparation
+
+Supply Chain Planning
+and Transformation
+
+Digital Maturity
+Assessment
+
+Commercial Due
+Diligence (CDD)
+
+Customer Service
+Transformation
+
+Manufacturing
+Excellence
+
+Digital and Process
+Optimization
+
+Procurement
+Transformation
+
+Supply chain planning
+and strategy
+
+Market
+Benchmarking
+
+ESG and
+Decarbonisation
+
+Business Process
+Re-engineering
+
+Logistics
+Transformation
+
+Value Chain
+Diagnostic
+
+Internal Audit
+
+Cost
+Optimization
+
+Sales
+Enablement
+
+Continuous Controls
+Management (CCM)
+
+Org, Workforce
+and Culture
+Route to Market
+Strategy
+
+Customer Experience
+Transformation
+
+Enterprise Risk
+Assessment
+Actuarial
+Financial Services Risk
+Management
+
+Process Health
+Checks
+
+Core Business
+Transformations
+
+Compliance
+Management
+
+Connected Commerce
+
+By building
+efficiency
+
+New Product design and
+Launch
+
+Helping you
+grow
+
+Tech and Digital
+Modernization Strategy
+
+Software Asset
+Management
+
+Through
+governance
+and control
+
+Contract
+Management
+
+Enabled by technology
+
+Cyber Security
+
+AI and ML
+Applications
+
+Data Analytics
+
+Cloud Adoption
+
+Tech Due Diligence
+
+Rohan Sachdev
+Managing Partner
+Consulting
+E: rohan.sachdev@in.ey.com
+
+Monesh Dange
+Partner and Markets Leader
+Consulting
+E: monesh.dange@in.ey.com
+
+Anurag Gupta
+Partner and Leader,
+EY Parthenon
+E: anurag.gupta2@in.ey.com
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Contacts
+
+91
+
+92
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+93
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Contacts
+
+Contacts
+
+Private Equity Services Practice
+Vivek Soni
+Partner and National Leader
+E: Vivek.Soni@in.ey.com
+Varun Kaila
+Director
+E: Varun.Kaila@in.ey.com
+Nachiket Deo
+Partner and Private Equity Leader, Transaction Tax
+E: Nachiket.Deo@in.ey.com
+Narendra Rohira
+Partner, Transaction Tax
+E: Narendra.Rohira@in.ey.com
+Bhargav Selarka
+Partner, Transaction Tax
+E: Bhargav.selarka @in.ey.com
+Subramaniam Krishnan
+Partner, Tax and Regulatory Services
+E: Subramaniam.Krishnan@in.ey.com
+Tejas Desai
+Partner, Tax and Regulatory Services
+E: Tejas.Desai@in.ey.com
+
+Strategy and Transactions (SaT)
+Amit Khandelwal
+Managing Partner
+SaT
+E: Amit.Khandelwal@in.ey.com
+Kuldeep Tikkha
+Partner and National Leader
+Transaction Diligence
+E: Kuldeep.Tikkha@in.ey.com
+Ajay Arora
+Partner and National Leader
+Investment Banking Advisory
+E: Ajay.Arora@in.ey.com
+
+Advisory
+Anurag Gupta
+Partner and Leader,
+EY Parthenon
+E: anurag.gupta2@in.ey.com
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+Research and Insights
+
+94
+
+Shantanu Kulkarni
+Assistant Director
+E: Shantanu.kulkarni@in.ey.com
+Shubham Deshpande
+Assistant Manager
+E: Shubham.deshpande@in.ey.com
+Ashish Shah
+Senior Manager, Transaction Tax
+E: Ashish4.shah@in.ey.com
+
+Brand, Marketing and Communications
+Bhavisha Jogi
+Associate Director
+E: Bhavisha.jogi@in.ey.com
+Arif Jamaal
+Assistant Director
+E: Arif.Jamaal@in.ey.com
+
+IVCA
+About IVCA
+
+Contacts
+
+The Indian Private Equity & Venture Capital
+Association (IVCA), is the apex body promoting the
+Alternative Investment Funds (AIFs) in India and
+promotes stable, long-term capital flow (Private
+Equity (PE), Venture Capital (VC) and Angel Capital)
+in India.
+
+Rajat Tandon
+President, IVCA
+E: Rajat.Tandon@ivca.in
+
+With leading VC/ PE firms, institutional investors,
+banks, corporate advisers, accountants, lawyers,
+and other service providers as members, it serves
+as a powerful platform for all stakeholders to
+interact with each other. Being the face of the
+industry, it helps establish high standards of
+governance, ethics, business conduct and
+professional competence.
+
+Aakriti Bamniyal
+Senior Vice President, IVCA
+E: aakriti@ivca.in
+
+Private Eq uity and Venture Cap ital Tren db ook 20 25
+
+With a prime motive to support the ecosystem, it
+facilitates contact with policy makers, research
+institutions, universities, trade associations and
+other relevant organizations. Thus, support
+entrepreneurial activity, innovation and job
+creation.
+
+95
+
+Ernst & Young LLP
+EY | Building a better working world
+EY is building a better working world by creating new value for
+clients, people, society and the planet, while building trust in
+capital markets.
+Enabled by data, AI and advanced technology, EY teams help
+clients shape the future with confidence and develop answers
+for the most pressing issues of today and tomorrow.
+EY teams work across a full spectrum of services in assurance,
+consulting, tax, strategy and transactions. Fueled by sector
+insights, a globally connected, multi-disciplinary network and
+diverse ecosystem partners, EY teams can provide services in
+more than 150 countries and territories.
+All in to shape the future with confidence.
+EY refers to the global organization, and may refer to one or
+more, of the member firms of Ernst & Young Global Limited,
+each of which is a separate legal entity. Ernst & Young Global
+Limited, a UK company limited by guarantee, does not provide
+services to clients. Information about how EY collects and uses
+personal data and a description of the rights individuals have
+under data protection legislation are available via
+ey.com/privacy. EYG member firms do not practice law where
+prohibited by local laws. For more information about our
+organization, please visit ey.com.
+Ernst & Young LLP is one of the Indian client serving member firms of EYGM Limited.
+For more information about our organization, please visit www.ey.com/en_in.
+Ernst & Young LLP is a Limited Liability Partnership, registered under the Limited
+Liability Partnership Act, 2008 in India, having its registered office at Ground Floor,
+Plot No. 67, Institutional Area, Sector - 44, Gurugram - 122 003, Haryana, India.
+© 2025 Ernst & Young LLP. Published in India.
+All Rights Reserved.
+ED None.
+EYIN2502-007
+This publication contains information in summary form and is therefore intended for
+general guidance only. It is not intended to be a substitute for detailed research or
+the exercise of professional judgment. Neither EYGM Limited nor any other member
+of the global Ernst & Young organization can accept any responsibility for loss
+occasioned to any person acting or refraining from action as a result of any material
+in this publication. On any specific matter, reference should be made to the
+appropriate advisor.
+
+

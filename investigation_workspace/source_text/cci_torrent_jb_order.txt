@@ -1,0 +1,1405 @@
+COMPETITION COMMISSION OF INDIA
+Combination Registration No. C-2025/07/1299
+Non-Confidential
+21st October 2025
+Notice under Section 6(2) of the Competition Act, 2002 given by Torrent
+Pharmaceuticals Limited
+CORAM:
+Ms. Ravneet Kaur
+Chairperson
+Ms. Sweta Kakkad
+Member
+Mr. Deepak Anurag
+Member
+Order under Section 31(1) of the Competition Act, 2002
+I.
+
+Background
+
+1.
+
+On 16th July 2025, the Competition Commission of India (Commission) received a
+Notice under Section 6(2) of the Competition Act, 2002 (Act), given by Torrent
+Pharmaceuticals Limited (Acquirer/Torrent) in relation to proposed acquisition of
+shareholding in J. B. Chemicals & Pharmaceuticals Limited (JB/Target) [hereinafter,
+the Acquirer and the Target are collectively referred to as the ‘Parties’], as detailed
+below:
+(i)
+
+Tau Share Purchase: Pursuant to the Share Purchase Agreement dated 29th
+June 2025 as amended by an addendum dated 3rd July 2025 (Addendum) [Tau
+SPA] executed between the Parties and Tau Investment Holdings Pte. Ltd.
+(Seller), the Acquirer will purchase equity shares, amounting to 46.39%
+Page 1 of 33
+
+Combination Registration No. C-2025/07/1299
+
+shareholding, on a fully diluted basis, from the Seller, subject to the terms and
+conditions set out in the Tau SPA.
+(ii)
+
+Employee Share Purchase: Pursuant to the Share Purchase Agreement dated
+3rd July 2025 executed between the Acquirer and certain employees of the
+Target (Employee SPA), the Acquirer will acquire equity shares, amounting to
+2.41% shareholding, on a fully diluted basis, from such employees of the
+Target.
+
+(iii)
+
+Open Offer: Given that the Target is a listed company and the Acquirer is
+acquiring more than 25% shareholding in the Target pursuant to the Tau SPA,
+the Acquirer is required to make an open offer for the purchase of equity shares
+amounting to 26% of the Target’s equity share capital in accordance with
+Securities and Exchange Board of India (SEBI) (Substantial Acquisition of
+Shares and Takeovers) Regulations, 2011 (as amended) (Takeover
+Regulations) [Open Offer].
+
+(iv)
+
+JB Merger: Pursuant to the Merger Implementation Agreement dated 29th June
+2025 executed between the Parties and the Seller (MIA), the board of directors
+of the Parties, have approved a scheme of amalgamation between the Acquirer
+and the Target under Sections 230 to 232 and other applicable provisions of the
+Companies Act, 2013 (Scheme), pursuant to which, the Target will be
+amalgamated into the Acquirer as a going concern (JB Merger).
+[the Tau Share Purchase, the Employee Share Purchase, the Open Offer, and
+the JB Merger are collectively referred to as the ‘Proposed Combination’].
+
+2.
+
+The Notice was followed by additional submissions made on 23rd July 2025 vide which
+the Acquirer provided copies of the Employee SPA and the Addendum.
+
+3.
+
+In terms of Regulation 14 of the Competition Commission of India (Combinations)
+Regulations, 2024 (Combination Regulations), vide letter dated 29th July 2025 (RFI
+Page 2 of 33
+
+Combination Registration No. C-2025/07/1299
+
+1), the Acquirer was required to provide certain information/document(s) by 5th August
+2025. The Acquirer filed its reply on 6th August 2025 (Response 1). As certain defects
+and discrepancies were observed on examination of Response 1, vide letter dated 12th
+August 2025, issued in continuation of RFI 1 and Response 1 (RFI 2), the Acquirer
+was again asked to remove defect(s), explain discrepancies and furnish requisite
+information by 19th August 2025. The Acquirer filed its reply on 20th August 2025,
+after seeking extension of time (Response 2) and followed the same by additional
+submissions made on 8th September 2025.
+II.
+
+Parties to the Combination
+
+4.
+
+The Acquirer is a publicly listed company and forms part of the Torrent group
+(Acquirer Group)1. The Acquirer Group is, inter alia, engaged in the business of
+manufacturing and selling of pharmaceutical products in India and worldwide;
+generation, distribution and transmission of power in India; and city gas distribution in
+various cities in India.
+
+5.
+
+The Target is a publicly listed company which is, inter alia, engaged in business of
+manufacturing and marketing of diverse range of pharmaceutical formulations /
+finished dosage forms (FDFs) and Active Pharmaceutical Ingredients (APIs). In
+addition, it also provides contract development and manufacturing organisation
+(CDMO) services in India.
+
+III.
+6.
+
+Notice under Section 29(1) of the Act
+The Commission, in its meeting held on 23rd September 2025, considered the
+information on record, details provided in the Notice and the responses filed by the
+Acquirer, and formed a prima facie opinion that the Proposed Combination is likely to
+cause an appreciable adverse effect on competition (AAEC) in certain relevant markets
+in India. Accordingly, in terms of Section 29(1) of the Act, a show-cause notice dated
+25th September 2025 (SCN) was issued to the Parties, wherein the Parties were directed
+
+1
+
+The Acquirer Group is controlled by Mr. Sudhir Mehta & family and Mr. Samir Mehta & family.
+Page 3 of 33
+
+Combination Registration No. C-2025/07/1299
+
+to respond in writing, within 15 days of the receipt of the SCN, as to why investigation
+in respect of the Proposed Combination should not be conducted.
+7.
+
+The Parties filed their response to the SCN on 16th October 2025 after seeking
+extension of time (Response to SCN). As part of the Response to SCN, without
+prejudice to the submissions that the Proposed Combination does not cause any AAEC
+in India, the Parties also proposed certain voluntary commitments / remedies, in Form
+IV read with Regulation 25(4) of the Combination Regulations (Modification), to
+address the prima facie concerns raised by the Commission in the SCN.
+
+8.
+
+The Commission, in its meeting held on 21st October 2025, considered and assessed
+the Proposed Combination along with the SCN, the Response to SCN and the
+Modification. The analysis and findings of the Commission in respect of the Proposed
+Combination are given hereunder.
+
+IV.
+9.
+
+Activities of the Parties and areas of horizontal overlaps/vertical linkages
+The activities of Torrent and JB relate to pharmaceutical sector in India at broader
+level. In the pharmaceutical value chain, the Parties are engaged in manufacture and
+sale of FDFs, APIs and provision of CDMO services in India.
+
+10.
+
+As submitted, the Acquirer undertakes manufacture and sale of APIs in India only for
+captive purposes and accordingly there are no market facing overlaps in the API
+segment. As regards CDMO services, as submitted, the Acquirer has entered into an
+exclusive agreement with Novo Nordisk India to provide CDMO services for
+manufacturing of Human Insulin intended for sale in India and apart from this, the
+Acquirer is not engaged in provision of CDMO services for products intended for sale
+in India. The Target does not manufacture any such products for sale in India as part
+of its CDMO services. With respect to CDMO services for products intended for sale
+in India, the Target currently provides such services only for syrup and lozenges. It has
+been clarified that the Acquirer does not manufacture any such products for sale in
+
+Page 4 of 33
+
+Combination Registration No. C-2025/07/1299
+
+India as part of its CDMO services. Considering the aforesaid, the Commission
+narrowed down the primary area of assessment only to the FDFs.
+11.
+
+The Proposed Combination has been assessed accordingly.
+
+V.
+
+Competition Assessment - FDFs
+
+12.
+
+FDFs are the consumable form of medicines which can be consumed by/ administered
+to end-consumers. To cater to different medical conditions of the patient and depending
+on other factors, FDFs are manufactured and sold in various forms of administration,
+such as, FDFs which can be administered (i) orally (in the form of tablets, pellets,
+capsules, powder for solutions, microspheres), (ii) topically (such as, patches,
+ointments,
+
+creams,
+
+drops,
+
+etc.), (iii)
+
+as
+
+injectables
+
+(such
+
+as
+
+ampoules,
+
+syringes/injections and vials), or (iv) as inhalers.
+13.
+
+For the purposes of competition assessment, FDF classifications are considered based
+on the Anatomical Therapeutic Chemical (ATC) classification system for medicines2.
+The Commission in its decisional practice has emphasised that the comprehensive
+assessment entails assessment at the molecule level followed by ATC3/ATC4
+therapeutic groups. Accordingly, the assessment was undertaken considering the
+presence of the Parties in FDFs classified at the molecule level and ATC3/ATC4
+therapeutic groups.
+
+14.
+
+Based on the information provided by the Acquirer, horizontal overlaps were identified
+between the business activities of the Parties in the relevant markets for 64 FDF
+therapeutic segments at the ATC4 level and 38 FDF therapeutic segments at ATC3
+level. In cases where overlapping ATC4 classification contained more than one
+
+2
+
+The ATC system is a drug classification system that classifies the active ingredients of drugs according to the
+organ or system on which they act and their therapeutic, pharmacological, and chemical properties. The EphMRA
+ATC classification system is a hierarchical and coded four level system. The first level (ATC 1) is the broadest
+and the most general whereas the fourth level (ATC4) is the narrowest and most detailed. In the ATC1 level,
+medicinal products are divided into 16 main anatomical groups. The second level (ATC2 level) is either a
+pharmacological or therapeutic group. The third and fourth levels (ATC3 and ATC4 level respectively) are
+chemical, therapeutic or pharmacological subgroups.
+Page 5 of 33
+
+Combination Registration No. C-2025/07/1299
+
+molecule, molecule level overlaps were identified in four (4) FDF therapeutic
+segments. (The overlapping FDF therapeutic segments identified at ATC4 / ATC3 /
+molecule level are collectively referred to as the ‘Horizontal FDF Markets’). For each
+of the Horizontal FDF Markets, the Commission further factored differences in galenic
+forms in its assessment. Further, wherever considered appropriate, the Commission
+also took note of dosage level bifurcation within each of the overlapping Horizontal
+FDF Markets.
+15.
+
+Apart from the existing overlaps captured in Horizontal FDF Markets, the Commission
+also considered potential horizontal overlaps considering the pipeline products of both
+the Parties, existing products of the Acquirer with pipeline products of Target and
+existing products of the Target with pipeline products of the Acquirer. However, the
+Commission observed that the overlaps so identified are insignificant and do not merit
+detailed assessment.
+
+16.
+
+Accordingly, the Commission undertook the detailed assessment of the Proposed
+Combination for Horizontal FDF Markets. For the purpose of ascertaining the presence
+of the Parties and competition landscape in relevant Horizontal FDF markets,
+consistent with the decisional practice, the Parties provided the requisite information
+as per the IQVIA dataset and the Commission has also based its assessment on the
+same.
+
+17.
+
+On the basis of the combined market share of the Parties and incremental market share
+as a result of the Proposed Combination, the Commission narrowed its investigation to
+eight (8) Horizontal FDF Markets at an ATC4 level. For all other Horizontal FDF
+Markets, either (i) the combined share was less than 15%; or (ii) where the combined
+share exceeded 15% but did not exceed 30%, the incremental share was less than 5%;
+or (iii) where the combined share exceeded 30% but did not exceed 50%, the
+incremental share was less than 2%; or (iv) where the combined share exceeded 50%,
+the increment was less than 1%. Of these eight (8) Horizontal FDF Markets, the
+Proposed Combination was considered prima facie not likely to result in AAEC in five
+(5) Horizontal FDF Markets and likely to result in AAEC in three (3) Horizontal FDF
+Page 6 of 33
+
+Combination Registration No. C-2025/07/1299
+
+Markets. The analysis and findings of the Commission for each of the aforesaid eight
+(8) Horizontal FDF Market is detailed hereunder.
+Horizontal FDF Markets in which the Proposed Combination is not likely to raise
+AAEC concerns
+A07K0B LACTOBACILLUS RHAMNOSUS
+18.
+
+In this relevant market, the market shares of Torrent and JB are estimated to be in the
+range of [10-15] % and [5-10] % respectively, i.e., the combined market share of the
+Parties is estimated to be in the range of [20-25] %. The market is characterized by
+presence of other significant competitors viz., Tablets India and FDC, each with an
+estimated market share of [10-15] %, and Aristo with a market share of [5-10] %.
+Considering the presence of the Parties and the competition landscape, the Proposed
+Combination is not likely to cause AAEC in the market for Lactobacillus Rhamnosus
+FDFs.
+C02C07 AZILSARTAN
+
+19.
+
+In this relevant market, the market shares of Torrent and JB are estimated to be in the
+range of [5-10] % and [10-15] % respectively i.e., the combined market share of the
+Parties is estimated to be in the range of [20-25] %. The market is characterized by
+presence of at least three other significant competitors viz., Lupin which is estimated
+to have a market share of [15-20] %, and Emcure and Intas, each having a market share
+of [10-15] %. Considering the presence of the Parties and the competition landscape,
+the Proposed Combination is not likely to cause AAEC in the market for Azilsartan
+FDFs.
+C02F11 AZELNIDIPINE+ TELMISARTAN
+
+20.
+
+In this relevant market, the market shares of Torrent and JB are estimated to be in the
+range of [20-25] % and [10-15] % respectively i.e., the combined market share of the
+Page 7 of 33
+
+Combination Registration No. C-2025/07/1299
+
+Parties is estimated to be in the range of [30-35] %. The market is led by Glenmark
+with an estimated market share of [25-30] % and includes IPCA with an estimated
+market share of [20-25] % and Ajanta with an estimated share of [10-15] %. These
+competitors are likely to be in a position to exert significant competitive constraint on
+the Parties. Considering the presence of the Parties and the competition landscape, the
+Proposed Combination is not likely to cause AAEC in the market for Azelnidipine +
+Telmisartan FDFs.
+C10A0S ROSUVASTATIN + EZETIMIBE
+21.
+
+In this relevant market, the market shares of Torrent and JB are estimated to be in the
+range of [10-15] % and [5-10] % respectively, i.e., the combined market share of the
+Parties is estimated to be in the range of [15-20] %. The market is characterized by
+presence of at least three other significant competitors viz., USV and Emcure each of
+which is estimated to have a market share in the range of [20-25] %, and Lupin which
+is estimated to have a market share in the range of [10-15] %. These competitors are
+likely to be in a position to exert significant competitive constraint on the Parties.
+Considering the presence of the Parties and the competition landscape, the Proposed
+Combination is not likely to cause AAEC in the market for Rosuvastatin + Ezetimibe
+FDFs.
+D02A02 DIAPER RASH CREAMS
+
+22.
+
+In this relevant market, the market shares of Torrent and JB are estimated to be in the
+range of [15-20] % and [10-15] % respectively i.e., the combined market share of the
+Parties is estimated to be in the range of [25-30] %. The market is led by Abbot with
+market share of [35-40] % and includes Himalaya with share of [10-15] % and Apex
+with share of [5-10] %. Considering the presence of the Parties and the competition
+landscape, the Proposed Combination is not likely to cause AAEC in the market for
+Diaper Rash Creams.
+
+Page 8 of 33
+
+Combination Registration No. C-2025/07/1299
+
+Horizontal FDF Markets in which the Proposed Combination is likely to raise
+AAEC concerns
+23.
+
+As regards the assessment of markets in which the Proposed Combination is likely to
+raise AAEC concerns, the Commission followed a two-step approach for the
+assessment. First, the Commission considered the market structure, concentration
+levels and change in concentration resulting from the Proposed Combination for each
+Horizontal FDF and second, the Commission considered the overall aspects of entry
+barriers, price constraints from regulations relating to the price of essential medicines
+listed in the National List of Essential Medicines (NLEM) under the Drugs (Prices
+Control) Order, 2013 (DPCO 2013), buyer power etc.
+Assessment in terms of market structure etc.
+A07K02 LACTOBACIL.ACIDOPHILUS
+
+24.
+
+The Commission observed that the presence of the Parties in the market for
+Lactobacillus Acidophilus is highly significant with Torrent’s share estimated to be in
+the range of [35-40] % and Target’s share estimated to be in the range of [60-65] %
+resulting in a combined share of [95-100] %. The same is indicative of the Proposed
+Combination being likely to result in a significant change in concentration levels in the
+market for Lactobacillus Acidophilus and eliminate the only plausible source of
+competitive constraints on the Parties.
+
+25.
+
+The Acquirer submitted that while drugs within the same therapeutic group (i.e., FDFs
+grouped at ATC 3 classification codes level) are generally not substitutable due to
+differences in intended use, mechanism of action, mode of administration, and the
+underlying molecule, this does not hold true for Lactobacillus Acidophilus. In support
+of the same, the Acquirer made, inter alia, the following submissions:
+i.
+
+Insights based on research of Strategic Marketing Solutions and Research Centre
+(SMSRC) - SMSRC has provided insights based on its research and issued a
+Page 9 of 33
+
+Combination Registration No. C-2025/07/1299
+
+certificate attesting that multiple probiotic strains, including Lactobacillus
+Acidophilus and Lactobacillus Rhamnosus are prescribed across a wide range of
+gastrointestinal indications and are functionally interchangeable in clinical
+practice.
+ii.
+
+Medical opinions - Medical opinions stipulate that various probiotic strains such as
+Lactobacillus Acidophilus, Bacilus clausi, Sachharomyces Boulardii, Lactobacilus
+Rhamnosus and others are substitutable and interchangeable.
+
+iii.
+
+World Gastroenterology Organization (WGO) Guidelines - A reference was made
+to WGO Guidelines which note that strains such as acidophilus, casei, rhamnosus,
+boulardii have demonstrated positive outcomes in antibiotic associated diarrhoea
+(AAD).
+
+26.
+
+The Commission observed that for any candidate product to be included in the same
+relevant market, there should be sufficient cause in terms of the competitive constraints
+for inclusion of the same and only then the market definition arrived at reflects the most
+relevant constraints on the behaviour of the parties to a combination. To this effect, the
+Act emphasises delineation of relevant market based on comprehensive consideration
+of characteristics, intended use and price. Accordingly, the Commission examined the
+submissions on substitutability of various strains from the perspective of competitive
+constraints in accordance with the framework contained in the Act.
+
+27.
+
+The Commission observed that the aforementioned submissions of the Acquirer centre
+on the aspect of common intended use only, which is just one of the aspects of
+delineation of relevant market. Even in this regard, the studies and guidelines referred
+by the Acquirer are neither comprehensive nor absolute and appear to be broad
+generalisations. Also, as observed, as per information available in public domain, the
+efficacy of probiotics depends on mode specificity, strain specificity and disease
+specificity. Further, the ATC classification in itself factors various aspects relevant to
+a product such as FDF viz., drug’s properties, uses, specific chemical structure or a
+particular method of action. In addition, classification at ATC 4 level reflects the
+Page 10 of 33
+
+Combination Registration No. C-2025/07/1299
+
+functional differentiation of various FDFs which may be grouped together at ATC 3
+levels. In view of the above and in absence of any submissions on the aspects of strain
+and disease specificity, it does not appear that all probiotics forming part of broader
+ATC 3 level (A07K) are functionally interchangeable.
+28.
+
+As regards the characteristics, based on the information in public domain, the
+Commission noted that the characteristics of different strains are different. To
+illustrate, Bacillus clausii is a spore-forming bacterium, Lactobacillus Acidophilus is a
+lactic acid bacterium, and Saccharomyces Boulardii is a yeast and these differences in
+characteristics confer different strengths to respective strains and determine their most
+suitable specific use cases. In context of FDFs, therapeutic, pharmacological, and
+chemical properties are considered highly significant, and ATC classification is
+undertaken accordingly. In this backdrop, the differences in characteristics appear
+relevant to the aspect of substitutability both in functional and competition context.
+
+29.
+
+As regards the pricing of these strains, based on data submitted by the Acquirer, it is
+noted that there are significant differences in prices of various strains. While the
+average price of Lactobacillus Acidophilus FDFs is around Rs. 7.5 per tablet, the same
+for Bacillus Clausii and Saccharomyces Boulardii is more than Rs. 50. The
+Commission noted the submissions of the Acquirer on differences in prices of various
+probiotic strains not being reflective of therapeutic superiority but rather the outcome
+of historical, regulatory, and commercial factors. In this regard, the Commission
+observed that the question is on substitutability of strains considering intended use,
+characteristics and price. As examined above, the strains have not been found
+substitutable in terms of characteristics and intended use. In the context of price, the
+question is whether these strains impose competitive constraints on each other to the
+extent meriting to be part of the same relevant market and to that effect, the significant
+differences in prices of various strains of probiotics and Lactobacillus Acidophilus
+seems to negate the substitutability of strains even from pricing perspective.
+
+30.
+
+Based on the aforesaid, the Commission formed a prima facie view that the
+submissions of the Acquirer to consider a broader ATC 3 level market for probiotics
+Page 11 of 33
+
+Combination Registration No. C-2025/07/1299
+
+prima facie do not appear tenable and the Proposed Combination is likely to cause
+AAEC in the market for Lactobacillus Acidophilus FDF.
+31.
+
+The Parties, in the Response to SCN, again emphasised the aforesaid submissions and
+stated that while FDFs are known to be differentiated functionally, based on their
+different ATC-4 classifications, in the case of probiotics, the ATC-4 classifications are
+blurry and that the probiotic market should be seen irrespective of their separate ATC4 classification, because in the pharmaceutical sector, demand side (i.e., consumers
+/patients) majorly focuses on the intended use of the FDF, and pay less heed on the
+other factors relevant for delineation of relevant market, viz., price and characteristics,
+as the focus of the consumer is on recovery from the ailment, even if it is at a higher
+cost and/or possesses different characteristics (molecules).
+
+32.
+
+The Commission noted the submissions of the Parties and observed that the same is
+not sufficient to conclude a broader market for probiotics from competition assessment
+perspective and accordingly, the relevant market is not broader than that defined at
+ATC 4 classification code level and is limited to the FDF of Lactobacillus Acidophilus.
+
+33.
+
+Accordingly, the Commission assessed the Proposed Combination in the market of
+Lactobacillus Acidophilus and noted that the Parties would have an overwhelming
+presence in the market post the Proposed Combination and that the Proposed
+Combination is likely to result in significant change in market structure and eliminate
+the most relevant competitive constraints in the market.
+Assessment in terms of market structure – C01D01 NIFEDIPINE
+
+34.
+
+Based on the information provided by the Acquirer, the Commission observed that
+Torrent and JB’s market shares are estimated to be in the range of [0-5] % and [90-95]
+% respectively resulting in a combined market share in the range of [95-100] %.
+Accordingly, the Proposed Combination is likely to result in a significant change in
+competition dynamics in the market for Nifedipine as the top two competitors would
+come together.
+Page 12 of 33
+
+Combination Registration No. C-2025/07/1299
+
+35.
+
+In this regard, the Acquirer submitted that the incremental addition contributed by the
+Acquirer due to the Proposed Combination is small (less than 5%) and that there will
+be no significant change in the market dynamics due to the Proposed Combination in
+the market for Nifedipine FDFs. However, the Commission observed that significance
+of increment depends on market structure and is to be considered in terms of resulting
+change in competition dynamics. For Nifedipine, even if the Acquirer’s share is less
+than 5%, the change in concentration as reflected in incremental HHI is more than 700
+while the post combination HHI is more than 9000. Further, the significance of
+increment is also reflected in the fact that the Acquirer is the second biggest player in
+the market (albeit remote 2nd biggest player), and the Proposed Combination is
+combination of top two players in this segment. Accordingly, the Proposed
+Combination is likely to eliminate the only significant competitive constraint on the
+Target in this segment.
+
+36.
+
+The Acquirer further submitted that Amlodipine is a relevant therapeutic equivalent
+alternative of Nifedipine. It has been stated that Amlodipine has a higher rate of
+efficacy in terms of superior pharmacokinetics (such as maintaining longer therapeutic
+levels), leading to improved patient compliance3, patients and prescribers have shifted
+to Amlodipine, over the years. In this backdrop, it has been stated that though both
+Amlodipine and Nifedipine are L-type Calcium Channel Blockers (CCBs),
+Amlodipine has lately become the first choice in comparison to both the CCBs.
+
+37.
+
+The Commission noted that the rationale for existence of a separate ATC 4 level
+classification reflecting functional differentiation of various FDFs, which may be
+grouped together at ATC 3 levels, as considered for the Lactobacillus Acidophilus
+FDFs, also applies to Nifedipine and Amlodipine. Further, the Commission, based on
+information in public domain observed that Nifedipine is characterised by a rapid onset
+of action. Furthermore, the submissions of the Acquirer on Amlodipine being better
+tolerated with fewer side effects compared to Nifedipine, in itself indicate the
+
+3
+
+Source: (https://www.tandfonline.com/doi/full/10.3109/08037051.2012.690615#abstract)
+Page 13 of 33
+
+Combination Registration No. C-2025/07/1299
+
+differences between these formulations from pharmacological and therapeutic
+perspective. Also, the prevalence and growth of Nifedipine further indicates its
+uniqueness from therapeutic perspective.
+38.
+
+From pricing perspective, Amlodipine and Nifedipine appear to be differently placed.
+As per the Acquirer, one study has indicated that Amlodipine 5 mg is equivalent to
+Nifedipine 30 mg for postpartum blood pressure control. In this regard, the
+Commission notes that firstly the submissions are for a particular condition and do not
+justify a broader finding on substitutability and secondly there is no price parity
+between the Amlodipine and Nifedipine FDFs. The Target’s 30 mg Nifedipine is priced
+at Rs. 17.53 per tablet4 while Amlodipine 5 mg is priced at Rs. 1.5 per tablet (Cipla
+brand) 5 . Though the Acquirer has emphasised that price is not relevant, the same
+appears to be untenable as the price is one of the important factors that help in
+evaluating competitive constraints on a product.
+
+39.
+
+Based on the aforesaid, the Commission formed a prima facie view that the Proposed
+Combination is likely to cause AAEC in the Nifedipine FDF market.
+
+40.
+
+The Parties vide their Response to SCN reiterated their submissions and submitted that
+price differential between Nifedipine and Amlodipine must be contextualised and that
+prescribing behaviour in the relevant therapeutic class demonstrates that physicians
+substitute between CCBs including Amlodipine, Nifedipine, Cilnidipine, and others
+based on patient needs, not on minor price variations. Accordingly, it was stated that
+patients’ out-of-pocket expenditures for these medicines are relatively modest in the
+context of overall therapy costs, and compliance is driven by physician guidance rather
+than marginal price differences. Further, as submitted, while price is one of several
+competitive parameters, it does not, by itself, invalidate the position that Amlodipine
+and Nifedipine exert mutual competitive constraints as part of the broader CCB
+therapeutic space. The Commission again observed that the aspects of prescription
+
+4
+5
+
+https://www.1mg.com/drugs/nicardia-xl-30-tablet-754549
+https://www.1mg.com/drugs/amlip-5-tablet-43925
+Page 14 of 33
+
+Combination Registration No. C-2025/07/1299
+
+being strictly based on patient needs in fact further support the limited substitutability
+aspect even from functional perspective.
+41.
+
+Accordingly, the submissions of the Acquirer to consider Amlodipine as a part of the
+same relevant market as Nifedipine and to consider the increment as insignificant do
+not appear tenable and with that being the market, the Parties are estimated to have a
+highly significant presence in the market post the Proposed Combination and the
+Proposed Combination is likely to result in significant change in market structure and
+eliminate a significant competitive force exerting constraints on the market position of
+the Target in the Nifedipine FDF market.
+Assessment in terms of market structure – C01D0E AZELNIDIPINE
+
+42.
+
+Based on the information provided by the Acquirer, the Commission observed that the
+presence of the Parties in this segment is significant with Torrent’s share estimated to
+be in the range of [30-35] % and Target’s share estimated to be in the range of [10-15]
+% resulting in a combined share of [45-50]%. Accordingly, the Proposed Combination
+is likely to result in significant change in concentration levels.
+
+43.
+
+In terms of theory of harm, the Commission observed that as per data on 1mg, the
+Acquirer’s drug sold under the brand name Uniaz is the costliest. Based on the
+information available in public domain, it is noted that the Target’s drug is 13% cheaper
+as compared to the Acquirer’s drug. Given the said difference in prices, the incentive
+for the Acquirer to compete with its own cheaper drug post the Proposed Combination
+with the most expensive drug appears unlikely.
+
+44.
+
+Thus, given the significant presence and the market dynamics in terms of product
+positioning and pricing, the Proposed Combination is likely to incentivize elimination
+of a cheaper drug formulation triggering prima facie concerns of likelihood of AAEC
+in the Azelnidipine FDF.
+
+Page 15 of 33
+
+Combination Registration No. C-2025/07/1299
+
+45.
+
+In the Response to SCN, the Parties submitted that their combined market share has
+seen a consistent decline from ~53% to ~46%, in spite of the Azelnidipine Market
+growing manifold from INR 9.04 crore in FY 2021 to INR 29.05 crore in FY 2025. It
+was submitted that IPCA Labs has risen to the second position with a 32% market share
+within a few years of launch, while Ajanta, Emcure, Glenmark, and La Renon have
+also achieved substantial shares. Basis the aforesaid, it was stated that the Azelnidipine
+market masks high churn and rapid growth of new entrants and that this volatility of
+the Azelnidipine market indicates the fluidity of the positions and market power of
+each player, even if a certain player has held substantial market share. It was further
+stated that the Azelnidipine Market as a whole, faces certain constraints exerted by
+other CCBs, such as Amlodipine and Cilnidipine, which are the preferred CCBs.
+
+46.
+
+The Commission considered the submissions of the Parties and observed that while the
+shares of the Parties have indeed declined, yet the same remain significant. More
+importantly, the Commission’s theory of harm was focussed on ability and incentive
+on the part of the Parties to maintain the two competing drugs in the market and
+ensuring the competition efficacy between the two as these drugs were competing
+before the Proposed Combination. In this regard, the Parties have made no submissions
+and accordingly the concerns of the Commission arising from the structural change in
+market for Azelnidipine remain unaddressed.
+Assessment of likelihood of AAEC in terms of other factors
+Entry Conditions
+
+47.
+
+The Acquirer has made submissions on entry conditions for various Horizontal FDF
+markets of concern. As submitted,
+•
+
+Entry into the probiotics market is further facilitated through the over-thecounter (OTC) channel. It has been stated that while there are no specific rules
+for OTC classification of drug products, probiotic supplements and functional
+foods under the Food Safety and Standards Authority of India (FSSAI) benefit
+Page 16 of 33
+
+Combination Registration No. C-2025/07/1299
+
+from a streamlined approval process and that the standard formulations can be
+launched within approximately three months.
+•
+
+As regards Nifedipine, it has been stated that players willing to enter this market
+do not face stringent regulatory / legal hurdles and only require a state food and
+drug administration (State FDA) licence. The process of obtaining such a
+licence is also fairly simple and straightforward and subject to the licencing
+requirements being met, the State FDA typically grants the licence within a
+period of about one month.
+
+•
+
+As regards Azelnidipine, it has been stated that entry is facilitated by the
+molecule’s off-patent status in India, which allows new players to enter with
+generic versions without requiring costly or time-consuming clinical trials.
+Approvals by the Central Drugs Standard Control Organisation (CDSCO) are
+granted on the basis of bioequivalence studies, thereby making entry costefficient and relatively rapid.
+
+48.
+
+In this regard, it is to be noted that the market landscape, going by the estimates of
+market shares for the last 5 years, has remained in a similar zone for Lactobacillus
+Acidophilus and Nifedipine. The combined market share has treaded in a narrow range
+of [90-95] % to [95-100] % for both Lactobacillus Acidophilus and Nifedipine. It is
+only for Azelnidipine that the combined share has gone down from [50-55] % to [4550] %. However, the position of the Parties even in Azelnidipine FDF has remained
+strong. In the recent past, there seems to have been no entry of any credible competitor
+in these markets. Also, for consideration as a mitigating factor, entry has to be visible
+(for example, pipeline product of a competitor), timely and effective. In absence of any
+substantiation on these, considering ease of entry as a factor that negates the significant
+change in concentration levels and addresses concerns of likelihood of AAEC arising
+from the changed market structure is not plausible.
+
+49.
+
+The Commission further observed that while the Acquirer has submitted brand loyalty
+to be low, the market dynamics seem to indicate otherwise. As observed, illustratively,
+the Acquirer’s and Target’s Nifedipine 20 mg tablet is 115% and 112% costlier than
+the offering of Zeelab Pharmacy, yet the Parties collectively cater to [95-100] % of
+Page 17 of 33
+
+Combination Registration No. C-2025/07/1299
+
+Nifedipine market6. Similarly, for Azelnidipine, while Torrent’s FDF is priced 15%
+more than IPCA, it is the market leader with share in the range of [30-35] %.
+Accordingly, brand penetration and consequent brand loyalty appear to be working as
+entry barriers also for said FDFs.
+Jan Aushadhi and competition from generics
+50.
+
+The Acquirer has also made submissions on constraints from Jan Aushadhi program.
+As submitted, there is competition from outside the defined branded segment in the
+form of trade generics and unbranded generics available through schemes such as Jan
+Aushadhi. First and foremost, the brand penetration and brand loyalty examined above
+also implies lack of constraints from trade generics, unbranded generics and Jan
+Aushadhi. Further, as regards efficacy of constraints from Jan Aushadhi, the key is the
+extent of market being catered by the scheme. In this regard, the Acquirer has provided
+a report published by Kotak Institutional Equities which reads that ‘On a combined
+basis, Jan Aushadhi, trade generics and private generic pharmacy chains constitute
+~20% of total drug volumes in India.’ However, the report also notes that ‘despite
+improvement in the past few years, supply chain challenges within the Jan Aushadhi
+program still remain, and it remains critical to ensure the continuity of supplies amid
+the rapid store additions.’ Also, there is no specific submission made on constraints, if
+any, posed by Jan Aushadhi channel on the aforesaid FDFs, and in absence of the same,
+the submissions of the Parties remain general.
+Countervailing Buyer Power
+
+51.
+
+As submitted, large institutional buyers such as government agencies, large hospitals,
+and schemes like Jan Aushadhi procure FDFs in bulk through competitive tenders,
+where price is the principal selection criterion. In this regard, first and foremost, it
+needs to be noted that the consumers of trade channel and non-trade channel cannot be
+considered as belonging to the same market given their needs and modus operandi. The
+
+6
+
+https://www.1mg.com/drugs/nifizee-sr-20-tablet-824963
+Page 18 of 33
+
+Combination Registration No. C-2025/07/1299
+
+Acquirer has not made any submission on buyer power vested with the customers of
+non-trade channel to which the FDFs cater. Vide Response to SCN, it was submitted
+that countervailing buyer power exists across both the trade and non-trade channels.
+With respect to the non-trade channel, i.e., sales through the retail trade route (chemists,
+pharmacies, distributors), it is submitted that significant buyer power resides with
+stockists, large distributors, and pharmacy chains and that these entities procure in bulk
+from multiple suppliers and typically demand competitive margins, credit terms, and
+promotional support. The Commission observed that the submissions remained
+unsubstantiated and considering the nature of FDFs wherein the demand is primarily
+based on doctor prescription and there is an element of brand loyalty, the stockists etc.
+possessing buyer power to the extent that the concerns rooted in such significant
+presence as discussed above are mitigated appears highly unlikely.
+Price Controls
+52.
+
+As submitted, prices of drugs in India are regulated as per the provisions of DPCO,
+2013. The National Pharmaceutical Pricing Authority (NPPA) fixes ceiling prices of
+scheduled medicines specified in the First Schedule to DPCO, 2013. As per the
+provisions of DPCO, 2013, the ceiling prices of scheduled medicines are revised
+annually based on Wholesale Price Index (All commodities) for the preceding calendar
+year, on or before the 1st of April of every year. For non-scheduled formulations,
+including for non-scheduled anti-diabetic, anti-cancer and cardiovascular formulations,
+manufacturers are required to not increase MRP of drugs launched by them by more
+than 10% during the preceding 12 months.
+
+53.
+
+In this regard, the Commission notes that the aforesaid price caps may not always
+address the competition concerns which may be more wide ranging. Further, given the
+facts of the Proposed Combination, only one FDF i.e., Nifedipine and only one dosage
+form of Nifedipine (10 mg) is covered under the NLEM and the same also constitutes
+only 17% of the said FDF market and accordingly is not likely to fully address the
+competition concerns.
+Page 19 of 33
+
+Combination Registration No. C-2025/07/1299
+
+54.
+
+For the reasons set out in the preceding paragraphs, the Commission formed prima
+facie view that the Proposed Combination is likely to cause AAEC in the relevant
+markets as delineated hereinabove. However, as stated earlier, in the Response to SCN,
+on a without prejudice basis, the Parties proposed a Modification to address the prima
+facie concerns raised by the Commission. The Commission considered the
+Modification in terms of its adequacy to address the potential adverse impact of
+structural changes in the market resulting from the Proposed Combination.
+Analysis of Modification proposed by the Parties
+
+55.
+
+The Modification proposed by the Parties envisage:
+i.
+
+The Acquirer will license its Vizylac brand, comprising products containing
+Lactobacillus Acidophilus as a single strain FDF to an independent entity for a
+period of five (5) years from the date of such licence (Licence Period), for a lump
+sum licence fee, as agreed between the Acquirer and licensee [Lactobacillus
+Acidophilus Remedy].
+
+ii.
+
+The Acquirer will divest or procure the divestiture of all products containing
+Nifedipine which are currently marketed and supplied under the Calcigard brand,
+to a purchaser, on terms of sale approved by the Commission [Nifedipine
+Remedy].
+
+iii.
+
+The Acquirer commits to continue the marketing and sale of the Target’s Azovas
+brand. The Acquirer will voluntarily undertake to cap any price increases for
+Azovas at no more than 5% per annum for a period of three (3) years from the date
+of the order approving the Proposed Combination [Azelnidipine Remedy].
+
+56.
+
+The Commission observed that the Modification proposed is a mix of structural and
+behavioural remedies and includes licensing of a brand, divestiture of an FDF and price
+caps and continuation of marketing and sale of a brand. The Commission in this regard
+Page 20 of 33
+
+Combination Registration No. C-2025/07/1299
+
+noted that regardless of the type of modification, it needs to be examined in terms of
+its adequacy to address the competition concerns.
+57.
+
+The Commission noted that the extent of presence of the Parties and the impact on
+concentration levels for Lactobacillus Acidophilus and Nifedipine merit a proper
+structural remedy. The Parties proposal to divest all products containing Nifedipine
+implies elimination of overlap between the FDFs of the Parties containing Nifedipine
+and accordingly would ensure no adverse effect on competition in this product
+segment. As regards Lactobacillus Acidophilus, the operational dynamics are different.
+Vizylac brand is offered containing Lactobacillus Acidophilus as a single strain FDF
+and also in form of extension brands containing multi-strain or combination probiotic
+variants. However, the concerns of the Commission are limited to FDFs containing
+Lactobacillus Acidophilus as a single strain FDF. The principle of proportionality
+requires that any remedy imposed must be appropriate and no more onerous than
+necessary to resolve the identified competition concerns, and under the circumstances,
+complete divestiture of Vizylac brand is likely to be disproportionate. Accordingly, the
+Commission observed that licensing appears to be a proportionate remedy. The next
+question which arises in this regard is the period of licensing. The Parties have
+proposed a period of five (5) years and the Commission is of the view that the period
+appears reasonable to prevent any adverse effect of the Proposed Combination on
+market dynamics and allow the market dynamics to evolve with the changing
+landscape.
+
+58.
+
+As regards Azelnidipine, the market dynamics and the theory of potential harm is
+different. The Commission observed that the dynamics indicate a competitive market
+wherein the Parties combined share has decreased over time and IPCA Labs has grown
+significantly over the same period. In addition, there are other significant competitors
+as well. The limited concern of the Commission for Azelnidipine FDF relates to
+plausible lack of incentive on the part of the Parties to either maintain the marketing
+and sale of Target’s FDF containing Azelnidipine or to resort to a significant price
+increase if the FDF is continued to be marketed, as the same is ~ 13% cheaper than that
+of the Acquirer. Considering these concerns, a behavioural remedy as per which the
+Page 21 of 33
+
+Combination Registration No. C-2025/07/1299
+
+Parties undertake to continue the marketing and sale of the Target’s brand and also to
+cap any price increases for Azovas at no more than 5% per annum for a period of three
+(3) years from the date of the Order appears adequate and proportionate to address the
+competition concerns.
+59.
+
+Accordingly, considering the specific issues of adverse effect on competition for each
+FDF of concern and the corresponding remedy offered by the Parties as part of the
+Modification, the Commission is of the view that the Modification can be accepted and
+the Proposed Combination seen together with the Modification is not likely to raise
+AAEC concerns for any relevant market.
+
+60.
+
+Considering the material on record, details provided in the Notice, Response to SCN,
+factors provided under sub-section (4) of Section 20 of the Act and the Modification
+proposed by the Parties, the prima facie concerns of a likely AAEC as set out in the
+SCN have been addressed by the Acquirer. The Commission, thus, decided not to
+proceed further with the investigation.
+
+61.
+
+The Commission hereby approves the Proposed Combination under sub-section (1) of
+Section 31 of the Act, subject to the compliance of the Modification offered by the
+Parties under Regulation 25(4) of the Combination Regulations as a part of the
+Response to SCN.
+
+62.
+
+The Annexure containing the detailed terms and conditions of Modification is annexed
+to the order and shall form an integral part of the order.
+
+63.
+
+In carrying out the Modification, the Parties shall comply with the provisions of the
+Act, the Combination Regulations and the Competition Commission of India (General)
+Regulations 2024 (General Regulations).
+
+64.
+
+In case the Parties fail to comply with the Modification as provided in the Annexure,
+the Proposed Combination would be deemed to have caused AAEC in India and the
+Page 22 of 33
+
+Combination Registration No. C-2025/07/1299
+
+Parties shall render itself liable for being proceeded under the relevant provisions of
+the Act.
+65.
+
+This order may be revoked if, at any time, the information provided by the Parties is
+found to be incorrect.
+
+66.
+
+The information provided by the Parties shall be treated as confidential in terms of and
+subject to the provisions of Section 57 of the Act.
+
+67.
+
+The Secretary is directed to communicate to the Acquirer accordingly.
+
+Page 23 of 33
+
+Combination Registration No. C-2025/07/1299
+
+Annexure
+Modification
+A. PRODUCTS
+I.
+1.
+
+Lactobacillus Acidophilus (A07K02)
+
+The Acquirer will license its Vizylac brand, comprising products containing
+Lactobacillus Acidophilus as a single strain FDF to an independent entity for a period
+of five (5) years from the date of such licence (Licence Period), for a lump sum licence
+fee, as agreed between the Acquirer and licensee.
+
+2.
+
+During the Licence Period, the licensee will have exclusive rights to manufacture,
+market, distribute and sell Vizylac in India. In the event the licensee sources the
+Vizylac brand from a contract development and manufacturing organisation (CDMO),
+the licensee may do so either from the same CDMO that presently manufactures
+Vizylac for the Acquirer or such other CDMO, identified by the licensee and as
+mutually agreed between the Acquirer and the licensee. Upon expiry of the Licence
+Period, all rights in relation to the Vizylac brand will revert to the Acquirer.
+
+3.
+
+It is clarified that only the Vizylac brand (containing Lactobacillus Acidophilus as a
+single strain FDF) will be licensed and all extension brands (multi-strain or
+combination probiotic variants) will remain with the Acquirer.
+II.
+
+4.
+
+Nifedipine (C01D01)
+
+The Acquirer will divest or procure the divestiture of all products containing Nifedipine
+which are currently marketed and supplied under the Calcigard brand, to a purchaser,
+on terms of sale approved by the Commission.
+
+Page 24 of 33
+
+Combination Registration No. C-2025/07/1299
+
+5.
+
+The Acquirer will undertake the sale, transfer, assignment of all products containing
+Nifedipine as a single molecule FDF which are currently marketed and supplied under
+the Calcigard brand name by the Acquirer.
+
+6.
+
+The divestment will include associated rights, stocks, permits, distribution contracts,
+and other necessary assets to ensure continued economic viability and competitiveness
+of the Calcigard brand.
+(Hereinafter, Vizylac and Calcigard are collectively referred to as “Remedy
+Products”)
+III.
+
+7.
+
+Azelnidipine (C01D0E)
+
+The Acquirer commits to continue the marketing and sale of the Target’s Azovas brand.
+The Acquirer will voluntarily undertake to cap any price increases for Azovas at no
+more than 5% per annum for a period of three (3) years from the date of receipt of the
+Order (Effective Date).
+
+8.
+
+The Acquirer will ensure the manufacture of the two respective Azelnidipine products
+of the Parties to continue at the existing in-house facilities and will not consolidate
+manufacturing at a single facility.
+
+9.
+
+The Acquirer shall, on an annual basis (starting from the Effective Date), report in
+writing to the Commission on compliance of the modification proposed in relation to
+Azelnidipine. The report shall contain requisite details to substantiate the compliance
+of the modification.
+B. STRUCTURE OF THE REMEDY PRODUCTS
+
+10.
+
+The Remedy Products shall include:
+
+Page 25 of 33
+
+Combination Registration No. C-2025/07/1299
+
+(i)
+
+all tangible assets including but not limited to all raw materials, stocks, work in
+progress, and semi-finished and finished goods relating to the Remedy
+Products;
+
+(ii)
+
+intangible assets (including intellectual property rights (IPRs)) which
+contribute to the current operation or are necessary to ensure the economic
+viability, marketability and competitiveness of the Remedy Products;
+
+(iii)
+
+all licences, permits and authorisations (including marketing authorisations)
+issued by any governmental organisation, relating to the Remedy Products and
+all contracts, leases, commitments and customer orders, relating to the Remedy
+Products;
+
+(iv)
+
+all customer records, credit records and other records, relating to the Remedy
+Products; and
+
+(v)
+
+all information and know how (in whatever form held) to the extent that such
+information is related to the distribution of Remedy Products in India including,
+without limitation, all by way of either a full assignment or an exclusive,
+irrevocable, assignable, licence in the Remedy Products, as may be applicable.
+
+11.
+
+The Remedy Products shall not include:
+(i)
+
+any manufacturing facilities of the Acquirer;
+
+(ii)
+
+IPRs which do not contribute to the current operations and/or are not necessary
+to ensure the economic viability, marketability and competitiveness of the
+Remedy Products;
+
+(iii)
+
+books and records required to be retained pursuant to any statute, rule,
+regulation or ordinance, provided that an approved licensee / purchaser shall be
+entitled to obtain a copy of the same and shall be permitted access to the original
+of such books and records during normal business hours;
+
+(iv)
+
+general books of accounts and books of original entry that comprise the
+Acquirer’s permanent accounting or tax records;
+
+(v)
+
+monies owed to the Acquirer by customers for the licence / purchase of Remedy
+Products and monies owed by the Acquirer to suppliers for materials used in
+the production of the Remedy Products, or to suppliers for the production of the
+Remedy Products; and
+Page 26 of 33
+
+Combination Registration No. C-2025/07/1299
+
+(vi)
+
+the Acquirer’s names or logos in any form (except the logos and names
+pertaining to Remedy Products).
+C. PRESERVATION OF ECONOMIC VIABILITY, MARKETABILITY
+AND COMPETITIVENESS
+
+12.
+
+The Acquirer undertakes to preserve the economic viability, marketability, and
+competitiveness of the Remedy Products, in accordance with good business practice,
+and shall minimise as far as possible any risk of loss of competitive potential of the
+Remedy Products. In particular, the Acquirer undertakes to:
+(i)
+
+from the date of the Order and until the licence / sale of the Remedy Products,
+ensure that the applicable inclusions mentioned under the scope of the Remedy
+Products, shall remain intact to ensure their continued economic viability,
+marketability, and competitiveness; and
+
+(ii)
+
+not carry out any action that might have a significant adverse impact on the
+value, management, or competitiveness of the Remedy Products or that might
+alter the nature and scope of activity, or the industrial or commercial strategy
+of the Remedy Products.
+
+13.
+
+Until the licence / sale of the Remedy Products, the Acquirer shall maintain the
+operations of the Remedy Products in the regular and ordinary course of business and
+in accordance with past practices and shall use their best efforts to preserve the existing
+relationships with suppliers, vendors, customers, agencies, and others having business
+related to the Remedy Products.
+
+14.
+
+The Acquirer shall provide such reasonable transitional support for a period of six (6)
+months from the date of the transfer of the Remedy Products to the approved licensee
+/ purchaser to effectively implement the Modification offered in relation to the Remedy
+Products. This shall include the services, products, or support supplied by the Acquirer
+in relation to the Remedy Products under current arrangements, unless otherwise
+agreed with the approved licensee / purchaser.
+Page 27 of 33
+
+Combination Registration No. C-2025/07/1299
+
+D. APPOINTMENT OF HOLD SEPARATE MANAGER
+15.
+
+Within seven (7) days from the Effective Date, the Acquirer shall appoint a senior
+management level employee having sufficient experience in the operations and
+management of the Remedy Products who shall ensure that the economic viability,
+marketability and competitiveness of the Remedy Products are maintained till the
+completion of Modification as regards the Remedy Products (Hold Separate
+Manager). The Hold Separate Manager shall, on a quarterly basis (starting from the
+Effective Date), report in writing to the Monitoring Agency on economic viability,
+marketability and competitiveness of the Remedy Products. The Hold Separate
+Manager shall report immediately in writing to the Monitoring Agency of any failure
+on part of the Parties to comply with the Order. The Hold Separate Manager shall
+ensure that the quarterly report is submitted or any instance of failure on the part of the
+Parties is informed to the Commission immediately until the Monitoring Agency is
+appointed. The Hold Separate Manager shall also be the nodal officer who shall act as
+the single point of contact for supervising the licence / divestment process.
+E. APPROVED PURCHASER(S) CONDITIONS
+
+16.
+
+The potential licensee / purchaser of the Remedy Products proposed by the Acquirer
+shall meet the following requirements (“Licensee / Purchaser Requirements”):
+(i)
+
+be independent of the Parties;
+
+(ii)
+
+have the financial resources, proven expertise, manufacturing capability or
+ability to outsource manufacturing and incentive to maintain and develop the
+Remedy Products as a viable and active competitor to the Parties in the relevant
+markets;
+
+(iii)
+
+be a company active in the sales and marketing of pharmaceutical products in
+India; and
+
+(iv)
+
+neither be likely to create, in the light of the information available to the
+Commission, prima facie competition concerns nor give rise to a risk that the
+implementation of the Order will be delayed, and must, in particular, reasonably
+Page 28 of 33
+
+Combination Registration No. C-2025/07/1299
+
+be expected to obtain all necessary approvals from the relevant regulatory
+authorities for the acquisition of the Remedy Products.
+17.
+
+It is clarified that the existence of ordinary-course commercial or financial transactions
+between the Parties and any otherwise independent entity, such as arm’s-length supply,
+distribution, or service arrangements, etc. shall not, by itself, render such entity
+ineligible to licence or acquire the Remedy Products.
+F. MODE OF SELECTION OF THE APPROVED LICENSEE /
+PURCHASER
+
+18.
+
+The licensee / purchaser, as the case may be, will be identified through a structured and
+transparent process, ensuring that only qualified and credible parties are considered.
+The Acquirer will engage with potential licensees / purchasers meeting the above
+requirements and seek the Commission’s prior approval of the final licensee /
+purchaser.
+
+19.
+
+The potential licensees / purchasers will be given access to sufficient information to
+conduct reasonable due diligence on the Remedy Products. This may include
+commercial, regulatory, and operational details necessary to assess the viability of the
+Remedy Products. To safeguard confidentiality, such access will be subject to
+execution of appropriate confidentiality agreements.
+G. NEGOTIATION AND EXECUTION OF SALE / TRANSFER/ LICENSE
+AGREEMENTS
+
+20.
+
+In respect of Vizylac, the Acquirer will enter into a licensing arrangement with the
+licensee granting an exclusive licence to manufacture, market, distribute, and sell
+Vizylac in India. In the event, the licensee will source the Remedy Product from a
+CDMO, the licensee may do so either from the same CDMO that presently
+manufactures Vizylac for the Acquirer or such other CDMO identified by the licensee
+and as mutually agreed between the Acquirer and the licensee. It is further clarified
+Page 29 of 33
+
+Combination Registration No. C-2025/07/1299
+
+that only the Vizylac mother brand (single strain Lactobacillus Acidophilus) will be
+licensed, while all extension and multi strain variants of Vizylac shall remain with the
+Acquirer. The licensing arrangement will also provide that upon the expiry of the
+Licence Period, all rights, title, and interest in the Vizylac brand shall automatically
+revert to the Acquirer.
+21.
+
+In respect of Calcigard, the Acquirer will execute an agreement transferring all relevant
+brand rights, licences, permits, distribution arrangements, and associated assets to an
+independent purchaser, ensuring continued economic viability and competitiveness of
+the Calcigard brand.
+
+22.
+
+All agreements, whether by way of licence (for Vizylac) or sale (for Calcigard), will
+set out detailed rights and obligations of the parties, transitional support provisions,
+assignment of regulatory approvals, and timelines for completion.
+
+23.
+
+It is clarified that each final and binding licence / sale and purchase agreement(s) shall
+be conditional on the Commission’s approval and will take effect only upon such
+approval being granted.
+H. NO ACQUISITION OF INFLUENCE
+
+24.
+
+The Parties shall, for a period of five (5) years from the Effective Date, not acquire
+direct or indirect influence over the whole or part of the Remedy Products.
+I. LICENCE / DIVESTITURE PERIOD
+
+25.
+
+The Acquirer undertakes to complete the licence / divestment process within a period
+of ----------- ----------- -------------- ----------- ----------- ------------ ---------- --------- ------------ ------------------ -------------------- ------------- ------------- ----------- ------- - -------- -- ------ -- --- ----------- This constitutes the ‘First Divestiture Period’.
+
+Page 30 of 33
+
+Combination Registration No. C-2025/07/1299
+
+26.
+
+In the event that the Remedy Products are not licensed and/or divested within the First
+Divestiture Period, the Acquirer undertakes that such products shall be transferred to
+an independent third-party agency (Divestiture Agency), to be appointed by the
+Commission which shall have full authority to divest the Remedy Products on terms it
+deems appropriate. This constitutes the ‘Second Divestiture Period’.
+
+27.
+
+During the Second Divestiture Period, the Divestiture Agency shall have the right and
+authority to sell the Remedy Product(s) at no minimum price, and the divestiture shall
+not be implemented by the Divestiture Agency until and unless the Commission has
+approved the purchaser and the terms of sale and purchase agreement(s) as proposed
+by the Divestiture Agency. A copy of the divestiture agency agreement(s) shall be
+provided to the Acquirer, and the Acquirer shall use their best efforts to facilitate the
+Divestiture Agency, in the performance of its duties and obligations, as provided in the
+Divestiture Agency Agreement.
+
+28.
+
+In the event the Commission appoints a Divestiture Agency, the Parties must, within
+the period prescribed by the Commission, grant a comprehensive and duly executed
+power of attorney in favour of the Divestiture Agency to effect the sale of Remedy
+Product(s) and all actions and declarations which the Divestiture Agency considers
+necessary or appropriate for achieving the sale of Remedy Product(s), including the
+power to appoint advisors to assist with the sale process. The power of attorney shall
+include the authority to grant sub-powers and the Divestiture Agency shall be given
+the sole authority to sell the Remedy Product(s).
+J. MONITORING ARRANGEMENTS
+
+29.
+
+The Commission shall, under Regulation 27 of the Combination Regulations, appoint
+an independent agency as Monitoring Agency in terms of the General Regulations, for
+the purpose of, inter alia, supervision of the Modification.
+
+30.
+
+The Monitoring Agency shall undertake such functions as may be directed by the
+Commission, which shall, inter alia, include the following functions:
+Page 31 of 33
+
+Combination Registration No. C-2025/07/1299
+
+(i)
+
+Overseeing the on-going management of the Remedy Products with a view to
+ensure its continued economic viability, marketability and competitiveness and
+monitor compliance by the Parties;
+
+(ii)
+
+Propose such measures to the Parties as the Monitoring Agency considers
+necessary to ensure Parties’ compliance with the Order;
+
+(iii)
+
+Review and assess potential purchasers as well as the progress of the licence /
+divestment process and verify that at each stage of the licence / divestment
+process, potential purchasers receive sufficient information relating to the
+Remedy Products and submit its recommendations as regards the suitability of
+the purchaser proposed by the Parties;
+
+(iv)
+
+Submit to the Commission a written report within fifteen (15) days after the end
+of every three (3) months, which shall cover the progress of the compliance by
+the Parties with the voluntary modifications provided in the Order. A nonconfidential copy of the said report will be provided to the Parties;
+
+(v)
+
+Report immediately in writing to the Commission of any failure on the part of
+the Parties to comply with the Order; and
+
+(vi)
+31.
+
+Assume other functions assigned, under the monitoring agency agreement.
+
+The Parties shall provide and cause their advisors to provide the Monitoring Agency
+with such cooperation, assistance and information as the Monitoring Agency may
+reasonably require to perform its tasks.
+
+32.
+
+The Monitoring Agency shall have full and complete access to any of the books,
+records, documents, management or other personnel and technical information
+necessary for fulfilling its duties, to the extent the Parties can provide such access under
+applicable law. The Parties shall provide the Monitoring Agency with copies of any
+document required by the Monitoring Agency, as available with the Parties, upon
+request. Further, if required, the Parties shall make available one or more offices on
+their premises to the Monitoring Agency and provide the Monitoring Agency with all
+necessary information for the performance of their tasks, through meetings. The Parties
+Page 32 of 33
+
+Combination Registration No. C-2025/07/1299
+
+shall provide the Monitoring Agency with the managerial and administrative support
+that it may reasonably request.
+33.
+
+Upon request, the Parties shall cause its advisors to provide the Monitoring Agency,
+with the information for reviewing the relevant documentation, information
+memorandum and in particular, give the Monitoring Agency access to all other
+information in the due diligence procedure, and keep the Monitoring Agency informed
+of all developments in the process.
+
+34.
+
+The Parties shall indemnify the Monitoring Agency, its employees and agents and
+Divestiture Agency and its employees and agents and hold each of them harmless
+against any liabilities arising directly out of the performance of their duties under the
+Order, except to the extent that such liabilities result from the wilful default,
+recklessness, gross negligence or bad faith of the Monitoring Agency and/or
+Divestiture Agency, respectively.
+
+35.
+
+The payment to the Monitoring Agency shall be made by the Acquirer.
+
+Page 33 of 33
+
+
