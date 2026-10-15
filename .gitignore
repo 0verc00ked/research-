@@ -1,0 +1,10 @@
+.env
+.env.*
+*.key
+sources/raw/
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
+.pytest_cache/
+trial_log.db

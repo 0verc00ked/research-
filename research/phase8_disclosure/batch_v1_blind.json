@@ -1,0 +1,702 @@
+[
+  {
+    "id": 0,
+    "scrip_name": "Indian Renewable Energy Development Agency Ltd",
+    "nse_symbol": "IREDA",
+    "category": "Insider Trading / SAST",
+    "subcategory": "A",
+    "news_subject": "Indian Renewable Energy Development Agency Ltd - 544026 - Closure of Trading Window",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 1,
+    "scrip_name": "GE Vernova T&D India Ltd",
+    "nse_symbol": "GVT&D",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "GE Vernova T&D India Ltd - 522275 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 2,
+    "scrip_name": "Vishal Mega Mart Ltd",
+    "nse_symbol": "VMM",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Vishal Mega Mart Ltd - 544307 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 3,
+    "scrip_name": "Container Corporation of India Ltd",
+    "nse_symbol": "CONCOR",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Container Corporation of India Ltd - 531344 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 4,
+    "scrip_name": "Federal Bank Ltd",
+    "nse_symbol": "FEDERALBNK",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Federal Bank Ltd - 500469 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 5,
+    "scrip_name": "Indusind Bank Ltd",
+    "nse_symbol": "INDUSINDBK",
+    "category": "Board Meeting",
+    "subcategory": "A",
+    "news_subject": "Indusind Bank Ltd - 532187 - Board Meeting Intimation for Board Meeting Intimation For Approval Of The Audited Consolidated And Standalone Financial Results Of The Bank For The Quarter And Financial Year Ended March 31, 2026, And Recommendation Of Dividend, If Any, For The Financial Year 2025-26.",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 6,
+    "scrip_name": "Prestige Estates Projects Ltd",
+    "nse_symbol": "PRESTIGE",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Prestige Estates Projects Ltd - 533274 - Operational Update For The Quarter And Year Ended March 31, 2026.",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 7,
+    "scrip_name": "Rail Vikas Nigam Ltd",
+    "nse_symbol": "RVNL",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Rail Vikas Nigam Ltd - 542649 - Execution Of Strategic Joint Venture Shareholders' Agreement With Texmaco Rail & Engineering Limited",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 8,
+    "scrip_name": "Marico Ltd",
+    "nse_symbol": "MARICO",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Marico Ltd - 531642 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 9,
+    "scrip_name": "JSW Energy Ltd",
+    "nse_symbol": "JSWENERGY",
+    "category": "Insider Trading / SAST",
+    "subcategory": "A",
+    "news_subject": "JSW Energy Ltd - 533148 - Closure of Trading Window",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 10,
+    "scrip_name": "Yes Bank Ltd",
+    "nse_symbol": "YESBANK",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Yes Bank Ltd - 532648 - Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 11,
+    "scrip_name": "JSW Energy Ltd",
+    "nse_symbol": "JSWENERGY",
+    "category": "AGM/EGM",
+    "subcategory": "A",
+    "news_subject": "JSW Energy Ltd - 533148 -  Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 12,
+    "scrip_name": "Biocon Ltd",
+    "nse_symbol": "BIOCON",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Biocon Ltd - 532523 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 13,
+    "scrip_name": "Vodafone Idea Ltd",
+    "nse_symbol": "IDEA",
+    "category": NaN,
+    "subcategory": "A",
+    "news_subject": "Vodafone Idea Ltd - 532822 - Rumour verification - Regulation 30(11)",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 14,
+    "scrip_name": "Indian Railway Catering and Tourism Corporation Ltd",
+    "nse_symbol": "IRCTC",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Indian Railway Catering and Tourism Corporation Ltd - 542830 - Disclosure Of ESG Rating By NSE Sustainability Ratings & Analytics Limited.",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 15,
+    "scrip_name": "Bharat Forge Ltd",
+    "nse_symbol": "BHARATFORG",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Bharat Forge Ltd - 500493 - Announcement under Regulation 30 (LODR)-Acquisition",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 16,
+    "scrip_name": "KEI Industries Ltd",
+    "nse_symbol": "KEI",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "KEI Industries Ltd - 517569 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 17,
+    "scrip_name": "Tube Investments of India Ltd",
+    "nse_symbol": "TIINDIA",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Tube Investments of India Ltd - 540762 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 18,
+    "scrip_name": "JSW Energy Ltd",
+    "nse_symbol": "JSWENERGY",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "JSW Energy Ltd - 533148 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 19,
+    "scrip_name": "Alkem Laboratories Ltd",
+    "nse_symbol": "ALKEM",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Alkem Laboratories Ltd - 539523 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 20,
+    "scrip_name": "Alkem Laboratories Ltd",
+    "nse_symbol": "ALKEM",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Alkem Laboratories Ltd - 539523 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 21,
+    "scrip_name": "Motilal Oswal Financial Services Ltd",
+    "nse_symbol": "MOTILALOFS",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Motilal Oswal Financial Services Ltd - 532892 - Approval Of Request Received For Reclassification From Promoter Group Category To The Public Category",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 22,
+    "scrip_name": "Rail Vikas Nigam Ltd",
+    "nse_symbol": "RVNL",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Rail Vikas Nigam Ltd - 542649 - Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 23,
+    "scrip_name": "Indusind Bank Ltd",
+    "nse_symbol": "INDUSINDBK",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Indusind Bank Ltd - 532187 - Half-Yearly Statement Containing Details Of Debt Securities As On March 31, 2026",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 24,
+    "scrip_name": "Persistent Systems Ltd",
+    "nse_symbol": "PERSISTENT",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Persistent Systems Ltd - 533179 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 25,
+    "scrip_name": "Dabur India Ltd",
+    "nse_symbol": "DABUR",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Dabur India Ltd - 500096 - Disclosure Under Regulation 30 Of The SEBI Listing Regulations- ESG Rating Assigned By NSE Sustainability Ratings & Analytics Limited",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 26,
+    "scrip_name": "Max Financial Services Ltd",
+    "nse_symbol": "MFSL",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Max Financial Services Ltd - 500271 - Disclosure Under Regulation 30 Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Retirement On Completion Of Tenure Of Independent Director Of The Company",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 27,
+    "scrip_name": "Indusind Bank Ltd",
+    "nse_symbol": "INDUSINDBK",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Indusind Bank Ltd - 532187 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 28,
+    "scrip_name": "PB Fintech Ltd",
+    "nse_symbol": "POLICYBZR",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "PB Fintech Ltd - 543390 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 29,
+    "scrip_name": "Jubilant FoodWorks Ltd",
+    "nse_symbol": "JUBLFOOD",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Jubilant FoodWorks Ltd - 533155 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 30,
+    "scrip_name": "Aurobindo Pharma Ltd",
+    "nse_symbol": "AUROPHARMA",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Aurobindo Pharma Ltd - 524804 - Expanding Existing CMO Operations With Merck Sharpe & Dohme Singapore Trading Pte. Ltd  By Theranym Biologics Private Limited, A Subsidiary Of The Company .",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 31,
+    "scrip_name": "Oil India Ltd",
+    "nse_symbol": "OIL",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Oil India Ltd - 533106 - Clarification / Confirmation On News Item Appearing In \"Https://Www.Thehindu.Com\"",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 32,
+    "scrip_name": "Fortis Healthcare Ltd",
+    "nse_symbol": "FORTIS",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Fortis Healthcare Ltd - 532843 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 33,
+    "scrip_name": "Lupin Ltd",
+    "nse_symbol": "LUPIN",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Lupin Ltd - 500257 - Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 34,
+    "scrip_name": "IDFC First Bank Ltd",
+    "nse_symbol": "IDFCFIRSTB",
+    "category": "Result",
+    "subcategory": "A",
+    "news_subject": "IDFC First Bank Ltd - 539437 - Financial Results For Quarter Ended December 31, 2025",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 35,
+    "scrip_name": "Federal Bank Ltd",
+    "nse_symbol": "FEDERALBNK",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Federal Bank Ltd - 500469 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 36,
+    "scrip_name": "KPIT Technologies Ltd",
+    "nse_symbol": "KPITTECH",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "KPIT Technologies Ltd - 542651 - Announcement Under Regulation 30 (LODR) - Update On Request Received From Promoters On Reclassification",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 37,
+    "scrip_name": "Info Edge (India) Ltd",
+    "nse_symbol": "NAUKRI",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Info Edge (India) Ltd - 532777 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 38,
+    "scrip_name": "Oberoi Realty Ltd",
+    "nse_symbol": "OBEROIRLTY",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Oberoi Realty Ltd - 533273 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 39,
+    "scrip_name": "Max Financial Services Ltd",
+    "nse_symbol": "MFSL",
+    "category": "Insider Trading / SAST",
+    "subcategory": "A",
+    "news_subject": "Max Financial Services Ltd - 500271 - Closure of Trading Window",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 40,
+    "scrip_name": "LG Electronics India Ltd",
+    "nse_symbol": "LGEINDIA",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "LG Electronics India Ltd - 544576 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 41,
+    "scrip_name": "Vishal Mega Mart Ltd",
+    "nse_symbol": "VMM",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Vishal Mega Mart Ltd - 544307 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 42,
+    "scrip_name": "MRF Ltd",
+    "nse_symbol": "MRF",
+    "category": "AGM/EGM",
+    "subcategory": "A",
+    "news_subject": "MRF Ltd - 500290 -  Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 43,
+    "scrip_name": "Biocon Ltd",
+    "nse_symbol": "BIOCON",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Biocon Ltd - 532523 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 44,
+    "scrip_name": "Radico Khaitan Ltd",
+    "nse_symbol": "RADICO",
+    "category": "Corp Action",
+    "subcategory": "A",
+    "news_subject": "Radico Khaitan Ltd - 532497 - Corporate Action-Board approves Dividend",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 45,
+    "scrip_name": "Supreme Industries Ltd",
+    "nse_symbol": "SUPREMEIND",
+    "category": "Insider Trading / SAST",
+    "subcategory": "A",
+    "news_subject": "Supreme Industries Ltd - 509930 - Closure of Trading Window",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 46,
+    "scrip_name": "Indian Railway Catering and Tourism Corporation Ltd",
+    "nse_symbol": "IRCTC",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Indian Railway Catering and Tourism Corporation Ltd - 542830 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 47,
+    "scrip_name": "Astral Ltd",
+    "nse_symbol": "ASTRAL",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Astral Ltd - 532830 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 48,
+    "scrip_name": "Aditya Birla Capital Ltd",
+    "nse_symbol": "ABCAPITAL",
+    "category": "Company Update",
+    "subcategory": "A",
+    "news_subject": "Aditya Birla Capital Ltd - 540691 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  },
+  {
+    "id": 49,
+    "scrip_name": "Ashok Leyland Ltd",
+    "nse_symbol": "ASHOKLEY",
+    "category": "Insider Trading / SAST",
+    "subcategory": "A",
+    "news_subject": "Ashok Leyland Ltd - 500477 - Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+    "classification": {
+      "materiality": null,
+      "direction": null,
+      "confidence": null,
+      "reasoning": null
+    }
+  }
+]

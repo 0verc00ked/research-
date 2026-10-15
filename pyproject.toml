@@ -1,0 +1,60 @@
+[project]
+name = "agent-trader"
+version = "0.0.1"
+description = "LLM-as-analyst + rules-as-trader for NSE/BSE. India, low capital, SEBI-compliant."
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "pydantic>=2.7",
+    "structlog>=24.1",
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "python-dateutil>=2.9",
+    "pytz>=2024.1",
+    "httpx>=0.27",
+    "scipy>=1.17.1",
+    "yfinance>=1.3.0",
+    "hmmlearn>=0.3.3",
+    "statsmodels>=0.14.6",
+]
+
+[project.optional-dependencies]
+llm = [
+    "anthropic>=0.40",
+    "google-generativeai>=0.8",
+]
+backtest = [
+    "vectorbt>=0.26",
+]
+prod = [
+    "nautilus-trader>=1.200",
+]
+data = [
+    "pyqlib>=0.9",
+    "kiteconnect>=5.0",
+]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "ruff>=0.5",
+    "mypy>=1.10",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["agent_trader", "strategies"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra -q"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]
